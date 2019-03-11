@@ -18,7 +18,7 @@ const utils = require('./utils');
 
   // extract only the attributes we need for our prediction script and format them accordingly
   let charsFmt = characters
-    .filter(c => c.dateOfBirth !== undefined)
+    .filter(c => c.dateOfBirth !== undefined && (c.dateOfDeath === undefined || c.dateOfDeath - c.dateOfBirth >= 0))
     .map(c => ({
       name: c.name,
       books: utils.arrToIndices(c.books, books),
@@ -36,6 +36,10 @@ const utils = require('./utils');
   const numAlive = (await utils.writeOutputData('ml-data/chars-to-predict', charsFmt.filter(c => c.dateOfDeath === undefined))).length;
   const numDead = (await utils.writeOutputData('ml-data/chars-to-train', charsFmt.filter(c => c.dateOfDeath !== undefined))).length;
 
+  // extract age information
+  const ages = charsFmt.filter(c => c.dateOfDeath !== undefined).map(c => c.dateOfDeath - c.dateOfBirth);
+  const ageAverage = ages.reduce((a, b) => a + b, 0) / ages.length;
+
   // output some final statistics
   console.log(`characters    : ${charsFmt.length} (${numAlive} alive, ${numDead} dead)`);
   console.log('books         :', books.length);
@@ -45,5 +49,5 @@ const utils = require('./utils');
   console.log('houses        :', houses.length);
   console.log(`date of birth : ${utils.minAttr(charsFmt, 'dateOfBirth')} – ${utils.maxAttr(charsFmt, 'dateOfBirth')}`);
   console.log(`date of death : ${utils.minAttr(charsFmt, 'dateOfDeath')} – ${utils.maxAttr(charsFmt, 'dateOfDeath')}`);
-  console.log('maximum age   :', Math.max(...charsFmt.filter(c => c.dateOfDeath !== undefined).map(c => c.dateOfDeath - c.dateOfBirth)));
+  console.log(`age           : maximum ${Math.max(...ages)}, average ${ageAverage}`);
 })();
