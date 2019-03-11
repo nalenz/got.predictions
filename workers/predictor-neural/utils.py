@@ -34,3 +34,7 @@ def extendAttrRanges(a, b):
 def readMLDataFile(name):
   with open(os.path.join(dirname, "../formatter/output/ml-data/" + name + ".json"), "r") as f:
     return json.load(f)
+
+def writeJSON(name, obj):
+  with open(os.path.join(dirname, "output/" + name + ".json"), "w") as f:
+    json.dump(obj, f)
