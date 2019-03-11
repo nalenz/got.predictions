@@ -1,0 +1,29 @@
+{
+  "name": "js2019-groupb-got-predictions",
+  "version": "1.0.0",
+  "description": "Predicting the likelihood of death and longevity for characters in Game of Thrones.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nalenz/got.predictions.git"
+  },
+  "author": "nalenz,robertdillitz,valentindimov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nalenz/got.predictions/issues"
+  },
+  "homepage": "https://github.com/nalenz/got.predictions#readme",
+  "devDependencies": {
+    "eslint": "^5.15.1",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "prettier": "^1.16.4"
+  },
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "path": "^0.12.7"
+  }
+}

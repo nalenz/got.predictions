@@ -1,0 +1,9 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false,
+  "eslint.options": { "configFile": ".eslintrc.json" },
+  "eslint.nodePath": "node_modules/.bin/eslint",
+  "prettier.eslintIntegration": true,
+  "eslint.autoFixOnSave": true,
+}
