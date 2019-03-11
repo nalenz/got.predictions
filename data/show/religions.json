@@ -1,0 +1,275 @@
+[
+    {
+        "center": "Godswoods",
+        "clergy": "",
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/c/cf/Winterfell_Godswood.jpg/revision/latest/scale-to-width-down/350?cb=20110302144610",
+        "leaders": [],
+        "locations": [
+            "The North",
+            "Beyond the Wall",
+            "Westeros"
+        ],
+        "name": "Old Gods of the Forest",
+        "slug": "Old_Gods_of_the_Forest",
+        "type": [
+            "Polytheistic",
+            "Animistic",
+            "Henotheistic"
+        ]
+    },
+    {
+        "center": "Starry Sept",
+        "clergy": "SeptonsSeptas",
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/c/cb/Seven_Pointed_Star.jpg/revision/latest/scale-to-width-down/350?cb=20140401042838",
+        "leaders": [
+            "High Septon"
+        ],
+        "locations": [
+            "Seven Kingdoms"
+        ],
+        "name": "Faith of the Seven",
+        "slug": "Faith_of_the_Seven",
+        "type": [
+            "Monotheism"
+        ]
+    },
+    {
+        "center": null,
+        "clergy": "Drowned Men",
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/3/38/DrownedGod.jpg/revision/latest/scale-to-width-down/350?cb=20160716023701",
+        "leaders": [],
+        "locations": [
+            "The Iron Islands",
+            "Braavos",
+            "Many-Faced God",
+            "King's Landing"
+        ],
+        "name": "Drowned God",
+        "slug": "Drowned_God",
+        "type": [
+            "Monolatristic"
+        ]
+    },
+    {
+        "center": null,
+        "clergy": null,
+        "leaders": [],
+        "locations": [],
+        "name": "Lord of Light",
+        "slug": "Lord_of_Light",
+        "type": []
+    },
+    {
+        "center": null,
+        "clergy": null,
+        "leaders": [],
+        "locations": [
+            "Norvos",
+            "Free Cities"
+        ],
+        "name": "Bearded Priests of Norvos",
+        "slug": "Bearded_Priests_of_Norvos",
+        "type": [
+            "Monotheistic"
+        ]
+    },
+    {
+        "center": null,
+        "clergy": null,
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/3/37/Black_Goat_of_Qohor_Many-Faced_God_Histories_and_Lore.png/revision/latest/scale-to-width-down/350?cb=20170130034339",
+        "leaders": [],
+        "locations": [
+            "Qohor",
+            "Free Cities"
+        ],
+        "name": "Black Goat of Qohor",
+        "slug": "Black_Goat_of_Qohor",
+        "type": [
+            "Monotheistic"
+        ]
+    },
+    {
+        "center": null,
+        "clergy": "Faceless Men",
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/4/4c/Many-Faced_God_Histories_and_Lore.png/revision/latest/scale-to-width-down/350?cb=20170130033714",
+        "leaders": [],
+        "locations": [
+            "Valyria",
+            "Braavos"
+        ],
+        "name": "Many-Faced God",
+        "slug": "Many-Faced_God",
+        "type": [
+            "Syncretic",
+            "monotheism"
+        ]
+    },
+    {
+        "center": null,
+        "clergy": "",
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/c/c9/Moonsingers%27_Braavosi_temple.png/revision/latest/scale-to-width-down/350?cb=20161121223707",
+        "leaders": [],
+        "locations": [
+            "Braavos",
+            "Free Cities"
+        ],
+        "name": "Moonsingers",
+        "slug": "Moonsingers",
+        "type": []
+    },
+    {
+        "center": null,
+        "clergy": null,
+        "leaders": [],
+        "locations": [
+            "Valyrian Freehold",
+            "Essos"
+        ],
+        "name": "Valyrian religion",
+        "slug": "Valyrian_religion",
+        "type": [
+            "Polytheistic"
+        ]
+    },
+    {
+        "center": null,
+        "clergy": "Graces",
+        "leaders": [],
+        "locations": [
+            "Slaver's Bay"
+        ],
+        "name": "Ghiscari religion",
+        "slug": "Ghiscari_religion",
+        "type": []
+    },
+    {
+        "center": "Vaes Dothrak",
+        "clergy": "Dosh khaleen",
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/0/0d/Dothrakhorses.jpg/revision/latest/scale-to-width-down/350?cb=20150924094615",
+        "leaders": [
+            "Dosh khaleen"
+        ],
+        "locations": [
+            "Dothraki Sea"
+        ],
+        "name": "Great Stallion",
+        "slug": "Great_Stallion",
+        "type": [
+            "Henotheistic"
+        ]
+    },
+    {
+        "center": null,
+        "clergy": "Godswives",
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/e/e4/GreatShepherd.jpg/revision/latest/scale-to-width-down/350?cb=20140121213117",
+        "leaders": [],
+        "locations": [
+            "Lhazar"
+        ],
+        "name": "Great Shepherd",
+        "slug": "Great_Shepherd",
+        "type": [
+            "Monotheistic"
+        ]
+    },
+    {
+        "center": null,
+        "clergy": null,
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/a/a3/Lion_of_Night_Many-Faced_God_Histories_and_Lore.png/revision/latest/scale-to-width-down/350?cb=20160307061812",
+        "leaders": [],
+        "locations": [
+            "Yi Ti"
+        ],
+        "name": "Lion of Night",
+        "slug": "Lion_of_Night",
+        "type": [
+            "Ditheistic"
+        ]
+    },
+    {
+        "center": null,
+        "clergy": null,
+        "leaders": [],
+        "locations": [],
+        "name": "Maiden-Made-of-Light",
+        "slug": "Maiden-Made-of-Light",
+        "type": []
+    },
+    {
+        "center": null,
+        "clergy": null,
+        "leaders": [],
+        "locations": [
+            "Essos"
+        ],
+        "name": "Bakkalon",
+        "slug": "Bakkalon",
+        "type": [
+            "Monotheistic"
+        ]
+    },
+    {
+        "center": null,
+        "clergy": null,
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/b/b9/Weeping_Woman_Many_Faced_God_Histories_and_Lore.png/revision/latest/scale-to-width-down/350?cb=20170130034628",
+        "leaders": [],
+        "locations": [
+            "Lys"
+        ],
+        "name": "Weeping Woman",
+        "slug": "Weeping_Woman",
+        "type": [
+            "Monotheistic"
+        ]
+    },
+    {
+        "center": null,
+        "clergy": null,
+        "leaders": [],
+        "locations": [
+            "Essos"
+        ],
+        "name": "Hooded Wayfarer",
+        "slug": "Hooded_Wayfarer",
+        "type": [
+            "Monotheistic"
+        ]
+    },
+    {
+        "center": null,
+        "clergy": null,
+        "leaders": [],
+        "locations": [
+            "Essos"
+        ],
+        "name": "Moon-Pale Maiden",
+        "slug": "Moon-Pale_Maiden",
+        "type": [
+            "Monotheistic"
+        ]
+    },
+    {
+        "center": null,
+        "clergy": null,
+        "leaders": [],
+        "locations": [
+            "Essos"
+        ],
+        "name": "Merling King",
+        "slug": "Merling_King",
+        "type": [
+            "Monotheistic"
+        ]
+    },
+    {
+        "center": null,
+        "clergy": null,
+        "leaders": [],
+        "locations": [
+            "Summer Islands"
+        ],
+        "name": "Summer Islands religion",
+        "slug": "Summer_Islands_religion",
+        "type": []
+    }
+]

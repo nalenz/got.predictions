@@ -1,0 +1,35 @@
+{
+    "actor": "Sean Bean ~ Season 1<br>Sebastian Croft ~ Season 6 (Younger Eddard)<br>Robert Aramayo ~ Season 6 | Season 7 (Young Eddard)",
+    "allegiance": [
+        "House Stark"
+    ],
+    "books": [
+        "The World of Ice &amp; Fire",
+        "A Game of Thrones",
+        "A Clash of Kings",
+        "A Storm of Swords",
+        "A Feast for Crows",
+        "A Dance with Dragons",
+        "The Winds of Winter"
+    ],
+    "culture": "Northmen",
+    "dateOfBirth": "263",
+    "dateOfDeath": "299",
+    "house": "House Stark",
+    "imageLink": "/images/0/0a/Eddard_Amoka.jpg",
+    "male": true,
+    "name": "Eddard Stark",
+    "placeOfBirth": "Winterfell",
+    "placeOfDeath": "Sept of Baelor in King&apos;s Landing",
+    "slug": "Eddard_Stark",
+    "spouse": [
+        "Lady Catelyn Tully"
+    ],
+    "titles": [
+        "Lord of Winterfell",
+        "Warden of the North",
+        "Hand of the King",
+        "Protector of the Realm",
+        "Lord Regent"
+    ]
+}
