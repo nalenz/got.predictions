@@ -22,7 +22,7 @@ function createSetFromAttr(arr, attr) {
 // convert an array of actual values to indices in a base array, while eliminating invalid ones, e.g.
 // arrToIndices(["a","b","a","c","c","d"], ["a","b","c"])  ==  [1,2,1,3,3]
 function arrToIndices(arr, base) {
-  return (arr || []).map(x => base.indexOf(x)).filter(x => x !== -1);
+  return (arr || []).map(x => base.indexOf(x.toLowerCase())).filter(x => x !== -1);
 }
 
 function minAttr(arr, attr) {

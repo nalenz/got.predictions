@@ -1,10 +1,9 @@
 const utils = require('./utils');
 
 (async () => {
-  const [characters, characterLocations, cultures, houses] = await Promise.all([
+  const [characters, characterLocations, houses] = await Promise.all([
     utils.loadBookData('characters'),
     utils.loadBookData('character_locations'),
-    utils.loadBookData('cultures'),
     utils.loadBookData('houses'),
   ]);
 
@@ -22,11 +21,10 @@ const utils = require('./utils');
     .map(c => ({
       name: c.name,
       books: utils.arrToIndices(c.books, books),
-      culture: cultures.findIndex(c => c.name === c.culture),
       dateOfBirth: c.dateOfBirth,
       dateOfDeath: c.dateOfDeath,
       house: houses.findIndex(h => h.name === c.house),
-      locations: utils.arrToIndices(c.locations, locations),
+      locations: utils.arrToIndices((characterLocations.find(cl => cl.name === c.name) || {}).locations, locations),
       male: c.male,
       pageRank: (c.pageRank || 0) / maxPageRank,
       titles: utils.arrToIndices(c.titles, titles),
@@ -45,7 +43,6 @@ const utils = require('./utils');
   console.log('books         :', books.length);
   console.log('locations     :', locations.length);
   console.log('titles        :', titles.length);
-  console.log('cultures      :', cultures.length);
   console.log('houses        :', houses.length);
   console.log(`date of birth : ${utils.minAttr(charsFmt, 'dateOfBirth')} – ${utils.maxAttr(charsFmt, 'dateOfBirth')}`);
   console.log(`date of death : ${utils.minAttr(charsFmt, 'dateOfDeath')} – ${utils.maxAttr(charsFmt, 'dateOfDeath')}`);
