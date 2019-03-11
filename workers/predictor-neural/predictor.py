@@ -13,8 +13,9 @@ from utils import *
 
 # read character training data
 charsTrain = readMLDataFile("chars-to-train")
-rangedAttrs = ["books", "dateOfBirth", "dateOfDeath", "house", "locations", "titles"]
-attrRanges = extremeAttrArray(charsTrain, rangedAttrs);
+charsPredict = readMLDataFile("chars-to-predict")
+rangedAttrs = ["age", "books", "house", "locations", "titles"]
+attrRanges = extendAttrRanges(extremeAttrArray(charsTrain, rangedAttrs), extremeAttrArray(charsPredict, rangedAttrs));
 print(attrRanges)
 sys.exit(0)
 

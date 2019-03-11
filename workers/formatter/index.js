@@ -1,4 +1,5 @@
 const utils = require('./utils');
+const config = require('./config');
 
 (async () => {
   const [characters, characterLocations, houses] = await Promise.all([
@@ -20,6 +21,7 @@ const utils = require('./utils');
     .filter(c => c.dateOfBirth !== undefined && (c.dateOfDeath === undefined || c.dateOfDeath - c.dateOfBirth >= 0))
     .map(c => ({
       name: c.name,
+      age: (c.dateOfDeath === undefined ? config.GOT_CURRENT_YEAR : c.dateOfDeath) - c.dateOfBirth,
       books: utils.arrToIndices(c.books, books),
       dateOfBirth: c.dateOfBirth,
       dateOfDeath: c.dateOfDeath,
@@ -28,7 +30,8 @@ const utils = require('./utils');
       male: c.male,
       pageRank: (c.pageRank || 0) / maxPageRank,
       titles: utils.arrToIndices(c.titles, titles),
-    }));
+    }))
+    .filter(c => c.age <= config.AGE_MAXIMUM);
 
   // alive characters will be predicted later, dead characters are used for training
   const numAlive = (await utils.writeOutputData('ml-data/chars-to-predict', charsFmt.filter(c => c.dateOfDeath === undefined))).length;
