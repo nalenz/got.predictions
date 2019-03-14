@@ -2,11 +2,11 @@ const path = require('path');
 const fs = require('fs-extra');
 
 function loadBookData(name) {
-  return fs.readJSON(path.join(__dirname, `../../data/book/${name}.json`));
+  return fs.readJSON(path.join(path.dirname(require.main.filename), `../../data/book/${name}.json`));
 }
 
 async function writeOutputData(name, data) {
-  await fs.writeJSON(path.join(__dirname, `output/${name}.json`), data);
+  await fs.writeJSON(path.join(path.dirname(require.main.filename), `output/${name}.json`), data);
   return data;
 }
 

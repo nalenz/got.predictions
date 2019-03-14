@@ -1,5 +1,5 @@
-const utils = require('./utils');
-const config = require('./config');
+const utils = require('../common/utils');
+const config = require('../common/config');
 
 (async () => {
   const [characters, characterLocations, houses] = await Promise.all([
