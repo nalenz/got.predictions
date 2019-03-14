@@ -2,21 +2,25 @@ const path = require('path');
 const fs = require('fs-extra');
 
 function loadBookData(name) {
-  return fs.readJSON(path.join(__dirname, `../../data/book/${name}.json`));
+  return fs.readJSON(path.join(path.dirname(require.main.filename), `../../data/book/${name}.json`));
 }
 
 async function writeOutputData(name, data) {
-  await fs.writeJSON(path.join(__dirname, `output/${name}.json`), data);
+  await fs.writeJSON(path.join(path.dirname(require.main.filename), `output/${name}.json`), data);
   return data;
+}
+
+function createSetFromAttrFunc(arr, fn) {
+  return [...new Set([].concat(...arr.map(c => fn(c).map(x => (x || '').toLowerCase()))))]
+    .filter(c => c.length > 0)
+    .map(c => c.replace(/&apos;/g, "'"))
+    .sort();
 }
 
 // extract all unique values from an array of objects which contain an array of strings at a given attribute, e.g.
 // createSetFromAttr([{a:["x","y"]}, {a:["z","x"]}, {a:["x","w"]}], "a")  ==  ["w", "x", "y", "z"]
 function createSetFromAttr(arr, attr) {
-  return [...new Set([].concat(...arr.map(c => c[attr].map(x => x.toLowerCase()))))]
-    .filter(c => c.length > 0)
-    .map(c => c.replace(/&apos;/g, "'"))
-    .sort();
+  return createSetFromAttrFunc(arr, n => n[attr]);
 }
 
 // convert an array of actual values to indices in a base array, while eliminating invalid ones, e.g.
@@ -45,5 +49,6 @@ module.exports = {
   minAttr,
   maxAttr,
   writeOutputData,
+  createSetFromAttrFunc,
   writeJSONSetFromAttr,
 };
