@@ -10,13 +10,17 @@ async function writeOutputData(name, data) {
   return data;
 }
 
-// extract all unique values from an array of objects which contain an array of strings at a given attribute, e.g.
-// createSetFromAttr([{a:["x","y"]}, {a:["z","x"]}, {a:["x","w"]}], "a")  ==  ["w", "x", "y", "z"]
-function createSetFromAttr(arr, attr) {
-  return [...new Set([].concat(...arr.map(c => c[attr].map(x => x.toLowerCase()))))]
+function createSetFromAttrFunc(arr, fn) {
+  return [...new Set([].concat(...arr.map(c => fn(c).map(x => (x || '').toLowerCase()))))]
     .filter(c => c.length > 0)
     .map(c => c.replace(/&apos;/g, "'"))
     .sort();
+}
+
+// extract all unique values from an array of objects which contain an array of strings at a given attribute, e.g.
+// createSetFromAttr([{a:["x","y"]}, {a:["z","x"]}, {a:["x","w"]}], "a")  ==  ["w", "x", "y", "z"]
+function createSetFromAttr(arr, attr) {
+  return createSetFromAttrFunc(arr, n => n[attr]);
 }
 
 // convert an array of actual values to indices in a base array, while eliminating invalid ones, e.g.
@@ -45,5 +49,6 @@ module.exports = {
   minAttr,
   maxAttr,
   writeOutputData,
+  createSetFromAttrFunc,
   writeJSONSetFromAttr,
 };
