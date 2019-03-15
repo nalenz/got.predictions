@@ -22,7 +22,10 @@ To create a new branch to add your changes to, please execute the following comm
 ### Version 1 (11.03.2019)
 
 - Type: neural network
-- Architecture: fully connected layers, 1102 input values --> 200 ReLU neurons --> 100 ReLU-activated neurons --> 85 sigmoid-activated output neurons
+- Architecture
+  - fully connected layers
+  - 1102 input values --> 200 ReLU-activated neurons --> 100 ReLU-activated neurons --> 85 sigmoid-activated output neurons
+  - all layers with 0.5 dropout
 - Input data
   - dimension 0: 1.0 for male, 0.0 otherwise
   - dimension 1: normalized page rank, i.e. 1.0 for highest possible page rank, value very close to 0 for lowest page rank
@@ -40,7 +43,10 @@ To create a new branch to add your changes to, please execute the following comm
 ### Version 2 (15.03.2019)
 
 - Type: neural network
-- Architecture: fully connected layers, 1199 input values --> 200 ReLU neurons --> 100 ReLU-activated neurons --> 1 sigmoid-activated output neuron
+- Architecture
+  - fully connected layers
+  - 1199 input values --> 200 ReLU-activated neurons --> 100 ReLU-activated neurons --> 1 sigmoid-activated output neuron
+  - all layers with 0.7 dropout
 - Input data
   - dimensions 0 and 1: see version 1
   - numAges (97) dimensions: one-hot vector for the current age of the character

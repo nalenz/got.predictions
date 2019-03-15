@@ -67,9 +67,10 @@ for c in charsPredict:
       currMain[offsetsData[d] + (x - attrRanges[d][0])] = 1
 
   # insert one vector for each year to predict
-  for y in range(300, 310):
+  for y in range(300, 320):
     curr = np.copy(currMain)
-    curr[y - c["dateOfBirth"] + 2] = 1.0     # use age corresponding to current year
+    idx = y-c["dateOfBirth"] if y-c["dateOfBirth"] < numAges else numAges-1
+    curr[idx + 2] = 1.0     # use age corresponding to current year
     dataPredict.append(curr)
   
 # convert data for predictions into numpy array
@@ -80,10 +81,12 @@ dataPredict = np.array(dataPredict)
 if False:
   # build the model
   model = Sequential()
+  model.add(Dense(500, activation='relu'))
+  model.add(Dropout(0.7))
   model.add(Dense(250, activation='relu'))
-  model.add(Dropout(0.5))
+  model.add(Dropout(0.7))
   model.add(Dense(100, activation='relu'))
-  model.add(Dropout(0.5))
+  model.add(Dropout(0.7))
   model.add(Dense(1, activation='sigmoid'))
   model.compile(optimizer='rmsprop', loss='binary_crossentropy', metrics=['accuracy'])
 
