@@ -1,11 +1,12 @@
 import os
 import json
 import math
+import __main__
 
 
 
 # some global constants
-dirname = os.path.dirname(__file__)
+dirname = os.path.dirname(__main__.__file__)
 
 
 
@@ -32,7 +33,7 @@ def extendAttrRanges(a, b):
   return a
 
 def readMLDataFile(name):
-  with open(os.path.join(dirname, "../formatter/output/ml-data/" + name + ".json"), "r") as f:
+  with open(os.path.join(dirname, "../../formatter/output/ml-data/" + name + ".json"), "r") as f:
     return json.load(f)
 
 def writeJSON(name, obj):

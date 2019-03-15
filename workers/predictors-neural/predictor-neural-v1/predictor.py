@@ -10,6 +10,7 @@ import numpy as np
 from keras.models import Sequential, load_model
 from keras.layers import Activation, Dropout, Flatten, Dense
 
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), "../common"))
 from utils import *
 from config import *
 
