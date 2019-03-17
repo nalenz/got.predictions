@@ -2,7 +2,7 @@
   "plugins": ["prettier"],
   "extends": ["eslint:recommended", "prettier"],
   "parserOptions": {
-    "ecmaVersion": 2017,
+    "ecmaVersion": 2018,
     "ecmaFeatures": {
       "jsx": true,
       "modules": true
