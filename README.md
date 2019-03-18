@@ -45,7 +45,7 @@ To create a new branch to add your changes to, please execute the following comm
 - Type: neural network
 - Architecture
   - fully connected layers
-  - 1199 input values --> 200 ReLU-activated neurons --> 100 ReLU-activated neurons --> 1 sigmoid-activated output neuron
+  - 1199 input values --> 500 ReLU-activated neurons --> 250 ReLU-activated neurons --> 100 ReLU-activated neurons --> 1 sigmoid-activated output neuron
   - all layers with 0.7 dropout
 - Input data
   - dimensions 0 and 1: see version 1
@@ -54,6 +54,17 @@ To create a new branch to add your changes to, please execute the following comm
 - Output data
   - one value corresponding to the probability that the character is dead by that age
 - Summary
-  - It's now possible to see changes in the percentage likelihood of death over the years. These predictions may be plotted to correspond to the future seasons.
+  - The data indicates percentage likelihood of survival (PLOS), not of death. Transforming one into the other is just `1 - x` though.
+  - It's now possible to see changes in the PLOS over the years. These predictions may be plotted to correspond to the future seasons.
   - There is one input vector for each possible age for each character, leading to 15974 vectors in total.
-  - The predicted output for those characters makes sense, sometimes trends are visible (e.g. increasing or decreasing PLOD over time).
+  - The predicted output for those characters makes sense, sometimes trends are visible (e.g. increasing or decreasing PLOS over time).
+
+### Version 3 (18.03.2019)
+
+- Type, architecture and input data like in version 2 (just with 750 ReLU-activated neurons at the front and 0.9 dropout)
+- Output data like in version 1 (just with 97 different ages)
+- Summary
+  - The results are similar to version 2, but should definitely be falling over time, as that's how the training datasets were formatted. That is, the training labels indicate how many more years the character is going to live and have a 1.0 at every position the character is still alive at.
+  - This prevents illogical results from appearing, as the character's current age is one part of the input and the number of years he has still left to live is output.
+  - It's strange that the predictions never exceed 63.87% for any character in any year.
+  - It will be necessary to discuss which threshold will define the prediction for the year the character will die in. Maybe when the value drops below 50%? Alternatively, no such specific prediction will be made at all, but the user will just see the PLOSs for every future year.

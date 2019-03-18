@@ -13,7 +13,7 @@ const utils = require('../common/utils');
 
   // create final data and labels
   const johv = new utils.JoinedOneHotVector(charsTrain.concat(charsPredict), dataScalarAttrs, dataVectorAttrs);
-  const [dataTrain, labelsTrain] = johv.createMultipleUnfolded(charsTrain, 'age', (charAge, currAge) => [charAge >= currAge ? 1.0 : 0.0]);
+  const [dataTrain, labelsTrain] = johv.createMultipleUnfolded(charsTrain, 'age', (char, currAge) => [char.age >= currAge ? 1.0 : 0.0]);
   const dataPredict = johv.createMultipleUnfoldedOnlyData(charsPredict, 'age', { min: 300, max: 320 }, (char, currYear, ageRange) =>
     utils.clamp(currYear - char.dateOfBirth, ageRange),
   );

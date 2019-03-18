@@ -146,7 +146,7 @@ class JoinedOneHotVector {
       let currData = retMain.slice();
       const actualI = rangeValModifier(entry, usedRange.min + i, this.ranges[attr]);
       currData[this.offsets[attr] + actualI] = 1.0;
-      return [currData, labelFn(entry[attr], actualI)];
+      return [currData, labelFn(entry, actualI, this.ranges[attr])];
     });
   }
 
