@@ -10,13 +10,57 @@ const fs = require('fs-extra');
   We use integers (0 or 1) for the flags, because the model at the end will use them like that.
 */
 
+function isSuitableChar(character) {
+  if(character.dateOfBirth == undefined || character.dateOfBirth == null) {
+    return false;
+  }
+  return true;
+}
+
 (async () => {
   // read the needed JSON files
-  let [characters, houses, cultures] = await Promise.all([
+  let [characters_unfiltered, houses_unfiltered, cultures, character_locations] = await Promise.all([
     utils.loadBookData('characters'),
     utils.loadBookData('houses'),
     utils.loadBookData('cultures'),
+	utils.loadBookData('character_locations'),
   ]);
+  
+  // make a list of all possible locations and create a map by character name of visited locations
+  let locations = []; //all locations we'll have flags for
+  let locKeyValuePairs = []; //map character name => array of visited locations
+  for (let c_l of character_locations) {
+	// push the name + location array of the character into locKeyValuePairs
+	locKeyValuePairs.push([c_l.name, c_l.locations]);
+	// now check if any new locations will come to the locations array
+	for (let loc of c_l.locations) {
+	  if (locations.includes (loc) == false) {
+		//new location is not contained in the array, add it
+		locations.push(loc);
+	  }
+	}
+  }
+  //build the Map from the key-value pair array
+  let locMap = new Map(locKeyValuePairs);
+  
+  // filter out unsuitable characters (no date of birth, etc.)
+  characters = [];
+  for(let ch of characters_unfiltered) {
+    if(isSuitableChar(ch)) {
+      characters.push(ch);
+	}
+  }
+  
+  // filter out houses to which no suitable character belongs
+  let houses = [];
+  for(let h of houses_unfiltered) {
+    for(let ch of characters) {
+      if(ch.house == h.name) {
+        houses.push(h);
+		continue;
+	  }
+	}
+  }
 
   // in reformatted_chars, we will accumulate the reformatted character data
   let reformatted_chars = [];
@@ -25,15 +69,10 @@ const fs = require('fs-extra');
   for (let ch of characters) {
     // this will be the reformatted character
     let ref_ch = {};
-
-    // copy data that is to stay the same
-    ref_ch.name = ch.name;
-    ref_ch.pageRank = ch.pageRank;
-    ref_ch.male = ch.male;
-
-    // now check whether character alive or not and estimate age
-    if (ch.dateOfBirth !== undefined) {
-      if (ch.dateOfDeath !== undefined) {
+	
+	// check whether character alive or not and calculate age
+    if (isSuitableChar(ch)) {
+      if (ch.dateOfDeath !== undefined && ch.dateOfDeath !== null) {
         // there is a date of death => is dead
         ref_ch.isDead = 1;
         ref_ch.age = ch.dateOfDeath - ch.dateOfBirth;
@@ -43,11 +82,27 @@ const fs = require('fs-extra');
         ref_ch.age = config.GOT_CURRENT_YEAR - ch.dateOfBirth;
       }
     } else {
-      // filter out characters without a date of birth
+      // filter out unsuitable characters
       continue;
     }
 
-    // for each house, add a flag = 0 or 1, whether the character is in that house or not
+    // copy data that is to stay the same
+    ref_ch.name = ch.name;
+    ref_ch.pageRank = ch.pageRank;
+	// "male" flag = 1 if male
+	if (ch.male !== undefined && ch.male !== null) {
+	  if (ch.male) {
+	    ref_ch.male = 1;
+	  }
+	  else {
+	    ref_ch.male = 0;
+	  }
+	}
+	else { //TODO we might want to filter these out...
+	  ref_ch.male = 0;
+	}
+
+    // for each house, add a flag = 1 if the character is in that house
     for (let h of houses) {
       if (ch.house === h.name) {
         // character IS in this house
@@ -57,8 +112,24 @@ const fs = require('fs-extra');
         ref_ch[h.name] = 0;
       }
     }
+	
+	//set the house flag to = 1 if the character has pledged allegiance to it
+	if (ch.allegiance !== null && ch.allegiance !== undefined) {
+	  for (let h of ch.allegiance) {
+	    ref_ch[h.name] = 1;
+	  }
+	}
+	
+	// isHeir = 1 if the character is some house's heir.
+	ref_ch.isHeir = 0;
+	for (let h of houses) {
+	  if (h.heir == ref_ch.name) {
+	    ref_ch.isHeir = 1; //ref_ch is the heir to some house
+		break;
+	  }
+	}
 
-    // similarly, add flags for culture
+    // similarly, add flags for culture of the character
     for (let c of cultures) {
       if (ch.culture === c.name) {
         ref_ch[c.name] = 1;
@@ -66,15 +137,46 @@ const fs = require('fs-extra');
         ref_ch[c.name] = 0;
       }
     }
-
-    // TODO add flags for some common titles (Ser, Prince, Lord, etc.)
-    // TODO add flags for locations where a character has been
-    // TODO consider relations between people (heirs) and houses (overlords)
+	
+	// determine number of titles
+	if(ch["titles"] != undefined && ch["titles"].length != undefined) {
+	  ref_ch.numTitles = ch["titles"].length
+	} else {
+	  ref_ch.numTitles = 0;
+	}
+	
+	// number of spouses
+	if (ch["spouse"] != undefined && ch["spouse"].length != undefined) {
+	  ref_ch.numSpouses = ch["spouse"].length
+	} else {
+	  ref_ch.numSpouses = 0;
+	}
+	
+	// add flags for locations where a character has been
+	// first, add zeroes for all locations
+	for (let loc of locations) {
+	  ref_ch[loc] = 0;
+	}
+	// then, write 1 on the locations the character has visited
+	let visited = locMap.get(ref_ch.name); // get locations from the Map we built earlier
+	if (visited !== null && visited !== undefined) { // this check might be unnecessary
+	  // set the flag to 1 for all locations in the visited array
+	  for (let loc of visited) {
+	    ref_ch[loc] = 1;
+	  }
+	}
+	
     // push the reformatted character and loop back
     reformatted_chars.push(ref_ch);
   }
 
   // output ready
   // TODO file output is just for the prototype. Consider how to integrate.
-  await fs.writeJSON('ref_chs.json', reformatted_chars);
+  // Wanted some more readable JSON here :)
+  let readableJSON = JSON.stringify(reformatted_chars, null, 2);
+  fs.writeFile('ref_chs.json', readableJSON, (err) => {  
+    if (err) throw err;
+    console.log('Data written to file');
+  });
+  //await fs.writeJSON('ref_chs.json', reformatted_chars);
 })();
