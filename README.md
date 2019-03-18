@@ -36,7 +36,7 @@ To create a new branch to add your changes to, please execute the following comm
 - Output data
   - one-hot vector with 85 dimensions for every possible age (zero to 84)
 - Summary
-  - Out of 448 characters which have at least the birth date associated with them, 285 are alive and 163 (i.e. also have a death date).
+  - Out of 448 characters which have at least the birth date associated with them, 285 are alive and 163 are dead (i.e. also have a death date).
   - This dataset is way too small for machine learning. Although accuracy reached almost 100% during training, the network did not generalize to the alive characters, as illogical output values appeared.
   - The main problem was that a character's age of death was predicted. Thus, no boundary was given that would limit this prediction to be _after_ the current year and a lot of death ages of alive characters were predicted that were before the current year.
 
