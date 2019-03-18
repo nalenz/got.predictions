@@ -21,7 +21,7 @@ charsTrain = readMLDataFile("chars-to-train")
 charsPredict = readMLDataFile("chars-to-predict")
 dataPredict = readFormattedBinaryMLFile("v1-data-predict")
 dataTrain = readFormattedBinaryMLFile("v1-data-train")
-labels = readFormattedBinaryMLFile("v1-labels")
+labelsTrain = readFormattedBinaryMLFile("v1-labels-train")
 
 
 
@@ -32,11 +32,11 @@ if False:
   model.add(Dropout(0.5))
   model.add(Dense(100, activation='relu'))
   model.add(Dropout(0.5))
-  model.add(Dense(labels.shape[1], activation='sigmoid'))
+  model.add(Dense(labelsTrain.shape[1], activation='sigmoid'))
   model.compile(optimizer='rmsprop', loss='binary_crossentropy', metrics=['accuracy'])
 
   # train the model
-  model.fit(dataTrain, labels, epochs=200, batch_size=16)
+  model.fit(dataTrain, labelsTrain, epochs=200, batch_size=16)
   model.save(os.path.join(dirnameMain, 'models/got-predictor-model.h5'))
 
 else:
