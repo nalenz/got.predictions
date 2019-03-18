@@ -1,5 +1,6 @@
 const path = require('path');
 const fs = require('fs-extra');
+const zlib = require('zlib');
 
 const dirnameMain = path.dirname(require.main.filename);
 
@@ -16,13 +17,27 @@ async function writeOutputData(name, data) {
   return data;
 }
 
-async function writeOutputDataBinary(name, data) {
+function zlibDeflate(buf) {
+  return new Promise((resolve, reject) => {
+    zlib.deflate(buf, (err, res) => {
+      if (err) reject(err);
+      else resolve(res);
+    });
+  });
+}
+
+async function writeOutputDataBinary(name, data, compress) {
+  // create simple header with both dimensions (number of entries + dimensions per entry) and float32 data itself
   const headerBuf = Buffer.from(new Uint32Array([data.length, data[0].length]).buffer);
   const dataBuf = Buffer.concat(data.map(d => Buffer.from(new Float32Array(d).buffer)));
 
-  let outStream = fs.createWriteStream(path.join(dirnameMain, `output/${name}.dat`));
-  outStream.write(headerBuf);
-  outStream.write(dataBuf);
+  // optionally compress output data
+  let finalBuf = Buffer.concat([headerBuf, dataBuf]);
+  if (compress) finalBuf = await zlibDeflate(finalBuf);
+
+  // write output data to file
+  let outStream = fs.createWriteStream(path.join(dirnameMain, `output/${name}.dat${compress ? '.gz' : ''}`));
+  outStream.write(finalBuf);
   outStream.end();
 }
 
@@ -68,31 +83,82 @@ function extremeAttr(arr, attr) {
   return ret;
 }
 
-function getAttrRanges(arr, attrs) {
-  return attrs.reduce((prev, curr) => ((prev[curr] = extremeAttr(arr, curr)), prev), {});
-}
-
-function createJoinedOneHotVector(arr, scalarAttrs, vectorAttrs, ranges) {
-  const offsets = vectorAttrs
-    .slice(0, -1)
-    .reduce((prev, attr, idx) => ((prev[vectorAttrs[idx + 1]] = prev[attr] + ranges[attr].span), prev), {
-      ...scalarAttrs.reduce((prev, curr, idx) => ((prev[curr] = idx), prev), {}),
-      [vectorAttrs[0]]: scalarAttrs.length,
-    });
-
-  const len = offsets[vectorAttrs.slice(-1)[0]] + ranges[vectorAttrs.slice(-1)[0]].span;
-  return arr.map(c => {
-    let curr = new Array(len).fill(0);
-    scalarAttrs.forEach(a => (curr[offsets[a]] = +c[a]));
-    vectorAttrs.forEach(d => (c[d] instanceof Array ? c[d] : [c[d]]).forEach(x => (curr[offsets[d] + (x - ranges[d].min)] = 1)));
-    return curr;
-  });
+function clamp(val, rng) {
+  if (val < rng.min) return rng.min;
+  if (val > rng.max) return rng.max;
+  return val;
 }
 
 async function writeJSONSetFromAttr(arr, attr) {
   const ret = createSetFromAttr(arr, attr);
   await writeOutputData(attr, ret);
   return ret;
+}
+
+class JoinedOneHotVector {
+  constructor(baseData, scalarAttrs, vectorAttrs) {
+    this.scalarAttrs = scalarAttrs;
+    this.vectorAttrs = vectorAttrs;
+    this.ranges = this.calculateRanges(baseData, vectorAttrs);
+    this.applyConfig(scalarAttrs, vectorAttrs);
+  }
+
+  applyConfig(localScalarAttrs, localVectorAttrs) {
+    this.localScalarAttrs = localScalarAttrs;
+    this.localVectorAttrs = localVectorAttrs;
+    this.offsets = this.calculateOffsets(localScalarAttrs, localVectorAttrs);
+    this.length = this.offsets[localVectorAttrs.slice(-1)[0]] + this.ranges[localVectorAttrs.slice(-1)[0]].span;
+  }
+
+  calculateRanges(baseData, vectorAttrs) {
+    return vectorAttrs.reduce((prev, curr) => ((prev[curr] = extremeAttr(baseData, curr)), prev), {});
+  }
+
+  calculateOffsets(localScalarAttrs, localVectorAttrs) {
+    return localVectorAttrs
+      .slice(0, -1)
+      .reduce((prev, attr, idx) => ((prev[localVectorAttrs[idx + 1]] = prev[attr] + this.ranges[attr].span), prev), {
+        ...localScalarAttrs.reduce((prev, curr, idx) => ((prev[curr] = idx), prev), {}),
+        [localVectorAttrs[0]]: localScalarAttrs.length,
+      });
+  }
+
+  createSingle(entry) {
+    let ret = new Array(this.length).fill(0);
+    this.localScalarAttrs.forEach(a => (ret[this.offsets[a]] = +entry[a]));
+    this.localVectorAttrs.forEach(d =>
+      (entry[d] instanceof Array ? entry[d] : [entry[d]]).forEach(x => (ret[this.offsets[d] + (x - this.ranges[d].min)] = 1)),
+    );
+    return ret;
+  }
+
+  createMultiple(arr) {
+    return arr.map(c => this.createSingle(c));
+  }
+
+  createSingleUnfolded(entry, attr, labelFn, usedRange, rangeValModifier) {
+    let retMain = this.createSingle(entry);
+    retMain[this.offsets[attr] + entry[attr]] = 0.0;
+    if (usedRange === undefined) usedRange = this.ranges[attr];
+    if (usedRange.span === undefined) usedRange.span = usedRange.max - usedRange.min + 1;
+    if (rangeValModifier === undefined) rangeValModifier = (_, x) => x;
+    return new Array(usedRange.span).fill(0).map((_, i) => {
+      let currData = retMain.slice();
+      const actualI = rangeValModifier(entry, usedRange.min + i, this.ranges[attr]);
+      currData[this.offsets[attr] + actualI] = 1.0;
+      return [currData, labelFn(entry[attr], actualI)];
+    });
+  }
+
+  createMultipleUnfolded(arr, attr, labelFn, usedRange, rangeValModifier) {
+    const res = [].concat(...arr.map(c => this.createSingleUnfolded(c, attr, labelFn, usedRange, rangeValModifier)));
+    return [res.map(x => x[0]), res.map(x => x[1])];
+  }
+
+  createMultipleUnfoldedOnlyData(arr, attr, usedRange, rangeValModifier) {
+    const res = [].concat(...arr.map(c => this.createSingleUnfolded(c, attr, () => undefined, usedRange, rangeValModifier)));
+    return res.map(x => x[0]);
+  }
 }
 
 module.exports = {
@@ -103,8 +169,8 @@ module.exports = {
   arrToIndices,
   minAttr,
   maxAttr,
-  getAttrRanges,
-  createJoinedOneHotVector,
+  clamp,
   createSetFromAttrFunc,
   writeJSONSetFromAttr,
+  JoinedOneHotVector,
 };
