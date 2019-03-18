@@ -1,41 +1,38 @@
 import os
 import json
 import math
+import struct
+import zlib
+import io
+import numpy as np
 import __main__
 
 
 
 # some global constants
-dirname = os.path.dirname(__main__.__file__)
+dirname = os.path.dirname(__file__)
+dirnameMain = os.path.dirname(__main__.__file__)
 
 
-
-# find maximum attribute value in list of dicts
-def accAttr(arr, attr, fn, alt):
-  return fn(map(lambda x: x[attr] if not isinstance(x[attr], list) else (alt if len(x[attr])==0 else fn(x[attr])), arr))
-
-def minAttr(arr, attr):
-  return accAttr(arr, attr, min, math.inf)
-
-def maxAttr(arr, attr):
-  return accAttr(arr, attr, max, -math.inf)
-
-def extremeAttr(arr, attr):
-  return [minAttr(arr, attr), maxAttr(arr, attr)]
-
-def extremeAttrArray(arr, attrs):
-  return dict(zip(attrs, map(lambda x: extremeAttr(arr, x), attrs)))
-
-def extendAttrRanges(a, b):
-  for k, v in b.items():
-    if k in a:
-      a[k] = [min(a[k][0], v[0]), max(a[k][1], v[1])] if k in a else v
-  return a
 
 def readMLDataFile(name):
   with open(os.path.join(dirname, "../../formatter/output/ml-data/" + name + ".json"), "r") as f:
     return json.load(f)
 
+def readFormattedBinaryMLByteArray(f):
+  num, = struct.unpack("<i", f[0:4])
+  len, = struct.unpack("<i", f[4:8])
+  return np.reshape(np.frombuffer(f[8:], dtype=np.float32), [num, len])
+
+def readFormattedBinaryMLFile(name):
+  filename = os.path.join(dirname, "../../formatter-neural/output/" + name + ".dat")
+  if os.path.isfile(filename):
+    with open(filename, "rb") as f:
+      return readFormattedBinaryMLByteArray(f.read())
+  else:
+    with open(filename + ".gz", "rb") as f:
+      return readFormattedBinaryMLByteArray(zlib.decompress(f.read()))
+
 def writeJSON(name, obj):
-  with open(os.path.join(dirname, "output/" + name + ".json"), "w") as f:
+  with open(os.path.join(dirnameMain, "output/" + name + ".json"), "w") as f:
     json.dump(obj, f)
