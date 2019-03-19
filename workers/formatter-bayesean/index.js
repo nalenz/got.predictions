@@ -174,9 +174,6 @@ function isSuitableChar(character) {
   // TODO file output is just for the prototype. Consider how to integrate.
   // Wanted some more readable JSON here :)
   let readableJSON = JSON.stringify(reformatted_chars, null, 2);
-  fs.writeFile('ref_chs.json', readableJSON, (err) => {  
-    if (err) throw err;
-    console.log('Data written to file');
-  });
+  fs.writeFile('ref_chs.json', readableJSON, (err) => {});
   //await fs.writeJSON('ref_chs.json', reformatted_chars);
 })();
