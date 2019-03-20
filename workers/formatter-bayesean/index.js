@@ -87,8 +87,12 @@ function isSuitableChar(character) {
     }
 
     // copy data that is to stay the same
-    // ref_ch.name = ch.name; //name only necessary for testing
+    ref_ch.name = ch.name; //name only necessary for testing
     ref_ch.pageRank = ch.pageRank;
+	// consider the case where the pageRank is missing
+	if (ref_ch.pageRank == null || ref_ch.pageRank == undefined) {
+	  ref_ch.pageRank = 0;
+	}
 	// "male" flag = 1 if male
 	if (ch.male !== undefined && ch.male !== null) {
 	  if (ch.male) {
