@@ -147,7 +147,12 @@ function isSuitableChar(character) {
 	
 	// number of spouses
 	if (ch["spouse"] != undefined && ch["spouse"].length != undefined) {
-	  ref_ch.numSpouses = ch["spouse"].length
+	  if (Array.isArray(ch["spouse"])){
+	    ref_ch.numSpouses = ch["spouse"].length
+	  }
+	  else {
+	    ref_ch.numSpouses = 1;
+	  }
 	} else {
 	  ref_ch.numSpouses = 0;
 	}
