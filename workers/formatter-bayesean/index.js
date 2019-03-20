@@ -87,7 +87,7 @@ function isSuitableChar(character) {
     }
 
     // copy data that is to stay the same
-    ref_ch.name = ch.name;
+    // ref_ch.name = ch.name; //name only necessary for testing
     ref_ch.pageRank = ch.pageRank;
 	// "male" flag = 1 if male
 	if (ch.male !== undefined && ch.male !== null) {
@@ -98,7 +98,7 @@ function isSuitableChar(character) {
 	    ref_ch.male = 0;
 	  }
 	}
-	else { //TODO we might want to filter these out...
+	else { //TODO we might want to filter these out... (no gender)
 	  ref_ch.male = 0;
 	}
 
