@@ -80,6 +80,10 @@ function isSuitableChar(character) {
         // there is no date of death => lives on to the CURRENT_YEAR
         ref_ch.isDead = 0;
         ref_ch.age = config.GOT_CURRENT_YEAR - ch.dateOfBirth;
+		if (ref_ch.age > 150) {
+		  //an apparent age over 150 points to an error (missing dateOfDeath)
+		  continue;
+		}
       }
     } else {
       // filter out unsuitable characters
