@@ -25,18 +25,23 @@ exposure = np.greater_equal.outer(df.age, interval_bounds[:-1])*interval_length
 exposure[characters, last_period] = df.age - interval_bounds[last_period]
 exposure=exposure.astype(np.float)
 
-#exposure occasionally contains -120. Replace them with near-zeroes as a temporary fix
-filter_func = np.vectorize(lambda v: 1e-200 if v<=0 else v) 
+#too many zeroes in exposure apparently cause a lot of problems, so just replace them with sth very small
+filter_func = np.vectorize(lambda v: 1e-200 if v<=0 else v)
 exposure = filter_func(exposure)
 
 #np.savetxt('exposure.csv', exposure, delimiter=',')
 
+df = pd.concat([df.male, df.isHeir, df.numTitles], axis=1) #TODO take only a few columns as a test
+
+df_num=df.to_numpy().astype(float) #characters=rows, attributes=cols
+num_parameters = df_num.shape[1];
+
 SEED = 925449 #from random.org :)
 
 with pm.Model() as model:
-  lambda0 = pm.Gamma('lambda0', 0.01, 0.01, shape=n_intervals) #this is a vector (base risk by time slice)
-  beta = pm.Normal('beta', 0, sd=1000) #this is another vector (one coefficient per covariate)
-  lambda_ = pm.Deterministic('lambda_', T.outer(T.exp(beta*df.male), lambda0)) #this is a matrix (risk of character(row) in a time slice(col))
+  lambda0 = pm.Gamma('lambda0', mu=0.01, sd=0.01, shape=n_intervals) #this is a vector (base risk to die in a time slice)
+  beta = pm.Normal('beta', mu=0, sd=1000, shape=(num_parameters,1)) #this is another vector (one coefficient per covariate)
+  lambda_ = pm.Deterministic('lambda_', T.outer(T.exp(T.dot(df_num, beta)), lambda0)) #this is a matrix (risk of character(row) in a time slice(col))
   mu = pm.Deterministic('mu', exposure*lambda_) #this is also a matrix (risk = 0 if character already dead, otherwise same as lambda_)
   obs = pm.Poisson('obs', mu, observed=death) 
   #betaVal = beta.random()
@@ -51,19 +56,9 @@ with pm.Model() as model:
   #  print(RV.name, RV.logp(model.test_point))
   #
   
-n_samples = 1000
+n_samples = 1000 #both should be 1000, 100 for quick testing
 n_tune = 1000
 with model:
   trace = pm.sample(n_samples, tune = n_tune, random_seed=SEED) #nuts_kwargs = {"target_accept":0.95}
   
-print(np.exp(trace['beta'].mean()))
-
-base_hazard = trace['lambda0']
-met_hazard = trace['lambda0'] * np.exp(np.atleast_2d(trace['beta']).T)
-
-def cum_hazard(hazard):
-  return (interval_length * hazard).cumsum(axis=-1)
-  
-def survival(hazard):
-  return np.exp(-cum_hazard(hazard))
-  
+print(np.exp(trace['beta'].mean(axis=0)))
