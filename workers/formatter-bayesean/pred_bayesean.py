@@ -11,7 +11,7 @@ df = pd.read_json(path_or_buf = "ref_chs.json", typ = "frame")
 num_characters = df.shape[0]
 characters = np.arange(num_characters)
 
-interval_length = 3
+interval_length = 1
 interval_bounds = np.arange (0, df.age.max() + interval_length + 1, interval_length)
 n_intervals = interval_bounds.size - 1
 intervals = np.arange(n_intervals)
@@ -61,5 +61,22 @@ n_tune = 1000
 with model:
   trace = pm.sample(n_samples, tune = n_tune, random_seed=SEED) #nuts_kwargs = {"target_accept":0.95}
   
-end_beta = trace['beta'].mean(axis=0).transpose()[0] #make a mean of all rows in the entire trace, transform the column matrix into a (single-) row matrix and get the row out
-print(np.exp(end_beta))
+end_beta = trace['beta'].mean(axis=0).transpose()[0] # make a mean of all rows in the entire trace, transform the column matrix into a (single-) row matrix and get the row out
+
+base_hazard = trace['lambda0'].mean(axis=0) # Do we need a mean on this, or something else?
+
+print(np.exp(base_hazard))
+
+def calc_hazard(params, time): #calculates hazard values for each time slice up to, but not including, time, dependent on the params
+  params = np.array([params.male, params.isHeir, params.numTitles, params.pageRankLog])
+  return base_hazard[0:time]*(np.exp(end_beta.dot(params)))
+  
+def cum_hazard(hazard): #given hazard-per-timeslice values, calculate cumulative hazard
+  return (interval_length*hazard).cumsum(axis=-1)
+  
+def survival(hazard): #describes likelihood of surviving the cumulative hazard
+  return np.exp(-cum_hazard(hazard))
+  
+def probSurvival(params, time): #gives likelihood, given params, to survive up to a certain time
+  return survival(cum_hazard(calc_hazard(params, time)))
+  
