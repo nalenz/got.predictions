@@ -93,10 +93,11 @@ function isSuitableChar(character) {
     // copy data that is to stay the same
     // ref_ch.name = ch.name; //name only necessary for testing
 	// page rank is taken as a double-log (adjusted for zeros)
-    ref_ch.pageRank = Math.log(Math.log(ch.pageRank+1)+1);
-	// consider the case where the pageRank is missing
-	if (ref_ch.pageRank == null || ref_ch.pageRank == undefined) {
-	  ref_ch.pageRank = 0;
+	// also consider the case where the pageRank is missing
+	if (ch.pageRank == null || ch.pageRank == undefined) {
+	  ref_ch.pageRankLog = 0;
+	} else {
+      ref_ch.pageRankLog = Math.log(Math.log(ch.pageRank+1)+1);
 	}
 	// "male" flag = 1 if male
 	if (ch.male !== undefined && ch.male !== null) {
