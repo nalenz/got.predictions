@@ -56,9 +56,10 @@ with pm.Model() as model:
   #  print(RV.name, RV.logp(model.test_point))
   #
   
-n_samples = 1000 #both should be 1000, 100 for quick testing
-n_tune = 1000
+n_samples = 100 #both should be 1000, 100 for quick testing
+n_tune = 100
 with model:
   trace = pm.sample(n_samples, tune = n_tune, random_seed=SEED) #nuts_kwargs = {"target_accept":0.95}
   
-print(np.exp(trace['beta'].mean(axis=0)))
+end_beta = trace['beta'].mean(axis=0).transpose()[0] #make a mean of all rows in the entire trace, transform the column matrix into a (single-) row matrix and get the row out
+print(np.exp(end_beta))
