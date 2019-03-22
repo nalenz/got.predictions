@@ -31,7 +31,7 @@ exposure = filter_func(exposure)
 
 #np.savetxt('exposure.csv', exposure, delimiter=',')
 
-df = pd.concat([df.male, df.isHeir, df.numTitles], axis=1) #TODO take only a few columns as a test
+df = pd.concat([df.male, df.isHeir, df.numTitles, df.pageRankLog], axis=1) #TODO take only a few columns as a test
 
 df_num=df.to_numpy().astype(float) #characters=rows, attributes=cols
 num_parameters = df_num.shape[1];
@@ -56,8 +56,8 @@ with pm.Model() as model:
   #  print(RV.name, RV.logp(model.test_point))
   #
   
-n_samples = 100 #both should be 1000, 100 for quick testing
-n_tune = 100
+n_samples = 1000 #both should be 1000, 100 for quick testing
+n_tune = 1000
 with model:
   trace = pm.sample(n_samples, tune = n_tune, random_seed=SEED) #nuts_kwargs = {"target_accept":0.95}
   
