@@ -4,19 +4,47 @@ const zlib = require('zlib');
 
 const dirnameMain = path.dirname(require.main.filename);
 
+/**
+ * Loads a JSON file which contains GoT information from the books.
+ * @param {string} name - The name of the desired dataset.
+ */
 function loadBookData(name) {
   return fs.readJSON(path.join(__dirname, `../../data/book/${name}.json`));
 }
 
+/**
+ * Loads a JSON file which contains GoT information from the TV show.
+ * @param {string} name - The name of the desired dataset.
+ */
+function loadShowData(name) {
+  return fs.readJSON(path.join(__dirname, `../../data/show/${name}.json`));
+}
+
+/**
+ * Loads a JSON file which contains preprocessed information from the GoT books used by the
+ * machine learning scripts.
+ * @param {string} name - The type of ML data, namely `chars-to-train` for the characters
+ * training shall happen with or `chars-to-predict` for the characters the predictions will be made for.
+ */
 function loadFormatterMLData(name) {
   return fs.readJSON(path.join(__dirname, `../formatter/output/ml-data/${name}.json`));
 }
 
+/**
+ * Writes some generic data to the `output` directory, relative to the main script's path.
+ * Returns the written data unmodified.
+ * @param {string} name - The name of the output file, without extension.
+ * @param {(object|array)} data - The data whose serialized version is written to the respective file.
+ */
 async function writeOutputData(name, data) {
   await fs.writeJSON(path.join(dirnameMain, `output/${name}.json`), data);
   return data;
 }
 
+/**
+ * Returns the zlib-deflated (i.e. compressed) version of a chunk of data.
+ * @param {Buffer} buf - A buffer which contains the data to be compressed.
+ */
 function zlibDeflate(buf) {
   return new Promise((resolve, reject) => {
     zlib.deflate(buf, (err, res) => {
@@ -26,6 +54,20 @@ function zlibDeflate(buf) {
   });
 }
 
+/**
+ * Writes a two-dimensional array of floating point numbers to a binary file. This file will have the
+ * number of entries as well as the number of values per entry in the first eight bytes, i.e. as two
+ * consecutive 32 bit little endian unsigned integer values. After that, all the single-precision (i.e.
+ * 32 bit) float values follow. The resulting data will be written to a file in the `output` directory,
+ * relative to the path of the main script. The file itself will have the extension `.dat` if it's
+ * uncompressed and `.dat.gz` if it is compressed. For the compression, the `zlibDeflate` function
+ * will be used.
+ * @param {string} name - The basename of the output file, without extension.
+ * @param {object} data - The data to be written to the file, in a normal, two-dimensional array. All
+ * subarrays in this main array must have the same length.
+ * @param {boolean} [compress=false] - Indicates if the output file shall be compressed before writing
+ * it to the disk.
+ */
 async function writeOutputDataBinary(name, data, compress) {
   // create simple header with both dimensions (number of entries + dimensions per entry) and float32 data itself
   const headerBuf = Buffer.from(new Uint32Array([data.length, data[0].length]).buffer);
@@ -41,6 +83,16 @@ async function writeOutputDataBinary(name, data, compress) {
   outStream.end();
 }
 
+/**
+ * Uniquifies and sorts all entries of the given array which have been modified by the given
+ * function before. For an example, see the `createSetFromAttr` function, which is a specialization
+ * of this one. Note that this function is only designed to deal with string arrays. It
+ * automatically filters out invalid values (e.g. null or empty string) and converts every string
+ * to its lower case version before doing any further processing.
+ * @param {object[]} arr - The array to be processed.
+ * @param {function} fn - The function to be applied to every element of this array. It always needs
+ * to return an array of values itself.
+ */
 function createSetFromAttrFunc(arr, fn) {
   return [...new Set([].concat(...arr.map(c => fn(c).map(x => (x || '').toLowerCase()))))]
     .filter(c => c.length > 0)
@@ -48,14 +100,26 @@ function createSetFromAttrFunc(arr, fn) {
     .sort();
 }
 
-// extract all unique values from an array of objects which contain an array of strings at a given attribute, e.g.
-// createSetFromAttr([{a:["x","y"]}, {a:["z","x"]}, {a:["x","w"]}], "a")  ==  ["w", "x", "y", "z"]
+/**
+ * Extract all unique values from an array of objects which contain an array of strings at a
+ * given attribute, e.g.
+ * `createSetFromAttr([{a:["x","y"]}, {a:["z","x"]}, {a:["x","w"]}], "a")  ==  ["w", "x", "y", "z"]`.
+ * Please see the description of the `createSetFromAttrFunc` function for further information on
+ * how the strings will be processed.
+ * @param {object[]} arr - The array to be processed.
+ * @param {string} attr - The argument to be used from each item of the array. Note that `arr` has to
+ * have an array itself at every value of this attribute.
+ */
 function createSetFromAttr(arr, attr) {
   return createSetFromAttrFunc(arr, n => n[attr]);
 }
 
-// convert an array of actual values to indices in a base array, while eliminating invalid ones, e.g.
-// arrToIndices(["a","b","a","c","c","d"], ["a","b","c"])  ==  [1,2,1,3,3]
+/**
+ * Converts an array of actual values to indices in a base array, while eliminating invalid ones,
+ * e.g. `arrToIndices(["a","b","a","c","c","d"], ["a","b","c"])  ==  [1,2,1,3,3]`.
+ * @param {string[]} arr - The array with values, most of which should appear in the `base` array.
+ * @param {string[]} base - The list of base values to be used.
+ */
 function arrToIndices(arr, base) {
   return (arr || []).map(x => base.indexOf(x.toLowerCase())).filter(x => x !== -1);
 }
@@ -69,10 +133,20 @@ function accumulateAttr(arr, attr, fn, alt) {
   );
 }
 
+/**
+ * Finds the minimal value of an attribute in a list of objects.
+ * @param {object[]} arr - The array to be processed.
+ * @param {string} attr - The attribute that will be used to determine the minimal value of.
+ */
 function minAttr(arr, attr) {
   return accumulateAttr(arr, attr, a => Math.min(...a), Infinity);
 }
 
+/**
+ * Finds the maximal value of an attribute in a list of objects.
+ * @param {object[]} arr - The array to be processed.
+ * @param {string} attr - The attribute that will be used to determine the maximal value of.
+ */
 function maxAttr(arr, attr) {
   return accumulateAttr(arr, attr, a => Math.max(...a), -Infinity);
 }
@@ -83,6 +157,12 @@ function extremeAttr(arr, attr) {
   return ret;
 }
 
+/**
+ * Returns a value that is in the desired range/interval, i.e. returns the range's `min` value
+ * if `val` is below that, `max` if `val` is above that or `val` itself if it's in the range.
+ * @param {number} val - The value to be clamped.
+ * @param {object} rng - An object expressing the desired range using `min` and `max` attributes.
+ */
 function clamp(val, rng) {
   if (val < rng.min) return rng.min;
   if (val > rng.max) return rng.max;
@@ -163,14 +243,15 @@ class JoinedOneHotVector {
 
 module.exports = {
   loadBookData,
+  loadShowData,
   loadFormatterMLData,
   writeOutputData,
   writeOutputDataBinary,
+  createSetFromAttrFunc,
   arrToIndices,
   minAttr,
   maxAttr,
   clamp,
-  createSetFromAttrFunc,
   writeJSONSetFromAttr,
   JoinedOneHotVector,
 };
