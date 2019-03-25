@@ -91,7 +91,7 @@ function isSuitableChar(character) {
     }
 
     // copy data that is to stay the same
-    // ref_ch.name = ch.name; //name only necessary for testing
+    ref_ch.name = ch.name;
 	// page rank is taken as a double-log (adjusted for zeros)
 	// also consider the case where the pageRank is missing
 	if (ch.pageRank == null || ch.pageRank == undefined) {
