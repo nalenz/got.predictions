@@ -15,17 +15,25 @@ dirnameMain = os.path.dirname(__main__.__file__)
 
 
 
-def readMLDataFile(name):
-  with open(os.path.join(dirname, "../../formatter/output/ml-data/" + name + ".json"), "r") as f:
+def readMLDataFile(worker, name):
+  with open(os.path.join(dirname, "../../" + worker + "/output/ml-data/" + name + ".json"), "r") as f:
     return json.load(f)
+
+def readBookMLDataFile(name):
+  return readMLDataFile("formatter", name)
+
+def readShowMLDataFile(name):
+  return readMLDataFile("formatter-show", name)
+
+
 
 def readFormattedBinaryMLByteArray(f):
   num, = struct.unpack("<i", f[0:4])
   len, = struct.unpack("<i", f[4:8])
   return np.reshape(np.frombuffer(f[8:], dtype=np.float32), [num, len])
 
-def readFormattedBinaryMLFile(name):
-  filename = os.path.join(dirname, "../../formatter-neural/output/" + name + ".dat")
+def readFormattedBinaryMLFile(worker, name):
+  filename = os.path.join(dirname, "../../" + worker + "/output/" + name + ".dat")
   if os.path.isfile(filename):
     with open(filename, "rb") as f:
       return readFormattedBinaryMLByteArray(f.read())
@@ -33,6 +41,14 @@ def readFormattedBinaryMLFile(name):
     with open(filename + ".gz", "rb") as f:
       return readFormattedBinaryMLByteArray(zlib.decompress(f.read()))
 
-def writeJSON(name, obj):
+def readFormattedBinaryBookMLFile(name):
+  return readFormattedBinaryMLFile("formatter-neural", name)
+
+def readFormattedBinaryShowMLFile(name):
+  return readFormattedBinaryMLFile("formatter-neural-show", name)
+
+
+
+def writeJSON(name, obj, pretty=False):
   with open(os.path.join(dirnameMain, "output/" + name + ".json"), "w") as f:
-    json.dump(obj, f)
+    json.dump(obj, f, indent=4 if pretty else None)

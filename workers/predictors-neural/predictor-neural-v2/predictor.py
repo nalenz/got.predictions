@@ -17,11 +17,11 @@ from config import *
 
 
 # read character training and prediction data
-charsTrain = readMLDataFile("chars-to-train")
-charsPredict = readMLDataFile("chars-to-predict")
-dataPredict = readFormattedBinaryMLFile("v2-data-predict")
-dataTrain = readFormattedBinaryMLFile("v2-data-train")
-labelsTrain = readFormattedBinaryMLFile("v2-labels-train")
+charsTrain = readBookMLDataFile("chars-to-train")
+charsPredict = readBookMLDataFile("chars-to-predict")
+dataPredict = readFormattedBinaryBookMLFile("v2-data-predict")
+dataTrain = readFormattedBinaryBookMLFile("v2-data-train")
+labelsTrain = readFormattedBinaryBookMLFile("v2-labels-train")
 
 
 
