@@ -1,0 +1,587 @@
+[
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebcc",
+        "founder": [],
+        "location": "The Qhoyne",
+        "name": "Ar Noy",
+        "placesOfNote": [],
+        "religion": [],
+        "rulers": [],
+        "type": "City"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebcd",
+        "founder": [],
+        "location": "Essos",
+        "name": "Asshai",
+        "placesOfNote": [],
+        "religion": [
+            "Lord of Light",
+            "Religion"
+        ],
+        "rulers": [],
+        "type": "City"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebce",
+        "founder": [
+            "Ghiscari Empire"
+        ],
+        "location": "Slaver's Bay",
+        "name": "Astapor",
+        "placesOfNote": [
+            "Plaza of Pride",
+            "Walk of Punishment (Astapor)"
+        ],
+        "religion": [
+            "Ghiscari religion"
+        ],
+        "rulers": [
+            "Good Masters",
+            "Cleon",
+            "Astapori ruling council"
+        ],
+        "type": "Mercantile city-state"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebcf",
+        "founder": [],
+        "location": "Hyrkoon",
+        "name": "Bayasabhad",
+        "placesOfNote": [],
+        "religion": [],
+        "rulers": [],
+        "type": "City-state"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebd0",
+        "founder": [],
+        "location": "Essos",
+        "name": "Bhorash",
+        "placesOfNote": [],
+        "religion": [],
+        "rulers": [],
+        "type": "City"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebd1",
+        "founder": [
+            "Moonsingers"
+        ],
+        "location": "The Free Cities",
+        "name": "Braavos",
+        "placesOfNote": [
+            "Titan of Braavos",
+            "Arsenal of Braavos",
+            "House of Black and White",
+            "Sealord&apos;s Palace",
+            "Ragman Harbor"
+        ],
+        "religion": [],
+        "rulers": [
+            "Sealord of Braavos"
+        ],
+        "type": "Mercantile city-state"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebd2",
+        "founder": [],
+        "location": "On the Rhoyne",
+        "name": "Chroyane",
+        "placesOfNote": [],
+        "religion": [],
+        "rulers": [],
+        "type": "City"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebd3",
+        "founder": [
+            "Valyrian Freehold"
+        ],
+        "location": "Valyrian Peninsula/Slaver's Bay",
+        "name": "Elyria",
+        "placesOfNote": [],
+        "religion": [],
+        "rulers": [],
+        "type": "Mercantile city-state"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebd4",
+        "founder": [],
+        "location": "Western Essos",
+        "name": "Free Cities",
+        "placesOfNote": [
+            "The Axe",
+            "Braavosian Coastlands",
+            "Disputed Lands",
+            "Flatlands",
+            "Forest of Qohor",
+            "Hills of Norvos",
+            "Orange Shore",
+            "Rhoyne",
+            "Sea of Myrth",
+            "Stepstones"
+        ],
+        "religion": [
+            "Lord of Light",
+            "Moonsingers",
+            "Black Goat of Qohor",
+            "Religion"
+        ],
+        "rulers": [],
+        "type": "Mercantile city-states"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebd5",
+        "founder": [],
+        "location": "The Vale",
+        "name": "Gulltown",
+        "placesOfNote": [],
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [],
+        "type": "City"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebd6",
+        "founder": [
+            "Aegon I Targaryen"
+        ],
+        "location": "The Crownlands",
+        "name": "King's Landing",
+        "placesOfNote": [
+            "Red Keep",
+            "Great Sept of Baelor",
+            "Guildhall of the Alchemists"
+        ],
+        "religion": [
+            "Faith of the Seven",
+            "Religion"
+        ],
+        "rulers": [
+            "King of the Andals and the First Men",
+            "House Lannister",
+            "House Baratheon of King&apos;s Landing",
+            "House Targaryen"
+        ],
+        "type": "Capital city"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebd7",
+        "founder": [],
+        "location": "The Westerlands",
+        "name": "Lannisport",
+        "placesOfNote": [],
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [
+            "House Lannister of Lannisport"
+        ],
+        "type": "Port city"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebd8",
+        "founder": [],
+        "location": "The Free Cities",
+        "name": "Lorath",
+        "placesOfNote": [],
+        "religion": [],
+        "rulers": [],
+        "type": "Mercantile city-state"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebd9",
+        "founder": [
+            "Valyrian Freehold"
+        ],
+        "location": "The Free Cities",
+        "name": "Lys",
+        "placesOfNote": [],
+        "religion": [],
+        "rulers": [],
+        "type": "Mercantile city-state"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebda",
+        "founder": [
+            "Valyrian Freehold"
+        ],
+        "location": "Lands of the Long Summer",
+        "name": "Mantarys",
+        "placesOfNote": [],
+        "religion": [],
+        "rulers": [],
+        "type": "Mercantile city-state"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebdb",
+        "founder": [
+            "Ghiscari Empire"
+        ],
+        "location": "Slaver's Bay",
+        "name": "Meereen",
+        "placesOfNote": [
+            "Great Pyramid",
+            "Temple of the Graces",
+            "Daznak&apos;s Pit"
+        ],
+        "religion": [
+            "Ghiscari religion",
+            "R&apos;hllor"
+        ],
+        "rulers": [
+            "House Targaryen",
+            "Daario Naharis",
+            "Great Masters"
+        ],
+        "type": "Mercantile city-state"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebdc",
+        "founder": [],
+        "location": "The Free Cities",
+        "name": "Myr",
+        "placesOfNote": [],
+        "religion": [],
+        "rulers": [],
+        "type": "Mercantile city-state"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebdd",
+        "founder": [],
+        "location": "Essos",
+        "name": "New Ghis",
+        "placesOfNote": [],
+        "religion": [],
+        "rulers": [],
+        "type": "City"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebde",
+        "founder": [],
+        "location": "The Free Cities",
+        "name": "Norvos",
+        "placesOfNote": [],
+        "religion": [
+            "Bearded Priests of Norvos"
+        ],
+        "rulers": [
+            "Bearded Priests of Norvos"
+        ],
+        "type": "Mercantile city-state, Theocracy"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebdf",
+        "founder": [],
+        "location": "Essos",
+        "name": "Ny Sar",
+        "placesOfNote": [],
+        "religion": [],
+        "rulers": [],
+        "type": "City"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebe0",
+        "founder": [],
+        "location": "Ghiscar",
+        "name": "Old Ghis",
+        "placesOfNote": [],
+        "religion": [],
+        "rulers": [],
+        "type": "City"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebe1",
+        "founder": [
+            "Valyrian Freehold"
+        ],
+        "location": "Valyrian Peninsula",
+        "name": "Old Valyria",
+        "placesOfNote": [],
+        "religion": [
+            "Valyrian religion"
+        ],
+        "rulers": [
+            "Dragonlords"
+        ],
+        "type": "Greyscale quarantine areaCapital city "
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebe2",
+        "founder": [],
+        "location": "The Reach",
+        "name": "Oldtown",
+        "placesOfNote": [
+            "The Hightower",
+            "Citadel",
+            "Starry Sept"
+        ],
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [
+            "House Hightower"
+        ],
+        "type": "Major port city"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebe3",
+        "founder": [
+            "Valyrian Freehold"
+        ],
+        "location": "Essos",
+        "name": "Oros",
+        "placesOfNote": [],
+        "religion": [],
+        "rulers": [],
+        "type": "City"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebe4",
+        "founder": [
+            "Valyrian Freehold"
+        ],
+        "location": "The Free Cities",
+        "name": "Pentos",
+        "placesOfNote": [
+            "Illyrio Mopatis"
+        ],
+        "religion": [],
+        "rulers": [
+            "Prince of Pentos",
+            "Magister"
+        ],
+        "type": "Mercantile city-state"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebe5",
+        "founder": [],
+        "location": "Ib",
+        "name": "Port of Ibben",
+        "placesOfNote": [],
+        "religion": [],
+        "rulers": [],
+        "type": "Capital city"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebe6",
+        "founder": [],
+        "location": "Essos",
+        "name": "Qarth",
+        "placesOfNote": [
+            "Hall of a Thousand Thrones",
+            "House of the Undying",
+            "Garden of Bones (Qarth)"
+        ],
+        "religion": [],
+        "rulers": [
+            "The Thirteen",
+            "King of Qarth"
+        ],
+        "type": "Mercantile city-state"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebe7",
+        "founder": [
+            "Valyrian Freehold"
+        ],
+        "location": "The Free Cities",
+        "name": "Qohor",
+        "placesOfNote": [],
+        "religion": [
+            "Black Goat"
+        ],
+        "rulers": [],
+        "type": "Mercantile city-state"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebe8",
+        "founder": [],
+        "location": "Hyrkoon",
+        "name": "Samyrian",
+        "placesOfNote": [],
+        "religion": [],
+        "rulers": [],
+        "type": ""
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebe9",
+        "founder": [],
+        "location": "Essos",
+        "name": "Sar Mell",
+        "placesOfNote": [],
+        "religion": [],
+        "rulers": [],
+        "type": "Ruin"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebea",
+        "founder": [],
+        "location": "Kingdom of Sarnor",
+        "name": "Sathar",
+        "placesOfNote": [],
+        "religion": [],
+        "rulers": [],
+        "type": "Ruin"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebeb",
+        "founder": [],
+        "location": "Dorne",
+        "name": "Sunspear",
+        "placesOfNote": [
+            "Spear Tower",
+            "Tower of the Sun (page does not exist)"
+        ],
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [
+            "Ellaria Sand",
+            "House Martell"
+        ],
+        "type": "Castle, regional capital"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebec",
+        "founder": [
+            "Valyrian Freehold"
+        ],
+        "location": "Valyrian Peninsula/Slaver's Bay",
+        "name": "Tolos",
+        "placesOfNote": [],
+        "religion": [],
+        "rulers": [],
+        "type": "Mercantile city-state"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebed",
+        "founder": [
+            "Valyrian Freehold"
+        ],
+        "location": "The Valyrian Peninsula",
+        "name": "Tyria",
+        "placesOfNote": [],
+        "religion": [],
+        "rulers": [],
+        "type": "City, ruins"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebee",
+        "founder": [],
+        "location": "The Free Cities",
+        "name": "Tyrosh",
+        "placesOfNote": [],
+        "religion": [],
+        "rulers": [
+            "Archon"
+        ],
+        "type": "Mercantile city-state"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebef",
+        "founder": [],
+        "location": "Dothraki sea",
+        "name": "Vaes Dothrak",
+        "placesOfNote": [
+            "Horse Gate",
+            "Godsway",
+            "Temple of the dosh khaleen"
+        ],
+        "religion": [
+            "Great Stallion"
+        ],
+        "rulers": [
+            "Dosh khaleen"
+        ],
+        "type": "Capital city"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebf0",
+        "founder": [
+            "Valyrian Freehold"
+        ],
+        "location": "The Free Cities",
+        "name": "Volantis",
+        "placesOfNote": [
+            "Long Bridge"
+        ],
+        "religion": [
+            "Lord of Light"
+        ],
+        "rulers": [
+            "Triarchs"
+        ],
+        "type": "Mercantile city-state, Freehold / elected triumvirate"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebf1",
+        "founder": [],
+        "location": "The North",
+        "name": "White Harbor",
+        "placesOfNote": [],
+        "religion": [
+            "Faith of the Seven",
+            "Old Gods of the Forest"
+        ],
+        "rulers": [
+            "House Manderly"
+        ],
+        "type": "Port city"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817974d1c4e54abc7ebf2",
+        "founder": [],
+        "location": "Bay of Dragons",
+        "name": "Yunkai",
+        "placesOfNote": [],
+        "religion": [
+            "Ghiscari religion"
+        ],
+        "rulers": [
+            "Wise Masters"
+        ],
+        "type": "Mercantile city-state"
+    }
+]

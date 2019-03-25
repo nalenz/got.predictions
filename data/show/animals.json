@@ -1,0 +1,362 @@
+[
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb3d",
+        "diet": "",
+        "habitat": [],
+        "name": "Animals and Plants",
+        "range": [],
+        "status": ""
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb3e",
+        "diet": "Carnivore",
+        "habitat": [
+            "Jungles"
+        ],
+        "name": "Basilisks",
+        "range": [
+            "Sothoryos",
+            "Yi Ti"
+        ],
+        "status": "Active"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb3f",
+        "diet": "",
+        "habitat": [],
+        "name": "Bastard's girls",
+        "range": [],
+        "status": "Uncertain"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb40",
+        "diet": "Omnivores",
+        "habitat": [
+            "Forests",
+            "Mountains"
+        ],
+        "name": "Bears",
+        "range": [
+            "Westeros",
+            "Essos"
+        ],
+        "status": "Active"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb41",
+        "diet": "Carnivore",
+        "habitat": [
+            "Cities, castles, homesteads , almost everywhere else except for arctic regions and rolling sands deserts ."
+        ],
+        "name": "Cats",
+        "range": [
+            "Westeros",
+            "Essos"
+        ],
+        "status": "Active"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb42",
+        "diet": "Carnivore",
+        "habitat": [
+            "Forests",
+            "Mountains"
+        ],
+        "name": "Direwolves",
+        "range": [
+            "Beyond the Wall",
+            "The North",
+            "The Riverlands"
+        ],
+        "status": "Majority north of the WallMinority south of the WallBelieved extinct south of the Wall "
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb43",
+        "diet": "Omnivore",
+        "habitat": [
+            "Cities, castles, homesteads "
+        ],
+        "name": "Dogs",
+        "range": [
+            "Westeros",
+            "Essos"
+        ],
+        "status": "Active"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb44",
+        "diet": "Herbivore",
+        "habitat": [
+            "Arid plains, castles, and towns of Dorne"
+        ],
+        "name": "Dornish sand steed",
+        "range": [
+            "Westeros"
+        ],
+        "status": "Domesticated"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb45",
+        "diet": "Obligate carnivore",
+        "habitat": [
+            "Preferably volcanic mountains"
+        ],
+        "name": "Dragons",
+        "range": [
+            "Westeros",
+            "Slaver's Bay",
+            "Valyrian Freehold",
+            "The Known World"
+        ],
+        "status": "Extinct from 150 AC - 298 ACEndangered"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb46",
+        "diet": "Herbivores",
+        "habitat": [
+            "Deserts"
+        ],
+        "name": "Dwarf elephants",
+        "range": [
+            "Volantis"
+        ],
+        "status": "Active"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb47",
+        "diet": "Herbivores",
+        "habitat": [
+            "Plains",
+            "Deserts"
+        ],
+        "name": "Elephants",
+        "range": [
+            "Essos"
+        ],
+        "status": "Active"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb48",
+        "diet": "Herbivore",
+        "habitat": [
+            "Plains"
+        ],
+        "name": "Horses",
+        "range": [
+            "Westeros",
+            "Essos"
+        ],
+        "status": "Domesticated"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb49",
+        "diet": "",
+        "habitat": [],
+        "name": "Ice dragons",
+        "range": [],
+        "status": ""
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb4a",
+        "diet": "",
+        "habitat": [],
+        "name": "Ice spiders",
+        "range": [],
+        "status": ""
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb4b",
+        "diet": "",
+        "habitat": [
+            "Ocean depths"
+        ],
+        "name": "Krakens",
+        "range": [
+            "The Known World"
+        ],
+        "status": ""
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb4c",
+        "diet": "Carnivore",
+        "habitat": [
+            "Plains",
+            "Mountains",
+            "Forests"
+        ],
+        "name": "Lions",
+        "range": [
+            "The Westerlands",
+            "Dothraki Sea"
+        ],
+        "status": "Nigh-extinct in Westeros, active in many regions of Essos."
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb4d",
+        "diet": "Carnivore",
+        "habitat": [
+            "Swamps"
+        ],
+        "name": "Lizard-lions",
+        "range": [
+            "The Neck",
+            "Westeros"
+        ],
+        "status": "Active"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb4e",
+        "diet": "Herbivore",
+        "habitat": [
+            "Tundra"
+        ],
+        "name": "Mammoths",
+        "range": [
+            "Beyond the Wall",
+            "Westeros"
+        ],
+        "status": "Active"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb4f",
+        "diet": "Carnivore",
+        "habitat": [
+            "Jungles"
+        ],
+        "name": "Manticores",
+        "range": [],
+        "status": "Active"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb50",
+        "diet": "Omnivore",
+        "habitat": [
+            "Rivers"
+        ],
+        "name": "Old men of the river",
+        "range": [
+            "Rhoyne",
+            "Essos"
+        ],
+        "status": "Active"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb51",
+        "diet": "Omnivore",
+        "habitat": [
+            "Forests",
+            "Plains",
+            "Mountains"
+        ],
+        "name": "Ravens",
+        "range": [
+            "Westeros",
+            "Beyond the Wall"
+        ],
+        "status": "Active, both domesticated and wild"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb52",
+        "diet": "",
+        "habitat": [
+            "Seas and Oceans"
+        ],
+        "name": "Sea dragons",
+        "range": [
+            "Sunset Sea"
+        ],
+        "status": "Possibly extinct"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb53",
+        "diet": "",
+        "habitat": [],
+        "name": "Ser Pounce",
+        "range": [],
+        "status": "Deceased"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb54",
+        "diet": "",
+        "habitat": [],
+        "name": "Shadow (snow bear)",
+        "range": [],
+        "status": "Alive"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb55",
+        "diet": "Carnivore",
+        "habitat": [
+            "Mountains",
+            "Forests"
+        ],
+        "name": "Shadowcats",
+        "range": [
+            "Beyond the Wall",
+            "Mountains of the Moon",
+            "The Vale of Arryn",
+            "Westeros"
+        ],
+        "status": "Active"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb56",
+        "diet": "",
+        "habitat": [],
+        "name": "The silver",
+        "range": [],
+        "status": "Deceased"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb57",
+        "diet": "Omnivore",
+        "habitat": [
+            "Tundra",
+            "Forests",
+            "Mountains"
+        ],
+        "name": "Snow bears",
+        "range": [
+            "Beyond the Wall"
+        ],
+        "status": "Extant"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817934d1c4e54abc7eb58",
+        "diet": "Herbivore",
+        "habitat": [
+            "Deserts"
+        ],
+        "name": "Zorses",
+        "range": [],
+        "status": "Active"
+    }
+]

@@ -1,0 +1,315 @@
+[
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb05",
+        "location": "The Reach",
+        "name": "Ashford",
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [
+            "House Ashford"
+        ],
+        "type": "Castle and town"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb06",
+        "location": "Westeros",
+        "name": "Barrowton",
+        "religion": [
+            "Old Gods of the Forest"
+        ],
+        "rulers": [
+            "House Dustin"
+        ],
+        "type": "Town"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb07",
+        "location": "The Crownlands",
+        "name": "Duskendale",
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [
+            "House Rykker"
+        ],
+        "type": "Port town"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb08",
+        "location": "the Riverlands",
+        "name": "Fairmarket",
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [],
+        "type": "Town"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb09",
+        "location": "Storrold's Point",
+        "name": "Hardhome",
+        "religion": [
+            "Old Gods of the Forest"
+        ],
+        "rulers": [],
+        "type": "Village "
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb0a",
+        "location": "Pyke",
+        "name": "Lordsport",
+        "religion": [
+            "Drowned God"
+        ],
+        "rulers": [
+            "House Botley"
+        ],
+        "type": "TownPort"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb0b",
+        "location": "Westeros",
+        "name": "Maidenpool",
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [
+            "House Mooton"
+        ],
+        "type": "Town"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb0c",
+        "location": "The Gift",
+        "name": "Mole's Town",
+        "religion": [
+            "Old Gods of the Forest"
+        ],
+        "rulers": [],
+        "type": "Village "
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb0d",
+        "location": "The Riverlands",
+        "name": "Mummer's Ford",
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [],
+        "type": "Town"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb0e",
+        "location": "The Riverlands",
+        "name": "Pennytree",
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [],
+        "type": "Town"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb0f",
+        "location": "Basilisk Isles",
+        "name": "Port Plunder",
+        "religion": [],
+        "rulers": [],
+        "type": "Town / Pirate den"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb10",
+        "location": "The Iron Islands",
+        "name": "Red Harbor",
+        "religion": [
+            "Drowned God"
+        ],
+        "rulers": [],
+        "type": "Harbor town"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb11",
+        "location": "The Crownlands",
+        "name": "Rook's Rest",
+        "religion": [],
+        "rulers": [],
+        "type": "Coastal town"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb12",
+        "location": "The Crownlands",
+        "name": "Rosby",
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [
+            "House Rosby"
+        ],
+        "type": "Castle and town"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb13",
+        "location": "Westeros",
+        "name": "Salt Rock",
+        "religion": [],
+        "rulers": [],
+        "type": "Town"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb14",
+        "location": "The Riverlands",
+        "name": "Saltpans",
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [],
+        "type": "Village"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb15",
+        "location": "Essos",
+        "name": "Selhorys",
+        "religion": [],
+        "rulers": [
+            "Volantis"
+        ],
+        "type": "Town"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb16",
+        "location": "The Three Sisters",
+        "name": "Sisterton",
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [],
+        "type": "Town"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb17",
+        "location": "the Crownlands",
+        "name": "Sow's Horn",
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [],
+        "type": "Town"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb18",
+        "location": "Westeros",
+        "name": "Stoney Sept",
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [],
+        "type": "Town"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb19",
+        "location": "Basilisk Isles",
+        "name": "Sty",
+        "religion": [],
+        "rulers": [],
+        "type": "Town / Pirate den"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb1a",
+        "location": "Essos",
+        "name": "Valysar",
+        "religion": [],
+        "rulers": [
+            "Volantis"
+        ],
+        "type": "Town"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb1b",
+        "location": "Essos",
+        "name": "Volon Therys",
+        "religion": [],
+        "rulers": [
+            "Volantis"
+        ],
+        "type": "Town"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb1c",
+        "location": "The Riverlands",
+        "name": "Wendish Town",
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [],
+        "type": "Town"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb1d",
+        "location": "Westeros",
+        "name": "White Tree",
+        "religion": [
+            "Old Gods of the Forest"
+        ],
+        "rulers": [],
+        "type": "Village"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb1e",
+        "location": "Basilisk Isles",
+        "name": "Whore's Gash",
+        "religion": [],
+        "rulers": [],
+        "type": "Town / Pirate den"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb1f",
+        "location": "The Vale of Arryn",
+        "name": "Wickendon",
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [],
+        "type": "Town"
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817924d1c4e54abc7eb20",
+        "location": "Outside the walls of Winterfell",
+        "name": "Winter town",
+        "religion": [
+            "Old Gods of the Forest"
+        ],
+        "rulers": [
+            "House Stark",
+            "House Bolton"
+        ],
+        "type": "Town"
+    }
+]

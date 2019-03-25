@@ -1,0 +1,1039 @@
+[
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb7f",
+        "castles": [],
+        "cities": [],
+        "culture": [],
+        "founder": [],
+        "geography": "",
+        "location": "",
+        "name": "The Axe",
+        "placesOfNote": [],
+        "regionCapital": "",
+        "religion": [],
+        "rulers": [],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb80",
+        "castles": [],
+        "cities": [],
+        "culture": [],
+        "founder": [],
+        "geography": "",
+        "location": "",
+        "name": "Barrowlands",
+        "placesOfNote": [],
+        "regionCapital": "",
+        "religion": [],
+        "rulers": [],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb81",
+        "castles": [],
+        "cities": [],
+        "culture": [
+            "White Walkers",
+            "Children of the Forest",
+            "Giants",
+            "Free Folk"
+        ],
+        "founder": [],
+        "geography": "Sub-arctic taiga forest freezing mountains and glaciers , subarctic tundra, to uninhabitable polar waste ",
+        "location": "North of the Seven Kingdoms",
+        "name": "Beyond the Wall",
+        "placesOfNote": [
+            "Fist of the First Men",
+            "Frostfangs",
+            "Frozen Shore",
+            "Haunted Forest",
+            "Lands of Always Winter",
+            "Skirling Pass",
+            "Milkwater",
+            "Thenn (region)",
+            "Storrold&apos;s Point",
+            "Craster&apos;s Keep",
+            "Cave of the Three-Eyed Raven"
+        ],
+        "regionCapital": "",
+        "religion": [
+            "Old Gods of the Forest",
+            "White Walkers"
+        ],
+        "rulers": [
+            "Night King",
+            "King-Beyond-the-Wall"
+        ],
+        "towns": [
+            "Hardhome"
+        ]
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb82",
+        "castles": [],
+        "cities": [],
+        "culture": [],
+        "founder": [],
+        "geography": "",
+        "location": "",
+        "name": "Braavosian Coastlands",
+        "placesOfNote": [],
+        "regionCapital": "",
+        "religion": [],
+        "rulers": [],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb83",
+        "castles": [
+            "Antlers",
+            "Red Keep",
+            "Dragonstone (castle)",
+            "Dyre Den",
+            "The Whispers",
+            "Castle Stokeworth",
+            "Sharp Point",
+            "Stonedance"
+        ],
+        "cities": [],
+        "culture": [
+            "Andals"
+        ],
+        "founder": [
+            "Aegon I Targaryen"
+        ],
+        "geography": "Plains and river valleys, with forests in the south and in Crackclaw Point to the north; temperate/Mediterranean climate on the coast around King's Landing",
+        "location": "Westeros",
+        "name": "The Crownlands",
+        "placesOfNote": [
+            "Blackwater Bay",
+            "Blackwater Rush",
+            "Claw Isle",
+            "Crackclaw Point",
+            "Kingswood",
+            "Kingsroad",
+            "Dragonstone (island)",
+            "Driftmark",
+            "Spears of the Merling King"
+        ],
+        "regionCapital": "King's Landing",
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [
+            "King of the Andals, the Rhoynar, and the First Men",
+            "House Lannister",
+            "House Baratheon of King&apos;s Landing",
+            "House Targaryen"
+        ],
+        "towns": [
+            "Duskendale",
+            "Rosby",
+            "Rook&apos;s Rest",
+            "Sow&apos;s Horn"
+        ]
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb84",
+        "castles": [],
+        "cities": [],
+        "culture": [],
+        "founder": [],
+        "geography": "",
+        "location": "",
+        "name": "Dagger Lake",
+        "placesOfNote": [],
+        "regionCapital": "",
+        "religion": [],
+        "rulers": [],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb85",
+        "castles": [],
+        "cities": [],
+        "culture": [],
+        "founder": [],
+        "geography": "Burned out farmlands, perpetual warzone.",
+        "location": "Between the southwestern Free Cities",
+        "name": "Disputed Lands",
+        "placesOfNote": [],
+        "regionCapital": "",
+        "religion": [],
+        "rulers": [],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb86",
+        "castles": [
+            "Blackmont",
+            "Ghost Hill",
+            "Godsgrace",
+            "Hellholt",
+            "Kingsgrave",
+            "Lemonwood",
+            "Saltshore",
+            "Sandstone",
+            "Skyreach",
+            "Starfall",
+            "The Tor",
+            "Yronwood",
+            "Vaith",
+            "Water Gardens"
+        ],
+        "cities": [],
+        "culture": [
+            "Dornishmen",
+            "Rhoynar",
+            "Andal",
+            "First Men"
+        ],
+        "founder": [
+            "Mors Martell",
+            "Nymeria"
+        ],
+        "geography": "Parched, temperate to arid; mountains , rolling-sands deserts , semi-arid hills punctuated by river valleys .",
+        "location": "Westeros",
+        "name": "Dorne",
+        "placesOfNote": [
+            "Torentine",
+            "Brimstone",
+            "Greenblood",
+            "Red Mountains",
+            "Scourge",
+            "Vaith (river)",
+            "Prince&apos;s Pass",
+            "Boneway"
+        ],
+        "regionCapital": "Sunspear",
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [
+            "Ellaria Sand",
+            "House Martell"
+        ],
+        "towns": [
+            "Vulture&apos;s Roost"
+        ]
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb87",
+        "castles": [
+            "Nightsong",
+            "Blackhaven",
+            "Stonehelm",
+            "Summerhall"
+        ],
+        "cities": [],
+        "culture": [
+            "Andals"
+        ],
+        "founder": [],
+        "geography": "Tall, cold mountain highlands",
+        "location": "the eastern Red Mountains",
+        "name": "Dornish Marches",
+        "placesOfNote": [],
+        "regionCapital": "",
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [
+            "House Caron"
+        ],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb88",
+        "castles": [],
+        "cities": [],
+        "culture": [
+            "Dothraki"
+        ],
+        "founder": [],
+        "geography": "Vast open-steppe grass plains, punctuated by rivers and the occasional mountain.Temperate to warm.",
+        "location": "central Essos",
+        "name": "Dothraki Sea",
+        "placesOfNote": [],
+        "regionCapital": "Vaes Dothrak",
+        "religion": [
+            "Great Stallion"
+        ],
+        "rulers": [
+            "Khal"
+        ],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb89",
+        "castles": [],
+        "cities": [],
+        "culture": [],
+        "founder": [],
+        "geography": "",
+        "location": "",
+        "name": "The Fingers",
+        "placesOfNote": [],
+        "regionCapital": "",
+        "religion": [],
+        "rulers": [],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb8a",
+        "castles": [],
+        "cities": [],
+        "culture": [],
+        "founder": [],
+        "geography": "",
+        "location": "",
+        "name": "Flatlands",
+        "placesOfNote": [],
+        "regionCapital": "",
+        "religion": [],
+        "rulers": [],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb8b",
+        "castles": [],
+        "cities": [],
+        "culture": [],
+        "founder": [],
+        "geography": "Heavily Forested",
+        "location": "Ifequevron",
+        "name": "The Footprint",
+        "placesOfNote": [],
+        "regionCapital": "",
+        "religion": [],
+        "rulers": [],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb8c",
+        "castles": [],
+        "cities": [],
+        "culture": [],
+        "founder": [],
+        "geography": "",
+        "location": "",
+        "name": "Ghiscari Strait",
+        "placesOfNote": [],
+        "regionCapital": "",
+        "religion": [],
+        "rulers": [],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb8d",
+        "castles": [
+            "Castle Black",
+            "Eastwatch",
+            "Shadow Tower",
+            "Queenscrown"
+        ],
+        "cities": [],
+        "culture": [
+            "First Men"
+        ],
+        "founder": [
+            "Brandon Stark (the Builder)"
+        ],
+        "geography": "Sub-arctic tundra, forests, mountains in the west.",
+        "location": "Northern Westeros",
+        "name": "The Gift",
+        "placesOfNote": [
+            "Kingsroad"
+        ],
+        "regionCapital": "Castle Black",
+        "religion": [
+            "Old Gods of the Forest",
+            "Faith of the Seven"
+        ],
+        "rulers": [
+            "Lord Commander of the Night&apos;s Watch"
+        ],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb8e",
+        "castles": [],
+        "cities": [],
+        "culture": [],
+        "founder": [],
+        "geography": "",
+        "location": "",
+        "name": "Golden Fields",
+        "placesOfNote": [],
+        "regionCapital": "",
+        "religion": [],
+        "rulers": [],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb8f",
+        "castles": [],
+        "cities": [],
+        "culture": [],
+        "founder": [],
+        "geography": "",
+        "location": "",
+        "name": "Hills of Norvos",
+        "placesOfNote": [],
+        "regionCapital": "",
+        "religion": [],
+        "rulers": [],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb90",
+        "castles": [
+            "Ten Towers"
+        ],
+        "cities": [],
+        "culture": [
+            "Ironborn"
+        ],
+        "founder": [],
+        "geography": "Wind-swept islands, rocky poor soil, cold and stormy.",
+        "location": "Westeros",
+        "name": "Iron Islands",
+        "placesOfNote": [
+            "Red Harbor",
+            "Ironman&apos;s Bay",
+            "Pyke (island)",
+            "Harlaw",
+            "Great Wyk",
+            "Old Wyk",
+            "Orkmont",
+            "Saltcliffe",
+            "Blacktyde",
+            "Lonely Light"
+        ],
+        "regionCapital": "Pyke",
+        "religion": [
+            "Drowned God",
+            "Faith of the Seven"
+        ],
+        "rulers": [
+            "King of the Iron Islands",
+            "House Greyjoy",
+            "House Hoare"
+        ],
+        "towns": [
+            "Lordsport"
+        ]
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb91",
+        "castles": [],
+        "cities": [],
+        "culture": [],
+        "founder": [],
+        "geography": "",
+        "location": "",
+        "name": "Ironman's Bay",
+        "placesOfNote": [],
+        "regionCapital": "",
+        "religion": [],
+        "rulers": [],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb92",
+        "castles": [],
+        "cities": [],
+        "culture": [
+            "Lhazareen"
+        ],
+        "founder": [],
+        "geography": "Semi-arid hills and plateaus",
+        "location": "Essos",
+        "name": "Lhazar",
+        "placesOfNote": [],
+        "regionCapital": "",
+        "religion": [
+            "Great Shepherd"
+        ],
+        "rulers": [],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb93",
+        "castles": [],
+        "cities": [],
+        "culture": [],
+        "founder": [],
+        "geography": "",
+        "location": "",
+        "name": "Lonely Hills",
+        "placesOfNote": [],
+        "regionCapital": "",
+        "religion": [],
+        "rulers": [],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb94",
+        "castles": [],
+        "cities": [],
+        "culture": [],
+        "founder": [],
+        "geography": "",
+        "location": "",
+        "name": "Mountains of the Moon",
+        "placesOfNote": [],
+        "regionCapital": "",
+        "religion": [],
+        "rulers": [],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb95",
+        "castles": [
+            "Moat Cailin",
+            "Greywater Watch"
+        ],
+        "cities": [],
+        "culture": [
+            "First Men",
+            "Andal"
+        ],
+        "founder": [],
+        "geography": "Rivers, swamps, bogs, humid.",
+        "location": "Westeros",
+        "name": "The Neck",
+        "placesOfNote": [
+            "Kingsroad"
+        ],
+        "regionCapital": "Greywater Watch",
+        "religion": [
+            "Old Gods of the Forest"
+        ],
+        "rulers": [
+            "House Reed"
+        ],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb96",
+        "castles": [
+            "Castle Cerwyn",
+            "Deepwood Motte",
+            "Flint&apos;s Finger",
+            "Greywater Watch",
+            "Highpoint",
+            "Hornwood",
+            "Ironrath",
+            "Karhold",
+            "Last Hearth",
+            "Moat Cailin",
+            "Oldcastle",
+            "Queenscrown",
+            "Ramsgate",
+            "Rillwater Crossing",
+            "The Dreadfort",
+            "Torrhen&apos;s Square",
+            "Widow&apos;s Watch",
+            "House Dormund"
+        ],
+        "cities": [
+            "White Harbor"
+        ],
+        "culture": [
+            "Northmen",
+            "Andals",
+            "Crannogmen",
+            "The Neck",
+            "First Men",
+            "Giants",
+            "Children of the Forest",
+            "Andal Invasion"
+        ],
+        "founder": [
+            "Brandon Stark (the Builder)"
+        ],
+        "geography": "Rivers and plains, with forests and mountains in the northwest; temperate to sub-arctic.Swamps in the Neck along southern border.",
+        "location": "Seven Kingdoms",
+        "name": "The North",
+        "placesOfNote": [
+            "Barrowlands",
+            "Bay of Ice",
+            "Bay of Seals",
+            "Bear Island",
+            "The Bite",
+            "Blazewater Bay",
+            "Broken Branch",
+            "Cape Kraken",
+            "The Gift",
+            "The Grey Cliffs",
+            "Ironman&apos;s Bay",
+            "Last River",
+            "Long Lake",
+            "The Neck",
+            "The Rills",
+            "Sea Dragon Point",
+            "Skagos",
+            "Skane",
+            "Stony Shore",
+            "The Wall",
+            "Weeping Water",
+            "White Knife",
+            "Wolfswood"
+        ],
+        "regionCapital": "Winterfell",
+        "religion": [
+            "Old Gods of the Forest",
+            "Faith of the Seven"
+        ],
+        "rulers": [
+            "Jon Snow",
+            "House Stark",
+            "House Bolton"
+        ],
+        "towns": [
+            "Barrowton"
+        ]
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb97",
+        "castles": [],
+        "cities": [],
+        "culture": [],
+        "founder": [],
+        "geography": "",
+        "location": "",
+        "name": "Orange Shore",
+        "placesOfNote": [],
+        "regionCapital": "",
+        "religion": [],
+        "rulers": [],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb98",
+        "castles": [
+            "Bandallon",
+            "Bitterbridge",
+            "Blackcrown",
+            "Brightwater Keep",
+            "Cider Hall",
+            "Goldengrove",
+            "Grassy Vale",
+            "Honeyholt",
+            "Horn Hill",
+            "Old Oak",
+            "Red Lake",
+            "Three Towers",
+            "Sun House",
+            "Uplands"
+        ],
+        "cities": [
+            "Oldtown"
+        ],
+        "culture": [
+            "Andals"
+        ],
+        "founder": [
+            "Garth Greenhand"
+        ],
+        "geography": "Rivers, forests, fertile plains, temperate to Mediterranean",
+        "location": "Westeros",
+        "name": "The Reach",
+        "placesOfNote": [
+            "The Arbor",
+            "Blueburn",
+            "Cockleswhent",
+            "Field of Fire",
+            "Honeywine",
+            "Mander",
+            "Redwyne Straits",
+            "Roseroad",
+            "Searoad",
+            "Shield Islands"
+        ],
+        "regionCapital": "Highgarden",
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [
+            "House Tyrell",
+            "House Gardener"
+        ],
+        "towns": [
+            "Ashford",
+            "Tumbleton"
+        ]
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb99",
+        "castles": [],
+        "cities": [],
+        "culture": [],
+        "founder": [],
+        "geography": "Desert wasteland; low rocky hills, barren windswept plains, dry riverbeds",
+        "location": "Southeastern Essos",
+        "name": "Red Waste",
+        "placesOfNote": [],
+        "regionCapital": "",
+        "religion": [],
+        "rulers": [],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb9a",
+        "castles": [],
+        "cities": [],
+        "culture": [],
+        "founder": [],
+        "geography": "",
+        "location": "",
+        "name": "Redwyne Straits",
+        "placesOfNote": [],
+        "regionCapital": "",
+        "religion": [],
+        "rulers": [],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb9b",
+        "castles": [
+            "Harrenhal",
+            "Pinkmaiden",
+            "Raventree Hall",
+            "Seagard",
+            "Stone Hedge",
+            "The Twins",
+            "Acorn Hall"
+        ],
+        "cities": [],
+        "culture": [
+            "Andals",
+            "Northmen"
+        ],
+        "founder": [],
+        "geography": "Broad and fertile river basins, temperate.",
+        "location": "Westeros",
+        "name": "The Riverlands",
+        "placesOfNote": [
+            "Blackwater Rush",
+            "Cape of Eagles",
+            "Crossroads Inn",
+            "Gods Eye",
+            "Ironman&apos;s Bay",
+            "Isle of Faces",
+            "The Neck",
+            "The Trident",
+            "Whispering Wood",
+            "High Heart",
+            "Hollow Hill"
+        ],
+        "regionCapital": "Riverrun",
+        "religion": [
+            "Faith of the Seven",
+            "Old Gods of the Forest"
+        ],
+        "rulers": [
+            "House Frey",
+            "House Tully",
+            "House Hoare",
+            "House Durrandon",
+            "House Justman",
+            "House Mudd"
+        ],
+        "towns": [
+            "Maidenpool",
+            "Stoney Sept",
+            "Saltpans",
+            "Wendish Town",
+            "Pennytree",
+            "Fairmarket",
+            "Mummer&apos;s Ford"
+        ]
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb9c",
+        "castles": [],
+        "cities": [],
+        "culture": [],
+        "founder": [],
+        "geography": "",
+        "location": "",
+        "name": "Sea of Myrth",
+        "placesOfNote": [],
+        "regionCapital": "",
+        "religion": [],
+        "rulers": [],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb9d",
+        "castles": [],
+        "cities": [],
+        "culture": [],
+        "founder": [],
+        "geography": "",
+        "location": "",
+        "name": "Shield Islands",
+        "placesOfNote": [],
+        "regionCapital": "",
+        "religion": [],
+        "rulers": [],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb9e",
+        "castles": [],
+        "cities": [],
+        "culture": [],
+        "founder": [],
+        "geography": "",
+        "location": "",
+        "name": "Stony Shore",
+        "placesOfNote": [],
+        "regionCapital": "",
+        "religion": [],
+        "rulers": [],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eb9f",
+        "castles": [
+            "Blackhaven",
+            "Bronzegate",
+            "Evenfall Hall",
+            "Felwood",
+            "Griffin&apos;s Roost",
+            "Haystack Hall",
+            "Mistwood",
+            "Nightsong",
+            "Rain House",
+            "Crow&apos;s Nest",
+            "Stonehelm",
+            "Summerhall",
+            "Greenstone"
+        ],
+        "cities": [],
+        "culture": [
+            "Andals"
+        ],
+        "founder": [
+            "Durran Godsgrief"
+        ],
+        "geography": "Heavily forested in the north and south, interrupted by low mountains in the center; stormy, temperateTall, cold mountain highlands in the Dornish Marches of the southwest.",
+        "location": "Westeros",
+        "name": "The Stormlands",
+        "placesOfNote": [
+            "Kingswood",
+            "Rainwood",
+            "Shipbreaker Bay",
+            "Tarth",
+            "Dornish Marches",
+            "Sea of Dorne",
+            "Wendwater",
+            "Prince&apos;s Pass"
+        ],
+        "regionCapital": "Storm's End",
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [
+            "House Baratheon of King&apos;s Landing",
+            "House Baratheon of Storm&apos;s End",
+            "House Baratheon of Dragonstone",
+            "House Durrandon"
+        ],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eba0",
+        "castles": [],
+        "cities": [],
+        "culture": [],
+        "founder": [],
+        "geography": "",
+        "location": "",
+        "name": "Three Sisters",
+        "placesOfNote": [],
+        "regionCapital": "",
+        "religion": [],
+        "rulers": [],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eba1",
+        "castles": [
+            "Bloody Gate",
+            "Runestone",
+            "Redfort",
+            "Ninestars (page does not exist)",
+            "Ironoaks",
+            "Longbow Hall",
+            "Heart&apos;s Home"
+        ],
+        "cities": [
+            "Gulltown"
+        ],
+        "culture": [
+            "Andals",
+            "Northmen"
+        ],
+        "founder": [
+            "Artys Arryn"
+        ],
+        "geography": "Tall mountains punctuated by fertile river-valleys, temperate.",
+        "location": "Westeros",
+        "name": "The Vale of Arryn",
+        "placesOfNote": [
+            "The Bite",
+            "The Fingers",
+            "Mountains of the Moon",
+            "Three Sisters",
+            "The Paps",
+            "Pebble"
+        ],
+        "regionCapital": "The Eyrie",
+        "religion": [
+            "Faith of the Seven",
+            "Old Gods of the Forest"
+        ],
+        "rulers": [
+            "House Arryn"
+        ],
+        "towns": [
+            "Sisterton",
+            "Wickendon"
+        ]
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eba2",
+        "castles": [],
+        "cities": [
+            "Mantarys",
+            "Tolos",
+            "Elyria"
+        ],
+        "culture": [
+            "Valyrians"
+        ],
+        "founder": [],
+        "geography": "Warm Mediterranean climate Devastated volcanic islands ",
+        "location": "Southern coast of central Essos",
+        "name": "Valyrian Peninsula",
+        "placesOfNote": [
+            "Old Valyria",
+            "Oros",
+            "Tyria",
+            "Fourteen Fires",
+            "Smoking Sea",
+            "Sea of Sighs"
+        ],
+        "regionCapital": "Old Valyria ",
+        "religion": [
+            "Valyrian religion"
+        ],
+        "rulers": [],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eba3",
+        "castles": [
+            "Banefort",
+            "Castamere",
+            "Clegane&apos;s Keep",
+            "Cornfield",
+            "Crakehall",
+            "The Crag",
+            "Deep Den",
+            "Golden Tooth",
+            "Faircastle",
+            "Feastfires",
+            "Hornvale",
+            "Silverhill",
+            "Sarsfield"
+        ],
+        "cities": [
+            "Lannisport"
+        ],
+        "culture": [
+            "Andal"
+        ],
+        "founder": [],
+        "geography": "Low mountains and hills, temperate.",
+        "location": "Westeros",
+        "name": "The Westerlands",
+        "placesOfNote": [
+            "Ironman&apos;s Bay",
+            "Fair Isle",
+            "Goldroad",
+            "Yellow Fork"
+        ],
+        "regionCapital": "Casterly Rock",
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [
+            "House Lannister"
+        ],
+        "towns": []
+    },
+    {
+        "__v": 0,
+        "_id": "5c9817964d1c4e54abc7eba4",
+        "castles": [],
+        "cities": [],
+        "culture": [],
+        "founder": [
+            "God-on-Earth"
+        ],
+        "geography": "",
+        "location": "Essos",
+        "name": "Yi Ti",
+        "placesOfNote": [],
+        "regionCapital": "",
+        "religion": [
+            "Maiden-Made-of-Light",
+            "Lion of Night"
+        ],
+        "rulers": [],
+        "towns": []
+    }
+]
