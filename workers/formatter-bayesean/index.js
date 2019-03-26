@@ -91,7 +91,10 @@ function isSuitableChar(character) {
     }
 
     // copy data that is to stay the same
+    /* TODO name only in testing data, not in training data (seems to screw up NumPy arrays)
     ref_ch.name = ch.name;
+    */
+	/* PageRank turned out to be a bad predictor
 	// page rank is taken as a double-log (adjusted for zeros)
 	// also consider the case where the pageRank is missing
 	if (ch.pageRank == null || ch.pageRank == undefined) {
@@ -99,6 +102,7 @@ function isSuitableChar(character) {
 	} else {
       ref_ch.pageRankLog = Math.log(Math.log(ch.pageRank+1)+1);
 	}
+	*/
 	// "male" flag = 1 if male
 	if (ch.male !== undefined && ch.male !== null) {
 	  if (ch.male) {
@@ -108,10 +112,11 @@ function isSuitableChar(character) {
 	    ref_ch.male = 0;
 	  }
 	}
-	else { //TODO we might want to filter these out... (no gender)
+	else { //No gender?
 	  ref_ch.male = 0;
 	}
 
+    /* TODO This needs fixing... too many flags
     // for each house, add a flag = 1 if the character is in that house
     for (let h of houses) {
       if (ch.house === h.name) {
@@ -123,12 +128,14 @@ function isSuitableChar(character) {
       }
     }
 	
+	
 	//set the house flag to = 1 if the character has pledged allegiance to it
 	if (ch.allegiance !== null && ch.allegiance !== undefined) {
 	  for (let h of ch.allegiance) {
 	    ref_ch[h.name] = 1;
 	  }
 	}
+	*/
 	
 	// isHeir = 1 if the character is some house's heir.
 	ref_ch.isHeir = 0;
@@ -139,6 +146,7 @@ function isSuitableChar(character) {
 	  }
 	}
 
+    /* TODO Same as houses, needs reworking.
     // similarly, add flags for culture of the character
     for (let c of cultures) {
       if (ch.culture === c.name) {
@@ -147,6 +155,7 @@ function isSuitableChar(character) {
         ref_ch[c.name] = 0;
       }
     }
+    */
 	
 	// determine number of titles
 	if(ch["titles"] != undefined && ch["titles"].length != undefined) {
@@ -167,6 +176,7 @@ function isSuitableChar(character) {
 	  ref_ch.numSpouses = 0;
 	}
 	
+    /* TODO Similarly to houses and cultures, this needs reworking.
 	// add flags for locations where a character has been
 	// first, add zeroes for all locations
 	for (let loc of locations) {
@@ -180,6 +190,7 @@ function isSuitableChar(character) {
 	    ref_ch[loc] = 1;
 	  }
 	}
+	*/
 	
     // push the reformatted character and loop back
     reformatted_chars.push(ref_ch);
