@@ -35,10 +35,11 @@ filter_func = np.vectorize(lambda v: 1e-200 if v<=0 else v) #assuming a tiny cha
 exposure = filter_func(exposure)
 
 #We can filter out only the columns we'll use for learning (as a test)
-df = pd.concat([df.male, df.isHeir, df.numTitles, df.numSpouses], axis=1) #TODO take only a few columns as a test
 
-#convert the DataFrame into a numPy array (we don't need the column names anymore, but remember their order!)
-df_num=df.to_numpy().astype(float) #characters=rows, attributes=cols
+#df = pd.concat([df.male, df.isHeir, df.numTitles, df.numSpouses], axis=1) #TODO take only a few columns as a test
+
+#convert the DataFrame into a numPy array (also exclude columns we don't want to have)
+df_num=df.drop(["age", "isDead", "name"], axis=1).to_numpy().astype(float) #characters=rows, attributes=cols
 num_parameters = df_num.shape[1];
 
 SEED = random.randint(1,10000000) #will be used in the sampler
@@ -50,8 +51,8 @@ with pm.Model() as model:
   mu = pm.Deterministic('mu', exposure*lambda_) #this is also a matrix (risk = 0 if character already dead, otherwise same as lambda_)
   obs = pm.Poisson('obs', mu, observed=death) 
   
-n_samples = 1000 #both should be 1000, 100 for quick testing
-n_tune = 1000
+n_samples = 100 #both should be 1000, 100 for quick testing
+n_tune = 100
 #now, sample the model
 with model:
   trace = pm.sample(n_samples, tune = n_tune, random_seed=SEED) #nuts_kwargs = {"target_accept":0.95}
