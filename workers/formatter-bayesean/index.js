@@ -17,7 +17,7 @@ function isSuitableChar(character) {
   return true;
 }
 
-async function genTrainingData () {
+async function genTrainingData (callback) {
   // read the needed JSON files
   let [characters_unfiltered, houses_unfiltered, cultures, character_locations] = await Promise.all([
     utils.loadBookData('characters'),
@@ -202,6 +202,10 @@ async function genTrainingData () {
   let readableJSON = JSON.stringify(training_chars, null, 2);
   fs.writeFile('ref_chs.json', readableJSON, (err) => {});
   //await fs.writeJSON('ref_chs.json', training_chars);
+  
+  //call the callback to signal async completion
+  callback();
 }
 
-genTrainingData();
+//call the function
+genTrainingData(function () {console.log("Formatting complete!")});
