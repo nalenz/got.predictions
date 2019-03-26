@@ -3,7 +3,8 @@ const config = require('../common/config');
 const fs = require('fs-extra');
 
 const LOCATION_VISITED_THRESHOLD = 50 //min. amount of people need to visit a location before it's used
-const HOUSE_THRESHOLD = 10 //min. amount of people in this house before it's used
+const HOUSE_THRESHOLD = 20 //min. amount of people in this house before it's used
+const AGE_THRESHOLD = 100 //alive characters above this age are considered to be errors
 
 /*
   This file will scan the book characters and re-format some of their data.
@@ -102,8 +103,8 @@ async function genTrainingData (callback) {
         // there is no date of death => lives on to the CURRENT_YEAR
         ref_ch.isDead = 0;
         ref_ch.age = config.GOT_CURRENT_YEAR - ch.dateOfBirth;
-		if (ref_ch.age > 100) {
-		  //an apparent age over 120 points to an error (missing dateOfDeath). Skip the character.
+		if (ref_ch.age > AGE_THRESHOLD) {
+		  //an apparently too old age points to an error (missing dateOfDeath). Skip the character.
 		  continue;
 		}
       }
@@ -188,7 +189,9 @@ async function genTrainingData (callback) {
 	if (visited !== null && visited !== undefined) { // this check might be unnecessary
 	  // set the flag to 1 for all locations in the visited array
 	  for (let loc of visited) {
-	    ref_ch[loc] = 1;
+		if(locations.includes(loc)) {
+	      ref_ch[loc] = 1;
+		}
 	  }
 	}
 	

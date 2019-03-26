@@ -56,6 +56,7 @@ n_tune = 1000
 with model:
   trace = pm.sample(n_samples, tune = n_tune, random_seed=SEED)
   
+# trace = samples for our trained, posterior distribution
 # trace['beta'] is a matrix. Rows = all the samples, colums = sampled beta vector
 # trace['lambda'] is a matrix, rows = all the samples, cols = sampled chance to die in a given time slice
 
@@ -77,6 +78,7 @@ def survivalParams(params): #describes survival function, given some params
 def meanSurvivalParams(params): #takes the mean out of the whole trace for the survival function
   return survivalParams(params).mean(axis=0)
   
+#TODO we take means, here but try to take distributions!
 def fitAge(survivalFn, chance): #given a survial function (vector of probabilities), find the highest age with over 'chance' chance of survival
   return (n_intervals-np.searchsorted(np.flip(survivalFn), chance))*interval_length
   
