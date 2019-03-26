@@ -17,7 +17,7 @@ function isSuitableChar(character) {
   return true;
 }
 
-(async () => {
+async function genTrainingData () {
   // read the needed JSON files
   let [characters_unfiltered, houses_unfiltered, cultures, character_locations] = await Promise.all([
     utils.loadBookData('characters'),
@@ -62,8 +62,8 @@ function isSuitableChar(character) {
 	}
   }
 
-  // in reformatted_chars, we will accumulate the reformatted character data
-  let reformatted_chars = [];
+  // in training_chars, we will accumulate the character data used for training
+  let training_chars = [];
 
   // now, for every character, generate the reformatted character and add it to the array
   for (let ch of characters) {
@@ -193,13 +193,15 @@ function isSuitableChar(character) {
 	*/
 	
     // push the reformatted character and loop back
-    reformatted_chars.push(ref_ch);
+    training_chars.push(ref_ch);
   }
 
   // output ready
   // TODO file output is just for the prototype. Consider how to integrate.
   // Wanted some more readable JSON here :)
-  let readableJSON = JSON.stringify(reformatted_chars, null, 2);
+  let readableJSON = JSON.stringify(training_chars, null, 2);
   fs.writeFile('ref_chs.json', readableJSON, (err) => {});
-  //await fs.writeJSON('ref_chs.json', reformatted_chars);
-})();
+  //await fs.writeJSON('ref_chs.json', training_chars);
+}
+
+genTrainingData();
