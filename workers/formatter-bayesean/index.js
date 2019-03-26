@@ -2,6 +2,9 @@ const utils = require('../common/utils');
 const config = require('../common/config');
 const fs = require('fs-extra');
 
+const LOCATION_VISITED_THRESHOLD = 50 //min. amount of people need to visit a location before it's used
+const HOUSE_THRESHOLD = 10 //min. amount of people in this house before it's used
+
 /*
   This file will scan the book characters and re-format some of their data.
   It transforms, for example, the house the character belongs to into a set of flags, 
@@ -26,17 +29,17 @@ async function genTrainingData (callback) {
 	utils.loadBookData('character_locations'),
   ]);
   
-  // make a list of all possible locations and create a map by character name of visited locations
-  let locations = []; //all locations we'll have flags for
+  // make a list of locations and create a map by character name of visited locations
+  let locations_all = []; //all locations we'll have flags for
   let locKeyValuePairs = []; //map character name => array of visited locations
   for (let c_l of character_locations) {
 	// push the name + location array of the character into locKeyValuePairs
 	locKeyValuePairs.push([c_l.name, c_l.locations]);
 	// now check if any new locations will come to the locations array
 	for (let loc of c_l.locations) {
-	  if (locations.includes (loc) == false) {
+	  if (locations_all.includes (loc) == false) {
 		//new location is not contained in the array, add it
-		locations.push(loc);
+		locations_all.push(loc);
 	  }
 	}
   }
@@ -44,14 +47,30 @@ async function genTrainingData (callback) {
   let locMap = new Map(locKeyValuePairs);
   
   // filter out unsuitable characters (no date of birth, etc.)
-  characters = [];
+  let characters = [];
   for(let ch of characters_unfiltered) {
     if(isSuitableChar(ch)) {
       characters.push(ch);
 	}
   }
+    
+  //now, filter locations that have had at least LOCATION_VISITED_THRESHOLD
+  //  or more suitable characters visit them
+  let locations = [];
+  for(let l of locations_all) {
+    loc_counter = 0;
+	for(let c of characters) {
+	  visited = locMap.get(c.name);
+      if(visited != undefined && visited.includes(l)) {
+		loc_counter += 1;
+	  }
+	}
+	if(loc_counter >= LOCATION_VISITED_THRESHOLD) {
+	  locations.push(l);
+	}
+  }
   
-  // only consider houses with at least 20 suitable characters in them
+  // only consider houses with at least HOUSE_THRESHOLD suitable characters in them
   let houses = [];
   for(let h of houses_unfiltered) {
     let house_counter = 0;
@@ -60,7 +79,7 @@ async function genTrainingData (callback) {
         house_counter += 1;
 	  }
 	}
-	if(house_counter >= 20) {
+	if(house_counter >= HOUSE_THRESHOLD) {
       houses.push(h);
 	}
   }
@@ -83,8 +102,8 @@ async function genTrainingData (callback) {
         // there is no date of death => lives on to the CURRENT_YEAR
         ref_ch.isDead = 0;
         ref_ch.age = config.GOT_CURRENT_YEAR - ch.dateOfBirth;
-		if (ref_ch.age > 120) {
-		  //an apparent age over 120 points to an error (missing dateOfDeath)
+		if (ref_ch.age > 100) {
+		  //an apparent age over 120 points to an error (missing dateOfDeath). Skip the character.
 		  continue;
 		}
       }
@@ -94,7 +113,6 @@ async function genTrainingData (callback) {
     }
 
     // copy data that is to stay the same
-    // TODO name only in testing data, not in training data (seems to screw up NumPy arrays)
     ref_ch.name = ch.name;
     //
 	// PageRank turned out to be a bad predictor
@@ -160,7 +178,6 @@ async function genTrainingData (callback) {
 	  ref_ch.numSpouses = 0;
 	}
 	
-    /* TODO Similarly to houses and cultures, this needs reworking.
 	// add flags for locations where a character has been
 	// first, add zeroes for all locations
 	for (let loc of locations) {
@@ -174,7 +191,6 @@ async function genTrainingData (callback) {
 	    ref_ch[loc] = 1;
 	  }
 	}
-	*/
 	
     // push the reformatted character and loop back
     training_chars.push(ref_ch);
