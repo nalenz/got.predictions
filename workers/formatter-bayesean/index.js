@@ -91,9 +91,9 @@ async function genTrainingData (callback) {
     }
 
     // copy data that is to stay the same
-    /* TODO name only in testing data, not in training data (seems to screw up NumPy arrays)
+    // TODO name only in testing data, not in training data (seems to screw up NumPy arrays)
     ref_ch.name = ch.name;
-    */
+    //
 	/* PageRank turned out to be a bad predictor
 	// page rank is taken as a double-log (adjusted for zeros)
 	// also consider the case where the pageRank is missing
@@ -136,15 +136,16 @@ async function genTrainingData (callback) {
 	  }
 	}
 	*/
-	
+	/* We are not considering heirs, since the dataset does not contain dead heirs
 	// isHeir = 1 if the character is some house's heir.
 	ref_ch.isHeir = 0;
 	for (let h of houses) {
-	  if (h.heir == ref_ch.name) {
+	  if (h.heir == ch.name) {
 	    ref_ch.isHeir = 1; //ref_ch is the heir to some house
 		break;
 	  }
 	}
+	*/
 
     /* TODO Same as houses, needs reworking.
     // similarly, add flags for culture of the character
@@ -183,7 +184,7 @@ async function genTrainingData (callback) {
 	  ref_ch[loc] = 0;
 	}
 	// then, write 1 on the locations the character has visited
-	let visited = locMap.get(ref_ch.name); // get locations from the Map we built earlier
+	let visited = locMap.get(ch.name); // get locations from the Map we built earlier
 	if (visited !== null && visited !== undefined) { // this check might be unnecessary
 	  // set the flag to 1 for all locations in the visited array
 	  for (let loc of visited) {
