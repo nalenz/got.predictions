@@ -222,7 +222,7 @@ function processLocations(srcChar, destChar, locations, locMap) {
 
 /*************************************************************************************************/
 
-async function genTrainingData (callback) {
+async function genTrainingData () {
   // read the needed JSON files
   let [characters_unfiltered, houses_unfiltered, cultures_unfiltered, character_locations] = await Promise.all([
     utils.loadBookData('characters'),
@@ -263,9 +263,8 @@ async function genTrainingData (callback) {
   let readableJSON = JSON.stringify(training_chars, null, 2);
   fs.writeFile('ref_chs.json', readableJSON, (err) => {});
   
-  //call the callback to signal async completion
-  callback();
+  //signal async completion
 }
 
 //call the function
-genTrainingData(function () {console.log("Formatting complete!")});
+genTrainingData();
