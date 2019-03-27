@@ -7,6 +7,7 @@ from pymc3.distributions.timeseries import GaussianRandomWalk
 from theano import tensor as T
 import random
 import json
+import math
 
 #read input file
 df = pd.read_json(path_or_buf = "../formatter-bayesean/ref_chs.json", typ = "frame")
@@ -44,7 +45,7 @@ num_parameters = df_num.shape[1];
 SEED = random.randint(1,10000000) #will be used in the sampler
 #create the model
 with pm.Model() as model:
-  lambda0 = pm.Gamma('lambda0', mu=0.01, sd=0.01, shape=n_intervals) #this is a vector (base risk to die in a time slice)
+  lambda0 = pm.Gamma('lambda0', mu=0.02, sd=0.02, shape=n_intervals) #this is a vector (base risk to die in a time slice)
   beta = pm.Normal('beta', mu=0, sd=1000, shape=num_parameters) #this is a vector (one coefficient per covariate)
   lambda_ = pm.Deterministic('lambda_', T.outer(T.exp(T.dot(df_num, beta)), lambda0)) #this is a matrix (risk of character(row) in a time slice(col))
   mu = pm.Deterministic('mu', exposure*lambda_) #this is also a matrix (risk = 0 if character already dead, otherwise same as lambda_)
@@ -52,13 +53,17 @@ with pm.Model() as model:
   
 n_samples = 1000 #both should be 1000, 100 for quick testing
 n_tune = 1000
+acceptance_probability = 0.9
+num_chains = 1
 #now, sample the model
 with model:
-  trace = pm.sample(n_samples, tune = n_tune, random_seed=SEED)
+  trace = pm.sample(n_samples, tune = n_tune, random_seed=SEED, chains = num_chains, nuts_kwargs = dict(target_accept=acceptance_probability))
   
 # trace = samples for our trained, posterior distribution
 # trace['beta'] is a matrix. Rows = all the samples, colums = sampled beta vector
 # trace['lambda'] is a matrix, rows = all the samples, cols = sampled chance to die in a given time slice
+
+print(np.exp(trace['beta'].mean(axis=0)))
 
 def get_dotprodfactors(params): #get the hazard multipliers (not yet exponentiated) for each step of the trace, depending on the parameters
   return trace['beta'].dot(np.atleast_2d(params).transpose())
@@ -107,3 +112,21 @@ for i in range(0, num_characters):
 #now write the predictions object to a file
 output = open('predictorOutput.json', 'w')
 json.dump(predictions, output, indent=2)
+
+#run some diagnostics on how few people we hit with the confidence interval
+numDead = 0
+numDeadOutliers = 0
+meanQuadError = 0.0
+for i in range(0, num_characters):
+  ch = predictions["characters"][i]
+  if ch['alive'] == False:
+    numDead += 1
+    meanQuadError += (ch['age']-ch['predictedSurvivalAge'])**2
+    if ch['age'] < ch['confIntervalLower'] or ch['age'] > ch['confIntervalHigher']:
+      numDeadOutliers += 1
+	  
+	
+  
+meanQuadError /= numDead - 1
+print(numDeadOutliers, " outside of confidence intervals out of ", numDead, " dead.")
+print("Standard error with dead characters age: ", math.sqrt(meanQuadError))

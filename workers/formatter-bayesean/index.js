@@ -2,9 +2,10 @@ const utils = require('../common/utils');
 const config = require('../common/config');
 const fs = require('fs-extra');
 
-const LOCATION_VISITED_THRESHOLD = 50 //min. amount of people need to visit a location before it's used
-const HOUSE_THRESHOLD = 20 //min. amount of people in this house before it's used
-const AGE_THRESHOLD = 100 //alive characters above this age are considered to be errors
+const LOCATION_VISITED_THRESHOLD = 50; //min. amount of people need to visit a location before it's used
+const HOUSE_THRESHOLD = 10; //min. amount of people in this house before it's used
+const CULTURES_THRESHOLD = 20; //min. amount of people with this culture before it's used
+const AGE_THRESHOLD = 100; //alive characters above this age are considered to be errors
 
 /*
   This file will scan the book characters and re-format some of their data.
@@ -23,7 +24,7 @@ function isSuitableChar(character) {
 
 async function genTrainingData (callback) {
   // read the needed JSON files
-  let [characters_unfiltered, houses_unfiltered, cultures, character_locations] = await Promise.all([
+  let [characters_unfiltered, houses_unfiltered, cultures_unfiltered, character_locations] = await Promise.all([
     utils.loadBookData('characters'),
     utils.loadBookData('houses'),
     utils.loadBookData('cultures'),
@@ -82,6 +83,20 @@ async function genTrainingData (callback) {
 	}
 	if(house_counter >= HOUSE_THRESHOLD) {
       houses.push(h);
+	}
+  }
+  
+  // only consider cultures with at least CULTURES_THRESHOLD suitable characters in them
+  let cultures = [];
+  for(let c of cultures_unfiltered) {
+    let culture_counter = 0;
+    for(let ch of characters) {
+      if(ch.culture == c.name) {
+        culture_counter += 1;
+	  }
+	}
+	if(culture_counter >= CULTURES_THRESHOLD) {
+      cultures.push(c);
 	}
   }
 
@@ -149,7 +164,6 @@ async function genTrainingData (callback) {
 	  }
 	}
 
-    /* TODO Same as houses, needs reworking.
     // similarly, add flags for culture of the character
     for (let c of cultures) {
       if (ch.culture === c.name) {
@@ -158,7 +172,6 @@ async function genTrainingData (callback) {
         ref_ch[c.name] = 0;
       }
     }
-    */
 	
 	// determine number of titles
 	if(ch["titles"] != undefined && ch["titles"].length != undefined) {
