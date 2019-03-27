@@ -1,8 +1,8 @@
 [
   {
+    "name": "Addam Osgrey",
     "isDead": 1,
     "age": 13,
-    "name": "Addam Osgrey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -27,9 +27,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Aegon Blackfyre",
     "isDead": 1,
     "age": 12,
-    "name": "Aegon Blackfyre",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -54,9 +54,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Addam Velaryon",
     "isDead": 1,
     "age": 16,
-    "name": "Addam Velaryon",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -81,9 +81,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Aegon Frey (son of Aenys)",
     "isDead": 0,
     "age": 51,
-    "name": "Aegon Frey (son of Aenys)",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -108,9 +108,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Aegon Frey (son of Stevron)",
     "isDead": 1,
     "age": 50,
-    "name": "Aegon Frey (son of Stevron)",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -135,9 +135,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Aegon I Targaryen",
     "isDead": 1,
     "age": 64,
-    "name": "Aegon I Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -162,9 +162,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Aegon II Targaryen",
     "isDead": 1,
     "age": 24,
-    "name": "Aegon II Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -189,9 +189,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Aegon IV Targaryen",
     "isDead": 1,
     "age": 49,
-    "name": "Aegon IV Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -216,9 +216,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Aegon V Targaryen",
     "isDead": 1,
     "age": 59,
-    "name": "Aegon V Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -243,9 +243,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Aegon III Targaryen",
     "isDead": 1,
     "age": 37,
-    "name": "Aegon III Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -270,9 +270,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Aegon Targaryen (son of Aenys I)",
     "isDead": 1,
     "age": 17,
-    "name": "Aegon Targaryen (son of Aenys I)",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -297,9 +297,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Aegon Targaryen (son of Rhaegar)",
     "isDead": 1,
     "age": 2,
-    "name": "Aegon Targaryen (son of Rhaegar)",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -324,9 +324,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Aegor Rivers",
     "isDead": 1,
     "age": 69,
-    "name": "Aegor Rivers",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -351,9 +351,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Aemma Arryn",
     "isDead": 1,
     "age": 23,
-    "name": "Aemma Arryn",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -378,9 +378,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Aemon Blackfyre",
     "isDead": 1,
     "age": 12,
-    "name": "Aemon Blackfyre",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -405,9 +405,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Aenys Frey",
     "isDead": 1,
     "age": 60,
-    "name": "Aenys Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -432,9 +432,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Maester Aemon",
     "isDead": 1,
     "age": 102,
-    "name": "Maester Aemon",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -459,9 +459,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Aemond Targaryen",
     "isDead": 1,
     "age": 20,
-    "name": "Aemond Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -486,9 +486,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Aerion Targaryen",
     "isDead": 1,
     "age": 41,
-    "name": "Aerion Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -513,9 +513,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Aenys I Targaryen",
     "isDead": 1,
     "age": 35,
-    "name": "Aenys I Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -540,9 +540,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Aeron Greyjoy",
     "isDead": 0,
     "age": 35,
-    "name": "Aeron Greyjoy",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -567,9 +567,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Aerys I Targaryen",
     "isDead": 1,
     "age": 49,
-    "name": "Aerys I Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -594,9 +594,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Alayaya",
     "isDead": 0,
     "age": 22,
-    "name": "Alayaya",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -621,9 +621,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Aerys II Targaryen",
     "isDead": 1,
     "age": 39,
-    "name": "Aerys II Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -648,9 +648,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Alerie Hightower",
     "isDead": 0,
     "age": 47,
-    "name": "Alerie Hightower",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -675,9 +675,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Alester Norcross",
     "isDead": 0,
     "age": 14,
-    "name": "Alester Norcross",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -702,9 +702,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Alesander Frey",
     "isDead": 0,
     "age": 39,
-    "name": "Alesander Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -729,9 +729,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Alliser Thorne",
     "isDead": 0,
     "age": 56,
-    "name": "Alliser Thorne",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -756,9 +756,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Alicent Hightower",
     "isDead": 1,
     "age": 45,
-    "name": "Alicent Hightower",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -783,9 +783,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Alla Tyrell",
     "isDead": 0,
     "age": 18,
-    "name": "Alla Tyrell",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -810,9 +810,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Alyn Haigh",
     "isDead": 0,
     "age": 48,
-    "name": "Alyn Haigh",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -837,9 +837,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Alyn Frey",
     "isDead": 0,
     "age": 9,
-    "name": "Alyn Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -864,9 +864,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Alys Arryn",
     "isDead": 0,
     "age": 86,
-    "name": "Alys Arryn",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -891,9 +891,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Alys Karstark",
     "isDead": 0,
     "age": 20,
-    "name": "Alys Karstark",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -918,9 +918,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Alysane Mormont",
     "isDead": 0,
     "age": 31,
-    "name": "Alysane Mormont",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -945,9 +945,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Alysanne Bulwer",
     "isDead": 0,
     "age": 13,
-    "name": "Alysanne Bulwer",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -972,9 +972,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Alyn Velaryon",
     "isDead": 1,
     "age": 56,
-    "name": "Alyn Velaryon",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -999,9 +999,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Alysanne Osgrey",
     "isDead": 1,
     "age": 21,
-    "name": "Alysanne Osgrey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -1026,9 +1026,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Alyssa Blackwood",
     "isDead": 1,
     "age": 16,
-    "name": "Alyssa Blackwood",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -1053,9 +1053,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Alyx Frey",
     "isDead": 0,
     "age": 22,
-    "name": "Alyx Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -1080,9 +1080,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Amarei Crakehall",
     "isDead": 1,
     "age": 19,
-    "name": "Amarei Crakehall",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -1107,9 +1107,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Alysanne Targaryen",
     "isDead": 1,
     "age": 63,
-    "name": "Alysanne Targaryen",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -1134,9 +1134,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Amerei Frey",
     "isDead": 0,
     "age": 22,
-    "name": "Amerei Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -1161,9 +1161,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Ardrian Celtigar",
     "isDead": 0,
     "age": 75,
-    "name": "Ardrian Celtigar",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -1188,9 +1188,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Androw Frey",
     "isDead": 0,
     "age": 9,
-    "name": "Androw Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -1215,9 +1215,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Areo Hotah",
     "isDead": 0,
     "age": 47,
-    "name": "Areo Hotah",
     "male": 1,
     "House Stark": 0,
     "House Martell": 1,
@@ -1242,9 +1242,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Arlan of Pennytree",
     "isDead": 1,
     "age": 60,
-    "name": "Arlan of Pennytree",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -1269,9 +1269,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Arianne Martell",
     "isDead": 0,
     "age": 28,
-    "name": "Arianne Martell",
     "male": 0,
     "House Stark": 0,
     "House Martell": 1,
@@ -1296,9 +1296,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Arthur Dayne",
     "isDead": 1,
     "age": 23,
-    "name": "Arthur Dayne",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -1323,9 +1323,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Arwyn Frey",
     "isDead": 0,
     "age": 19,
-    "name": "Arwyn Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -1350,9 +1350,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Arwood Frey",
     "isDead": 0,
     "age": 41,
-    "name": "Arwood Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -1377,9 +1377,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Ashara Dayne",
     "isDead": 1,
     "age": 23,
-    "name": "Ashara Dayne",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -1404,9 +1404,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Asha Greyjoy",
     "isDead": 0,
     "age": 29,
-    "name": "Asha Greyjoy",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -1431,9 +1431,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Arya Stark",
     "isDead": 0,
     "age": 15,
-    "name": "Arya Stark",
     "male": 0,
     "House Stark": 1,
     "House Martell": 0,
@@ -1458,9 +1458,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Aurane Waters",
     "isDead": 0,
     "age": 27,
-    "name": "Aurane Waters",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -1485,9 +1485,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Baelon Targaryen (son of Viserys I)",
     "isDead": 1,
     "age": 0,
-    "name": "Baelon Targaryen (son of Viserys I)",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -1512,9 +1512,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Baelor Targaryen (son of Daeron II)",
     "isDead": 1,
     "age": 39,
-    "name": "Baelor Targaryen (son of Daeron II)",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -1539,9 +1539,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Baelor I Targaryen",
     "isDead": 1,
     "age": 27,
-    "name": "Baelor I Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -1566,9 +1566,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Barsena Blackhair",
     "isDead": 1,
     "age": 30,
-    "name": "Barsena Blackhair",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -1593,9 +1593,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Barra",
     "isDead": 1,
     "age": 1,
-    "name": "Barra",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -1620,9 +1620,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Barristan Selmy",
     "isDead": 0,
     "age": 68,
-    "name": "Barristan Selmy",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -1647,9 +1647,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Beck",
     "isDead": 0,
     "age": 5,
-    "name": "Beck",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -1674,9 +1674,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Bella",
     "isDead": 0,
     "age": 21,
-    "name": "Bella",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -1701,9 +1701,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Ben",
     "isDead": 0,
     "age": 11,
-    "name": "Ben",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -1728,9 +1728,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Benfred Tallhart",
     "isDead": 1,
     "age": 18,
-    "name": "Benfred Tallhart",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -1755,9 +1755,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Benfrey Frey",
     "isDead": 1,
     "age": 28,
-    "name": "Benfrey Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -1782,9 +1782,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Benjen Stark",
     "isDead": 0,
     "age": 37,
-    "name": "Benjen Stark",
     "male": 1,
     "House Stark": 1,
     "House Martell": 0,
@@ -1809,9 +1809,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Beren Tallhart",
     "isDead": 0,
     "age": 15,
-    "name": "Beren Tallhart",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -1836,9 +1836,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Beric Dondarrion",
     "isDead": 1,
     "age": 23,
-    "name": "Beric Dondarrion",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -1863,9 +1863,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Beth Cassel",
     "isDead": 0,
     "age": 15,
-    "name": "Beth Cassel",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -1890,9 +1890,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Bethany Bracken",
     "isDead": 1,
     "age": 22,
-    "name": "Bethany Bracken",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -1917,9 +1917,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Bethany Rosby",
     "isDead": 1,
     "age": 17,
-    "name": "Bethany Rosby",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -1944,9 +1944,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Boy",
     "isDead": 0,
     "age": 20,
-    "name": "Boy",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -1971,9 +1971,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Bradamar Frey",
     "isDead": 0,
     "age": 15,
-    "name": "Bradamar Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -1998,9 +1998,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Brandon Stark",
     "isDead": 1,
     "age": 20,
-    "name": "Brandon Stark",
     "male": 1,
     "House Stark": 1,
     "House Martell": 0,
@@ -2025,9 +2025,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Bran Stark",
     "isDead": 0,
     "age": 14,
-    "name": "Bran Stark",
     "male": 1,
     "House Stark": 1,
     "House Martell": 0,
@@ -2052,9 +2052,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Brandon Tallhart",
     "isDead": 0,
     "age": 20,
-    "name": "Brandon Tallhart",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2079,9 +2079,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Bronn",
     "isDead": 0,
     "age": 40,
-    "name": "Bronn",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2106,9 +2106,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Brienne of Tarth",
     "isDead": 0,
     "age": 24,
-    "name": "Brienne of Tarth",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -2133,9 +2133,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Bryen",
     "isDead": 0,
     "age": 84,
-    "name": "Bryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2160,9 +2160,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Bryan Frey",
     "isDead": 0,
     "age": 23,
-    "name": "Bryan Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2187,9 +2187,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Brynden Rivers",
     "isDead": 1,
     "age": 77,
-    "name": "Brynden Rivers",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2214,9 +2214,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Brynden Tully",
     "isDead": 0,
     "age": 62,
-    "name": "Brynden Tully",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2241,9 +2241,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Catelyn Stark",
     "isDead": 1,
     "age": 35,
-    "name": "Catelyn Stark",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -2268,9 +2268,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Cersei Frey",
     "isDead": 0,
     "age": 12,
-    "name": "Cersei Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -2295,9 +2295,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Cersei Lannister",
     "isDead": 0,
     "age": 38,
-    "name": "Cersei Lannister",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -2322,9 +2322,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Clement",
     "isDead": 0,
     "age": 53,
-    "name": "Clement",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2349,9 +2349,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Cley Cerwyn",
     "isDead": 1,
     "age": 15,
-    "name": "Cley Cerwyn",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2376,9 +2376,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Cleos Frey",
     "isDead": 1,
     "age": 41,
-    "name": "Cleos Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2403,9 +2403,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Clydas",
     "isDead": 0,
     "age": 64,
-    "name": "Clydas",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2430,9 +2430,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Colmar Frey",
     "isDead": 0,
     "age": 16,
-    "name": "Colmar Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2457,9 +2457,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Corlys Velaryon",
     "isDead": 1,
     "age": 79,
-    "name": "Corlys Velaryon",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2484,9 +2484,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Creighton Longbough",
     "isDead": 0,
     "age": 64,
-    "name": "Creighton Longbough",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2511,9 +2511,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Cregan Karstark",
     "isDead": 0,
     "age": 55,
-    "name": "Cregan Karstark",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2538,9 +2538,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Cressen",
     "isDead": 1,
     "age": 80,
-    "name": "Cressen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2565,9 +2565,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Criston Cole",
     "isDead": 1,
     "age": 48,
-    "name": "Criston Cole",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2592,9 +2592,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Cyrenna Swann",
     "isDead": 1,
     "age": 13,
-    "name": "Cyrenna Swann",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2619,9 +2619,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Cynthea Frey",
     "isDead": 0,
     "age": 14,
-    "name": "Cynthea Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -2646,9 +2646,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Dacey Mormont",
     "isDead": 1,
     "age": 47,
-    "name": "Dacey Mormont",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -2673,9 +2673,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Daella Targaryen (daughter of Jaehaerys I)",
     "isDead": 1,
     "age": 28,
-    "name": "Daella Targaryen (daughter of Jaehaerys I)",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -2700,9 +2700,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Daemon Sand",
     "isDead": 0,
     "age": 28,
-    "name": "Daemon Sand",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2727,9 +2727,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Daemon II Blackfyre",
     "isDead": 1,
     "age": 23,
-    "name": "Daemon II Blackfyre",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2754,9 +2754,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Daemon I Blackfyre",
     "isDead": 1,
     "age": 26,
-    "name": "Daemon I Blackfyre",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2781,9 +2781,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Daemon Targaryen",
     "isDead": 1,
     "age": 49,
-    "name": "Daemon Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2808,9 +2808,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Daeron I Targaryen",
     "isDead": 1,
     "age": 18,
-    "name": "Daeron I Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2835,9 +2835,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Daenerys Targaryen",
     "isDead": 0,
     "age": 20,
-    "name": "Daenerys Targaryen",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -2862,9 +2862,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Daeron Targaryen (son of Viserys I)",
     "isDead": 1,
     "age": 16,
-    "name": "Daeron Targaryen (son of Viserys I)",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2889,9 +2889,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Daeron II Targaryen",
     "isDead": 1,
     "age": 56,
-    "name": "Daeron II Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2916,9 +2916,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Daeron Targaryen (son of Maekar I)",
     "isDead": 1,
     "age": 31,
-    "name": "Daeron Targaryen (son of Maekar I)",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2943,9 +2943,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Dalbridge",
     "isDead": 1,
     "age": 45,
-    "name": "Dalbridge",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2970,9 +2970,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Damion Lannister",
     "isDead": 0,
     "age": 47,
-    "name": "Damion Lannister",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -2997,9 +2997,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Damon Lannister (son of Jason)",
     "isDead": 0,
     "age": 60,
-    "name": "Damon Lannister (son of Jason)",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3024,9 +3024,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Damon Vypren",
     "isDead": 0,
     "age": 39,
-    "name": "Damon Vypren",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -3051,9 +3051,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Danwell Frey",
     "isDead": 0,
     "age": 52,
-    "name": "Danwell Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3078,9 +3078,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Del",
     "isDead": 1,
     "age": 16,
-    "name": "Del",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3105,9 +3105,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Daven Lannister",
     "isDead": 0,
     "age": 31,
-    "name": "Daven Lannister",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3132,9 +3132,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Davos Seaworth",
     "isDead": 0,
     "age": 44,
-    "name": "Davos Seaworth",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3159,9 +3159,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Della Frey",
     "isDead": 0,
     "age": 8,
-    "name": "Della Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -3186,9 +3186,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Denyo Terys",
     "isDead": 0,
     "age": 17,
-    "name": "Denyo Terys",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3213,9 +3213,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Denys Mallister",
     "isDead": 0,
     "age": 59,
-    "name": "Denys Mallister",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3240,9 +3240,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Desmond Grell",
     "isDead": 0,
     "age": 67,
-    "name": "Desmond Grell",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3267,9 +3267,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Devan Seaworth",
     "isDead": 0,
     "age": 17,
-    "name": "Devan Seaworth",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3294,9 +3294,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Dickon Frey",
     "isDead": 0,
     "age": 10,
-    "name": "Dickon Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3321,9 +3321,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Dickon Tarly",
     "isDead": 0,
     "age": 17,
-    "name": "Dickon Tarly",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3348,9 +3348,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Donal Noye",
     "isDead": 1,
     "age": 56,
-    "name": "Donal Noye",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3375,9 +3375,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Domeric Bolton",
     "isDead": 1,
     "age": 18,
-    "name": "Domeric Bolton",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3402,9 +3402,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Donella Hornwood",
     "isDead": 1,
     "age": 50,
-    "name": "Donella Hornwood",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -3429,9 +3429,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Donnel Haigh",
     "isDead": 0,
     "age": 49,
-    "name": "Donnel Haigh",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3456,9 +3456,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Donnel Waynwood",
     "isDead": 0,
     "age": 27,
-    "name": "Donnel Waynwood",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -3483,9 +3483,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Dontos Hollard",
     "isDead": 1,
     "age": 39,
-    "name": "Dontos Hollard",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3510,9 +3510,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Doreah",
     "isDead": 1,
     "age": 20,
-    "name": "Doreah",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -3537,9 +3537,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Dorea Sand",
     "isDead": 0,
     "age": 13,
-    "name": "Dorea Sand",
     "male": 0,
     "House Stark": 0,
     "House Martell": 1,
@@ -3564,9 +3564,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Doran Martell",
     "isDead": 0,
     "age": 57,
-    "name": "Doran Martell",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3591,9 +3591,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Drogo",
     "isDead": 1,
     "age": 32,
-    "name": "Drogo",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3618,9 +3618,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Dunk",
     "isDead": 1,
     "age": 68,
-    "name": "Dunk",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3645,9 +3645,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Duram Bar Emmon",
     "isDead": 0,
     "age": 20,
-    "name": "Duram Bar Emmon",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3672,9 +3672,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Dunstan Drumm",
     "isDead": 0,
     "age": 92,
-    "name": "Dunstan Drumm",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3699,9 +3699,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Duncan Targaryen",
     "isDead": 1,
     "age": 39,
-    "name": "Duncan Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3726,9 +3726,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Eddara Tallhart",
     "isDead": 0,
     "age": 15,
-    "name": "Eddara Tallhart",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3753,9 +3753,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Edric Dayne",
     "isDead": 0,
     "age": 17,
-    "name": "Edric Dayne",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3780,9 +3780,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Edmure Tully",
     "isDead": 0,
     "age": 37,
-    "name": "Edmure Tully",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3807,9 +3807,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Eddard Stark",
     "isDead": 1,
     "age": 36,
-    "name": "Eddard Stark",
     "male": 1,
     "House Stark": 1,
     "House Martell": 0,
@@ -3834,9 +3834,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Edric Storm",
     "isDead": 0,
     "age": 17,
-    "name": "Edric Storm",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3861,9 +3861,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Edwyn Frey",
     "isDead": 0,
     "age": 45,
-    "name": "Edwyn Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3888,9 +3888,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Elder Brother",
     "isDead": 0,
     "age": 49,
-    "name": "Elder Brother",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3915,9 +3915,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Eldon Estermont",
     "isDead": 0,
     "age": 76,
-    "name": "Eldon Estermont",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -3942,9 +3942,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Eleanor Mooton",
     "isDead": 0,
     "age": 18,
-    "name": "Eleanor Mooton",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -3969,9 +3969,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Elaena Targaryen",
     "isDead": 1,
     "age": 70,
-    "name": "Elaena Targaryen",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -3996,9 +3996,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Eleyna Westerling",
     "isDead": 0,
     "age": 17,
-    "name": "Eleyna Westerling",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -4023,9 +4023,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Elia Sand",
     "isDead": 0,
     "age": 19,
-    "name": "Elia Sand",
     "male": 0,
     "House Stark": 0,
     "House Martell": 1,
@@ -4050,9 +4050,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Elia Martell",
     "isDead": 1,
     "age": 27,
-    "name": "Elia Martell",
     "male": 0,
     "House Stark": 0,
     "House Martell": 1,
@@ -4077,9 +4077,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Elinor Tyrell",
     "isDead": 0,
     "age": 18,
-    "name": "Elinor Tyrell",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -4104,9 +4104,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Elmar Frey",
     "isDead": 0,
     "age": 14,
-    "name": "Elmar Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -4131,9 +4131,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Elwood Meadows",
     "isDead": 0,
     "age": 26,
-    "name": "Elwood Meadows",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -4158,9 +4158,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Elyana Vypren",
     "isDead": 0,
     "age": 40,
-    "name": "Elyana Vypren",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -4185,9 +4185,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Emma",
     "isDead": 0,
     "age": 44,
-    "name": "Emma",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -4212,9 +4212,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Emberlei Frey",
     "isDead": 0,
     "age": 8,
-    "name": "Emberlei Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -4239,9 +4239,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Emmon Frey",
     "isDead": 0,
     "age": 67,
-    "name": "Emmon Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -4266,9 +4266,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Erik Ironmaker",
     "isDead": 0,
     "age": 93,
-    "name": "Erik Ironmaker",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -4293,9 +4293,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Eon Hunter",
     "isDead": 1,
     "age": 80,
-    "name": "Eon Hunter",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -4320,9 +4320,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Erena Glover",
     "isDead": 0,
     "age": 7,
-    "name": "Erena Glover",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -4347,9 +4347,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Ermesande Hayford",
     "isDead": 0,
     "age": 6,
-    "name": "Ermesande Hayford",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -4374,9 +4374,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Euron Greyjoy",
     "isDead": 0,
     "age": 37,
-    "name": "Euron Greyjoy",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -4401,9 +4401,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Falia Flowers",
     "isDead": 0,
     "age": 23,
-    "name": "Falia Flowers",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -4428,9 +4428,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Falyse Stokeworth",
     "isDead": 1,
     "age": 35,
-    "name": "Falyse Stokeworth",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -4455,9 +4455,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Galazza Galare",
     "isDead": 0,
     "age": 87,
-    "name": "Galazza Galare",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -4482,9 +4482,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Galladon of Tarth",
     "isDead": 1,
     "age": 9,
-    "name": "Galladon of Tarth",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -4509,9 +4509,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Gared",
     "isDead": 1,
     "age": 66,
-    "name": "Gared",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -4536,9 +4536,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Garlan Tyrell",
     "isDead": 0,
     "age": 27,
-    "name": "Garlan Tyrell",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -4563,9 +4563,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Gawen Glover",
     "isDead": 0,
     "age": 9,
-    "name": "Gawen Glover",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -4590,9 +4590,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Genna Lannister",
     "isDead": 0,
     "age": 59,
-    "name": "Genna Lannister",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -4617,9 +4617,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Gerold Dayne",
     "isDead": 0,
     "age": 34,
-    "name": "Gerold Dayne",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -4644,9 +4644,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Gendry",
     "isDead": 0,
     "age": 20,
-    "name": "Gendry",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -4671,9 +4671,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Gerion Lannister",
     "isDead": 1,
     "age": 36,
-    "name": "Gerion Lannister",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -4698,9 +4698,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Gerris Drinkwater",
     "isDead": 0,
     "age": 29,
-    "name": "Gerris Drinkwater",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -4725,9 +4725,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Gilly",
     "isDead": 0,
     "age": 22,
-    "name": "Gilly",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -4752,9 +4752,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Gilwood Hunter",
     "isDead": 0,
     "age": 54,
-    "name": "Gilwood Hunter",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -4779,9 +4779,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Gormond Goodbrother",
     "isDead": 0,
     "age": 22,
-    "name": "Gormond Goodbrother",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -4806,9 +4806,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Grenn",
     "isDead": 0,
     "age": 23,
-    "name": "Grenn",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -4833,9 +4833,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Gregor Clegane",
     "isDead": 1,
     "age": 35,
-    "name": "Gregor Clegane",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -4860,9 +4860,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Gulian Swann",
     "isDead": 0,
     "age": 45,
-    "name": "Gulian Swann",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -4887,9 +4887,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Guyard Morrigen",
     "isDead": 1,
     "age": 21,
-    "name": "Guyard Morrigen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -4914,9 +4914,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Gunthor Hightower",
     "isDead": 0,
     "age": 33,
-    "name": "Gunthor Hightower",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -4941,9 +4941,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Gwayne Hightower",
     "isDead": 1,
     "age": 42,
-    "name": "Gwayne Hightower",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -4968,9 +4968,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Haegon Blackfyre",
     "isDead": 1,
     "age": 30,
-    "name": "Haegon Blackfyre",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -4995,9 +4995,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Halder",
     "isDead": 0,
     "age": 23,
-    "name": "Halder",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5022,9 +5022,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Harrold Hardyng",
     "isDead": 0,
     "age": 23,
-    "name": "Harrold Hardyng",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5049,9 +5049,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Harwin",
     "isDead": 0,
     "age": 33,
-    "name": "Harwin",
     "male": 1,
     "House Stark": 1,
     "House Martell": 0,
@@ -5076,9 +5076,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Harwin Strong",
     "isDead": 1,
     "age": 30,
-    "name": "Harwin Strong",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5103,9 +5103,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Harys Haigh",
     "isDead": 0,
     "age": 50,
-    "name": "Harys Haigh",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5130,9 +5130,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Hazzea",
     "isDead": 1,
     "age": 5,
-    "name": "Hazzea",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -5157,9 +5157,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Helaena Targaryen",
     "isDead": 1,
     "age": 21,
-    "name": "Helaena Targaryen",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -5184,9 +5184,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Holly",
     "isDead": 1,
     "age": 17,
-    "name": "Holly",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5211,9 +5211,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Hoster Frey",
     "isDead": 0,
     "age": 17,
-    "name": "Hoster Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5238,9 +5238,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Hosteen Frey",
     "isDead": 0,
     "age": 55,
-    "name": "Hosteen Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5265,9 +5265,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Hoster Tully",
     "isDead": 1,
     "age": 62,
-    "name": "Hoster Tully",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5292,9 +5292,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Hother Umber",
     "isDead": 0,
     "age": 63,
-    "name": "Hother Umber",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5319,9 +5319,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Howland Reed",
     "isDead": 0,
     "age": 44,
-    "name": "Howland Reed",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5346,9 +5346,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Humfrey Wagstaff",
     "isDead": 0,
     "age": 74,
-    "name": "Humfrey Wagstaff",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -5373,9 +5373,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Illifer",
     "isDead": 0,
     "age": 64,
-    "name": "Illifer",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5400,9 +5400,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Irri",
     "isDead": 0,
     "age": 21,
-    "name": "Irri",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -5427,9 +5427,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Jaehaerys Targaryen (son of Aegon II)",
     "isDead": 1,
     "age": 6,
-    "name": "Jaehaerys Targaryen (son of Aegon II)",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5454,9 +5454,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Jaehaera Targaryen",
     "isDead": 1,
     "age": 10,
-    "name": "Jaehaera Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5481,9 +5481,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Jaehaerys II Targaryen",
     "isDead": 1,
     "age": 37,
-    "name": "Jaehaerys II Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5508,9 +5508,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Jaime Frey",
     "isDead": 0,
     "age": 5,
-    "name": "Jaime Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5535,9 +5535,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Jaehaerys I Targaryen",
     "isDead": 1,
     "age": 69,
-    "name": "Jaehaerys I Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5562,9 +5562,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Jammos Frey",
     "isDead": 0,
     "age": 38,
-    "name": "Jammos Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5589,9 +5589,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Janei Lannister",
     "isDead": 0,
     "age": 8,
-    "name": "Janei Lannister",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -5616,9 +5616,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Jaime Lannister",
     "isDead": 0,
     "age": 38,
-    "name": "Jaime Lannister",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5643,9 +5643,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Janos Slynt",
     "isDead": 1,
     "age": 22,
-    "name": "Janos Slynt",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5670,9 +5670,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Jared Frey",
     "isDead": 1,
     "age": 52,
-    "name": "Jared Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5697,9 +5697,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Jeor Mormont",
     "isDead": 1,
     "age": 69,
-    "name": "Jeor Mormont",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5724,9 +5724,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Jeyne Goodbrook",
     "isDead": 0,
     "age": 11,
-    "name": "Jeyne Goodbrook",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -5751,9 +5751,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Jeyne Heddle",
     "isDead": 0,
     "age": 23,
-    "name": "Jeyne Heddle",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -5778,9 +5778,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Jeyne Westerling (wife of Maegor I)",
     "isDead": 1,
     "age": 20,
-    "name": "Jeyne Westerling (wife of Maegor I)",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -5805,9 +5805,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Jeyne Westerling",
     "isDead": 0,
     "age": 21,
-    "name": "Jeyne Westerling",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -5832,9 +5832,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Jhiqui",
     "isDead": 0,
     "age": 20,
-    "name": "Jhiqui",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -5859,9 +5859,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Jhogo",
     "isDead": 0,
     "age": 23,
-    "name": "Jhogo",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5886,9 +5886,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Joffrey Lonmouth",
     "isDead": 1,
     "age": 15,
-    "name": "Joffrey Lonmouth",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5913,9 +5913,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Joanna Lannister",
     "isDead": 1,
     "age": 28,
-    "name": "Joanna Lannister",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -5940,9 +5940,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Jojen Reed",
     "isDead": 0,
     "age": 18,
-    "name": "Jojen Reed",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5967,9 +5967,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Joffrey Baratheon",
     "isDead": 1,
     "age": 14,
-    "name": "Joffrey Baratheon",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -5994,9 +5994,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Jon Brax",
     "isDead": 0,
     "age": 8,
-    "name": "Jon Brax",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -6021,9 +6021,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Jon Connington",
     "isDead": 0,
     "age": 41,
-    "name": "Jon Connington",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -6048,9 +6048,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Jon Arryn",
     "isDead": 1,
     "age": 81,
-    "name": "Jon Arryn",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -6075,9 +6075,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Jonella Cerwyn",
     "isDead": 0,
     "age": 37,
-    "name": "Jonella Cerwyn",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -6102,9 +6102,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Jon Snow",
     "isDead": 0,
     "age": 21,
-    "name": "Jon Snow",
     "male": 1,
     "House Stark": 1,
     "House Martell": 0,
@@ -6129,9 +6129,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Jonos Frey",
     "isDead": 0,
     "age": 13,
-    "name": "Jonos Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -6156,9 +6156,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Jorelle Mormont",
     "isDead": 0,
     "age": 26,
-    "name": "Jorelle Mormont",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -6183,9 +6183,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Jorah Mormont",
     "isDead": 0,
     "age": 50,
-    "name": "Jorah Mormont",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -6210,9 +6210,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Josmyn Peckledon",
     "isDead": 0,
     "age": 20,
-    "name": "Josmyn Peckledon",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -6237,9 +6237,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Joyeuse Erenford",
     "isDead": 0,
     "age": 22,
-    "name": "Joyeuse Erenford",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -6264,9 +6264,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Joy Hill",
     "isDead": 0,
     "age": 16,
-    "name": "Joy Hill",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -6291,9 +6291,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Kaeth",
     "isDead": 1,
     "age": 82,
-    "name": "Kaeth",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -6318,9 +6318,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Kedge Whiteye",
     "isDead": 0,
     "age": 53,
-    "name": "Kedge Whiteye",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -6345,9 +6345,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Khrazz",
     "isDead": 1,
     "age": 23,
-    "name": "Khrazz",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -6372,9 +6372,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Kevan Lannister",
     "isDead": 1,
     "age": 56,
-    "name": "Kevan Lannister",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -6399,9 +6399,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Krazz",
     "isDead": 1,
     "age": 23,
-    "name": "Krazz",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -6426,9 +6426,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Kyra",
     "isDead": 1,
     "age": 20,
-    "name": "Kyra",
     "male": 1,
     "House Stark": 1,
     "House Martell": 0,
@@ -6453,9 +6453,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Kyra Frey",
     "isDead": 0,
     "age": 42,
-    "name": "Kyra Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -6480,9 +6480,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Laenor Velaryon",
     "isDead": 1,
     "age": 26,
-    "name": "Laenor Velaryon",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -6507,9 +6507,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Laena Velaryon",
     "isDead": 1,
     "age": 27,
-    "name": "Laena Velaryon",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -6534,9 +6534,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Lanna",
     "isDead": 0,
     "age": 19,
-    "name": "Lanna",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -6561,9 +6561,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Lanna (Happy Port)",
     "isDead": 0,
     "age": 18,
-    "name": "Lanna (Happy Port)",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -6588,9 +6588,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Lancel Lannister",
     "isDead": 0,
     "age": 22,
-    "name": "Lancel Lannister",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -6615,9 +6615,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Larence Snow",
     "isDead": 0,
     "age": 18,
-    "name": "Larence Snow",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -6642,9 +6642,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Lanna Lannister",
     "isDead": 0,
     "age": 33,
-    "name": "Lanna Lannister",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -6669,9 +6669,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Layna",
     "isDead": 0,
     "age": 25,
-    "name": "Layna",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -6696,9 +6696,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Leathers",
     "isDead": 0,
     "age": 45,
-    "name": "Leathers",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -6723,9 +6723,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Leana Frey",
     "isDead": 0,
     "age": 5,
-    "name": "Leana Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -6750,9 +6750,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Lollys Stokeworth",
     "isDead": 0,
     "age": 39,
-    "name": "Lollys Stokeworth",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -6777,9 +6777,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Lorcas",
     "isDead": 0,
     "age": 63,
-    "name": "Lorcas",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -6804,9 +6804,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Loreza Sand",
     "isDead": 0,
     "age": 11,
-    "name": "Loreza Sand",
     "male": 0,
     "House Stark": 0,
     "House Martell": 1,
@@ -6831,9 +6831,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Loras Tyrell",
     "isDead": 0,
     "age": 22,
-    "name": "Loras Tyrell",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -6858,9 +6858,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Lothar Frey",
     "isDead": 0,
     "age": 40,
-    "name": "Lothar Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -6885,9 +6885,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Luceon Frey",
     "isDead": 0,
     "age": 55,
-    "name": "Luceon Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -6912,9 +6912,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Lucos Chyttering",
     "isDead": 0,
     "age": 21,
-    "name": "Lucos Chyttering",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -6939,9 +6939,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Lucion Lannister",
     "isDead": 0,
     "age": 34,
-    "name": "Lucion Lannister",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -6966,9 +6966,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Lyanna Mormont",
     "isDead": 0,
     "age": 14,
-    "name": "Lyanna Mormont",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -6993,9 +6993,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Lyman Beesbury",
     "isDead": 1,
     "age": 81,
-    "name": "Lyman Beesbury",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -7020,9 +7020,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Lyman Darry",
     "isDead": 1,
     "age": 9,
-    "name": "Lyman Darry",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -7047,9 +7047,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Lyanna Stark",
     "isDead": 1,
     "age": 17,
-    "name": "Lyanna Stark",
     "male": 1,
     "House Stark": 1,
     "House Martell": 0,
@@ -7074,9 +7074,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Lyonel Corbray",
     "isDead": 0,
     "age": 44,
-    "name": "Lyonel Corbray",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -7101,9 +7101,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Lynesse Hightower",
     "isDead": 0,
     "age": 32,
-    "name": "Lynesse Hightower",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -7128,9 +7128,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Lyonel Frey",
     "isDead": 0,
     "age": 45,
-    "name": "Lyonel Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -7155,9 +7155,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Lyra Mormont",
     "isDead": 0,
     "age": 27,
-    "name": "Lyra Mormont",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -7182,9 +7182,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Lysa Arryn",
     "isDead": 1,
     "age": 34,
-    "name": "Lysa Arryn",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -7209,9 +7209,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Lythene Frey",
     "isDead": 0,
     "age": 53,
-    "name": "Lythene Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -7236,9 +7236,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Maege Mormont",
     "isDead": 0,
     "age": 65,
-    "name": "Maege Mormont",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -7263,9 +7263,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Maegelle Frey",
     "isDead": 0,
     "age": 55,
-    "name": "Maegelle Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -7290,9 +7290,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Mace Tyrell",
     "isDead": 0,
     "age": 48,
-    "name": "Mace Tyrell",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -7317,9 +7317,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Maekar Targaryen",
     "isDead": 1,
     "age": 59,
-    "name": "Maekar Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -7344,9 +7344,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Maelor Targaryen",
     "isDead": 1,
     "age": 3,
-    "name": "Maelor Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -7371,9 +7371,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Maegor I Targaryen",
     "isDead": 1,
     "age": 36,
-    "name": "Maegor I Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -7398,9 +7398,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Marei",
     "isDead": 0,
     "age": 24,
-    "name": "Marei",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -7425,9 +7425,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Malwyn Frey",
     "isDead": 0,
     "age": 20,
-    "name": "Malwyn Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -7452,9 +7452,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Marillion",
     "isDead": 1,
     "age": 21,
-    "name": "Marillion",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -7479,9 +7479,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Marianne Vance",
     "isDead": 0,
     "age": 42,
-    "name": "Marianne Vance",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -7506,9 +7506,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Margaery Tyrell",
     "isDead": 0,
     "age": 21,
-    "name": "Margaery Tyrell",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -7533,9 +7533,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Marissa Frey",
     "isDead": 0,
     "age": 18,
-    "name": "Marissa Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -7560,9 +7560,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Maron Volmark",
     "isDead": 0,
     "age": 21,
-    "name": "Maron Volmark",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -7587,9 +7587,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Maron Greyjoy",
     "isDead": 1,
     "age": 14,
-    "name": "Maron Greyjoy",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -7614,9 +7614,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Matarys Targaryen",
     "isDead": 1,
     "age": 25,
-    "name": "Matarys Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -7641,9 +7641,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Martyn Lannister",
     "isDead": 0,
     "age": 19,
-    "name": "Martyn Lannister",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -7668,9 +7668,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Mathis Frey",
     "isDead": 0,
     "age": 10,
-    "name": "Mathis Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -7695,9 +7695,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Meera Reed",
     "isDead": 0,
     "age": 21,
-    "name": "Meera Reed",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -7722,9 +7722,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Melara Hetherspoon",
     "isDead": 1,
     "age": 12,
-    "name": "Melara Hetherspoon",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -7749,9 +7749,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Megga Tyrell",
     "isDead": 0,
     "age": 18,
-    "name": "Megga Tyrell",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -7776,9 +7776,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Meribald",
     "isDead": 0,
     "age": 57,
-    "name": "Meribald",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -7803,9 +7803,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Merianne Frey",
     "isDead": 0,
     "age": 16,
-    "name": "Merianne Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -7830,9 +7830,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Merrett Frey",
     "isDead": 1,
     "age": 38,
-    "name": "Merrett Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -7857,9 +7857,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Mirri Maz Duur",
     "isDead": 1,
     "age": 42,
-    "name": "Mirri Maz Duur",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -7884,9 +7884,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Missandei",
     "isDead": 0,
     "age": 16,
-    "name": "Missandei",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -7911,9 +7911,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Monster",
     "isDead": 0,
     "age": 5,
-    "name": "Monster",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -7938,9 +7938,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Monterys Velaryon",
     "isDead": 0,
     "age": 11,
-    "name": "Monterys Velaryon",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -7965,9 +7965,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Moreo Tumitis",
     "isDead": 0,
     "age": 36,
-    "name": "Moreo Tumitis",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -7992,9 +7992,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Mors Martell (brother of Doran)",
     "isDead": 1,
     "age": 0,
-    "name": "Mors Martell (brother of Doran)",
     "male": 1,
     "House Stark": 0,
     "House Martell": 1,
@@ -8019,9 +8019,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Mors Umber",
     "isDead": 0,
     "age": 69,
-    "name": "Mors Umber",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -8046,9 +8046,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Morya Frey",
     "isDead": 0,
     "age": 36,
-    "name": "Morya Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -8073,9 +8073,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Mycah",
     "isDead": 1,
     "age": 13,
-    "name": "Mycah",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -8100,9 +8100,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Mya Stone",
     "isDead": 0,
     "age": 25,
-    "name": "Mya Stone",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -8127,9 +8127,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Mylenda Caron",
     "isDead": 0,
     "age": 46,
-    "name": "Mylenda Caron",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -8154,9 +8154,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Myranda Royce",
     "isDead": 0,
     "age": 25,
-    "name": "Myranda Royce",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -8181,9 +8181,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Myrcella Baratheon",
     "isDead": 0,
     "age": 14,
-    "name": "Myrcella Baratheon",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -8208,9 +8208,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Naerys Targaryen",
     "isDead": 1,
     "age": 41,
-    "name": "Naerys Targaryen",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -8235,9 +8235,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Nymeria Sand",
     "isDead": 0,
     "age": 30,
-    "name": "Nymeria Sand",
     "male": 0,
     "House Stark": 0,
     "House Martell": 1,
@@ -8262,9 +8262,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Obella Sand",
     "isDead": 0,
     "age": 17,
-    "name": "Obella Sand",
     "male": 0,
     "House Stark": 0,
     "House Martell": 1,
@@ -8289,9 +8289,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Obara Sand",
     "isDead": 0,
     "age": 33,
-    "name": "Obara Sand",
     "male": 0,
     "House Stark": 0,
     "House Martell": 1,
@@ -8316,9 +8316,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Old Henly",
     "isDead": 1,
     "age": 79,
-    "name": "Old Henly",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -8343,9 +8343,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Oberyn Martell",
     "isDead": 1,
     "age": 43,
-    "name": "Oberyn Martell",
     "male": 1,
     "House Stark": 0,
     "House Martell": 1,
@@ -8370,9 +8370,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Olenna Redwyne",
     "isDead": 0,
     "age": 76,
-    "name": "Olenna Redwyne",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -8397,9 +8397,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Olyvar Frey",
     "isDead": 0,
     "age": 23,
-    "name": "Olyvar Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -8424,9 +8424,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Osmund Frey",
     "isDead": 0,
     "age": 7,
-    "name": "Osmund Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -8451,9 +8451,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Ottyn Wythers",
     "isDead": 1,
     "age": 69,
-    "name": "Ottyn Wythers",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -8478,9 +8478,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Pate (King's Landing)",
     "isDead": 0,
     "age": 13,
-    "name": "Pate (King's Landing)",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -8505,9 +8505,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Penny",
     "isDead": 0,
     "age": 23,
-    "name": "Penny",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -8532,9 +8532,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Patrek Vance",
     "isDead": 0,
     "age": 40,
-    "name": "Patrek Vance",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -8559,9 +8559,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Perriane Frey",
     "isDead": 0,
     "age": 63,
-    "name": "Perriane Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -8586,9 +8586,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Perwyn Frey",
     "isDead": 0,
     "age": 35,
-    "name": "Perwyn Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -8613,9 +8613,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Perra Frey",
     "isDead": 0,
     "age": 10,
-    "name": "Perra Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -8640,9 +8640,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Petyr Baelish",
     "isDead": 0,
     "age": 36,
-    "name": "Petyr Baelish",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -8667,9 +8667,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Petyr Frey",
     "isDead": 1,
     "age": 19,
-    "name": "Petyr Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -8694,9 +8694,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Podrick Payne",
     "isDead": 0,
     "age": 18,
-    "name": "Podrick Payne",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -8721,9 +8721,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Pylos",
     "isDead": 0,
     "age": 31,
-    "name": "Pylos",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -8748,9 +8748,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Pycelle",
     "isDead": 1,
     "age": 84,
-    "name": "Pycelle",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -8775,9 +8775,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Quort",
     "isDead": 1,
     "age": 14,
-    "name": "Quort",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -8802,9 +8802,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Quentyn Martell",
     "isDead": 1,
     "age": 19,
-    "name": "Quentyn Martell",
     "male": 1,
     "House Stark": 0,
     "House Martell": 1,
@@ -8829,9 +8829,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Ramsay Snow",
     "isDead": 0,
     "age": 22,
-    "name": "Ramsay Snow",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -8856,9 +8856,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Raymund Frey",
     "isDead": 0,
     "age": 40,
-    "name": "Raymund Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -8883,9 +8883,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Renly Norcross",
     "isDead": 0,
     "age": 8,
-    "name": "Renly Norcross",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -8910,9 +8910,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Renly Baratheon",
     "isDead": 1,
     "age": 22,
-    "name": "Renly Baratheon",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -8937,9 +8937,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Rhaegar Frey",
     "isDead": 1,
     "age": 31,
-    "name": "Rhaegar Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -8964,9 +8964,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Rhaegel Targaryen",
     "isDead": 1,
     "age": 42,
-    "name": "Rhaegel Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -8991,9 +8991,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Rhaegar Targaryen",
     "isDead": 1,
     "age": 24,
-    "name": "Rhaegar Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -9018,9 +9018,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Rhaego",
     "isDead": 1,
     "age": -1,
-    "name": "Rhaego",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -9045,9 +9045,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Rhaella Targaryen",
     "isDead": 1,
     "age": 39,
-    "name": "Rhaella Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -9072,9 +9072,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Rhaelle Targaryen",
     "isDead": 0,
     "age": 75,
-    "name": "Rhaelle Targaryen",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -9099,9 +9099,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Rhaenys Targaryen (daughter of Rhaegar)",
     "isDead": 1,
     "age": 3,
-    "name": "Rhaenys Targaryen (daughter of Rhaegar)",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -9126,9 +9126,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Rhaenys Targaryen (daughter of Aemon)",
     "isDead": 1,
     "age": 55,
-    "name": "Rhaenys Targaryen (daughter of Aemon)",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -9153,9 +9153,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Rickard Wylde",
     "isDead": 0,
     "age": 9,
-    "name": "Rickard Wylde",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -9180,9 +9180,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Rickard Stark",
     "isDead": 1,
     "age": 52,
-    "name": "Rickard Stark",
     "male": 1,
     "House Stark": 1,
     "House Martell": 0,
@@ -9207,9 +9207,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Rickon Stark",
     "isDead": 0,
     "age": 9,
-    "name": "Rickon Stark",
     "male": 1,
     "House Stark": 1,
     "House Martell": 0,
@@ -9234,9 +9234,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Robar Royce",
     "isDead": 1,
     "age": 22,
-    "name": "Robar Royce",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -9261,9 +9261,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Robert Brax (son of Flement)",
     "isDead": 0,
     "age": 14,
-    "name": "Robert Brax (son of Flement)",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -9288,9 +9288,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Robert Arryn",
     "isDead": 0,
     "age": 12,
-    "name": "Robert Arryn",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -9315,9 +9315,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Robb Stark",
     "isDead": 1,
     "age": 16,
-    "name": "Robb Stark",
     "male": 1,
     "House Stark": 1,
     "House Martell": 0,
@@ -9342,9 +9342,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Robert Frey",
     "isDead": 0,
     "age": 18,
-    "name": "Robert Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -9369,9 +9369,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Robert Baratheon",
     "isDead": 1,
     "age": 36,
-    "name": "Robert Baratheon",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -9396,9 +9396,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Robert Frey (son of Raymund)",
     "isDead": 0,
     "age": 21,
-    "name": "Robert Frey (son of Raymund)",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -9423,9 +9423,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Robin Ryger",
     "isDead": 0,
     "age": 67,
-    "name": "Robin Ryger",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -9450,9 +9450,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Rodrik Greyjoy",
     "isDead": 1,
     "age": 15,
-    "name": "Rodrik Greyjoy",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -9477,9 +9477,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Rollam Westerling",
     "isDead": 0,
     "age": 14,
-    "name": "Rollam Westerling",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -9504,9 +9504,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Roone",
     "isDead": 0,
     "age": 18,
-    "name": "Roone",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -9531,9 +9531,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Ronnet Connington",
     "isDead": 0,
     "age": 30,
-    "name": "Ronnet Connington",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -9558,9 +9558,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Roose Bolton",
     "isDead": 0,
     "age": 44,
-    "name": "Roose Bolton",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -9585,9 +9585,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Rosey",
     "isDead": 0,
     "age": 20,
-    "name": "Rosey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -9612,9 +9612,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Roslin Frey",
     "isDead": 0,
     "age": 22,
-    "name": "Roslin Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -9639,9 +9639,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Ryella Frey",
     "isDead": 0,
     "age": 10,
-    "name": "Ryella Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -9666,9 +9666,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Ryman Frey",
     "isDead": 1,
     "age": 54,
-    "name": "Ryman Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -9693,9 +9693,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Samwell Tarly",
     "isDead": 0,
     "age": 21,
-    "name": "Samwell Tarly",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -9720,9 +9720,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Sandor Frey",
     "isDead": 0,
     "age": 17,
-    "name": "Sandor Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -9747,9 +9747,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Sarella Sand",
     "isDead": 0,
     "age": 24,
-    "name": "Sarella Sand",
     "male": 0,
     "House Stark": 0,
     "House Martell": 1,
@@ -9774,9 +9774,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Sandor Clegane",
     "isDead": 1,
     "age": 30,
-    "name": "Sandor Clegane",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -9801,9 +9801,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Sansa Stark",
     "isDead": 0,
     "age": 18,
-    "name": "Sansa Stark",
     "male": 0,
     "House Stark": 1,
     "House Martell": 0,
@@ -9828,9 +9828,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Satin",
     "isDead": 0,
     "age": 24,
-    "name": "Satin",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -9855,9 +9855,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Sarra Frey",
     "isDead": 0,
     "age": 19,
-    "name": "Sarra Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -9882,9 +9882,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Selwyn Tarth",
     "isDead": 0,
     "age": 59,
-    "name": "Selwyn Tarth",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -9909,9 +9909,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Shae",
     "isDead": 1,
     "age": 20,
-    "name": "Shae",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -9936,9 +9936,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Serra Frey",
     "isDead": 0,
     "age": 19,
-    "name": "Serra Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -9963,9 +9963,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Shirei Frey",
     "isDead": 0,
     "age": 12,
-    "name": "Shirei Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -9990,9 +9990,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Shireen Baratheon",
     "isDead": 0,
     "age": 15,
-    "name": "Shireen Baratheon",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -10017,9 +10017,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Stannis Seaworth",
     "isDead": 0,
     "age": 15,
-    "name": "Stannis Seaworth",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10044,9 +10044,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Stafford Lannister",
     "isDead": 1,
     "age": 53,
-    "name": "Stafford Lannister",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10071,9 +10071,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Steffon Seaworth",
     "isDead": 0,
     "age": 11,
-    "name": "Steffon Seaworth",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10098,9 +10098,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Steffon Baratheon",
     "isDead": 1,
     "age": 32,
-    "name": "Steffon Baratheon",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10125,9 +10125,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Steffon Frey",
     "isDead": 0,
     "age": 41,
-    "name": "Steffon Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -10152,9 +10152,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Stannis Baratheon",
     "isDead": 0,
     "age": 40,
-    "name": "Stannis Baratheon",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10179,9 +10179,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Stonesnake",
     "isDead": 0,
     "age": 54,
-    "name": "Stonesnake",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10206,9 +10206,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Stevron Frey",
     "isDead": 1,
     "age": 66,
-    "name": "Stevron Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10233,9 +10233,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Sylva Santagar",
     "isDead": 0,
     "age": 28,
-    "name": "Sylva Santagar",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -10260,9 +10260,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Taena of Myr",
     "isDead": 0,
     "age": 28,
-    "name": "Taena of Myr",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -10287,9 +10287,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Symond Frey",
     "isDead": 1,
     "age": 48,
-    "name": "Symond Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10314,9 +10314,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Theon Greyjoy",
     "isDead": 0,
     "age": 26,
-    "name": "Theon Greyjoy",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10341,9 +10341,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Timett",
     "isDead": 0,
     "age": 26,
-    "name": "Timett",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10368,9 +10368,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Tion Frey",
     "isDead": 1,
     "age": 20,
-    "name": "Tion Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10395,9 +10395,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Tomard",
     "isDead": 1,
     "age": 49,
-    "name": "Tomard",
     "male": 1,
     "House Stark": 1,
     "House Martell": 0,
@@ -10422,9 +10422,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Tom of Sevenstreams",
     "isDead": 0,
     "age": 64,
-    "name": "Tom of Sevenstreams",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10449,9 +10449,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Tommen Baratheon",
     "isDead": 0,
     "age": 13,
-    "name": "Tommen Baratheon",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10476,9 +10476,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Trystane Martell",
     "isDead": 0,
     "age": 17,
-    "name": "Trystane Martell",
     "male": 1,
     "House Stark": 0,
     "House Martell": 1,
@@ -10503,9 +10503,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Tyene Sand",
     "isDead": 0,
     "age": 28,
-    "name": "Tyene Sand",
     "male": 0,
     "House Stark": 0,
     "House Martell": 1,
@@ -10530,9 +10530,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Tygett Lannister",
     "isDead": 1,
     "age": 35,
-    "name": "Tygett Lannister",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10557,9 +10557,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Tyrek Lannister",
     "isDead": 1,
     "age": 13,
-    "name": "Tyrek Lannister",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10584,9 +10584,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Tyrion Tanner",
     "isDead": 0,
     "age": 4,
-    "name": "Tyrion Tanner",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10611,9 +10611,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Tysane Frey",
     "isDead": 0,
     "age": 12,
-    "name": "Tysane Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -10638,9 +10638,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Tysha",
     "isDead": 0,
     "age": 33,
-    "name": "Tysha",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10665,9 +10665,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Tyta Frey",
     "isDead": 0,
     "age": 35,
-    "name": "Tyta Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -10692,9 +10692,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Tytos Frey",
     "isDead": 1,
     "age": 38,
-    "name": "Tytos Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10719,9 +10719,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Tyrion Lannister",
     "isDead": 0,
     "age": 31,
-    "name": "Tyrion Lannister",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10746,9 +10746,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Tywin Frey",
     "isDead": 0,
     "age": 17,
-    "name": "Tywin Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10773,9 +10773,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Tytos Lannister",
     "isDead": 1,
     "age": 47,
-    "name": "Tytos Lannister",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10800,9 +10800,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Tywin Frey (son of Raymund)",
     "isDead": 0,
     "age": 5,
-    "name": "Tywin Frey (son of Raymund)",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10827,9 +10827,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Tywin Lannister",
     "isDead": 1,
     "age": 58,
-    "name": "Tywin Lannister",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10854,9 +10854,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Urrigon Greyjoy",
     "isDead": 0,
     "age": 36,
-    "name": "Urrigon Greyjoy",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10881,9 +10881,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Utherydes Wayn",
     "isDead": 0,
     "age": 67,
-    "name": "Utherydes Wayn",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -10908,9 +10908,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Vardis Egen",
     "isDead": 1,
     "age": 49,
-    "name": "Vardis Egen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10935,9 +10935,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Valarr Targaryen",
     "isDead": 1,
     "age": 26,
-    "name": "Valarr Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10962,9 +10962,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Victarion Greyjoy",
     "isDead": 0,
     "age": 36,
-    "name": "Victarion Greyjoy",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -10989,9 +10989,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Waif",
     "isDead": 0,
     "age": 41,
-    "name": "Waif",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -11016,9 +11016,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Viserys Targaryen",
     "isDead": 1,
     "age": 22,
-    "name": "Viserys Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -11043,9 +11043,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Viserys I Targaryen",
     "isDead": 1,
     "age": 52,
-    "name": "Viserys I Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -11070,9 +11070,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Viserys II Targaryen",
     "isDead": 1,
     "age": 50,
-    "name": "Viserys II Targaryen",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -11097,9 +11097,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Walda Frey (daughter of Edwyn)",
     "isDead": 0,
     "age": 14,
-    "name": "Walda Frey (daughter of Edwyn)",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -11124,9 +11124,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Walda Frey (daughter of Lothar)",
     "isDead": 0,
     "age": 10,
-    "name": "Walda Frey (daughter of Lothar)",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -11151,9 +11151,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Walda Frey (daughter of Walton)",
     "isDead": 0,
     "age": 24,
-    "name": "Walda Frey (daughter of Walton)",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -11178,9 +11178,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Walda Rivers",
     "isDead": 0,
     "age": 10,
-    "name": "Walda Rivers",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -11205,9 +11205,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Walda Rivers (daughter of Aemon)",
     "isDead": 0,
     "age": 9,
-    "name": "Walda Rivers (daughter of Aemon)",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -11232,9 +11232,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Walda Frey (daughter of Rhaegar)",
     "isDead": 0,
     "age": 16,
-    "name": "Walda Frey (daughter of Rhaegar)",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -11259,9 +11259,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Walda Frey (daughter of Merrett)",
     "isDead": 0,
     "age": 21,
-    "name": "Walda Frey (daughter of Merrett)",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -11286,9 +11286,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Walder Brax",
     "isDead": 0,
     "age": 11,
-    "name": "Walder Brax",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -11313,9 +11313,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Walder Frey (son of Jammos)",
     "isDead": 0,
     "age": 13,
-    "name": "Walder Frey (son of Jammos)",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -11340,9 +11340,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Walder Frey (son of Emmon)",
     "isDead": 0,
     "age": 19,
-    "name": "Walder Frey (son of Emmon)",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -11367,9 +11367,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Walder Frey (son of Ryman)",
     "isDead": 0,
     "age": 44,
-    "name": "Walder Frey (son of Ryman)",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -11394,9 +11394,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Walder Frey (son of Merrett)",
     "isDead": 1,
     "age": 9,
-    "name": "Walder Frey (son of Merrett)",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -11421,9 +11421,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Walder Goodbrook",
     "isDead": 0,
     "age": 14,
-    "name": "Walder Goodbrook",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -11448,9 +11448,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Walder Haigh",
     "isDead": 0,
     "age": 10,
-    "name": "Walder Haigh",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -11475,9 +11475,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Walder Vance",
     "isDead": 0,
     "age": 41,
-    "name": "Walder Vance",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -11502,9 +11502,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Wallace Waynwood",
     "isDead": 0,
     "age": 26,
-    "name": "Wallace Waynwood",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -11529,9 +11529,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Walton Frey",
     "isDead": 0,
     "age": 55,
-    "name": "Walton Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -11556,9 +11556,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Waltyr Frey",
     "isDead": 0,
     "age": 15,
-    "name": "Waltyr Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -11583,9 +11583,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Walder Frey",
     "isDead": 0,
     "age": 96,
-    "name": "Walder Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -11610,9 +11610,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Weasel",
     "isDead": 0,
     "age": 8,
-    "name": "Weasel",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -11637,9 +11637,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Waymar Royce",
     "isDead": 1,
     "age": 19,
-    "name": "Waymar Royce",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -11664,9 +11664,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Wendel Frey",
     "isDead": 0,
     "age": 18,
-    "name": "Wendel Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -11691,9 +11691,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Wendel Manderly",
     "isDead": 1,
     "age": 45,
-    "name": "Wendel Manderly",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -11718,9 +11718,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Wex Pyke",
     "isDead": 0,
     "age": 18,
-    "name": "Wex Pyke",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -11745,9 +11745,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Whalen Frey",
     "isDead": 0,
     "age": 37,
-    "name": "Whalen Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -11772,9 +11772,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Willamen Frey",
     "isDead": 0,
     "age": 32,
-    "name": "Willamen Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -11799,9 +11799,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Willem Frey",
     "isDead": 0,
     "age": 15,
-    "name": "Willem Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -11826,9 +11826,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Willem Lannister",
     "isDead": 1,
     "age": 14,
-    "name": "Willem Lannister",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -11853,9 +11853,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Willas Tyrell",
     "isDead": 0,
     "age": 34,
-    "name": "Willas Tyrell",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -11880,9 +11880,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Willow Heddle",
     "isDead": 0,
     "age": 15,
-    "name": "Willow Heddle",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -11907,9 +11907,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Wylla Manderly",
     "isDead": 0,
     "age": 20,
-    "name": "Wylla Manderly",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -11934,9 +11934,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Wylis Manderly",
     "isDead": 0,
     "age": 52,
-    "name": "Wylis Manderly",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -11961,9 +11961,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Wynafryd Manderly",
     "isDead": 0,
     "age": 24,
-    "name": "Wynafryd Manderly",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -11988,9 +11988,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Wyman Manderly",
     "isDead": 0,
     "age": 65,
-    "name": "Wyman Manderly",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -12015,9 +12015,9 @@
     "Winterfell": 1
   },
   {
+    "name": "Wynton Stout",
     "isDead": 0,
     "age": 85,
-    "name": "Wynton Stout",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -12042,9 +12042,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Ygritte",
     "isDead": 1,
     "age": 19,
-    "name": "Ygritte",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
@@ -12069,9 +12069,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Young Henly",
     "isDead": 1,
     "age": 59,
-    "name": "Young Henly",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -12096,9 +12096,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Zachery Frey",
     "isDead": 0,
     "age": 17,
-    "name": "Zachery Frey",
     "male": 1,
     "House Stark": 0,
     "House Martell": 0,
@@ -12123,9 +12123,9 @@
     "Winterfell": 0
   },
   {
+    "name": "Zia Frey",
     "isDead": 0,
     "age": 19,
-    "name": "Zia Frey",
     "male": 0,
     "House Stark": 0,
     "House Martell": 0,
