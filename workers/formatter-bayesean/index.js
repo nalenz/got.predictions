@@ -14,17 +14,23 @@ const fs = require('fs-extra');
 
 const LOCATION_VISITED_THRESHOLD = 50; //min. amount of people need to visit a location before it's used
 const HOUSE_THRESHOLD = 10; //min. amount of people in this house before it's used
-const CULTURES_THRESHOLD = 20; //min. amount of people with this culture before it's used
+const CULTURES_THRESHOLD = 10; //min. amount of people with this culture before it's used
 const AGE_THRESHOLD = 100; //alive characters above this age are considered to be errors
 
 /*************************************************************************************************/
 //COLLECTOR FUNCTIONS (will collect data from the data-mined model)
+
+function isAlive(character) {
+  return character.dateOfDeath == null || character.dateOfDeath == undefined;
+}
 
 function isSuitableChar(character) {
   if(character.dateOfBirth == undefined || character.dateOfBirth == null) {
     return false; // character's date of birth is missing
   } else if ((character.dateOfDeath == null || character.dateOfDeath == undefined) && config.GOT_CURRENT_YEAR - character.dateOfBirth > AGE_THRESHOLD) {
     return false; // character has no date of death, but is apparently over AGE_THRESHOLD years old
+  } else if(character.dateOfDeath < character.dateOfBirth) {
+    return false;
   }
   return true;
 }
@@ -90,10 +96,10 @@ function collectHouses(unfilteredHouses, filteredChars) {
       if(ch.house == h.name) {
         house_counter += 1;
 	  }
-	}
-	if(house_counter >= HOUSE_THRESHOLD) {
-      houses.push(h);
-	}
+	  }
+	  if(house_counter >= HOUSE_THRESHOLD) {
+        houses.push(h);
+	  }
   }
   
   return houses;
@@ -117,13 +123,24 @@ function collectCultures(unfilteredCultures, filteredChars) {
   return cultures;
 }
 
+function getMaxRank(characters) {
+  //max pageRank from all characters
+  let max = 0;
+  for(let ch of characters) {
+    if(ch.pageRank > max) {
+      max = ch.pageRank;
+    }
+  }
+  return max;
+}
+
 /*************************************************************************************************/
 //FORMATTER FUNCTIONS (will use the collected data to add flags to a reformatted character model)
 //They do this as a side effect and do not return anything.
 
 function processAge(srcChar, destChar) {
   // check whether character alive or not and calculate age
-  if (srcChar.dateOfDeath !== undefined && srcChar.dateOfDeath !== null) {
+  if (!isAlive(srcChar)) {
     // there is a date of death => is dead
     destChar.isDead = 1;
     destChar.age = srcChar.dateOfDeath - srcChar.dateOfBirth;
@@ -181,24 +198,46 @@ function processCultures(srcChar, destChar, cultures) {
 }
 
 function processTitles(srcChar, destChar) {
-  if(srcChar["titles"] != undefined && srcChar["titles"].length != undefined) {
-    destChar.numTitles = srcChar["titles"].length
+  if(srcChar["titles"] != undefined && srcChar["titles"].length > 0) {
+    destChar.hasTitles = 1;
   } else {
-    destChar.numTitles = 0;
+    destChar.hasTitles = 0;
   }
 }
 
-function processSpouses(srcChar, destChar) {
-  // number of spouses
-  if (srcChar["spouse"] != undefined && srcChar["spouse"].length != undefined) {
-    if (Array.isArray(srcChar["spouse"])){
-      destChar.numSpouses = srcChar["spouse"].length
-    }
-    else {
-      destChar.numSpouses = 1;
-    }
-  } else {
-    destChar.numSpouses = 0;
+function processSpouses(srcChar, destChar, characters) {
+  // is the character married?
+  // TODO cover the case where somebody else has srcChar as a spouse, but not vice versa
+  if (srcChar["spouse"] != undefined && srcChar["spouse"].length > 0) {
+    destChar.isMarried = 1;
+    //destChar.hasDeadSpouse = 0;
+    //determine whether character has a dead spouse
+    /*if(Array.isArray(srcChar["spouse"])) {
+      //multiple spouses
+      for(let ch of characters) {
+        if(srcChar["spouse"].includes(ch.name)) {
+          if(!isAlive(ch)) {
+            //found a dead spouse
+            destChar.hasDeadSpouse = 1;
+            break;
+          }
+        }
+      }
+    } else {
+      //spouse is not an array, so only one spouse
+      for(let ch of characters) {
+        if(ch.name == srcChar["spouse"]) {
+          if(!isAlive(ch)) {
+            //the spouse is dead
+            destChar.hasDeadSpouse = 1;
+            break;
+          }
+        }
+      }
+    }*/
+  } else { //no spouses
+    destChar.isMarried = 0;
+    //destChar.hasDeadSpouse = 0;
   }
 }
 
@@ -220,6 +259,36 @@ function processLocations(srcChar, destChar, locations, locMap) {
   }
 }
 
+function processParents(srcChar, destChar, characters) {
+  //first: Is srcChar somebody's parent?
+  destChar.isParent = 0;
+  for(let ch of characters) {
+    if(ch.mother == srcChar.name || ch.father == srcChar.name) {
+      destChar.isParent = 1; //found a child!
+      break;
+    }
+  }
+}
+
+function processHeir(srcChar, destChar, characters) {
+  //is srcChar somebody's heir?
+  destChar.isHeir = 0;
+  for(let ch of characters) {
+    if(ch.heir == srcChar.name) {
+      destChar.isHeir = 1;
+      break;
+    }
+  }
+}
+
+function processRank(srcChar, destChar, maxRank) {
+  if(srcChar.pageRank > (0.5 * maxRank)) { //this check is similar to the 2016 project
+    destChar.isMajor = 1;
+  } else {
+    destChar.isMajor = 0;
+  }
+}
+
 /*************************************************************************************************/
 
 async function genTrainingData () {
@@ -232,11 +301,12 @@ async function genTrainingData () {
   ]);
   
   let characters = filterChars(characters_unfiltered); // filter out unsuitable characters
-  let locMap = genLocationMap(character_locations); // generate a character-to-locations map
-  let locations = collectLocations(character_locations, characters, locMap); // collect locations and filter them
+  //let locMap = genLocationMap(character_locations); // generate a character-to-locations map
+  //let locations = collectLocations(character_locations, characters, locMap); // collect locations and filter them
   let houses = collectHouses(houses_unfiltered, characters); // collect houses and filter them
   let cultures = collectCultures(cultures_unfiltered, characters); // collect cultures and filter them
-
+  let maxRank = getMaxRank(characters); //max pageRank can determine who is a major character
+  
   // in training_chars, we will accumulate the character data used for training
   let training_chars = [];
 
@@ -245,15 +315,20 @@ async function genTrainingData () {
     // this will be the reformatted character
     let ref_ch = {};
     
-	ref_ch.name = ch.name; // copy the name
-	processAge(ch, ref_ch); // process age-related data
-	processGender(ch, ref_ch); // process gender data
-	processHouses(ch, ref_ch, houses); // process house data
-	processCultures(ch, ref_ch, cultures); // process culture data
-	processTitles(ch, ref_ch); // process titles data
-	processSpouses(ch, ref_ch); // process spouses data
-	processLocations(ch, ref_ch, locations, locMap); // process location data
-	
+	  ref_ch.name = ch.name; // copy the name
+	  processAge(ch, ref_ch); // process age-related data
+	  processGender(ch, ref_ch); // process gender data
+  	processHouses(ch, ref_ch, houses); // process house data
+	  processCultures(ch, ref_ch, cultures); // process culture data
+	  processTitles(ch, ref_ch); // process titles data
+	  processSpouses(ch, ref_ch, characters_unfiltered); // process spouses data
+	  //processLocations(ch, ref_ch, locations, locMap); // process location data
+    processParents(ch, ref_ch, characters_unfiltered);
+    processHeir(ch, ref_ch, characters_unfiltered);
+    processRank(ch, ref_ch, maxRank);
+    //TODO books the character was in
+    //TODO consider dead parents/heirs/spouses somehow
+	  
     // push the reformatted character and move on to the next one
     training_chars.push(ref_ch);
   }

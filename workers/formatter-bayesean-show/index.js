@@ -37,49 +37,6 @@ function filterChars(unfilteredChars) {
   }
   return characters;
 }
-/*
-function collectLocations(charLocations, filteredChars, locMap) {
-  let locations_all = []; //all locations we might have flags for
-  for (let c_l of charLocations) {
-	// now check if any new locations will come to the locations array
-	for (let loc of c_l.locations) {
-	  if (locations_all.includes (loc) == false) {
-		//new location is not contained in the array, add it
-		locations_all.push(loc);
-	  }
-	}
-  }
-  
-  // now, filter locations that have had at least LOCATION_VISITED_THRESHOLD
-  // or more suitable characters visit them
-  let locations = [];
-  for(let l of locations_all) {
-    loc_counter = 0;
-	for(let c of filteredChars) {
-	  visited = locMap.get(c.name);
-      if(visited != undefined && visited.includes(l)) {
-		loc_counter += 1;
-	  }
-	}
-	if(loc_counter >= LOCATION_VISITED_THRESHOLD) {
-	  locations.push(l);
-	}
-  }
-  
-  return locations;
-}
-
-function genLocationMap(charLocations) {
-  let locKeyValuePairs = []; //map character name => array of visited locations
-  for (let c_l of charLocations) {
-	// push the name + location array of the character into locKeyValuePairs
-	locKeyValuePairs.push([c_l.name, c_l.locations]);
-  }
-  //build the Map from the key-value pair array
-  let locMap = new Map(locKeyValuePairs);
-  return locMap;
-}
-*/
 
 function collectHouses(filteredChars) {
   // first, collect all the houses from the characters' tags
@@ -206,7 +163,7 @@ function processCultures(srcChar, destChar, cultures) {
   }
 }
 
-function processTitles(srcChar, destChar) { //TODO most common titles?
+function processTitles(srcChar, destChar) {
   if(srcChar["titles"] != undefined && srcChar["titles"].length != undefined) {
     destChar.hasTitles = srcChar["titles"].length > 0 ? 1 : 0
   } else {
@@ -250,25 +207,6 @@ function processParent(srcChar, destChar, characters) {
   }
 }
 
-/*
-function processLocations(srcChar, destChar, locations, locMap) {
-  // add flags for locations where a character has been
-  // first, add zeroes for all locations
-  for (let loc of locations) {
-    destChar[loc] = 0;
-  }
-  // then, write 1 on the locations the character has visited
-  let visited = locMap.get(srcChar.name); // get locations from the Map we built earlier
-  if (visited !== null && visited !== undefined) {
-    // set the flag to 1 for all locations in the visited array
-    for (let loc of visited) {
-  	  if(locations.includes(loc)) {
-        destChar[loc] = 1;
-  	  }
-    }
-  }
-}
-*/
 /*************************************************************************************************/
 
 async function genTrainingData (callback) {
