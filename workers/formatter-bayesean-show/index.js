@@ -1,5 +1,5 @@
 /*
-  This file will scan the book characters and re-format some of their data.
+  This file will scan the show characters and re-format some of their data.
   It transforms, for example, the house the character belongs to into a set of flags, 
   where for each house, a 1 or a 0 determines whether this character belongs to this house.
   Same goes for culture, locations this character has been, etc.
@@ -151,10 +151,10 @@ function processAge(srcChar, destChar) {
   
   if (!srcChar.alive) {
     // dead
-    destChar.age = srcChar.death - config.GOT_SHOW_BEGIN;
+    destChar.livedTo = srcChar.death - config.GOT_SHOW_BEGIN;
   } else {
     // alive => lives on to the CURRENT_YEAR
-    destChar.age = config.GOT_CURRENT_YEAR - config.GOT_SHOW_BEGIN;
+    destChar.livedTo = config.GOT_CURRENT_YEAR - config.GOT_SHOW_BEGIN;
   }
 }
 
@@ -222,6 +222,34 @@ function processSpouses(srcChar, destChar) {
     destChar.isMarried = 0;
   }
 }
+
+function processLovers(srcChar, destChar) {
+  if(srcChar["lovers"] != undefined && srcChar["lovers"] != null && srcChar["lovers"].length > 0) {
+    destChar.hasLovers = 1;
+  }
+  else {
+    destChar.hasLovers = 0;
+  }
+}
+
+function processSiblings(srcChar, destChar) {
+  if(srcChar["siblings"] != undefined && srcChar["siblings"] != null && srcChar["siblings"].length > 0) {
+    destChar.hasSiblings = 1;
+  }
+  else {
+    destChar.hasSiblings = 0;
+  }
+}
+
+function processParent(srcChar, destChar, characters) {
+  destChar.isParent = 0;
+  for(let ch of characters) {
+    if(ch.name == srcChar["mother"] || ch.name == srcChar["mother"]) {
+      destChar.isParent = 1;
+    }
+  }
+}
+
 /*
 function processLocations(srcChar, destChar, locations, locMap) {
   // add flags for locations where a character has been
@@ -260,15 +288,18 @@ async function genTrainingData (callback) {
   for (let ch of characters) {
     // this will be the reformatted character
     let ref_ch = {};
-    
-	ref_ch.name = ch.name; // copy the name
-	processAge(ch, ref_ch); // process age-related data
-	processGender(ch, ref_ch); // process gender data
-	processHouses(ch, ref_ch, houses); // process house data
-	processCultures(ch, ref_ch, cultures); // process culture data
-	processTitles(ch, ref_ch); // process titles data
-	processSpouses(ch, ref_ch); // process spouses data
-	
+      
+	  ref_ch.name = ch.name; // copy the name
+	  processAge(ch, ref_ch); // process age-related data
+	  processGender(ch, ref_ch); // process gender data
+	  processHouses(ch, ref_ch, houses); // process house data
+	  processCultures(ch, ref_ch, cultures); // process culture data
+	  processTitles(ch, ref_ch); // process titles data
+	  processSpouses(ch, ref_ch); // process spouses data
+    processLovers(ch, ref_ch);
+    processSiblings(ch, ref_ch);
+    processParent(ch, ref_ch, characters);
+	  
     // push the reformatted character and move on to the next one
     training_chars.push(ref_ch);
   }
