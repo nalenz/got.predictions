@@ -1,144 +1,139 @@
 [
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edbb",
-        "founder": [],
-        "location": "Westeros",
-        "name": "Acorn Hall",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Smallwood"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edbb",
+        "name": "Acorn Hall",
+        "location": "Westeros",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edbc",
-        "founder": [],
-        "location": "The Crownlands",
-        "name": "Antlers",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Buckwell"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edbc",
+        "name": "Antlers",
+        "location": "The Crownlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edbd",
-        "founder": [],
-        "location": "The Westerlands",
-        "name": "Ashemark",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Marbrand"
         ],
-        "type": "Stronghold"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edbd",
+        "name": "Ashemark",
+        "location": "The Westerlands",
+        "type": "Stronghold",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edbe",
-        "founder": [],
-        "location": "The Reach",
-        "name": "Ashford",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Ashford"
         ],
-        "type": "Castle and town"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edbe",
+        "name": "Ashford",
+        "location": "The Reach",
+        "type": "Castle and town",
+        "__v": 0
     },
     {
-        "__v": 0,
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [],
+        "founder": [],
         "_id": "5c9817ab4d1c4e54abc7edbf",
-        "founder": [],
-        "location": "Westeros",
         "name": "Bandallon",
+        "location": "Westeros",
+        "type": "Castle",
+        "__v": 0
+    },
+    {
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [],
-        "type": "Castle"
-    },
-    {
-        "__v": 0,
+        "founder": [],
         "_id": "5c9817ab4d1c4e54abc7edc0",
-        "founder": [],
-        "location": "The Westerlands",
         "name": "The Banefort",
+        "location": "The Westerlands",
+        "type": "Castle",
+        "__v": 0
+    },
+    {
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [],
-        "type": "Castle"
-    },
-    {
-        "__v": 0,
+        "founder": [],
         "_id": "5c9817ab4d1c4e54abc7edc1",
-        "founder": [],
-        "location": "Westeros",
         "name": "Bitterbridge",
-        "religion": [
-            "Faith of the Seven"
-        ],
-        "rulers": [],
-        "type": "Castle"
+        "location": "Westeros",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edc2",
-        "founder": [],
-        "location": "Westeros",
-        "name": "Blackcrown",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Bulwer"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edc2",
+        "name": "Blackcrown",
+        "location": "Westeros",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edc3",
-        "founder": [],
-        "location": "The Stormlands",
-        "name": "Blackhaven",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Dondarrion"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edc3",
+        "name": "Blackhaven",
+        "location": "The Stormlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edc4",
-        "founder": [],
-        "location": "Dorne",
-        "name": "Blackmont",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Blackmont"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edc4",
+        "name": "Blackmont",
+        "location": "Dorne",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edc5",
-        "founder": [],
-        "location": "The Vale",
-        "name": "Bloody Gate",
         "religion": [
             "Faith of the Seven"
         ],
@@ -146,57 +141,54 @@
             "Knight of the Gate",
             "House Arryn"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edc5",
+        "name": "Bloody Gate",
+        "location": "The Vale",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edc6",
-        "founder": [],
-        "location": "the Reach",
-        "name": "Brightwater Keep",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Florent"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edc6",
+        "name": "Brightwater Keep",
+        "location": "the Reach",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edc7",
-        "founder": [],
-        "location": "The Stormlands",
-        "name": "Bronzegate",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edc7",
+        "name": "Bronzegate",
+        "location": "The Stormlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edc8",
-        "founder": [],
-        "location": "The Westerlands",
-        "name": "Castamere",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Reyne"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edc8",
+        "name": "Castamere",
+        "location": "The Westerlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edc9",
-        "age": 6000,
-        "founder": [
-            "Corlos"
-        ],
-        "location": "The Westerlands",
-        "name": "Casterly Rock",
         "religion": [
             "Faith of the Seven"
         ],
@@ -205,16 +197,17 @@
             "House Targaryen",
             "House Casterly"
         ],
-        "type": "Castle, built into a natural rock formation, regional capital"
+        "founder": [
+            "Corlos"
+        ],
+        "_id": "5c9817ab4d1c4e54abc7edc9",
+        "name": "Casterly Rock",
+        "location": "The Westerlands",
+        "type": "Castle, built into a natural rock formation, regional capital",
+        "age": 6000,
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edca",
-        "founder": [
-            "Brandon Stark (the Builder)"
-        ],
-        "location": "The Wall",
-        "name": "Castle Black",
         "religion": [
             "Old Gods of the Forest",
             "Faith of the Seven"
@@ -222,58 +215,58 @@
         "rulers": [
             "Night&apos;s Watch"
         ],
-        "type": "Castle"
+        "founder": [
+            "Brandon Stark (the Builder)"
+        ],
+        "_id": "5c9817ab4d1c4e54abc7edca",
+        "name": "Castle Black",
+        "location": "The Wall",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edcb",
-        "founder": [],
-        "location": "Westeros",
-        "name": "Castle Cerwyn",
         "religion": [
             "Old Gods of the Forest"
         ],
         "rulers": [
             "House Cerwyn"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edcb",
+        "name": "Castle Cerwyn",
+        "location": "Westeros",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edcc",
-        "founder": [],
-        "location": "The Crownlands",
-        "name": "Castle Stokeworth",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Stokeworth"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edcc",
+        "name": "Castle Stokeworth",
+        "location": "The Crownlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edcd",
-        "founder": [],
-        "location": "The Reach",
-        "name": "Cider Hall",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Fossoway"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edcd",
+        "name": "Cider Hall",
+        "location": "The Reach",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edce",
-        "founder": [
-            "Urrigon Hightower"
-        ],
-        "location": "Oldtown",
-        "name": "The Citadel",
         "religion": [
             "Faith of the Seven"
         ],
@@ -282,94 +275,96 @@
             "Conclave",
             "Maesters"
         ],
-        "type": "LighthouseOrder headquarters and Training center"
+        "founder": [
+            "Urrigon Hightower"
+        ],
+        "_id": "5c9817ab4d1c4e54abc7edce",
+        "name": "The Citadel",
+        "location": "Oldtown",
+        "type": "LighthouseOrder headquarters and Training center",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edcf",
-        "founder": [
-            "Clegane (founder)"
-        ],
-        "location": "The Westerlands",
-        "name": "Clegane's Keep",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Clegane"
         ],
-        "type": "Castle"
+        "founder": [
+            "Clegane (founder)"
+        ],
+        "_id": "5c9817ab4d1c4e54abc7edcf",
+        "name": "Clegane's Keep",
+        "location": "The Westerlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edd0",
-        "founder": [],
-        "location": "The Vale of Arryn",
-        "name": "Coldwater",
         "religion": [],
         "rulers": [],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edd0",
+        "name": "Coldwater",
+        "location": "The Vale of Arryn",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edd1",
-        "founder": [],
-        "location": "Westeros",
-        "name": "The Crag",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Westerling"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edd1",
+        "name": "The Crag",
+        "location": "Westeros",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edd2",
-        "founder": [],
-        "location": "The Westerlands",
-        "name": "Crakehall",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Crakehall"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edd2",
+        "name": "Crakehall",
+        "location": "The Westerlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edd3",
-        "founder": [],
-        "location": "The Stormlands",
-        "name": "Crow's Nest",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Morrigen"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edd3",
+        "name": "Crow's Nest",
+        "location": "The Stormlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edd4",
-        "founder": [],
-        "location": "The Westerlands",
-        "name": "Deep Den",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edd4",
+        "name": "Deep Den",
+        "location": "The Westerlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edd5",
-        "founder": [],
-        "location": "Westeros",
-        "name": "Deep Lake",
         "religion": [
             "Old Gods of the Forest",
             "Faith of the Seven"
@@ -377,14 +372,14 @@
         "rulers": [
             "Night&apos;s Watch"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edd5",
+        "name": "Deep Lake",
+        "location": "Westeros",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edd6",
-        "founder": [],
-        "location": "The North",
-        "name": "Deepwood Motte",
         "religion": [
             "Old Gods of the Forest",
             "Drowned God"
@@ -393,17 +388,14 @@
             "House Glover",
             "House Greyjoy"
         ],
-        "type": "Motte-and-bailey castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edd6",
+        "name": "Deepwood Motte",
+        "location": "The North",
+        "type": "Motte-and-bailey castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edd7",
-        "age": 500,
-        "founder": [
-            "Valyrian Freehold"
-        ],
-        "location": "Dragonstone",
-        "name": "Dragonstone (castle)",
         "religion": [
             "R&apos;hllor",
             "Faith of the Seven"
@@ -412,38 +404,41 @@
             "House Targaryen",
             "House Baratheon of Dragonstone"
         ],
-        "type": "Castle"
+        "founder": [
+            "Valyrian Freehold"
+        ],
+        "_id": "5c9817ab4d1c4e54abc7edd7",
+        "name": "Dragonstone (castle)",
+        "location": "Dragonstone",
+        "type": "Castle",
+        "age": 500,
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edd8",
-        "founder": [],
-        "location": "The North",
-        "name": "The Dreadfort",
         "religion": [
             "Old Gods of the Forest"
         ],
         "rulers": [
             "House Bolton"
         ],
-        "type": "Castle, temporary regional capital"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edd8",
+        "name": "The Dreadfort",
+        "location": "The North",
+        "type": "Castle, temporary regional capital",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edd9",
-        "founder": [],
-        "location": "Crackclaw Point",
-        "name": "Dyre Den",
         "religion": [],
         "rulers": [],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edd9",
+        "name": "Dyre Den",
+        "location": "Crackclaw Point",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edda",
-        "founder": [],
-        "location": "The Wall",
-        "name": "Eastwatch-by-the-Sea",
         "religion": [
             "Old Gods of the Forest",
             "Faith of the Seven"
@@ -451,159 +446,159 @@
         "rulers": [
             "Night&apos;s Watch"
         ],
-        "type": "CastlePort"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edda",
+        "name": "Eastwatch-by-the-Sea",
+        "location": "The Wall",
+        "type": "CastlePort",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7eddb",
-        "founder": [],
-        "location": "Tarth",
-        "name": "Evenfall Hall",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Tarth"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7eddb",
+        "name": "Evenfall Hall",
+        "location": "Tarth",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7eddc",
-        "age": 6000,
-        "founder": [
-            "Mountain King"
-        ],
-        "location": "Mountains of the Moon",
-        "name": "The Eyrie",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Arryn"
         ],
-        "type": "CastleRegional capital"
+        "founder": [
+            "Mountain King"
+        ],
+        "_id": "5c9817ab4d1c4e54abc7eddc",
+        "name": "The Eyrie",
+        "location": "Mountains of the Moon",
+        "type": "CastleRegional capital",
+        "age": 6000,
+        "__v": 0
     },
     {
-        "__v": 0,
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [],
+        "founder": [],
         "_id": "5c9817ab4d1c4e54abc7eddd",
-        "founder": [],
-        "location": "Fair Isle",
         "name": "Faircastle",
+        "location": "Fair Isle",
+        "type": "Castle",
+        "__v": 0
+    },
+    {
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [],
-        "type": "Castle"
-    },
-    {
-        "__v": 0,
+        "founder": [],
         "_id": "5c9817ab4d1c4e54abc7edde",
-        "founder": [],
-        "location": "The Westerlands",
         "name": "Feastfires",
+        "location": "The Westerlands",
+        "type": "Castle",
+        "__v": 0
+    },
+    {
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [],
-        "type": "Castle"
-    },
-    {
-        "__v": 0,
+        "founder": [],
         "_id": "5c9817ab4d1c4e54abc7eddf",
-        "founder": [],
-        "location": "The Stormlands",
         "name": "Felwood",
-        "religion": [
-            "Faith of the Seven"
-        ],
-        "rulers": [],
-        "type": "Castle"
+        "location": "The Stormlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ede0",
-        "founder": [],
-        "location": "The North",
-        "name": "Flint's Finger",
         "religion": [
             "Old Gods of the Forest"
         ],
         "rulers": [],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ede0",
+        "name": "Flint's Finger",
+        "location": "The North",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ede1",
-        "founder": [],
-        "location": "Dorne",
-        "name": "Ghost Hill",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ede1",
+        "name": "Ghost Hill",
+        "location": "Dorne",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ede2",
-        "founder": [],
-        "location": "Dorne",
-        "name": "Godsgrace",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Allyrion"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ede2",
+        "name": "Godsgrace",
+        "location": "Dorne",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ede3",
-        "founder": [],
-        "location": "The Westerlands",
-        "name": "Golden Tooth",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Lefford"
         ],
-        "type": "Stronghold"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ede3",
+        "name": "Golden Tooth",
+        "location": "The Westerlands",
+        "type": "Stronghold",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ede4",
-        "founder": [],
-        "location": "The Reach",
-        "name": "Goldengrove",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Rowan"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ede4",
+        "name": "Goldengrove",
+        "location": "The Reach",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ede5",
-        "founder": [],
-        "location": "The Reach",
-        "name": "Grassy Vale",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ede5",
+        "name": "Grassy Vale",
+        "location": "The Reach",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ede6",
-        "founder": [],
-        "location": "The Wall",
-        "name": "Greyguard",
         "religion": [
             "Old Gods of the Forest",
             "Faith of the Seven"
@@ -611,59 +606,56 @@
         "rulers": [
             "Night&apos;s Watch"
         ],
-        "type": "Castle "
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ede6",
+        "name": "Greyguard",
+        "location": "The Wall",
+        "type": "Castle ",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ede7",
-        "founder": [],
-        "location": "The Neck",
-        "name": "Greywater Watch",
         "religion": [
             "Old Gods of the Forest"
         ],
         "rulers": [
             "House Reed"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ede7",
+        "name": "Greywater Watch",
+        "location": "The Neck",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ede8",
-        "founder": [],
-        "location": "The Stormlands",
-        "name": "Griffin's Roost",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Connington"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ede8",
+        "name": "Griffin's Roost",
+        "location": "The Stormlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ede9",
-        "founder": [],
-        "location": "Great Wyk",
-        "name": "Hammerhorn",
         "religion": [
             "Drowned God"
         ],
         "rulers": [
             "House Goodbrother"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ede9",
+        "name": "Hammerhorn",
+        "location": "Great Wyk",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edea",
-        "age": 300,
-        "founder": [
-            "Harren Hoare"
-        ],
-        "location": "The Riverlands",
-        "name": "Harrenhal",
         "religion": [
             "Faith of the Seven",
             "Drowned God"
@@ -682,54 +674,55 @@
             "House Qoherys",
             "House Hoare"
         ],
-        "type": "Castle"
+        "founder": [
+            "Harren Hoare"
+        ],
+        "_id": "5c9817ab4d1c4e54abc7edea",
+        "name": "Harrenhal",
+        "location": "The Riverlands",
+        "type": "Castle",
+        "age": 300,
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edeb",
-        "founder": [],
-        "location": "The Stormlands",
-        "name": "Haystack Hall",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Errol"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edeb",
+        "name": "Haystack Hall",
+        "location": "The Stormlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edec",
-        "founder": [],
-        "location": "The Vale of Arryn",
-        "name": "Heart's Home",
         "religion": [],
         "rulers": [],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edec",
+        "name": "Heart's Home",
+        "location": "The Vale of Arryn",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7eded",
-        "founder": [],
-        "location": "Dorne",
-        "name": "Hellholt",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Uller"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7eded",
+        "name": "Hellholt",
+        "location": "Dorne",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edee",
-        "founder": [
-            "Garth Gardener"
-        ],
-        "location": "The Reach",
-        "name": "Highgarden",
         "religion": [
             "Faith of the Seven"
         ],
@@ -737,100 +730,99 @@
             "House Tyrell",
             "House Gardener"
         ],
-        "type": "Castle, regional capital"
+        "founder": [
+            "Garth Gardener"
+        ],
+        "_id": "5c9817ab4d1c4e54abc7edee",
+        "name": "Highgarden",
+        "location": "The Reach",
+        "type": "Castle, regional capital",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edef",
-        "age": 1000,
-        "founder": [],
-        "location": "The North",
-        "name": "Highpoint",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Whitehill"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edef",
+        "name": "Highpoint",
+        "location": "The North",
+        "type": "Castle",
+        "age": 1000,
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edf0",
-        "founder": [],
-        "location": "The Reach",
-        "name": "Honeyholt",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Beesbury"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edf0",
+        "name": "Honeyholt",
+        "location": "The Reach",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edf1",
-        "founder": [],
-        "location": "The Reach",
-        "name": "Horn Hill",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Tarly"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edf1",
+        "name": "Horn Hill",
+        "location": "The Reach",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edf2",
-        "founder": [],
-        "location": "The Westerlands",
-        "name": "Hornvale",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edf2",
+        "name": "Hornvale",
+        "location": "The Westerlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edf3",
-        "founder": [],
-        "location": "The North",
-        "name": "Hornwood",
         "religion": [
             "Old Gods of the Forest"
         ],
         "rulers": [
             "House Hornwood"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edf3",
+        "name": "Hornwood",
+        "location": "The North",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edf4",
-        "founder": [],
-        "location": "The Vale of Arryn",
-        "name": "Ironoaks",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Waynwood"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edf4",
+        "name": "Ironoaks",
+        "location": "The Vale of Arryn",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edf5",
-        "age": 1500,
-        "founder": [
-            "Cedric Forrester"
-        ],
-        "location": "The North",
-        "name": "Ironrath",
         "religion": [
             "Old Gods of the Forest"
         ],
@@ -838,126 +830,128 @@
             "House Whitehill",
             "House Forrester"
         ],
-        "type": "Wooden castle"
+        "founder": [
+            "Cedric Forrester"
+        ],
+        "_id": "5c9817ab4d1c4e54abc7edf5",
+        "name": "Ironrath",
+        "location": "The North",
+        "type": "Wooden castle",
+        "age": 1500,
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edf6",
-        "founder": [
-            "Karlon Stark"
-        ],
-        "location": "The North",
-        "name": "Karhold",
         "religion": [
             "Old Gods of the Forest"
         ],
         "rulers": [
             "House Karstark"
         ],
-        "type": "Castle"
+        "founder": [
+            "Karlon Stark"
+        ],
+        "_id": "5c9817ab4d1c4e54abc7edf6",
+        "name": "Karhold",
+        "location": "The North",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edf7",
-        "founder": [],
-        "location": "Dorne",
-        "name": "Kingsgrave",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Manwoody"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edf7",
+        "name": "Kingsgrave",
+        "location": "Dorne",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edf8",
-        "founder": [],
-        "location": "The North",
-        "name": "Last Hearth",
         "religion": [
             "Old Gods of the Forest"
         ],
         "rulers": [
             "House Umber"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edf8",
+        "name": "Last Hearth",
+        "location": "The North",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edf9",
-        "founder": [],
-        "location": "Dorne",
-        "name": "Lemonwood",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Dalt"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edf9",
+        "name": "Lemonwood",
+        "location": "Dorne",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edfa",
-        "founder": [],
-        "location": "The Wall",
-        "name": "Long Barrow",
         "religion": [
             "Old Gods of the Forest",
             "Faith of the Seven"
         ],
         "rulers": [],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edfa",
+        "name": "Long Barrow",
+        "location": "The Wall",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edfb",
-        "founder": [],
-        "location": "The Reach",
-        "name": "Long Table",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Merryweather"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edfb",
+        "name": "Long Table",
+        "location": "The Reach",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edfc",
-        "founder": [],
-        "location": "The Vale of Arryn",
-        "name": "Longbow Hall",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Hunter"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edfc",
+        "name": "Longbow Hall",
+        "location": "The Vale of Arryn",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edfd",
-        "founder": [],
-        "location": "The Stormlands",
-        "name": "Mistwood",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edfd",
+        "name": "Mistwood",
+        "location": "The Stormlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edfe",
-        "age": 10000,
-        "founder": [],
-        "location": "The Neck",
-        "name": "Moat Cailin",
         "religion": [],
         "rulers": [
             "House Stark",
@@ -965,14 +959,15 @@
             "House Bolton",
             "House Greyjoy"
         ],
-        "type": "Castle "
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edfe",
+        "name": "Moat Cailin",
+        "location": "The Neck",
+        "type": "Castle ",
+        "age": 10000,
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7edff",
-        "founder": [],
-        "location": "The Wall",
-        "name": "The Nightfort",
         "religion": [
             "Old Gods of the Forest",
             "Faith of the Seven"
@@ -980,147 +975,143 @@
         "rulers": [
             "Night&apos;s Watch"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7edff",
+        "name": "The Nightfort",
+        "location": "The Wall",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee00",
-        "founder": [],
-        "location": "The Stormlands",
-        "name": "Nightsong",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Caron"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee00",
+        "name": "Nightsong",
+        "location": "The Stormlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee01",
-        "founder": [],
-        "location": "The Reach",
-        "name": "Old Oak",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Oakheart"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee01",
+        "name": "Old Oak",
+        "location": "The Reach",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee02",
-        "founder": [],
-        "location": "The North",
-        "name": "Oldcastle",
         "religion": [
             "Old Gods of the Forest"
         ],
         "rulers": [],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee02",
+        "name": "Oldcastle",
+        "location": "The North",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee03",
-        "founder": [],
-        "location": "Braavos",
-        "name": "Palace of Justice",
         "religion": [],
         "rulers": [],
-        "type": "Palace"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee03",
+        "name": "Palace of Justice",
+        "location": "Braavos",
+        "type": "Palace",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee04",
-        "founder": [],
-        "location": "The Riverlands",
-        "name": "Pinkmaiden",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee04",
+        "name": "Pinkmaiden",
+        "location": "The Riverlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee05",
-        "founder": [],
-        "location": "Westeros",
-        "name": "Pyke (castle)",
         "religion": [
             "Drowned God"
         ],
         "rulers": [
             "House Greyjoy"
         ],
-        "type": "Castle, regional capital"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee05",
+        "name": "Pyke (castle)",
+        "location": "Westeros",
+        "type": "Castle, regional capital",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee06",
-        "founder": [],
-        "location": "The Wall",
-        "name": "Queensgate",
         "religion": [
             "Old Gods of the Forest",
             "Faith of the Seven"
         ],
         "rulers": [],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee06",
+        "name": "Queensgate",
+        "location": "The Wall",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee07",
-        "founder": [],
-        "location": "The Stormlands",
-        "name": "Rain House",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Wylde"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee07",
+        "name": "Rain House",
+        "location": "The Stormlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee08",
-        "founder": [],
-        "location": "The North",
-        "name": "Ramsgate",
         "religion": [
             "Old Gods of the Forest"
         ],
         "rulers": [],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee08",
+        "name": "Ramsgate",
+        "location": "The North",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee09",
-        "founder": [],
-        "location": "The Riverlands",
-        "name": "Raventree Hall",
         "religion": [
             "Old Gods of the Forest"
         ],
         "rulers": [
             "House Blackwood"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee09",
+        "name": "Raventree Hall",
+        "location": "The Riverlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee0a",
-        "age": 303,
-        "founder": [
-            "Aegon I Targaryen",
-            "Maegor Targaryen"
-        ],
-        "location": "King's Landing",
-        "name": "Red Keep",
         "religion": [
             "Faith of the Seven"
         ],
@@ -1128,51 +1119,54 @@
             "King of the Andals, the Rhoynar, and the First Men",
             "House Lannister"
         ],
-        "type": "CastleAdministrative center"
+        "founder": [
+            "Aegon I Targaryen",
+            "Maegor Targaryen"
+        ],
+        "_id": "5c9817ab4d1c4e54abc7ee0a",
+        "name": "Red Keep",
+        "location": "King's Landing",
+        "type": "CastleAdministrative center",
+        "age": 303,
+        "__v": 0
     },
     {
-        "__v": 0,
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [],
+        "founder": [],
         "_id": "5c9817ab4d1c4e54abc7ee0b",
-        "founder": [],
-        "location": "The Reach",
         "name": "Red Lake",
+        "location": "The Reach",
+        "type": "Castle",
+        "__v": 0
+    },
+    {
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [],
-        "type": "Castle"
-    },
-    {
-        "__v": 0,
+        "founder": [],
         "_id": "5c9817ab4d1c4e54abc7ee0c",
-        "founder": [],
-        "location": "The Vale of Arryn",
         "name": "The Redfort",
-        "religion": [
-            "Faith of the Seven"
-        ],
-        "rulers": [],
-        "type": "Castle"
+        "location": "The Vale of Arryn",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee0d",
-        "founder": [],
-        "location": "The Rills",
-        "name": "Rillwater Crossing",
         "religion": [],
         "rulers": [
             "House Glenmore"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee0d",
+        "name": "Rillwater Crossing",
+        "location": "The Rills",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee0e",
-        "age": 1000,
-        "founder": [],
-        "location": "The Riverlands",
-        "name": "Riverrun",
         "religion": [
             "Faith of the Seven"
         ],
@@ -1180,108 +1174,109 @@
             "House Frey",
             "House Tully"
         ],
-        "type": "Castle, regional capital"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee0e",
+        "name": "Riverrun",
+        "location": "The Riverlands",
+        "type": "Castle, regional capital",
+        "age": 1000,
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee0f",
-        "founder": [],
-        "location": "The Crownlands",
-        "name": "Rosby",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Rosby"
         ],
-        "type": "Castle and town"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee0f",
+        "name": "Rosby",
+        "location": "The Crownlands",
+        "type": "Castle and town",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee10",
-        "founder": [],
-        "location": "The Vale of Arryn",
-        "name": "Runestone",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Royce"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee10",
+        "name": "Runestone",
+        "location": "The Vale of Arryn",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee11",
-        "founder": [],
-        "location": "Dorne",
-        "name": "Saltshore",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee11",
+        "name": "Saltshore",
+        "location": "Dorne",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee12",
-        "founder": [],
-        "location": "Dorne",
-        "name": "Sandstone",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Qorgyle"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee12",
+        "name": "Sandstone",
+        "location": "Dorne",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee13",
-        "founder": [],
-        "location": "The Westerlands",
-        "name": "Sarsfield",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Sarsfield"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee13",
+        "name": "Sarsfield",
+        "location": "The Westerlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee14",
-        "founder": [],
-        "location": "The Riverlands",
-        "name": "Seagard",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Mallister"
         ],
-        "type": "CastleTown"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee14",
+        "name": "Seagard",
+        "location": "The Riverlands",
+        "type": "CastleTown",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee15",
-        "founder": [],
-        "location": "Braavos",
-        "name": "Sealord's Palace",
         "religion": [],
         "rulers": [
             "Sealord of Braavos"
         ],
-        "type": "Palace"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee15",
+        "name": "Sealord's Palace",
+        "location": "Braavos",
+        "type": "Palace",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee16",
-        "founder": [],
-        "location": "The Wall",
-        "name": "The Shadow Tower",
         "religion": [
             "Old Gods of the Forest",
             "Faith of the Seven"
@@ -1289,109 +1284,106 @@
         "rulers": [
             "Night&apos;s Watch"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee16",
+        "name": "The Shadow Tower",
+        "location": "The Wall",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee17",
-        "founder": [],
-        "location": "The Crownlands",
-        "name": "Sharp Point",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee17",
+        "name": "Sharp Point",
+        "location": "The Crownlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee18",
-        "founder": [],
-        "location": "The Westerlands",
-        "name": "Silverhill",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Serrett"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee18",
+        "name": "Silverhill",
+        "location": "The Westerlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee19",
-        "founder": [],
-        "location": "Dorne",
-        "name": "Skyreach",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee19",
+        "name": "Skyreach",
+        "location": "Dorne",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee1a",
-        "founder": [],
-        "location": "Dorne",
-        "name": "Starfall",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Dayne"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee1a",
+        "name": "Starfall",
+        "location": "Dorne",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee1b",
-        "founder": [],
-        "location": "The Riverlands",
-        "name": "Stone Hedge",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Bracken"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee1b",
+        "name": "Stone Hedge",
+        "location": "The Riverlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee1c",
-        "founder": [],
-        "location": "The Crownlands",
-        "name": "Stonedance",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee1c",
+        "name": "Stonedance",
+        "location": "The Crownlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee1d",
-        "founder": [],
-        "location": "Westeros",
-        "name": "Stonehelm",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Swann"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee1d",
+        "name": "Stonehelm",
+        "location": "Westeros",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee1e",
-        "founder": [
-            "Durran",
-            "Brandon Stark (the Builder)"
-        ],
-        "location": "The Stormlands",
-        "name": "Storm's End",
         "religion": [
             "Faith of the Seven"
         ],
@@ -1401,44 +1393,46 @@
             "House Baratheon of Dragonstone",
             "House Durrandon"
         ],
-        "type": "CastleRegional capital"
+        "founder": [
+            "Durran",
+            "Brandon Stark (the Builder)"
+        ],
+        "_id": "5c9817ab4d1c4e54abc7ee1e",
+        "name": "Storm's End",
+        "location": "The Stormlands",
+        "type": "CastleRegional capital",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee1f",
-        "founder": [
-            "King of the Andals, the Rhoynar, and the First Men",
-            "Daeron II Targaryen"
-        ],
-        "location": "The Stormlands",
-        "name": "Summerhall",
         "religion": [],
         "rulers": [
             "House Targaryen"
         ],
-        "type": "Castle"
+        "founder": [
+            "King of the Andals, the Rhoynar, and the First Men",
+            "Daeron II Targaryen"
+        ],
+        "_id": "5c9817ab4d1c4e54abc7ee1f",
+        "name": "Summerhall",
+        "location": "The Stormlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee20",
-        "founder": [],
-        "location": "The Reach",
-        "name": "Sunflower Hall",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Cuy"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee20",
+        "name": "Sunflower Hall",
+        "location": "The Reach",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee21",
-        "age": 1000,
-        "founder": [],
-        "location": "Dorne",
-        "name": "Sunspear",
         "religion": [
             "Faith of the Seven"
         ],
@@ -1446,68 +1440,69 @@
             "Ellaria Sand",
             "House Martell"
         ],
-        "type": "Castle, regional capital"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee21",
+        "name": "Sunspear",
+        "location": "Dorne",
+        "type": "Castle, regional capital",
+        "age": 1000,
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee22",
-        "founder": [],
-        "location": "The Westerlands",
-        "name": "Tarbeck Hall",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Tarbeck"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee22",
+        "name": "Tarbeck Hall",
+        "location": "The Westerlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee23",
-        "founder": [],
-        "location": "Harlaw",
-        "name": "Ten Towers",
         "religion": [
             "Drowned God"
         ],
         "rulers": [
             "House Harlaw"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee23",
+        "name": "Ten Towers",
+        "location": "Harlaw",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee24",
-        "founder": [],
-        "location": "The Reach",
-        "name": "Three Towers",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee24",
+        "name": "Three Towers",
+        "location": "The Reach",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee25",
-        "founder": [],
-        "location": "Dorne",
-        "name": "The Tor",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Jordayne"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee25",
+        "name": "The Tor",
+        "location": "Dorne",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee26",
-        "founder": [],
-        "location": "The North",
-        "name": "Torrhen's Square",
         "religion": [
             "Old Gods of the Forest",
             "Drowned God"
@@ -1515,126 +1510,123 @@
         "rulers": [
             "House Tallhart"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee26",
+        "name": "Torrhen's Square",
+        "location": "The North",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee27",
-        "founder": [],
-        "location": "The Reach",
-        "name": "Tumbleton",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee27",
+        "name": "Tumbleton",
+        "location": "The Reach",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee28",
-        "age": 600,
-        "founder": [],
-        "location": "The Riverlands",
-        "name": "The Twins",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Frey"
         ],
-        "type": "Two bridged castles"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee28",
+        "name": "The Twins",
+        "location": "The Riverlands",
+        "type": "Two bridged castles",
+        "age": 600,
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee29",
-        "founder": [
-            "Baelish (founder)"
-        ],
-        "location": "The Fingers",
-        "name": "Unnamed Baelish castle",
         "religion": [],
         "rulers": [
             "House Baelish"
         ],
-        "type": "Castle"
+        "founder": [
+            "Baelish (founder)"
+        ],
+        "_id": "5c9817ab4d1c4e54abc7ee29",
+        "name": "Unnamed Baelish castle",
+        "location": "The Fingers",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
+        "religion": [
+            "Faith of the Seven"
+        ],
+        "rulers": [],
+        "founder": [],
         "_id": "5c9817ab4d1c4e54abc7ee2a",
-        "founder": [],
-        "location": "The Reach",
         "name": "Uplands",
+        "location": "The Reach",
+        "type": "Castle",
+        "__v": 0
+    },
+    {
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [],
-        "type": "Castle"
-    },
-    {
-        "__v": 0,
+        "founder": [],
         "_id": "5c9817ab4d1c4e54abc7ee2b",
-        "founder": [],
-        "location": "Dorne",
         "name": "Vaith",
-        "religion": [
-            "Faith of the Seven"
-        ],
-        "rulers": [],
-        "type": "Castle"
-    },
-    {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee2c",
-        "founder": [],
         "location": "Dorne",
+        "type": "Castle",
+        "__v": 0
+    },
+    {
+        "religion": [],
+        "rulers": [],
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee2c",
         "name": "Vulture's Roost",
-        "religion": [],
-        "rulers": [],
-        "type": "Castle"
+        "location": "Dorne",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
+        "religion": [],
+        "rulers": [],
+        "founder": [],
         "_id": "5c9817ab4d1c4e54abc7ee2d",
-        "founder": [],
-        "location": "The Crownlands",
         "name": "The Whispers",
-        "religion": [],
-        "rulers": [],
-        "type": "Castle"
+        "location": "The Crownlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee2e",
-        "founder": [],
-        "location": "The Riverlands",
-        "name": "Whitewalls",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee2e",
+        "name": "Whitewalls",
+        "location": "The Riverlands",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee2f",
-        "founder": [],
-        "location": "The North",
-        "name": "Widow's Watch",
         "religion": [
             "Old Gods of the Forest"
         ],
         "rulers": [],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee2f",
+        "name": "Widow's Watch",
+        "location": "The North",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee30",
-        "age": 8000,
-        "founder": [
-            "Brandon Stark (the Builder)"
-        ],
-        "location": "The North",
-        "name": "Winterfell",
         "religion": [
             "Old Gods of the Forest"
         ],
@@ -1643,32 +1635,40 @@
             "House Bolton",
             "House Greyjoy"
         ],
-        "type": "CastleRegional capital"
+        "founder": [
+            "Brandon Stark (the Builder)"
+        ],
+        "_id": "5c9817ab4d1c4e54abc7ee30",
+        "name": "Winterfell",
+        "location": "The North",
+        "type": "CastleRegional capital",
+        "age": 8000,
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee31",
-        "founder": [],
-        "location": "Dorne",
-        "name": "Wyl (castle)",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee31",
+        "name": "Wyl (castle)",
+        "location": "Dorne",
+        "type": "Castle",
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5c9817ab4d1c4e54abc7ee32",
-        "founder": [],
-        "location": "Dorne",
-        "name": "Yronwood",
         "religion": [
             "Faith of the Seven"
         ],
         "rulers": [
             "House Yronwood"
         ],
-        "type": "Castle"
+        "founder": [],
+        "_id": "5c9817ab4d1c4e54abc7ee32",
+        "name": "Yronwood",
+        "location": "Dorne",
+        "type": "Castle",
+        "__v": 0
     }
 ]
