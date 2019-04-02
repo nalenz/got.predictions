@@ -24,7 +24,7 @@ const config = require('../common/config');
     .filter(c => c.birth !== undefined && (c.death === undefined || c.death - c.birth >= 0))
     .map(c => ({
       name: c.name,
-      male: c.male || false,
+      male: c.gender === 'male',
       birth: c.birth,
       death: c.death,
       age: (c.death === undefined ? config.GOT_CURRENT_YEAR_BOOK : c.death) - c.birth,
