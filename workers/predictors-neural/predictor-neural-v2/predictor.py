@@ -38,7 +38,7 @@ if False:
   model.compile(optimizer='rmsprop', loss='binary_crossentropy', metrics=['accuracy'])
 
   # train the model
-  model.fit(dataTrain, labelsTrain, epochs=5, batch_size=32)
+  model.fit(dataTrain, labelsTrain, epochs=7, batch_size=32, validation_split=0.2)
   model.save(os.path.join(dirnameMain, 'models/got-predictor-model.h5'))
 
 else:
