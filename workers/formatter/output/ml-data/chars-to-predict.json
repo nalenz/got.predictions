@@ -1,1 +1,4245 @@
-[{"name":"Aegon Frey (son of Aenys)","age":51,"books":[0,6,4,2],"dateOfBirth":253,"house":188,"locations":[],"male":true,"pageRank":0,"titles":[]},{"name":"Aeron Greyjoy","age":35,"books":[5,0,6,4,2,14],"dateOfBirth":269,"house":253,"locations":[183,116],"male":true,"pageRank":0.46,"titles":[369,22]},{"name":"Alayaya","age":22,"books":[0,6,4,2],"dateOfBirth":282,"house":-1,"locations":[77],"male":false,"pageRank":0.08,"titles":[]},{"name":"Alerie Hightower","age":47,"books":[5,0,6,4,2],"dateOfBirth":257,"house":235,"locations":[66,107,77],"male":false,"pageRank":0.23,"titles":[153]},{"name":"Alester Norcross","age":14,"books":[0,6,4],"dateOfBirth":290,"house":405,"locations":[],"male":true,"pageRank":0.041666666666666664,"titles":[]},{"name":"Alesander Frey","age":39,"books":[0,6,4],"dateOfBirth":265,"house":188,"locations":[27,23,11],"male":true,"pageRank":0.07333333333333333,"titles":[]},{"name":"Alliser Thorne","age":56,"books":[5,0,6,4,2],"dateOfBirth":248,"house":299,"locations":[77,17],"male":true,"pageRank":0.23333333333333334,"titles":[401]},{"name":"Alla Tyrell","age":18,"books":[6,4,2],"dateOfBirth":286,"house":121,"locations":[88,96],"male":false,"pageRank":0.07666666666666666,"titles":[]},{"name":"Alyn Haigh","age":48,"books":[0,6,4],"dateOfBirth":256,"house":219,"locations":[],"male":true,"pageRank":0.03833333333333333,"titles":[]},{"name":"Alyn Frey","age":9,"books":[0,6,4],"dateOfBirth":295,"house":188,"locations":[27,23,11],"male":true,"pageRank":0.07,"titles":[]},{"name":"Alys Arryn","age":86,"books":[4],"dateOfBirth":218,"house":274,"locations":[88],"male":false,"pageRank":0.315,"titles":[]},{"name":"Alys Karstark","age":20,"books":[6,4,2],"dateOfBirth":284,"house":142,"locations":[75,183,71],"male":false,"pageRank":0.16,"titles":[]},{"name":"Alysane Mormont","age":31,"books":[4,2],"dateOfBirth":273,"house":165,"locations":[30,183],"male":false,"pageRank":0.07333333333333333,"titles":[]},{"name":"Alysanne Bulwer","age":13,"books":[6,4,2],"dateOfBirth":291,"house":154,"locations":[7,77],"male":false,"pageRank":0.0016666666666666668,"titles":[136]},{"name":"Alyx Frey","age":22,"books":[0,6,4],"dateOfBirth":282,"house":188,"locations":[162,27,23,11],"male":false,"pageRank":0.07333333333333333,"titles":[]},{"name":"Amerei Frey","age":22,"books":[0,6,4],"dateOfBirth":282,"house":188,"locations":[162,126,27,23,11],"male":false,"pageRank":0.24,"titles":[141]},{"name":"Ardrian Celtigar","age":75,"books":[0,6],"dateOfBirth":229,"house":273,"locations":[174,31,77],"male":true,"pageRank":0.023333333333333334,"titles":[210]},{"name":"Androw Frey","age":9,"books":[0,6,4],"dateOfBirth":295,"house":188,"locations":[27,23,11],"male":true,"pageRank":0.06833333333333333,"titles":[]},{"name":"Areo Hotah","age":47,"books":[5,0,6,4,2],"dateOfBirth":257,"house":166,"locations":[100,159,96,165],"male":true,"pageRank":0.26,"titles":[24]},{"name":"Arianne Martell","age":28,"books":[5,0,6,4,2,14],"dateOfBirth":276,"house":166,"locations":[100,126,63,173,44,128,66,184,81,159,177,11,96,77,139,165],"male":false,"pageRank":0.5733333333333334,"titles":[379]},{"name":"Arwyn Frey","age":19,"books":[0,6,4,2],"dateOfBirth":285,"house":188,"locations":[],"male":false,"pageRank":0.025,"titles":[]},{"name":"Arwood Frey","age":41,"books":[0,6,4],"dateOfBirth":263,"house":188,"locations":[27,23,11,133],"male":true,"pageRank":0.08333333333333333,"titles":[401]},{"name":"Asha Greyjoy","age":29,"books":[5,0,4,2,14],"dateOfBirth":275,"house":253,"locations":[11,88,30,183,25,165,160,116],"male":false,"pageRank":0.71,"titles":[379,21,62]},{"name":"Arya Stark","age":15,"books":[5,0,6,4,2,14],"dateOfBirth":289,"house":160,"locations":[174,73,26,126,135,58,11,88,77,183,165,36,133],"male":false,"pageRank":1,"titles":[379]},{"name":"Aurane Waters","age":27,"books":[0,6,4,2],"dateOfBirth":277,"house":289,"locations":[174,31,128,148,113,60,77],"male":true,"pageRank":0.01,"titles":[84,315]},{"name":"Barristan Selmy","age":68,"books":[15,5,0,6,4,2,14],"dateOfBirth":236,"house":313,"locations":[91,185,3,117,126,27,58,31,128,148,107,171,14,155,157,59,8,113,106,33,60,77,183,165,89],"male":true,"pageRank":1,"titles":[401,180,90]},{"name":"Beck","age":5,"books":[6],"dateOfBirth":299,"house":-1,"locations":[],"male":true,"pageRank":0.0016666666666666668,"titles":[81]},{"name":"Bella","age":21,"books":[6,4],"dateOfBirth":283,"house":-1,"locations":[154,96],"male":false,"pageRank":0.043333333333333335,"titles":[]},{"name":"Ben","age":11,"books":[4],"dateOfBirth":293,"house":-1,"locations":[],"male":true,"pageRank":0,"titles":[]},{"name":"Benjen Stark","age":37,"books":[5,0,6,4,2],"dateOfBirth":267,"house":160,"locations":[58,88,138,183,165],"male":true,"pageRank":0.4033333333333333,"titles":[74]},{"name":"Beren Tallhart","age":15,"books":[0,6,4,2],"dateOfBirth":289,"house":118,"locations":[71,164],"male":true,"pageRank":0.03666666666666667,"titles":[]},{"name":"Beth Cassel","age":15,"books":[5,0,6,4,2],"dateOfBirth":289,"house":433,"locations":[96,32,183],"male":false,"pageRank":0.01,"titles":[]},{"name":"Boy","age":20,"books":[6,4],"dateOfBirth":284,"house":-1,"locations":[73],"male":true,"pageRank":0.006666666666666667,"titles":[]},{"name":"Bradamar Frey","age":15,"books":[0,6,4],"dateOfBirth":289,"house":188,"locations":[27,23,11],"male":true,"pageRank":0.07166666666666667,"titles":[]},{"name":"Bran Stark","age":14,"books":[5,0,6,4,2],"dateOfBirth":290,"house":160,"locations":[58,88,180,77,98,17,119,32,183],"male":true,"pageRank":1,"titles":[377]},{"name":"Brandon Tallhart","age":20,"books":[0,6,4,2],"dateOfBirth":284,"house":118,"locations":[71,164],"male":true,"pageRank":0.03166666666666667,"titles":[]},{"name":"Bronn","age":40,"books":[5,0,6,4,2,14],"dateOfBirth":264,"house":134,"locations":[148,77,36],"male":true,"pageRank":0.47333333333333333,"titles":[401,328]},{"name":"Brienne of Tarth","age":24,"books":[0,6,4,2],"dateOfBirth":280,"house":127,"locations":[174,73,126,58,179,66,35,155,96,33,77,6,112,133,121,89],"male":false,"pageRank":0.9266666666666666,"titles":[]},{"name":"Bryen","age":84,"books":[6],"dateOfBirth":220,"house":222,"locations":[],"male":true,"pageRank":0.01,"titles":[]},{"name":"Bryan Frey","age":23,"books":[0,6,4],"dateOfBirth":281,"house":188,"locations":[],"male":true,"pageRank":0.051666666666666666,"titles":[]},{"name":"Brynden Tully","age":62,"books":[5,0,6,4,2],"dateOfBirth":242,"house":136,"locations":[126,27,123,88,180,108,92,10],"male":true,"pageRank":0.3433333333333333,"titles":[401,438,128]},{"name":"Cersei Frey","age":12,"books":[0,6,4],"dateOfBirth":292,"house":188,"locations":[162,27,23,11],"male":false,"pageRank":0.06833333333333333,"titles":[]},{"name":"Cersei Lannister","age":38,"books":[5,0,6,4,2],"dateOfBirth":266,"house":271,"locations":[174,126,16,128,148,159,11,88,96,113,60,77,183],"male":false,"pageRank":1,"titles":[174,386,382,138,391]},{"name":"Clement","age":53,"books":[4],"dateOfBirth":251,"house":-1,"locations":[133,121],"male":true,"pageRank":0.043333333333333335,"titles":[14]},{"name":"Clydas","age":64,"books":[5,0,6,4,2],"dateOfBirth":240,"house":-1,"locations":[17],"male":true,"pageRank":0.06666666666666667,"titles":[]},{"name":"Colmar Frey","age":16,"books":[0,6,4,2],"dateOfBirth":288,"house":188,"locations":[],"male":true,"pageRank":0.025,"titles":[]},{"name":"Creighton Longbough","age":64,"books":[4],"dateOfBirth":240,"house":-1,"locations":[33,77],"male":true,"pageRank":0.05,"titles":[401]},{"name":"Cregan Karstark","age":55,"books":[2],"dateOfBirth":249,"house":142,"locations":[75,89],"male":true,"pageRank":0.035,"titles":[]},{"name":"Cynthea Frey","age":14,"books":[0,6,4],"dateOfBirth":290,"house":188,"locations":[27,23,11],"male":false,"pageRank":0.07333333333333333,"titles":[]},{"name":"Daemon Sand","age":28,"books":[6,4,2,14],"dateOfBirth":276,"house":327,"locations":[44,184,46,159,77,165],"male":true,"pageRank":0.07666666666666666,"titles":[401]},{"name":"Daenerys Targaryen","age":20,"books":[5,0,6,4,2,14],"dateOfBirth":284,"house":167,"locations":[45,100,174,91,185,3,97,172,117,27,118,31,11,113,106,77],"male":false,"pageRank":1,"titles":[388,106,13,387,390,380]},{"name":"Damion Lannister","age":47,"books":[6,4,2,15],"dateOfBirth":257,"house":271,"locations":[23,16,96],"male":true,"pageRank":0.08666666666666667,"titles":[401,39]},{"name":"Damon Lannister (son of Jason)","age":60,"books":[15],"dateOfBirth":244,"house":271,"locations":[23,96],"male":true,"pageRank":0,"titles":[]},{"name":"Damon Vypren","age":39,"books":[0,6,4],"dateOfBirth":265,"house":455,"locations":[162],"male":false,"pageRank":0.08,"titles":[401]},{"name":"Danwell Frey","age":52,"books":[5,0,6,4,2],"dateOfBirth":252,"house":188,"locations":[126,27,23,58,11,77],"male":true,"pageRank":0.09166666666666666,"titles":[401]},{"name":"Daven Lannister","age":31,"books":[5,0,6,4,2],"dateOfBirth":273,"house":271,"locations":[126,23,47,96,108],"male":true,"pageRank":0.21,"titles":[401,441]},{"name":"Davos Seaworth","age":44,"books":[0,6,4,2],"dateOfBirth":260,"house":227,"locations":[31,148,155,170,88,180,142,60,77,55,116],"male":true,"pageRank":0.97,"titles":[401,304,3,88]},{"name":"Della Frey","age":8,"books":[0,6,4],"dateOfBirth":296,"house":188,"locations":[128],"male":false,"pageRank":0.02666666666666667,"titles":[]},{"name":"Denyo Terys","age":17,"books":[4],"dateOfBirth":287,"house":-1,"locations":[11,133],"male":true,"pageRank":0.01,"titles":[]},{"name":"Denys Mallister","age":59,"books":[5,0,6,4,2],"dateOfBirth":245,"house":276,"locations":[136,138,17,93,165,116],"male":true,"pageRank":0.13333333333333333,"titles":[401]},{"name":"Desmond Grell","age":67,"books":[5,0,6,4],"dateOfBirth":237,"house":209,"locations":[162,126,89],"male":true,"pageRank":0.08,"titles":[401]},{"name":"Devan Seaworth","age":17,"books":[0,6,4,2],"dateOfBirth":287,"house":227,"locations":[31,88,17],"male":true,"pageRank":0.09666666666666666,"titles":[]},{"name":"Dickon Frey","age":10,"books":[0,6,4],"dateOfBirth":294,"house":188,"locations":[],"male":true,"pageRank":0.045,"titles":[]},{"name":"Dickon Tarly","age":17,"books":[5,4,2],"dateOfBirth":287,"house":128,"locations":[66,69,89],"male":true,"pageRank":0.05333333333333334,"titles":[]},{"name":"Donnel Haigh","age":49,"books":[0,6,4],"dateOfBirth":255,"house":219,"locations":[162,133],"male":true,"pageRank":0.045,"titles":[401]},{"name":"Donnel Waynwood","age":27,"books":[5,0,6,4,2],"dateOfBirth":277,"house":200,"locations":[74,10],"male":false,"pageRank":0.03166666666666667,"titles":[401,127]},{"name":"Dorea Sand","age":13,"books":[4,2,14],"dateOfBirth":291,"house":166,"locations":[100,63,177,165],"male":false,"pageRank":0.10666666666666667,"titles":[]},{"name":"Doran Martell","age":57,"books":[15,5,0,6,4,2,14],"dateOfBirth":247,"house":-1,"locations":[100,27,132,65,184,159,177,11,170,96,77,165],"male":true,"pageRank":0.5,"titles":[371,282]},{"name":"Duram Bar Emmon","age":20,"books":[0,6,4],"dateOfBirth":284,"house":179,"locations":[31,140],"male":true,"pageRank":0.015,"titles":[270]},{"name":"Dunstan Drumm","age":92,"books":[0,6,4,2],"dateOfBirth":212,"house":105,"locations":[174,87],"male":true,"pageRank":0.08,"titles":[255,33]},{"name":"Eddara Tallhart","age":15,"books":[0,6,4,2],"dateOfBirth":289,"house":118,"locations":[71,164],"male":true,"pageRank":0.021666666666666667,"titles":[]},{"name":"Edric Dayne","age":17,"books":[5,0,6,4],"dateOfBirth":287,"house":205,"locations":[95,8,147,77],"male":true,"pageRank":0.08666666666666667,"titles":[274]},{"name":"Edmure Tully","age":37,"books":[5,0,6,4,2],"dateOfBirth":267,"house":136,"locations":[162,126,150,58,178,95,15,47,16,88,6],"male":true,"pageRank":0.6566666666666666,"titles":[401,327,262]},{"name":"Edric Storm","age":17,"books":[5,0,6,4,2],"dateOfBirth":287,"house":170,"locations":[31,155,88,96,77,116],"male":true,"pageRank":0.2866666666666667,"titles":[]},{"name":"Edwyn Frey","age":45,"books":[0,6,4],"dateOfBirth":259,"house":188,"locations":[162,136,126,23,15,108,183,165],"male":true,"pageRank":0.15,"titles":[]},{"name":"Elder Brother","age":49,"books":[4],"dateOfBirth":255,"house":-1,"locations":[133,121],"male":true,"pageRank":0.04,"titles":[71,401]},{"name":"Eldon Estermont","age":76,"books":[0,6,4,2],"dateOfBirth":228,"house":203,"locations":[51,96],"male":true,"pageRank":0.06333333333333334,"titles":[401,227]},{"name":"Eleanor Mooton","age":18,"books":[4,2],"dateOfBirth":286,"house":113,"locations":[33,89],"male":false,"pageRank":0.016666666666666666,"titles":[]},{"name":"Eleyna Westerling","age":17,"books":[6,4],"dateOfBirth":287,"house":171,"locations":[162,126],"male":false,"pageRank":0.05,"titles":[]},{"name":"Elia Sand","age":19,"books":[6,4,2,14],"dateOfBirth":285,"house":166,"locations":[100,159,177,165],"male":false,"pageRank":0.12,"titles":[]},{"name":"Elinor Tyrell","age":18,"books":[6,4,2],"dateOfBirth":286,"house":121,"locations":[88,77],"male":false,"pageRank":0.08333333333333333,"titles":[]},{"name":"Elmar Frey","age":14,"books":[5,0,6,4,2],"dateOfBirth":290,"house":188,"locations":[58],"male":true,"pageRank":0.035,"titles":[]},{"name":"Elwood Meadows","age":26,"books":[0,6,4,2],"dateOfBirth":278,"house":329,"locations":[31,50,155],"male":true,"pageRank":0.02666666666666667,"titles":[225]},{"name":"Elyana Vypren","age":40,"books":[0,6,4],"dateOfBirth":264,"house":455,"locations":[],"male":false,"pageRank":0.08166666666666667,"titles":[]},{"name":"Emma","age":44,"books":[4],"dateOfBirth":260,"house":-1,"locations":[107],"male":false,"pageRank":0,"titles":[]},{"name":"Emberlei Frey","age":8,"books":[0,6,4],"dateOfBirth":296,"house":188,"locations":[],"male":false,"pageRank":0.041666666666666664,"titles":[]},{"name":"Emmon Frey","age":67,"books":[5,0,6,4,2],"dateOfBirth":237,"house":27,"locations":[126,27,23,16,77],"male":true,"pageRank":0.23333333333333334,"titles":[261]},{"name":"Erik Ironmaker","age":93,"books":[4,2],"dateOfBirth":211,"house":61,"locations":[116],"male":true,"pageRank":0.02666666666666667,"titles":[334,46]},{"name":"Erena Glover","age":7,"books":[0,6,4],"dateOfBirth":297,"house":184,"locations":[30,165,160],"male":false,"pageRank":0.028333333333333332,"titles":[]},{"name":"Ermesande Hayford","age":6,"books":[0,6,4,2],"dateOfBirth":298,"house":252,"locations":[126,60,77],"male":false,"pageRank":0.08666666666666667,"titles":[151]},{"name":"Euron Greyjoy","age":37,"books":[],"dateOfBirth":267,"house":253,"locations":[174,91,117,66,107,96,77,116],"male":true,"pageRank":0.74,"titles":[]},{"name":"Falia Flowers","age":23,"books":[4,2],"dateOfBirth":281,"house":446,"locations":[],"male":false,"pageRank":0.03,"titles":[]},{"name":"Galazza Galare","age":87,"books":[2],"dateOfBirth":217,"house":-1,"locations":[91,185],"male":false,"pageRank":0.09333333333333334,"titles":[87]},{"name":"Garlan Tyrell","age":27,"books":[5,0,6,4,2],"dateOfBirth":277,"house":398,"locations":[66,12,88,77,165],"male":true,"pageRank":0.33,"titles":[401,203]},{"name":"Gawen Glover","age":9,"books":[0,6,4],"dateOfBirth":295,"house":184,"locations":[30,165,160],"male":true,"pageRank":0.025,"titles":[]},{"name":"Genna Lannister","age":59,"books":[5,0,6,4,2],"dateOfBirth":245,"house":-1,"locations":[126,27,16,60],"male":false,"pageRank":0.22,"titles":[132]},{"name":"Gerold Dayne","age":34,"books":[4,2,14],"dateOfBirth":270,"house":35,"locations":[65,96,165],"male":true,"pageRank":0.11,"titles":[401,124]},{"name":"Gendry","age":20,"books":[5,0,6,4],"dateOfBirth":284,"house":-1,"locations":[126,58,154,96,77],"male":true,"pageRank":0.44,"titles":[401]},{"name":"Gerris Drinkwater","age":29,"books":[2],"dateOfBirth":275,"house":40,"locations":[175,91,185,184],"male":true,"pageRank":0.16,"titles":[401]},{"name":"Gilly","age":22,"books":[0,6,4,2],"dateOfBirth":282,"house":-1,"locations":[69,107,41,24],"male":false,"pageRank":0.29,"titles":[]},{"name":"Gilwood Hunter","age":54,"books":[6,4,2],"dateOfBirth":250,"house":320,"locations":[83,36],"male":true,"pageRank":0.021666666666666667,"titles":[401,247]},{"name":"Gormond Goodbrother","age":22,"books":[4],"dateOfBirth":282,"house":148,"locations":[56],"male":true,"pageRank":0.043333333333333335,"titles":[]},{"name":"Grenn","age":23,"books":[5,0,6,4,2],"dateOfBirth":281,"house":-1,"locations":[17,41,24,93],"male":true,"pageRank":0.20666666666666667,"titles":[]},{"name":"Gulian Swann","age":45,"books":[0,6],"dateOfBirth":259,"house":243,"locations":[153],"male":true,"pageRank":0.018333333333333333,"titles":[278]},{"name":"Gunthor Hightower","age":33,"books":[4],"dateOfBirth":271,"house":235,"locations":[107],"male":true,"pageRank":0.01,"titles":[401]},{"name":"Halder","age":23,"books":[5,0,6,4,2],"dateOfBirth":281,"house":-1,"locations":[138,17,165],"male":true,"pageRank":0.03166666666666667,"titles":[]},{"name":"Harrold Hardyng","age":23,"books":[4,2,14],"dateOfBirth":281,"house":366,"locations":[88,96,74,129,183,165,36,55],"male":true,"pageRank":0.12333333333333334,"titles":[401]},{"name":"Harwin","age":33,"books":[5,0,6,4,2],"dateOfBirth":271,"house":160,"locations":[96,183],"male":true,"pageRank":0.13333333333333333,"titles":[]},{"name":"Harys Haigh","age":50,"books":[0,6,4],"dateOfBirth":254,"house":219,"locations":[162,58,133],"male":true,"pageRank":0.04666666666666667,"titles":[401]},{"name":"Hoster Frey","age":17,"books":[0,6,4],"dateOfBirth":287,"house":188,"locations":[],"male":true,"pageRank":0.04666666666666667,"titles":[]},{"name":"Hosteen Frey","age":55,"books":[5,0,6,4,2],"dateOfBirth":249,"house":188,"locations":[27,23,58,11,180,77,183],"male":true,"pageRank":0.27666666666666667,"titles":[401]},{"name":"Hother Umber","age":63,"books":[0,6,4,2],"dateOfBirth":241,"house":164,"locations":[126,107,80,32,183,92],"male":true,"pageRank":0.14666666666666667,"titles":[45]},{"name":"Howland Reed","age":44,"books":[5,0,6,4,2],"dateOfBirth":260,"house":112,"locations":[58,166,53,77,92,165],"male":true,"pageRank":0.18,"titles":[229]},{"name":"Humfrey Wagstaff","age":74,"books":[4],"dateOfBirth":230,"house":344,"locations":[49],"male":false,"pageRank":0.01,"titles":[401,42]},{"name":"Illifer","age":64,"books":[4],"dateOfBirth":240,"house":-1,"locations":[33],"male":true,"pageRank":0.021666666666666667,"titles":[401]},{"name":"Irri","age":21,"books":[5,0,6,4,2],"dateOfBirth":283,"house":167,"locations":[91,3],"male":false,"pageRank":0.19666666666666666,"titles":[]},{"name":"Jaime Frey","age":5,"books":[4],"dateOfBirth":299,"house":188,"locations":[27,23,11],"male":true,"pageRank":0.065,"titles":[]},{"name":"Jammos Frey","age":38,"books":[0,6,4,2],"dateOfBirth":266,"house":188,"locations":[],"male":true,"pageRank":0.04666666666666667,"titles":[401]},{"name":"Janei Lannister","age":8,"books":[5,0,6,4,2],"dateOfBirth":296,"house":271,"locations":[126,60],"male":false,"pageRank":0.051666666666666666,"titles":[]},{"name":"Jaime Lannister","age":38,"books":[5,0,6,4,2],"dateOfBirth":266,"house":271,"locations":[174,73,162,126,27,23,123,58,47,76,16,31,128,148,88,96,113,180,33,60,77,112,183,71,165,89],"male":true,"pageRank":1,"titles":[401,179,434]},{"name":"Jeyne Goodbrook","age":11,"books":[0,6,4],"dateOfBirth":293,"house":239,"locations":[],"male":false,"pageRank":0.03333333333333333,"titles":[]},{"name":"Jeyne Heddle","age":23,"books":[4],"dateOfBirth":281,"house":-1,"locations":[26],"male":false,"pageRank":0.018333333333333333,"titles":[]},{"name":"Jeyne Westerling","age":21,"books":[6,4],"dateOfBirth":283,"house":171,"locations":[175,126,113,183],"male":false,"pageRank":0.4266666666666667,"titles":[385,172]},{"name":"Jhiqui","age":20,"books":[5,0,6,4,2],"dateOfBirth":284,"house":167,"locations":[91,3],"male":false,"pageRank":0.14666666666666667,"titles":[]},{"name":"Jhogo","age":23,"books":[5,0,6,4,2],"dateOfBirth":281,"house":167,"locations":[91,185,3,172,117],"male":true,"pageRank":0.20333333333333334,"titles":[130,8]},{"name":"Jojen Reed","age":18,"books":[0,6,4,2],"dateOfBirth":286,"house":112,"locations":[53,167,108,98,119,183,71,165],"male":true,"pageRank":0.29333333333333333,"titles":[]},{"name":"Jon Brax","age":8,"books":[0,6,4],"dateOfBirth":296,"house":125,"locations":[],"male":false,"pageRank":0.058333333333333334,"titles":[]},{"name":"Jon Connington","age":41,"books":[15,6,4,2],"dateOfBirth":263,"house":321,"locations":[175,58,154,128,148,2,155,54,88,113,60,77],"male":true,"pageRank":0.72,"titles":[88,92]},{"name":"Jonella Cerwyn","age":37,"books":[5,6,4,2],"dateOfBirth":267,"house":143,"locations":[183,18,5,92],"male":false,"pageRank":0.0016666666666666668,"titles":[139]},{"name":"Jon Snow","age":21,"books":[5,0,6,4,2],"dateOfBirth":283,"house":160,"locations":[174,162,126,16,11,88,77,98,17,41,24,181,119,75,30,183,36],"male":true,"pageRank":1,"titles":[]},{"name":"Jonos Frey","age":13,"books":[0,6,4],"dateOfBirth":291,"house":188,"locations":[],"male":false,"pageRank":0.028333333333333332,"titles":[]},{"name":"Jorelle Mormont","age":26,"books":[4,2],"dateOfBirth":278,"house":165,"locations":[],"male":false,"pageRank":0.041666666666666664,"titles":[]},{"name":"Jorah Mormont","age":50,"books":[5,0,6,4,2,14],"dateOfBirth":254,"house":165,"locations":[137,175,174,91,185,172,117,11,170,88,113,116],"male":true,"pageRank":0.7233333333333334,"titles":[401,195]},{"name":"Josmyn Peckledon","age":20,"books":[0,6,4,2],"dateOfBirth":284,"house":190,"locations":[126,27,123,112],"male":true,"pageRank":0.05333333333333334,"titles":[]},{"name":"Joyeuse Erenford","age":22,"books":[5,0,6,4,2],"dateOfBirth":282,"house":287,"locations":[],"male":false,"pageRank":0.04666666666666667,"titles":[164]},{"name":"Joy Hill","age":16,"books":[5,0,6,4,2],"dateOfBirth":288,"house":271,"locations":[126,16,60],"male":false,"pageRank":0.05333333333333334,"titles":[]},{"name":"Kedge Whiteye","age":53,"books":[0,6,4,2],"dateOfBirth":251,"house":-1,"locations":[17,41,24],"male":true,"pageRank":0.02,"titles":[]},{"name":"Kyra Frey","age":42,"books":[0,6,4],"dateOfBirth":262,"house":188,"locations":[],"male":false,"pageRank":0.035,"titles":[]},{"name":"Lanna","age":19,"books":[6,4],"dateOfBirth":285,"house":-1,"locations":[154],"male":false,"pageRank":0.011666666666666667,"titles":[]},{"name":"Lanna (Happy Port)","age":18,"books":[4],"dateOfBirth":286,"house":-1,"locations":[11],"male":false,"pageRank":0.043333333333333335,"titles":[]},{"name":"Lancel Lannister","age":22,"books":[5,0,6,4,2],"dateOfBirth":282,"house":-1,"locations":[126,27,16,60,77],"male":true,"pageRank":0.48,"titles":[401,215]},{"name":"Larence Snow","age":18,"books":[0,6,4],"dateOfBirth":286,"house":180,"locations":[30,183,71],"male":true,"pageRank":0.03166666666666667,"titles":[]},{"name":"Lanna Lannister","age":33,"books":[6,4,2,15],"dateOfBirth":271,"house":271,"locations":[23,96],"male":false,"pageRank":0.03833333333333333,"titles":[]},{"name":"Layna","age":25,"books":[0],"dateOfBirth":279,"house":-1,"locations":[58],"male":false,"pageRank":0.02666666666666667,"titles":[]},{"name":"Leathers","age":45,"books":[2],"dateOfBirth":259,"house":-1,"locations":[17,93],"male":true,"pageRank":0.02666666666666667,"titles":[357]},{"name":"Leana Frey","age":5,"books":[4],"dateOfBirth":299,"house":188,"locations":[],"male":false,"pageRank":0.03833333333333333,"titles":[]},{"name":"Lollys Stokeworth","age":39,"books":[0,6,4,2,2],"dateOfBirth":265,"house":134,"locations":[148,96,77,67],"male":false,"pageRank":0.13,"titles":[161]},{"name":"Lorcas","age":63,"books":[4],"dateOfBirth":241,"house":-1,"locations":[],"male":true,"pageRank":0.006666666666666667,"titles":[]},{"name":"Loreza Sand","age":11,"books":[6,4,2],"dateOfBirth":293,"house":166,"locations":[100,63],"male":false,"pageRank":0.055,"titles":[]},{"name":"Loras Tyrell","age":22,"books":[5,0,6,4,2],"dateOfBirth":282,"house":121,"locations":[27,31,66,155,88,77,6,165],"male":true,"pageRank":0.6666666666666666,"titles":[401,183]},{"name":"Lothar Frey","age":40,"books":[5,0,6,4,2],"dateOfBirth":264,"house":188,"locations":[162,126,15,183],"male":true,"pageRank":0.17666666666666667,"titles":[410]},{"name":"Luceon Frey","age":55,"books":[0,6,4,2],"dateOfBirth":249,"house":-1,"locations":[77],"male":true,"pageRank":0.04,"titles":[400]},{"name":"Lucos Chyttering","age":21,"books":[6,4],"dateOfBirth":283,"house":191,"locations":[],"male":true,"pageRank":0.011666666666666667,"titles":[175]},{"name":"Lucion Lannister","age":34,"books":[6,4,2,15],"dateOfBirth":270,"house":271,"locations":[23,96],"male":false,"pageRank":0.035,"titles":[401]},{"name":"Lyanna Mormont","age":14,"books":[4,2],"dateOfBirth":290,"house":165,"locations":[],"male":false,"pageRank":0.03,"titles":[]},{"name":"Lyonel Corbray","age":44,"books":[4,2,14],"dateOfBirth":260,"house":130,"locations":[62,55],"male":true,"pageRank":0.041666666666666664,"titles":[]},{"name":"Lynesse Hightower","age":32,"books":[0,6,4,2],"dateOfBirth":272,"house":235,"locations":[162,107,11,170,88,183],"male":false,"pageRank":0.12,"titles":[]},{"name":"Lyonel Frey","age":45,"books":[0,6,4,2],"dateOfBirth":259,"house":27,"locations":[126,27,23],"male":false,"pageRank":0.03333333333333333,"titles":[401]},{"name":"Lyra Mormont","age":27,"books":[4,2],"dateOfBirth":277,"house":165,"locations":[],"male":false,"pageRank":0.021666666666666667,"titles":[]},{"name":"Lythene Frey","age":53,"books":[0,6,4,2],"dateOfBirth":251,"house":188,"locations":[27,23,11],"male":false,"pageRank":0.08166666666666667,"titles":[]},{"name":"Maege Mormont","age":65,"books":[5,0,6,4,2],"dateOfBirth":239,"house":165,"locations":[162,136,126,53,108,183,92],"male":false,"pageRank":0.14,"titles":[135]},{"name":"Maegelle Frey","age":55,"books":[0,6,4],"dateOfBirth":249,"house":188,"locations":[],"male":false,"pageRank":0.055,"titles":[]},{"name":"Mace Tyrell","age":48,"books":[5,0,6,4,2],"dateOfBirth":256,"house":121,"locations":[154,128,148,2,66,155,88,113,60,77,6,92,165],"male":true,"pageRank":0.8566666666666667,"titles":[237,67,96,437,88,352]},{"name":"Marei","age":24,"books":[0,6,4,2],"dateOfBirth":280,"house":-1,"locations":[77],"male":false,"pageRank":0,"titles":[]},{"name":"Malwyn Frey","age":20,"books":[0,6,4],"dateOfBirth":284,"house":188,"locations":[27,23,11,88],"male":true,"pageRank":0.07,"titles":[]},{"name":"Marianne Vance","age":42,"books":[0,6,4],"dateOfBirth":262,"house":-1,"locations":[],"male":false,"pageRank":0.05333333333333334,"titles":[]},{"name":"Margaery Tyrell","age":21,"books":[5,0,6,4,2],"dateOfBirth":283,"house":121,"locations":[66,155,88,96,113,77,6],"male":false,"pageRank":1,"titles":[390]},{"name":"Marissa Frey","age":18,"books":[0,6,4],"dateOfBirth":286,"house":188,"locations":[162,27,23,11],"male":false,"pageRank":0.08166666666666667,"titles":[]},{"name":"Maron Volmark","age":21,"books":[6,4,2],"dateOfBirth":283,"house":117,"locations":[],"male":true,"pageRank":0.023333333333333334,"titles":[317,226]},{"name":"Martyn Lannister","age":19,"books":[5,0,6,4,2],"dateOfBirth":285,"house":271,"locations":[126,47,108,33,60],"male":true,"pageRank":0.07,"titles":[]},{"name":"Mathis Frey","age":10,"books":[0,6,4],"dateOfBirth":294,"house":188,"locations":[],"male":false,"pageRank":0.043333333333333335,"titles":[]},{"name":"Meera Reed","age":21,"books":[0,6,4,2],"dateOfBirth":283,"house":112,"locations":[58,53,167,98,119,183,165],"male":false,"pageRank":0.2733333333333333,"titles":[]},{"name":"Megga Tyrell","age":18,"books":[6,4,2],"dateOfBirth":286,"house":121,"locations":[88,96],"male":false,"pageRank":0.07833333333333334,"titles":[]},{"name":"Meribald","age":57,"books":[4],"dateOfBirth":247,"house":-1,"locations":[35,133,121,89],"male":true,"pageRank":0.10666666666666667,"titles":[400]},{"name":"Merianne Frey","age":16,"books":[0,6,4],"dateOfBirth":288,"house":188,"locations":[162],"male":false,"pageRank":0.043333333333333335,"titles":[]},{"name":"Missandei","age":16,"books":[6,4,2],"dateOfBirth":288,"house":167,"locations":[174,91,185,3],"male":false,"pageRank":0.17666666666666667,"titles":[]},{"name":"Monster","age":5,"books":[6,4,2],"dateOfBirth":299,"house":-1,"locations":[69,107,11,41,24],"male":false,"pageRank":0.08,"titles":[]},{"name":"Monterys Velaryon","age":11,"books":[6,4],"dateOfBirth":293,"house":289,"locations":[],"male":true,"pageRank":0.011666666666666667,"titles":[313,345]},{"name":"Moreo Tumitis","age":36,"books":[5],"dateOfBirth":268,"house":-1,"locations":[170,180,77],"male":true,"pageRank":0.013333333333333334,"titles":[]},{"name":"Mors Umber","age":69,"books":[0,6,4,2],"dateOfBirth":235,"house":164,"locations":[126,11,80,183,71,25],"male":true,"pageRank":0.15,"titles":[45]},{"name":"Morya Frey","age":36,"books":[0,6,4,2],"dateOfBirth":268,"house":188,"locations":[],"male":false,"pageRank":0.06166666666666667,"titles":[132]},{"name":"Mya Stone","age":25,"books":[5,0,6,4,2],"dateOfBirth":279,"house":265,"locations":[88,96,77,36,125],"male":false,"pageRank":0.12333333333333334,"titles":[]},{"name":"Mylenda Caron","age":46,"books":[0,6,4],"dateOfBirth":258,"house":137,"locations":[],"male":true,"pageRank":0.055,"titles":[]},{"name":"Myranda Royce","age":25,"books":[0,6,4,2],"dateOfBirth":279,"house":265,"locations":[96,36],"male":false,"pageRank":0.04666666666666667,"titles":[]},{"name":"Myrcella Baratheon","age":14,"books":[5,0,6,4,2],"dateOfBirth":290,"house":144,"locations":[159,177,11,96,77,183,165],"male":false,"pageRank":0.5633333333333334,"titles":[379]},{"name":"Nymeria Sand","age":30,"books":[6,4,2],"dateOfBirth":274,"house":166,"locations":[100,175,128,148,159,113,60,77,165],"male":false,"pageRank":0.38,"titles":[]},{"name":"Obella Sand","age":17,"books":[6,4,2],"dateOfBirth":287,"house":166,"locations":[100,159,177,165],"male":false,"pageRank":0.10666666666666667,"titles":[]},{"name":"Obara Sand","age":33,"books":[6,4,2],"dateOfBirth":271,"house":166,"locations":[100,107,65,159,177,96,165],"male":false,"pageRank":0.14333333333333334,"titles":[]},{"name":"Olenna Redwyne","age":76,"books":[5,0,6,4,2],"dateOfBirth":228,"house":387,"locations":[15,128,66,96,77],"male":false,"pageRank":0.29,"titles":[69]},{"name":"Olyvar Frey","age":23,"books":[5,0,6,4,2],"dateOfBirth":281,"house":188,"locations":[128],"male":true,"pageRank":0.043333333333333335,"titles":[]},{"name":"Osmund Frey","age":7,"books":[0,6,4],"dateOfBirth":297,"house":188,"locations":[128],"male":false,"pageRank":0.02666666666666667,"titles":[]},{"name":"Pate (King's Landing)","age":13,"books":[4,2],"dateOfBirth":291,"house":144,"locations":[77],"male":true,"pageRank":0.02,"titles":[]},{"name":"Penny","age":23,"books":[6,2,14],"dateOfBirth":281,"house":-1,"locations":[91,16,113,77],"male":false,"pageRank":0,"titles":[]},{"name":"Patrek Vance","age":40,"books":[0,6,4],"dateOfBirth":264,"house":-1,"locations":[],"male":false,"pageRank":0.05333333333333334,"titles":[]},{"name":"Perriane Frey","age":63,"books":[0,6,4,2],"dateOfBirth":241,"house":219,"locations":[],"male":false,"pageRank":0.03833333333333333,"titles":[]},{"name":"Perwyn Frey","age":35,"books":[5,0,6,4,2],"dateOfBirth":269,"house":188,"locations":[126,128,77],"male":true,"pageRank":0.043333333333333335,"titles":[401]},{"name":"Perra Frey","age":10,"books":[0,6,4],"dateOfBirth":294,"house":188,"locations":[],"male":false,"pageRank":0.051666666666666666,"titles":[]},{"name":"Petyr Baelish","age":36,"books":[5,0,6,4,2],"dateOfBirth":268,"house":222,"locations":[174,126,118,58,128,148,66,155,11,88,113,60,77,6,183,36,55],"male":true,"pageRank":1,"titles":[343,326,234,329]},{"name":"Podrick Payne","age":18,"books":[5,0,6,4,2],"dateOfBirth":286,"house":419,"locations":[26,128,33,77,89],"male":true,"pageRank":0.29333333333333333,"titles":[]},{"name":"Pylos","age":31,"books":[0,6,4,2],"dateOfBirth":273,"house":132,"locations":[31],"male":true,"pageRank":0.06,"titles":[337]},{"name":"Ramsay Snow","age":22,"books":[0,6,4,2],"dateOfBirth":282,"house":-1,"locations":[58,31,155,17,30,32,183,71,164,5,92],"male":true,"pageRank":0.4633333333333333,"titles":[295,321,50]},{"name":"Raymund Frey","age":40,"books":[0,6,4,2],"dateOfBirth":264,"house":188,"locations":[27,23,11],"male":true,"pageRank":0.09,"titles":[401]},{"name":"Renly Norcross","age":8,"books":[0,6,4],"dateOfBirth":296,"house":405,"locations":[],"male":true,"pageRank":0.043333333333333335,"titles":[]},{"name":"Rhaelle Targaryen","age":75,"books":[4,2,15],"dateOfBirth":229,"house":167,"locations":[155,96,106],"male":false,"pageRank":0.14,"titles":[379]},{"name":"Rickard Wylde","age":9,"books":[0,6,4],"dateOfBirth":295,"house":270,"locations":[],"male":false,"pageRank":0.08166666666666667,"titles":[]},{"name":"Rickon Stark","age":9,"books":[5,0,7,4,2],"dateOfBirth":295,"house":160,"locations":[88,180,77,32,183,116],"male":true,"pageRank":0.5533333333333333,"titles":[377,95]},{"name":"Robert Brax (son of Flement)","age":14,"books":[0,6,4],"dateOfBirth":290,"house":125,"locations":[16],"male":true,"pageRank":0,"titles":[]},{"name":"Robert Arryn","age":12,"books":[5,0,6,4,2],"dateOfBirth":292,"house":274,"locations":[16,31,88,77,183,36],"male":true,"pageRank":0.3233333333333333,"titles":[291,68,433]},{"name":"Robert Frey","age":18,"books":[0,6,4],"dateOfBirth":286,"house":188,"locations":[],"male":false,"pageRank":0.03166666666666667,"titles":[]},{"name":"Robert Frey (son of Raymund)","age":21,"books":[0,6,4],"dateOfBirth":283,"house":188,"locations":[27,23,107,11],"male":true,"pageRank":0,"titles":[]},{"name":"Robin Ryger","age":67,"books":[5,0,6,4,2],"dateOfBirth":237,"house":278,"locations":[126,77,89],"male":true,"pageRank":0.03833333333333333,"titles":[401,26]},{"name":"Rollam Westerling","age":14,"books":[6,4],"dateOfBirth":290,"house":171,"locations":[162,126],"male":true,"pageRank":0.023333333333333334,"titles":[]},{"name":"Roone","age":18,"books":[4],"dateOfBirth":286,"house":-1,"locations":[],"male":true,"pageRank":0.021666666666666667,"titles":[]},{"name":"Ronnet Connington","age":30,"books":[0,6,4,2],"dateOfBirth":274,"house":321,"locations":[126,58,35,155,54,180,60,77,6,89],"male":true,"pageRank":0.11666666666666667,"titles":[401]},{"name":"Roose Bolton","age":44,"books":[5,0,6,4,2],"dateOfBirth":260,"house":176,"locations":[27,58,15,33,77,75,30,32,183,71,5,92],"male":true,"pageRank":0.98,"titles":[289,435]},{"name":"Rosey","age":20,"books":[4],"dateOfBirth":284,"house":-1,"locations":[107],"male":false,"pageRank":0.016666666666666666,"titles":[]},{"name":"Roslin Frey","age":22,"books":[0,6,4,2],"dateOfBirth":282,"house":188,"locations":[126,123,16,128],"male":true,"pageRank":0.22,"titles":[]},{"name":"Ryella Frey","age":10,"books":[0,6,4],"dateOfBirth":294,"house":188,"locations":[27,23,11],"male":false,"pageRank":0.07,"titles":[]},{"name":"Samwell Tarly","age":21,"books":[5,0,6,4,2],"dateOfBirth":283,"house":-1,"locations":[117,69,107,11,98,17,41,24,181,116],"male":true,"pageRank":0.97,"titles":[]},{"name":"Sandor Frey","age":17,"books":[0,6,4],"dateOfBirth":287,"house":188,"locations":[27,23,11],"male":false,"pageRank":0.075,"titles":[]},{"name":"Sarella Sand","age":24,"books":[6,4,2],"dateOfBirth":280,"house":166,"locations":[100,107,139,165],"male":false,"pageRank":0.10666666666666667,"titles":[]},{"name":"Sansa Stark","age":18,"books":[5,0,6,4,2,14],"dateOfBirth":286,"house":160,"locations":[27,58,66,88,96,33,77,183,36],"male":false,"pageRank":1,"titles":[379]},{"name":"Satin","age":24,"books":[0,6,4,2],"dateOfBirth":280,"house":-1,"locations":[107,17,82,165,55],"male":true,"pageRank":0.10666666666666667,"titles":[]},{"name":"Sarra Frey","age":19,"books":[0,6,4],"dateOfBirth":285,"house":188,"locations":[162,27,23,11],"male":false,"pageRank":0.07,"titles":[]},{"name":"Selwyn Tarth","age":59,"books":[0,6,4,2],"dateOfBirth":245,"house":127,"locations":[35],"male":true,"pageRank":0.03333333333333333,"titles":[218]},{"name":"Serra Frey","age":19,"books":[0,6,4],"dateOfBirth":285,"house":188,"locations":[162,27,23,11],"male":false,"pageRank":0.07,"titles":[]},{"name":"Shirei Frey","age":12,"books":[0,6,4,2],"dateOfBirth":292,"house":188,"locations":[162],"male":false,"pageRank":0.023333333333333334,"titles":[]},{"name":"Shireen Baratheon","age":15,"books":[5,0,6,4,2],"dateOfBirth":289,"house":132,"locations":[31,96,17],"male":false,"pageRank":0.23333333333333334,"titles":[379]},{"name":"Stannis Seaworth","age":15,"books":[0,6,4,2],"dateOfBirth":289,"house":227,"locations":[],"male":true,"pageRank":0.03,"titles":[]},{"name":"Steffon Seaworth","age":11,"books":[0,6,4,2],"dateOfBirth":293,"house":227,"locations":[],"male":true,"pageRank":0.03333333333333333,"titles":[]},{"name":"Steffon Frey","age":41,"books":[0,6,4],"dateOfBirth":263,"house":188,"locations":[],"male":false,"pageRank":0.051666666666666666,"titles":[]},{"name":"Stannis Baratheon","age":40,"books":[],"dateOfBirth":264,"house":132,"locations":[175,31,128,148,155,157,11,88,96,113,180,142,60,77,17,75,30,32,183,92,25,165],"male":true,"pageRank":1,"titles":[]},{"name":"Stonesnake","age":54,"books":[0,6,4,2],"dateOfBirth":250,"house":-1,"locations":[138,41,165],"male":true,"pageRank":0.06,"titles":[]},{"name":"Sylva Santagar","age":28,"books":[4],"dateOfBirth":276,"house":261,"locations":[51,96],"male":false,"pageRank":0.023333333333333334,"titles":[149]},{"name":"Taena of Myr","age":28,"books":[6,4,2],"dateOfBirth":276,"house":181,"locations":[84,96,77],"male":false,"pageRank":0.11666666666666667,"titles":[]},{"name":"Theon Greyjoy","age":26,"books":[5,0,6,4,2,14],"dateOfBirth":278,"house":253,"locations":[11,77,30,32,183,164,92,25,116],"male":true,"pageRank":1,"titles":[377,19,297]},{"name":"Timett","age":26,"books":[5,0,6,2],"dateOfBirth":278,"house":-1,"locations":[77,36],"male":true,"pageRank":0.07666666666666666,"titles":[392]},{"name":"Tom of Sevenstreams","age":64,"books":[6,4],"dateOfBirth":240,"house":-1,"locations":[73,126,154,15,88],"male":true,"pageRank":0.15666666666666668,"titles":[]},{"name":"Tommen Baratheon","age":13,"books":[],"dateOfBirth":291,"house":-1,"locations":[128,96,77,183],"male":true,"pageRank":1,"titles":[]},{"name":"Trystane Martell","age":17,"books":[5,0,6,4,2],"dateOfBirth":287,"house":166,"locations":[100,63,159,96,77],"male":true,"pageRank":0.15333333333333332,"titles":[370]},{"name":"Tyene Sand","age":28,"books":[6,4,2],"dateOfBirth":276,"house":166,"locations":[100,173,66,159,96,77,165],"male":false,"pageRank":0.14,"titles":[]},{"name":"Tyrion Tanner","age":4,"books":[4,2],"dateOfBirth":300,"house":134,"locations":[148,77],"male":true,"pageRank":0.05333333333333334,"titles":[]},{"name":"Tysane Frey","age":12,"books":[0,6,4],"dateOfBirth":292,"house":188,"locations":[],"male":false,"pageRank":0.043333333333333335,"titles":[]},{"name":"Tysha","age":33,"books":[5,0,6,2],"dateOfBirth":271,"house":-1,"locations":[137,16,77,165,36],"male":true,"pageRank":0.13333333333333333,"titles":[]},{"name":"Tyta Frey","age":35,"books":[0,6,4,2],"dateOfBirth":269,"house":188,"locations":[162],"male":false,"pageRank":0.045,"titles":[]},{"name":"Tyrion Lannister","age":31,"books":[5,0,6,4,2,14,15],"dateOfBirth":273,"house":271,"locations":[137,175,174,91,185,126,23,58,16,128,148,107,155,88,96,113,60,77,17,183,165,36],"male":true,"pageRank":1,"titles":[1,342,207]},{"name":"Tywin Frey","age":17,"books":[0,6,4,2],"dateOfBirth":287,"house":188,"locations":[126,27,23],"male":true,"pageRank":0.041666666666666664,"titles":[401]},{"name":"Tywin Frey (son of Raymund)","age":5,"books":[4],"dateOfBirth":299,"house":188,"locations":[27,23,11],"male":true,"pageRank":0,"titles":[]},{"name":"Urrigon Greyjoy","age":36,"books":[4],"dateOfBirth":268,"house":253,"locations":[116],"male":true,"pageRank":0.03833333333333333,"titles":[]},{"name":"Utherydes Wayn","age":67,"books":[5,0,6,4,2],"dateOfBirth":237,"house":158,"locations":[162,126,77,183],"male":false,"pageRank":0.018333333333333333,"titles":[407]},{"name":"Victarion Greyjoy","age":36,"books":[5,0,6,4,2,14],"dateOfBirth":268,"house":253,"locations":[174,91,92,116],"male":true,"pageRank":0.7066666666666667,"titles":[177,353]},{"name":"Waif","age":41,"books":[4,2],"dateOfBirth":263,"house":-1,"locations":[],"male":false,"pageRank":0.043333333333333335,"titles":[]},{"name":"Walda Frey (daughter of Edwyn)","age":14,"books":[0,6,4],"dateOfBirth":290,"house":188,"locations":[162],"male":false,"pageRank":0,"titles":[]},{"name":"Walda Frey (daughter of Lothar)","age":10,"books":[0,6,4],"dateOfBirth":294,"house":188,"locations":[],"male":false,"pageRank":0,"titles":[]},{"name":"Walda Frey (daughter of Walton)","age":24,"books":[0,6,4],"dateOfBirth":280,"house":188,"locations":[162],"male":false,"pageRank":0.025,"titles":[]},{"name":"Walda Rivers","age":10,"books":[0,6,4],"dateOfBirth":294,"house":188,"locations":[],"male":false,"pageRank":0.018333333333333333,"titles":[]},{"name":"Walda Rivers (daughter of Aemon)","age":9,"books":[6],"dateOfBirth":295,"house":188,"locations":[],"male":false,"pageRank":0,"titles":[]},{"name":"Walda Frey (daughter of Rhaegar)","age":16,"books":[0,6,4],"dateOfBirth":288,"house":188,"locations":[],"male":false,"pageRank":0,"titles":[]},{"name":"Walda Frey (daughter of Merrett)","age":21,"books":[0,6,4,2],"dateOfBirth":283,"house":188,"locations":[27,23,58,11,106,32,183,5,92],"male":false,"pageRank":0,"titles":[]},{"name":"Walder Brax","age":11,"books":[0,6,4],"dateOfBirth":293,"house":125,"locations":[],"male":false,"pageRank":0.06,"titles":[]},{"name":"Walder Frey (son of Jammos)","age":13,"books":[5,0,6,4,2],"dateOfBirth":291,"house":188,"locations":[162,180,108,183],"male":true,"pageRank":0,"titles":[]},{"name":"Walder Frey (son of Emmon)","age":19,"books":[0,6,4,2],"dateOfBirth":285,"house":27,"locations":[126,27,23,16],"male":true,"pageRank":0,"titles":[]},{"name":"Walder Frey (son of Ryman)","age":44,"books":[5,0,6,4],"dateOfBirth":260,"house":188,"locations":[136,106,108,77],"male":true,"pageRank":0,"titles":[]},{"name":"Walder Goodbrook","age":14,"books":[0,6,4],"dateOfBirth":290,"house":239,"locations":[],"male":true,"pageRank":0.035,"titles":[]},{"name":"Walder Haigh","age":10,"books":[0,6,4],"dateOfBirth":294,"house":219,"locations":[],"male":false,"pageRank":0.04,"titles":[]},{"name":"Walder Vance","age":41,"books":[0,6,4],"dateOfBirth":263,"house":-1,"locations":[],"male":true,"pageRank":0.056666666666666664,"titles":[]},{"name":"Wallace Waynwood","age":26,"books":[4,2,14],"dateOfBirth":278,"house":200,"locations":[96,10],"male":true,"pageRank":0.015,"titles":[401]},{"name":"Walton Frey","age":55,"books":[0,6,4],"dateOfBirth":249,"house":188,"locations":[],"male":true,"pageRank":0.055,"titles":[]},{"name":"Waltyr Frey","age":15,"books":[0,6,4,2],"dateOfBirth":289,"house":188,"locations":[],"male":true,"pageRank":0.02666666666666667,"titles":[]},{"name":"Walder Frey","age":96,"books":[10,5,0,6,4,2],"dateOfBirth":208,"house":188,"locations":[126,27,23,128,11,180,108,77,183,121],"male":true,"pageRank":0.8966666666666666,"titles":[287]},{"name":"Weasel","age":8,"books":[0],"dateOfBirth":296,"house":-1,"locations":[58,77],"male":true,"pageRank":0.02,"titles":[]},{"name":"Wendel Frey","age":18,"books":[0,6,4,2],"dateOfBirth":286,"house":188,"locations":[136],"male":true,"pageRank":0.02666666666666667,"titles":[]},{"name":"Wex Pyke","age":18,"books":[0,6,4,2],"dateOfBirth":286,"house":211,"locations":[180,183,116],"male":true,"pageRank":0.11666666666666667,"titles":[]},{"name":"Whalen Frey","age":37,"books":[5,0,6,4,2],"dateOfBirth":267,"house":188,"locations":[],"male":true,"pageRank":0.051666666666666666,"titles":[401]},{"name":"Willamen Frey","age":32,"books":[0,6,4,2],"dateOfBirth":272,"house":-1,"locations":[128,83],"male":true,"pageRank":0.03333333333333333,"titles":[337]},{"name":"Willem Frey","age":15,"books":[0,6,4,2],"dateOfBirth":289,"house":188,"locations":[126,27,23,1],"male":true,"pageRank":0.041666666666666664,"titles":[]},{"name":"Willas Tyrell","age":34,"books":[5,0,6,4,2],"dateOfBirth":270,"house":121,"locations":[66,107,88],"male":true,"pageRank":0.29333333333333333,"titles":[]},{"name":"Willow Heddle","age":15,"books":[4],"dateOfBirth":289,"house":-1,"locations":[26],"male":false,"pageRank":0.018333333333333333,"titles":[]},{"name":"Wylla Manderly","age":20,"books":[4,2],"dateOfBirth":284,"house":116,"locations":[180,183,71],"male":false,"pageRank":0.07333333333333333,"titles":[]},{"name":"Wylis Manderly","age":52,"books":[5,0,6,4,2],"dateOfBirth":252,"house":116,"locations":[126,58,180,183,71,92,165,89],"male":true,"pageRank":0.16,"titles":[401]},{"name":"Wynafryd Manderly","age":24,"books":[4,2],"dateOfBirth":280,"house":116,"locations":[180,71],"male":false,"pageRank":0.06,"titles":[]},{"name":"Wyman Manderly","age":65,"books":[5,0,6,4,2],"dateOfBirth":239,"house":116,"locations":[180,77,32,183,71,36,116],"male":true,"pageRank":0.3566666666666667,"titles":[319,442,405,65,187,129]},{"name":"Wynton Stout","age":85,"books":[6,4],"dateOfBirth":219,"house":293,"locations":[17],"male":true,"pageRank":0.018333333333333333,"titles":[401]},{"name":"Zachery Frey","age":17,"books":[0,6,4],"dateOfBirth":287,"house":188,"locations":[107],"male":true,"pageRank":0.025,"titles":[]},{"name":"Zia Frey","age":19,"books":[0,6,4],"dateOfBirth":285,"house":188,"locations":[],"male":false,"pageRank":0.025,"titles":[]}]
+[
+    {
+        "name": "Aegon Frey (son of Aenys)",
+        "male": false,
+        "birth": 253,
+        "age": 51,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Aeron Greyjoy",
+        "male": false,
+        "birth": 269,
+        "age": 35,
+        "pageRank": 0.05868814729574223,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1,
+            15
+        ],
+        "culture": 16,
+        "house": 112,
+        "locations": [
+            81,
+            74,
+            75,
+            48,
+            22,
+            50
+        ],
+        "titles": [
+            296,
+            21
+        ],
+        "houseRegion": 4
+    },
+    {
+        "name": "Alayaya",
+        "male": false,
+        "birth": 282,
+        "age": 22,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 6,
+        "locations": [
+            34
+        ],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Alerie Hightower",
+        "male": false,
+        "birth": 257,
+        "age": 47,
+        "pageRank": 0.0017261219792865361,
+        "numRelatives": 0.22727272727272727,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 29,
+        "house": 126,
+        "locations": [
+            34
+        ],
+        "titles": [
+            127
+        ],
+        "houseRegion": 9
+    },
+    {
+        "name": "Alesander Frey",
+        "male": false,
+        "birth": 265,
+        "age": 39,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [
+            9,
+            6
+        ],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Alester Norcross",
+        "male": false,
+        "birth": 290,
+        "age": 14,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 164,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 9
+    },
+    {
+        "name": "Alla Tyrell",
+        "male": false,
+        "birth": 286,
+        "age": 18,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            4,
+            2,
+            1
+        ],
+        "culture": 30,
+        "house": 227,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 9
+    },
+    {
+        "name": "Alliser Thorne",
+        "male": false,
+        "birth": 247,
+        "age": 57,
+        "pageRank": 0.17548906789413118,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 6,
+        "house": 223,
+        "locations": [
+            34,
+            4
+        ],
+        "titles": [
+            321,
+            288
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Alyn Frey",
+        "male": false,
+        "birth": 295,
+        "age": 9,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [
+            9,
+            6
+        ],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Alyn Haigh",
+        "male": false,
+        "birth": 256,
+        "age": 48,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": 31,
+        "house": 114,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Alys Arryn",
+        "male": false,
+        "birth": 218,
+        "age": 86,
+        "pageRank": 0.020713463751438434,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [],
+        "books": [
+            2
+        ],
+        "culture": -1,
+        "house": 21,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 24
+    },
+    {
+        "name": "Alys Karstark",
+        "male": false,
+        "birth": 284,
+        "age": 20,
+        "pageRank": 0.05293440736478711,
+        "numRelatives": 0.045454545454545456,
+        "allegiances": [],
+        "books": [
+            4,
+            2,
+            1
+        ],
+        "culture": 24,
+        "house": 135,
+        "locations": [
+            4,
+            43,
+            33,
+            81,
+            29,
+            56
+        ],
+        "titles": [],
+        "houseRegion": 8
+    },
+    {
+        "name": "Alysane Mormont",
+        "male": false,
+        "birth": 273,
+        "age": 31,
+        "pageRank": 0,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [],
+        "books": [
+            2,
+            1,
+            15
+        ],
+        "culture": 24,
+        "house": 159,
+        "locations": [
+            4,
+            11,
+            81
+        ],
+        "titles": [],
+        "houseRegion": 8
+    },
+    {
+        "name": "Alysanne Bulwer",
+        "male": false,
+        "birth": 291,
+        "age": 13,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            4,
+            2,
+            1
+        ],
+        "culture": 30,
+        "house": 48,
+        "locations": [
+            34
+        ],
+        "titles": [
+            116
+        ],
+        "houseRegion": 17
+    },
+    {
+        "name": "Alyx Frey",
+        "male": false,
+        "birth": 282,
+        "age": 22,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [
+            9,
+            6
+        ],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Amerei Frey",
+        "male": false,
+        "birth": 282,
+        "age": 22,
+        "pageRank": 0,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": 31,
+        "house": 98,
+        "locations": [
+            56,
+            9,
+            6
+        ],
+        "titles": [
+            121
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Androw Frey",
+        "male": false,
+        "birth": 295,
+        "age": 9,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [
+            9,
+            6
+        ],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Ardrian Celtigar",
+        "male": false,
+        "birth": 229,
+        "age": 75,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4
+        ],
+        "culture": 6,
+        "house": 57,
+        "locations": [
+            34
+        ],
+        "titles": [
+            172
+        ],
+        "houseRegion": 0
+    },
+    {
+        "name": "Areo Hotah",
+        "male": false,
+        "birth": 257,
+        "age": 47,
+        "pageRank": 0.05523590333716916,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1,
+            15
+        ],
+        "culture": 25,
+        "house": 153,
+        "locations": [
+            75
+        ],
+        "titles": [
+            15
+        ],
+        "houseRegion": 3
+    },
+    {
+        "name": "Arianne Martell",
+        "male": false,
+        "birth": 276,
+        "age": 28,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1,
+            15
+        ],
+        "culture": 10,
+        "house": 153,
+        "locations": [
+            34,
+            64,
+            75,
+            56
+        ],
+        "titles": [
+            306
+        ],
+        "houseRegion": 3
+    },
+    {
+        "name": "Arthor Karstark",
+        "male": false,
+        "birth": 249,
+        "age": 55,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            1,
+            15
+        ],
+        "culture": 24,
+        "house": 135,
+        "locations": [
+            81
+        ],
+        "titles": [],
+        "houseRegion": 8
+    },
+    {
+        "name": "Arwood Frey",
+        "male": false,
+        "birth": 263,
+        "age": 41,
+        "pageRank": 0,
+        "numRelatives": 0.22727272727272727,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [
+            60,
+            9,
+            6
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Arwyn Frey",
+        "male": false,
+        "birth": 285,
+        "age": 19,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Arya Stark",
+        "male": false,
+        "birth": 289,
+        "age": 15,
+        "pageRank": 0.5834292289988493,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            2,
+            1,
+            15
+        ],
+        "culture": 24,
+        "house": 209,
+        "locations": [
+            78,
+            34,
+            4,
+            31,
+            39,
+            35,
+            81,
+            42,
+            75,
+            15,
+            60,
+            53,
+            56,
+            9,
+            26,
+            61
+        ],
+        "titles": [
+            306
+        ],
+        "houseRegion": 8
+    },
+    {
+        "name": "Asha Greyjoy",
+        "male": false,
+        "birth": 275,
+        "age": 29,
+        "pageRank": 0.0005753739930955121,
+        "numRelatives": 0.045454545454545456,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1,
+            15
+        ],
+        "culture": 16,
+        "house": 112,
+        "locations": [
+            11,
+            81,
+            0,
+            42,
+            75,
+            72,
+            50
+        ],
+        "titles": [
+            306,
+            18
+        ],
+        "houseRegion": 4
+    },
+    {
+        "name": "Aurane Waters",
+        "male": false,
+        "birth": 277,
+        "age": 27,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 6,
+        "house": 236,
+        "locations": [
+            24,
+            34,
+            75,
+            9
+        ],
+        "titles": [
+            77,
+            150,
+            241
+        ],
+        "houseRegion": 0
+    },
+    {
+        "name": "Barristan Selmy",
+        "male": false,
+        "birth": 236,
+        "age": 68,
+        "pageRank": 0.29344073647871116,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            2,
+            1,
+            15
+        ],
+        "culture": 20,
+        "house": 200,
+        "locations": [
+            46,
+            13,
+            24,
+            34,
+            81,
+            75,
+            41,
+            9
+        ],
+        "titles": [
+            321,
+            153,
+            82
+        ],
+        "houseRegion": 13
+    },
+    {
+        "name": "Beck",
+        "male": false,
+        "birth": 299,
+        "age": 5,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            4
+        ],
+        "culture": -1,
+        "house": -1,
+        "locations": [],
+        "titles": [
+            74
+        ],
+        "houseRegion": -1
+    },
+    {
+        "name": "Bella",
+        "male": false,
+        "birth": 283,
+        "age": 21,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": -1,
+        "locations": [],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Ben",
+        "male": false,
+        "birth": 293,
+        "age": 11,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2
+        ],
+        "culture": -1,
+        "house": -1,
+        "locations": [],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Benjen Stark",
+        "male": false,
+        "birth": 267,
+        "age": 37,
+        "pageRank": 0.2042577675489068,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            1
+        ],
+        "culture": 24,
+        "house": 209,
+        "locations": [
+            63,
+            4,
+            17,
+            7,
+            81,
+            75
+        ],
+        "titles": [
+            72
+        ],
+        "houseRegion": 8
+    },
+    {
+        "name": "Beren Tallhart",
+        "male": false,
+        "birth": 289,
+        "age": 15,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 24,
+        "house": 218,
+        "locations": [
+            29,
+            74
+        ],
+        "titles": [],
+        "houseRegion": 8
+    },
+    {
+        "name": "Beth Cassel",
+        "male": false,
+        "birth": 289,
+        "age": 15,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 24,
+        "house": 55,
+        "locations": [
+            12,
+            81
+        ],
+        "titles": [],
+        "houseRegion": 8
+    },
+    {
+        "name": "Boy",
+        "male": false,
+        "birth": 282,
+        "age": 22,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            4,
+            2
+        ],
+        "culture": 31,
+        "house": -1,
+        "locations": [
+            31
+        ],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Bradamar Frey",
+        "male": false,
+        "birth": 289,
+        "age": 15,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [
+            9,
+            6
+        ],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Bran Stark",
+        "male": false,
+        "birth": 290,
+        "age": 14,
+        "pageRank": 0.4672036823935558,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 24,
+        "house": 209,
+        "locations": [
+            78,
+            76,
+            34,
+            44,
+            4,
+            51,
+            81,
+            75,
+            56
+        ],
+        "titles": [
+            304
+        ],
+        "houseRegion": 8
+    },
+    {
+        "name": "Brandon Tallhart",
+        "male": false,
+        "birth": 284,
+        "age": 20,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 24,
+        "house": 218,
+        "locations": [
+            29,
+            74
+        ],
+        "titles": [],
+        "houseRegion": 8
+    },
+    {
+        "name": "Bronn",
+        "male": false,
+        "birth": 264,
+        "age": 40,
+        "pageRank": 0.3020713463751438,
+        "numRelatives": 0.045454545454545456,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1,
+            15
+        ],
+        "culture": -1,
+        "house": 137,
+        "locations": [
+            47,
+            34,
+            15,
+            56
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": 27
+    },
+    {
+        "name": "Bryan Frey",
+        "male": false,
+        "birth": 281,
+        "age": 23,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Bryen",
+        "male": false,
+        "birth": 220,
+        "age": 84,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            4
+        ],
+        "culture": -1,
+        "house": 23,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 19
+    },
+    {
+        "name": "Brynden Tully",
+        "male": false,
+        "birth": 243,
+        "age": 61,
+        "pageRank": 0.13636363636363635,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 31,
+        "house": 225,
+        "locations": [
+            78,
+            42,
+            3,
+            56,
+            9,
+            6
+        ],
+        "titles": [
+            321,
+            343,
+            110,
+            48
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Cersei Frey",
+        "male": false,
+        "birth": 292,
+        "age": 12,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [
+            9,
+            6
+        ],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Cersei Lannister",
+        "male": false,
+        "birth": 266,
+        "age": 38,
+        "pageRank": 0.7266973532796318,
+        "numRelatives": 0.18181818181818182,
+        "allegiances": [],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            2,
+            1,
+            15
+        ],
+        "culture": 41,
+        "house": 137,
+        "locations": [
+            24,
+            34,
+            81,
+            75,
+            56,
+            9
+        ],
+        "titles": [
+            149,
+            312,
+            308,
+            119,
+            314
+        ],
+        "houseRegion": 27
+    },
+    {
+        "name": "Clement",
+        "male": false,
+        "birth": 251,
+        "age": 53,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2
+        ],
+        "culture": -1,
+        "house": 12,
+        "locations": [
+            60,
+            53
+        ],
+        "titles": [
+            10
+        ],
+        "houseRegion": -1
+    },
+    {
+        "name": "Clydas",
+        "male": false,
+        "birth": 240,
+        "age": 64,
+        "pageRank": 0.05753739930955121,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 260,
+        "locations": [
+            4,
+            43,
+            11,
+            42,
+            50
+        ],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Colmar Frey",
+        "male": false,
+        "birth": 288,
+        "age": 16,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Cregan Karstark",
+        "male": false,
+        "birth": 249,
+        "age": 55,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            1
+        ],
+        "culture": 24,
+        "house": 135,
+        "locations": [
+            4,
+            33,
+            75,
+            41
+        ],
+        "titles": [],
+        "houseRegion": 8
+    },
+    {
+        "name": "Creighton Longbough",
+        "male": false,
+        "birth": 240,
+        "age": 64,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2
+        ],
+        "culture": -1,
+        "house": -1,
+        "locations": [
+            13
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": -1
+    },
+    {
+        "name": "Cynthea Frey",
+        "male": false,
+        "birth": 290,
+        "age": 14,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [
+            9,
+            6
+        ],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Daemon Sand",
+        "male": false,
+        "birth": 275,
+        "age": 29,
+        "pageRank": 0.012658227848101266,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            4,
+            2,
+            1,
+            15
+        ],
+        "culture": 10,
+        "house": 18,
+        "locations": [
+            34,
+            75
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": 3
+    },
+    {
+        "name": "Daenerys Targaryen",
+        "male": false,
+        "birth": 284,
+        "age": 20,
+        "pageRank": 0.9062140391254315,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [],
+        "books": [],
+        "culture": 13,
+        "house": 219,
+        "locations": [
+            46,
+            34,
+            9
+        ],
+        "titles": [],
+        "houseRegion": 2
+    },
+    {
+        "name": "Damion Lannister",
+        "male": false,
+        "birth": 257,
+        "age": 47,
+        "pageRank": 0,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [],
+        "books": [
+            16,
+            4,
+            2,
+            1
+        ],
+        "culture": 41,
+        "house": 137,
+        "locations": [
+            6
+        ],
+        "titles": [
+            321,
+            39
+        ],
+        "houseRegion": 27
+    },
+    {
+        "name": "Damon Lannister (son of Jason)",
+        "male": false,
+        "birth": 244,
+        "age": 60,
+        "pageRank": 0,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [],
+        "books": [
+            16
+        ],
+        "culture": 41,
+        "house": 137,
+        "locations": [
+            6
+        ],
+        "titles": [],
+        "houseRegion": 27
+    },
+    {
+        "name": "Damon Vypren",
+        "male": false,
+        "birth": 284,
+        "age": 20,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": 31,
+        "house": 239,
+        "locations": [
+            73
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Danwell Frey",
+        "male": false,
+        "birth": 252,
+        "age": 52,
+        "pageRank": 0,
+        "numRelatives": 0.045454545454545456,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [
+            34,
+            56,
+            9,
+            6
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Daven Lannister",
+        "male": false,
+        "birth": 273,
+        "age": 31,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 41,
+        "house": 137,
+        "locations": [
+            47,
+            56,
+            6
+        ],
+        "titles": [
+            321,
+            345
+        ],
+        "houseRegion": 27
+    },
+    {
+        "name": "Davos Seaworth",
+        "male": false,
+        "birth": 260,
+        "age": 44,
+        "pageRank": 0.29516685845799767,
+        "numRelatives": 0.36363636363636365,
+        "allegiances": [],
+        "books": [
+            16,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 42,
+        "house": 199,
+        "locations": [
+            78,
+            66,
+            24,
+            34,
+            4,
+            81,
+            21,
+            50,
+            41
+        ],
+        "titles": [
+            321,
+            236,
+            2,
+            81
+        ],
+        "houseRegion": 18
+    },
+    {
+        "name": "Della Frey",
+        "male": false,
+        "birth": 296,
+        "age": 8,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Delonne Allyrion",
+        "male": false,
+        "birth": 250,
+        "age": 54,
+        "pageRank": 0,
+        "numRelatives": 0.045454545454545456,
+        "allegiances": [],
+        "books": [
+            4,
+            2,
+            1
+        ],
+        "culture": 9,
+        "house": 18,
+        "locations": [],
+        "titles": [
+            123
+        ],
+        "houseRegion": 3
+    },
+    {
+        "name": "Denyo Terys",
+        "male": false,
+        "birth": 287,
+        "age": 17,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2
+        ],
+        "culture": 4,
+        "house": -1,
+        "locations": [
+            60
+        ],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Denys Mallister",
+        "male": false,
+        "birth": 245,
+        "age": 59,
+        "pageRank": 0.07479861910241657,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 31,
+        "house": 148,
+        "locations": [
+            63,
+            4,
+            7,
+            43,
+            75,
+            50,
+            62
+        ],
+        "titles": [
+            321,
+            62
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Desmond Grell",
+        "male": false,
+        "birth": 237,
+        "age": 67,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 31,
+        "house": 111,
+        "locations": [
+            41,
+            73,
+            56
+        ],
+        "titles": [
+            321,
+            292,
+            47
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Devan Seaworth",
+        "male": false,
+        "birth": 287,
+        "age": 17,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 199,
+        "locations": [
+            4
+        ],
+        "titles": [],
+        "houseRegion": 18
+    },
+    {
+        "name": "Dickon Frey",
+        "male": false,
+        "birth": 294,
+        "age": 10,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Dickon Tarly",
+        "male": false,
+        "birth": 287,
+        "age": 17,
+        "pageRank": 0.05868814729574223,
+        "numRelatives": 0.045454545454545456,
+        "allegiances": [],
+        "books": [
+            3,
+            2,
+            1
+        ],
+        "culture": 29,
+        "house": 220,
+        "locations": [
+            41
+        ],
+        "titles": [],
+        "houseRegion": 9
+    },
+    {
+        "name": "Donel Greyjoy",
+        "male": false,
+        "birth": 255,
+        "age": 49,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2
+        ],
+        "culture": 16,
+        "house": 112,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 4
+    },
+    {
+        "name": "Donnel Haigh",
+        "male": false,
+        "birth": 255,
+        "age": 49,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": 31,
+        "house": 114,
+        "locations": [
+            60
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Donnel Waynwood",
+        "male": false,
+        "birth": 277,
+        "age": 27,
+        "pageRank": 0.009781357882623706,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 39,
+        "house": 242,
+        "locations": [
+            32,
+            3,
+            15
+        ],
+        "titles": [
+            321,
+            109
+        ],
+        "houseRegion": 19
+    },
+    {
+        "name": "Doran Martell",
+        "male": false,
+        "birth": 247,
+        "age": 57,
+        "pageRank": 0.14211737629459148,
+        "numRelatives": 0.18181818181818182,
+        "allegiances": [],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            2,
+            1,
+            15
+        ],
+        "culture": 10,
+        "house": 167,
+        "locations": [
+            34,
+            75,
+            9
+        ],
+        "titles": [
+            299,
+            220
+        ],
+        "houseRegion": -1
+    },
+    {
+        "name": "Dorea Sand",
+        "male": false,
+        "birth": 291,
+        "age": 13,
+        "pageRank": 0.025891829689298044,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            4,
+            2,
+            1,
+            15
+        ],
+        "culture": 10,
+        "house": 153,
+        "locations": [
+            75
+        ],
+        "titles": [],
+        "houseRegion": 3
+    },
+    {
+        "name": "Dunstan Drumm",
+        "male": false,
+        "birth": 212,
+        "age": 92,
+        "pageRank": 0,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 16,
+        "house": 83,
+        "locations": [
+            40,
+            50
+        ],
+        "titles": [
+            204,
+            34
+        ],
+        "houseRegion": 4
+    },
+    {
+        "name": "Duram Bar Emmon",
+        "male": false,
+        "birth": 284,
+        "age": 20,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 24,
+        "locations": [
+            65
+        ],
+        "titles": [
+            211
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Eddara Tallhart",
+        "male": false,
+        "birth": 289,
+        "age": 15,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 24,
+        "house": 218,
+        "locations": [
+            29,
+            74
+        ],
+        "titles": [
+            144
+        ],
+        "houseRegion": 8
+    },
+    {
+        "name": "Edmure Tully",
+        "male": false,
+        "birth": 267,
+        "age": 37,
+        "pageRank": 0.1668584579976985,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 31,
+        "house": 225,
+        "locations": [
+            34,
+            1,
+            42,
+            75,
+            15,
+            62,
+            56
+        ],
+        "titles": [
+            321,
+            252,
+            208
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Edric Dayne",
+        "male": false,
+        "birth": 287,
+        "age": 17,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 10,
+        "house": 78,
+        "locations": [
+            34
+        ],
+        "titles": [
+            213
+        ],
+        "houseRegion": 3
+    },
+    {
+        "name": "Edric Storm",
+        "male": false,
+        "birth": 287,
+        "age": 17,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 25,
+        "locations": [
+            34,
+            50
+        ],
+        "titles": [],
+        "houseRegion": 13
+    },
+    {
+        "name": "Edwyn Frey",
+        "male": false,
+        "birth": 259,
+        "age": 45,
+        "pageRank": 0,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": 31,
+        "house": 98,
+        "locations": [
+            46,
+            47,
+            81,
+            62,
+            16,
+            56,
+            6
+        ],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Elder Brother (Quiet Isle)",
+        "male": false,
+        "birth": 255,
+        "age": 49,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2
+        ],
+        "culture": -1,
+        "house": 12,
+        "locations": [
+            60,
+            53
+        ],
+        "titles": [
+            70,
+            321
+        ],
+        "houseRegion": -1
+    },
+    {
+        "name": "Eldon Estermont",
+        "male": false,
+        "birth": 228,
+        "age": 76,
+        "pageRank": 0,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 34,
+        "house": 86,
+        "locations": [],
+        "titles": [
+            321,
+            186
+        ],
+        "houseRegion": 13
+    },
+    {
+        "name": "Eleanor Mooton",
+        "male": false,
+        "birth": 286,
+        "age": 18,
+        "pageRank": 0,
+        "numRelatives": 0.045454545454545456,
+        "allegiances": [],
+        "books": [
+            2,
+            1
+        ],
+        "culture": 31,
+        "house": 158,
+        "locations": [
+            13,
+            41
+        ],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Eleyna Westerling",
+        "male": false,
+        "birth": 287,
+        "age": 17,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            4,
+            2
+        ],
+        "culture": 41,
+        "house": 244,
+        "locations": [
+            73,
+            56
+        ],
+        "titles": [],
+        "houseRegion": 27
+    },
+    {
+        "name": "Elia Sand",
+        "male": false,
+        "birth": 285,
+        "age": 19,
+        "pageRank": 0.0333716915995397,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            4,
+            2,
+            1,
+            15
+        ],
+        "culture": 10,
+        "house": 153,
+        "locations": [
+            34,
+            75
+        ],
+        "titles": [],
+        "houseRegion": 3
+    },
+    {
+        "name": "Elinor Tyrell",
+        "male": false,
+        "birth": 286,
+        "age": 18,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 227,
+        "locations": [
+            34
+        ],
+        "titles": [],
+        "houseRegion": 9
+    },
+    {
+        "name": "Elmar Frey",
+        "male": false,
+        "birth": 290,
+        "age": 14,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 31,
+        "house": 98,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Elwood Meadows",
+        "male": false,
+        "birth": 278,
+        "age": 26,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 30,
+        "house": 155,
+        "locations": [],
+        "titles": [
+            184,
+            50,
+            318
+        ],
+        "houseRegion": 9
+    },
+    {
+        "name": "Elyana Vypren",
+        "male": false,
+        "birth": 264,
+        "age": 40,
+        "pageRank": 0,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 239,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Emberlei Frey",
+        "male": false,
+        "birth": 296,
+        "age": 8,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Emma",
+        "male": false,
+        "birth": 260,
+        "age": 44,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2
+        ],
+        "culture": -1,
+        "house": -1,
+        "locations": [],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Emmon Frey",
+        "male": false,
+        "birth": 237,
+        "age": 67,
+        "pageRank": 0,
+        "numRelatives": 0.22727272727272727,
+        "allegiances": [],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [
+            34,
+            56,
+            9,
+            6
+        ],
+        "titles": [
+            207
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Erena Glover",
+        "male": false,
+        "birth": 297,
+        "age": 7,
+        "pageRank": 0.014384349827387802,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 24,
+        "house": 102,
+        "locations": [
+            11,
+            75,
+            72
+        ],
+        "titles": [],
+        "houseRegion": 8
+    },
+    {
+        "name": "Erik Ironmaker",
+        "male": false,
+        "birth": 211,
+        "age": 93,
+        "pageRank": 0,
+        "numRelatives": 0.045454545454545456,
+        "allegiances": [],
+        "books": [
+            2,
+            1
+        ],
+        "culture": 16,
+        "house": 133,
+        "locations": [
+            50
+        ],
+        "titles": [
+            256,
+            46
+        ],
+        "houseRegion": 4
+    },
+    {
+        "name": "Ermesande Hayford",
+        "male": false,
+        "birth": 298,
+        "age": 6,
+        "pageRank": 0,
+        "numRelatives": 0.045454545454545456,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 6,
+        "house": 123,
+        "locations": [
+            24,
+            34,
+            56
+        ],
+        "titles": [
+            126
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Euron Greyjoy",
+        "male": false,
+        "birth": 256,
+        "age": 48,
+        "pageRank": 0.22209436133486765,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [],
+        "books": [],
+        "culture": 16,
+        "house": 112,
+        "locations": [
+            50
+        ],
+        "titles": [],
+        "houseRegion": 4
+    },
+    {
+        "name": "Falia Flowers",
+        "male": false,
+        "birth": 281,
+        "age": 23,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2,
+            1,
+            15
+        ],
+        "culture": -1,
+        "house": 125,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 17
+    },
+    {
+        "name": "Flement Brax",
+        "male": false,
+        "birth": 277,
+        "age": 27,
+        "pageRank": 0,
+        "numRelatives": 0.18181818181818182,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 41,
+        "house": 43,
+        "locations": [
+            24,
+            34,
+            56,
+            6
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": 27
+    },
+    {
+        "name": "Galazza Galare",
+        "male": false,
+        "birth": 217,
+        "age": 87,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            1
+        ],
+        "culture": 15,
+        "house": 15,
+        "locations": [],
+        "titles": [
+            80
+        ],
+        "houseRegion": -1
+    },
+    {
+        "name": "Garlan Tyrell",
+        "male": false,
+        "birth": 277,
+        "age": 27,
+        "pageRank": 0.00805523590333717,
+        "numRelatives": 0.045454545454545456,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 30,
+        "house": 228,
+        "locations": [
+            34,
+            75
+        ],
+        "titles": [
+            321,
+            167
+        ],
+        "houseRegion": -1
+    },
+    {
+        "name": "Gawen Glover",
+        "male": false,
+        "birth": 295,
+        "age": 9,
+        "pageRank": 0.014959723820483314,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 24,
+        "house": 102,
+        "locations": [
+            11,
+            75,
+            72
+        ],
+        "titles": [],
+        "houseRegion": 8
+    },
+    {
+        "name": "Gendry",
+        "male": false,
+        "birth": 284,
+        "age": 20,
+        "pageRank": 0.19850402761795166,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 5,
+        "locations": [
+            34,
+            56
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": -1
+    },
+    {
+        "name": "Genna Lannister",
+        "male": false,
+        "birth": 245,
+        "age": 59,
+        "pageRank": 0,
+        "numRelatives": 0.22727272727272727,
+        "allegiances": [],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 41,
+        "house": 137,
+        "locations": [
+            24,
+            56,
+            9,
+            6
+        ],
+        "titles": [
+            113,
+            133
+        ],
+        "houseRegion": 27
+    },
+    {
+        "name": "Gerold Dayne",
+        "male": false,
+        "birth": 270,
+        "age": 34,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2,
+            1,
+            15
+        ],
+        "culture": 8,
+        "house": 79,
+        "locations": [
+            64,
+            75
+        ],
+        "titles": [
+            321,
+            107
+        ],
+        "houseRegion": 3
+    },
+    {
+        "name": "Gerris Drinkwater",
+        "male": false,
+        "birth": 275,
+        "age": 29,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            1
+        ],
+        "culture": 10,
+        "house": 82,
+        "locations": [],
+        "titles": [
+            321
+        ],
+        "houseRegion": 3
+    },
+    {
+        "name": "Gilly",
+        "male": false,
+        "birth": 282,
+        "age": 22,
+        "pageRank": 0.17376294591484465,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 14,
+        "house": -1,
+        "locations": [
+            63,
+            44,
+            10,
+            52,
+            4,
+            17,
+            7,
+            75
+        ],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Gilwood Hunter",
+        "male": false,
+        "birth": 250,
+        "age": 54,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 131,
+        "locations": [
+            38,
+            15
+        ],
+        "titles": [
+            321,
+            201
+        ],
+        "houseRegion": 19
+    },
+    {
+        "name": "Gormond Goodbrother",
+        "male": false,
+        "birth": 282,
+        "age": 22,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2
+        ],
+        "culture": 16,
+        "house": 104,
+        "locations": [
+            22
+        ],
+        "titles": [],
+        "houseRegion": 4
+    },
+    {
+        "name": "Gran Goodbrother",
+        "male": false,
+        "birth": 282,
+        "age": 22,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2
+        ],
+        "culture": 16,
+        "house": 104,
+        "locations": [
+            22
+        ],
+        "titles": [],
+        "houseRegion": 4
+    },
+    {
+        "name": "Grenn",
+        "male": false,
+        "birth": 281,
+        "age": 23,
+        "pageRank": 0.14039125431530494,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 42,
+        "house": 260,
+        "locations": [
+            34,
+            4,
+            17,
+            7,
+            43
+        ],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Greydon Goodbrother",
+        "male": false,
+        "birth": 282,
+        "age": 22,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2
+        ],
+        "culture": 16,
+        "house": 104,
+        "locations": [
+            22
+        ],
+        "titles": [],
+        "houseRegion": 4
+    },
+    {
+        "name": "Gulian Swann",
+        "male": false,
+        "birth": 259,
+        "age": 45,
+        "pageRank": 0,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [],
+        "books": [
+            0,
+            4
+        ],
+        "culture": 20,
+        "house": 216,
+        "locations": [],
+        "titles": [
+            216
+        ],
+        "houseRegion": 13
+    },
+    {
+        "name": "Gunthor Hightower",
+        "male": false,
+        "birth": 271,
+        "age": 33,
+        "pageRank": 0,
+        "numRelatives": 0.045454545454545456,
+        "allegiances": [],
+        "books": [
+            2
+        ],
+        "culture": 30,
+        "house": 126,
+        "locations": [],
+        "titles": [
+            321
+        ],
+        "houseRegion": 9
+    },
+    {
+        "name": "Gwin Goodbrother",
+        "male": false,
+        "birth": 282,
+        "age": 22,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2
+        ],
+        "culture": 16,
+        "house": 104,
+        "locations": [
+            22
+        ],
+        "titles": [],
+        "houseRegion": 4
+    },
+    {
+        "name": "Gysella Goodbrother",
+        "male": false,
+        "birth": 282,
+        "age": 22,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2
+        ],
+        "culture": 16,
+        "house": 104,
+        "locations": [
+            22
+        ],
+        "titles": [],
+        "houseRegion": 4
+    },
+    {
+        "name": "Halder",
+        "male": false,
+        "birth": 281,
+        "age": 23,
+        "pageRank": 0.05868814729574223,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 260,
+        "locations": [
+            63,
+            4,
+            43,
+            75
+        ],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Harlon Greyjoy",
+        "male": false,
+        "birth": 253,
+        "age": 51,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2,
+            15
+        ],
+        "culture": 16,
+        "house": 112,
+        "locations": [
+            50
+        ],
+        "titles": [],
+        "houseRegion": 4
+    },
+    {
+        "name": "Harrold Hardyng",
+        "male": false,
+        "birth": 281,
+        "age": 23,
+        "pageRank": 0,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [],
+        "books": [
+            2,
+            1,
+            15
+        ],
+        "culture": 39,
+        "house": 116,
+        "locations": [
+            32,
+            58,
+            81,
+            75,
+            15,
+            21
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": 19
+    },
+    {
+        "name": "Harwin",
+        "male": false,
+        "birth": 271,
+        "age": 33,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 24,
+        "house": 209,
+        "locations": [
+            81
+        ],
+        "titles": [],
+        "houseRegion": 8
+    },
+    {
+        "name": "Harys Haigh",
+        "male": false,
+        "birth": 254,
+        "age": 50,
+        "pageRank": 0,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": 31,
+        "house": 114,
+        "locations": [
+            60,
+            73
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Hosteen Frey",
+        "male": false,
+        "birth": 249,
+        "age": 55,
+        "pageRank": 0,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [
+            78,
+            34,
+            81,
+            9,
+            6
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Hoster Frey",
+        "male": false,
+        "birth": 287,
+        "age": 17,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Hother Umber",
+        "male": false,
+        "birth": 241,
+        "age": 63,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 24,
+        "house": 231,
+        "locations": [
+            36,
+            12,
+            81,
+            29,
+            42,
+            56
+        ],
+        "titles": [
+            45
+        ],
+        "houseRegion": 8
+    },
+    {
+        "name": "Howland Reed",
+        "male": false,
+        "birth": 260,
+        "age": 44,
+        "pageRank": 0.05293440736478711,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 5,
+        "house": 189,
+        "locations": [
+            20,
+            34,
+            81,
+            42,
+            56
+        ],
+        "titles": [
+            188
+        ],
+        "houseRegion": 8
+    },
+    {
+        "name": "Humfrey Wagstaff",
+        "male": false,
+        "birth": 232,
+        "age": 72,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2
+        ],
+        "culture": 34,
+        "house": 241,
+        "locations": [],
+        "titles": [
+            321,
+            42
+        ],
+        "houseRegion": 13
+    },
+    {
+        "name": "Illifer",
+        "male": false,
+        "birth": 240,
+        "age": 64,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2
+        ],
+        "culture": -1,
+        "house": -1,
+        "locations": [
+            13
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": -1
+    },
+    {
+        "name": "Irri",
+        "male": false,
+        "birth": 283,
+        "age": 21,
+        "pageRank": 0.09263521288837745,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 11,
+        "house": 219,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 2
+    },
+    {
+        "name": "Jaime Frey",
+        "male": false,
+        "birth": 299,
+        "age": 5,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [
+            9,
+            6
+        ],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Jaime Lannister",
+        "male": false,
+        "birth": 266,
+        "age": 38,
+        "pageRank": 0.7744533947065593,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 41,
+        "house": 137,
+        "locations": [
+            78,
+            13,
+            24,
+            34,
+            31,
+            49,
+            81,
+            29,
+            75,
+            41,
+            56,
+            9,
+            6
+        ],
+        "titles": [
+            321,
+            152,
+            339
+        ],
+        "houseRegion": 27
+    },
+    {
+        "name": "Jammos Frey",
+        "male": false,
+        "birth": 266,
+        "age": 38,
+        "pageRank": 0,
+        "numRelatives": 0.18181818181818182,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [],
+        "titles": [
+            321
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Janei Lannister",
+        "male": false,
+        "birth": 296,
+        "age": 8,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 41,
+        "house": 137,
+        "locations": [
+            24,
+            56
+        ],
+        "titles": [],
+        "houseRegion": 27
+    },
+    {
+        "name": "Jeyne Goodbrook",
+        "male": false,
+        "birth": 293,
+        "age": 11,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": 31,
+        "house": 103,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Jeyne Heddle",
+        "male": false,
+        "birth": 281,
+        "age": 23,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2
+        ],
+        "culture": -1,
+        "house": 5,
+        "locations": [
+            8
+        ],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Jeyne Poole",
+        "male": false,
+        "birth": 286,
+        "age": 18,
+        "pageRank": 0.07537399309551208,
+        "numRelatives": 0.045454545454545456,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1,
+            15
+        ],
+        "culture": 24,
+        "house": 181,
+        "locations": [
+            34,
+            4,
+            11,
+            81,
+            0,
+            42
+        ],
+        "titles": [
+            146
+        ],
+        "houseRegion": 8
+    },
+    {
+        "name": "Jeyne Westerling",
+        "male": false,
+        "birth": 283,
+        "age": 21,
+        "pageRank": 0.0023014959723820483,
+        "numRelatives": 0.045454545454545456,
+        "allegiances": [],
+        "books": [
+            4,
+            2,
+            1
+        ],
+        "culture": 41,
+        "house": 244,
+        "locations": [
+            81,
+            62,
+            56
+        ],
+        "titles": [
+            310
+        ],
+        "houseRegion": 27
+    },
+    {
+        "name": "Jhiqui",
+        "male": false,
+        "birth": 284,
+        "age": 20,
+        "pageRank": 0.05983889528193326,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 11,
+        "house": 219,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 2
+    },
+    {
+        "name": "Jhogo",
+        "male": false,
+        "birth": 281,
+        "age": 23,
+        "pageRank": 0.004027617951668585,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 11,
+        "house": 219,
+        "locations": [],
+        "titles": [
+            111,
+            5
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Jojen Reed",
+        "male": false,
+        "birth": 286,
+        "age": 18,
+        "pageRank": 0.10069044879171461,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 5,
+        "house": 189,
+        "locations": [
+            20,
+            76,
+            47,
+            44,
+            51,
+            81,
+            29,
+            75
+        ],
+        "titles": [],
+        "houseRegion": 8
+    },
+    {
+        "name": "Jon Brax",
+        "male": false,
+        "birth": 296,
+        "age": 8,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": 41,
+        "house": 43,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 27
+    },
+    {
+        "name": "Jon Connington",
+        "male": false,
+        "birth": 260,
+        "age": 44,
+        "pageRank": 0.021288837744533946,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            16,
+            4,
+            2,
+            1
+        ],
+        "culture": 33,
+        "house": 68,
+        "locations": [
+            24,
+            34,
+            75,
+            9
+        ],
+        "titles": [
+            189,
+            81,
+            84
+        ],
+        "houseRegion": 13
+    },
+    {
+        "name": "Jon Snow",
+        "male": false,
+        "birth": 283,
+        "age": 21,
+        "pageRank": 1,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 24,
+        "house": 209,
+        "locations": [
+            34,
+            63,
+            19,
+            44,
+            4,
+            37,
+            17,
+            7,
+            79,
+            23,
+            43,
+            51,
+            33,
+            11,
+            12,
+            81,
+            75,
+            50,
+            56
+        ],
+        "titles": [
+            154
+        ],
+        "houseRegion": 8
+    },
+    {
+        "name": "Jonelle Cerwyn",
+        "male": false,
+        "birth": 267,
+        "age": 37,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            4,
+            2,
+            1
+        ],
+        "culture": 24,
+        "house": 58,
+        "locations": [
+            4,
+            11,
+            81,
+            5,
+            0,
+            42
+        ],
+        "titles": [
+            120
+        ],
+        "houseRegion": 8
+    },
+    {
+        "name": "Jonos Frey",
+        "male": false,
+        "birth": 291,
+        "age": 13,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Jorah Mormont",
+        "male": false,
+        "birth": 254,
+        "age": 50,
+        "pageRank": 0.41254315304948214,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1,
+            15
+        ],
+        "culture": 24,
+        "house": 159,
+        "locations": [
+            34,
+            4,
+            7,
+            50
+        ],
+        "titles": [
+            321,
+            161
+        ],
+        "houseRegion": 8
+    },
+    {
+        "name": "Jorelle Mormont",
+        "male": false,
+        "birth": 278,
+        "age": 26,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2,
+            1
+        ],
+        "culture": 24,
+        "house": 159,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 8
+    },
+    {
+        "name": "Josmyn Peckledon",
+        "male": false,
+        "birth": 284,
+        "age": 20,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 176,
+        "locations": [
+            49,
+            56,
+            9
+        ],
+        "titles": [],
+        "houseRegion": 21
+    },
+    {
+        "name": "Joy Hill",
+        "male": false,
+        "birth": 288,
+        "age": 16,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 41,
+        "house": 137,
+        "locations": [
+            24,
+            56
+        ],
+        "titles": [],
+        "houseRegion": 27
+    },
+    {
+        "name": "Joyeuse Erenford",
+        "male": false,
+        "birth": 282,
+        "age": 22,
+        "pageRank": 0.03624856156501726,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 85,
+        "locations": [],
+        "titles": [
+            138
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Kedge Whiteye",
+        "male": false,
+        "birth": 251,
+        "age": 53,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 260,
+        "locations": [
+            4,
+            17,
+            7
+        ],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Kyra Frey",
+        "male": false,
+        "birth": 262,
+        "age": 42,
+        "pageRank": 0,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Lancel Lannister",
+        "male": false,
+        "birth": 282,
+        "age": 22,
+        "pageRank": 0.13060989643268126,
+        "numRelatives": 0.045454545454545456,
+        "allegiances": [],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 41,
+        "house": 138,
+        "locations": [
+            24,
+            34,
+            56,
+            9
+        ],
+        "titles": [
+            321,
+            176
+        ],
+        "houseRegion": -1
+    },
+    {
+        "name": "Lanna (Happy Port)",
+        "male": false,
+        "birth": 285,
+        "age": 19,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2,
+            1
+        ],
+        "culture": 4,
+        "house": 17,
+        "locations": [],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Lanna Lannister",
+        "male": false,
+        "birth": 271,
+        "age": 33,
+        "pageRank": 0,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [],
+        "books": [
+            16,
+            4,
+            2,
+            1
+        ],
+        "culture": 41,
+        "house": 137,
+        "locations": [
+            6
+        ],
+        "titles": [
+            113
+        ],
+        "houseRegion": 27
+    },
+    {
+        "name": "Larence Snow",
+        "male": false,
+        "birth": 286,
+        "age": 18,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": 24,
+        "house": 129,
+        "locations": [
+            11,
+            81,
+            29
+        ],
+        "titles": [],
+        "houseRegion": 8
+    },
+    {
+        "name": "Layna",
+        "male": false,
+        "birth": 279,
+        "age": 25,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0
+        ],
+        "culture": -1,
+        "house": -1,
+        "locations": [],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Leana Frey",
+        "male": false,
+        "birth": 299,
+        "age": 5,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Leathers",
+        "male": false,
+        "birth": 259,
+        "age": 45,
+        "pageRank": 0,
+        "numRelatives": 0.045454545454545456,
+        "allegiances": [],
+        "books": [
+            1
+        ],
+        "culture": 14,
+        "house": 258,
+        "locations": [
+            4,
+            43,
+            81
+        ],
+        "titles": [
+            288
+        ],
+        "houseRegion": -1
+    },
+    {
+        "name": "Lollys Stokeworth",
+        "male": false,
+        "birth": 265,
+        "age": 39,
+        "pageRank": 0.04027617951668585,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 6,
+        "house": 210,
+        "locations": [
+            34,
+            28
+        ],
+        "titles": [
+            135
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Loras Tyrell",
+        "male": false,
+        "birth": 282,
+        "age": 22,
+        "pageRank": 0.23014959723820483,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 29,
+        "house": 227,
+        "locations": [
+            34,
+            1,
+            75,
+            9
+        ],
+        "titles": [
+            321,
+            156
+        ],
+        "houseRegion": 9
+    },
+    {
+        "name": "Lorcas",
+        "male": false,
+        "birth": 241,
+        "age": 63,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2
+        ],
+        "culture": -1,
+        "house": 267,
+        "locations": [],
+        "titles": [
+            0
+        ],
+        "houseRegion": -1
+    },
+    {
+        "name": "Loreza Sand",
+        "male": false,
+        "birth": 293,
+        "age": 11,
+        "pageRank": 0.025891829689298044,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            4,
+            2,
+            1,
+            15
+        ],
+        "culture": 10,
+        "house": 153,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 3
+    },
+    {
+        "name": "Lothar Frey",
+        "male": false,
+        "birth": 264,
+        "age": 40,
+        "pageRank": 0.09551208285385501,
+        "numRelatives": 0.22727272727272727,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 31,
+        "house": 98,
+        "locations": [
+            81,
+            56
+        ],
+        "titles": [
+            326
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Luceon Frey",
+        "male": false,
+        "birth": 249,
+        "age": 55,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 12,
+        "locations": [
+            34
+        ],
+        "titles": [
+            320
+        ],
+        "houseRegion": -1
+    },
+    {
+        "name": "Lucion Lannister",
+        "male": false,
+        "birth": 270,
+        "age": 34,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            16,
+            4,
+            2,
+            1
+        ],
+        "culture": 41,
+        "house": 137,
+        "locations": [
+            6
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": 27
+    },
+    {
+        "name": "Lucos Chyttering",
+        "male": false,
+        "birth": 283,
+        "age": 21,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 60,
+        "locations": [],
+        "titles": [
+            150
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Lyanna Mormont",
+        "male": false,
+        "birth": 290,
+        "age": 14,
+        "pageRank": 0.0661680092059839,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2,
+            1
+        ],
+        "culture": 24,
+        "house": 159,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 8
+    },
+    {
+        "name": "Lynesse Hightower",
+        "male": false,
+        "birth": 272,
+        "age": 32,
+        "pageRank": 0.02474108170310702,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 126,
+        "locations": [
+            81
+        ],
+        "titles": [],
+        "houseRegion": 9
+    },
+    {
+        "name": "Lyonel Corbray",
+        "male": false,
+        "birth": 260,
+        "age": 44,
+        "pageRank": 0,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [],
+        "books": [
+            2,
+            1,
+            15
+        ],
+        "culture": 39,
+        "house": 69,
+        "locations": [
+            25,
+            21
+        ],
+        "titles": [
+            193
+        ],
+        "houseRegion": 24
+    },
+    {
+        "name": "Lyonel Frey",
+        "male": false,
+        "birth": 259,
+        "age": 45,
+        "pageRank": 0,
+        "numRelatives": 0.045454545454545456,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 99,
+        "locations": [
+            56,
+            9,
+            6
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Lyra Mormont",
+        "male": false,
+        "birth": 277,
+        "age": 27,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            2,
+            1
+        ],
+        "culture": 24,
+        "house": 159,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 8
+    },
+    {
+        "name": "Lythene Frey",
+        "male": false,
+        "birth": 251,
+        "age": 53,
+        "pageRank": 0,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [
+            9,
+            6
+        ],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Mace Tyrell",
+        "male": false,
+        "birth": 256,
+        "age": 48,
+        "pageRank": 0.18814729574223246,
+        "numRelatives": 0.22727272727272727,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 30,
+        "house": 227,
+        "locations": [
+            24,
+            34,
+            1,
+            81,
+            42,
+            75,
+            41,
+            9
+        ],
+        "titles": [
+            195,
+            249,
+            67,
+            85,
+            342,
+            283,
+            81
+        ],
+        "houseRegion": 9
+    },
+    {
+        "name": "Maege Mormont",
+        "male": false,
+        "birth": 239,
+        "age": 65,
+        "pageRank": 0.04142692750287687,
+        "numRelatives": 0.22727272727272727,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 24,
+        "house": 159,
+        "locations": [
+            20,
+            47,
+            81,
+            42,
+            73,
+            62,
+            56
+        ],
+        "titles": [
+            115
+        ],
+        "houseRegion": 8
+    },
+    {
+        "name": "Maegelle Frey",
+        "male": false,
+        "birth": 249,
+        "age": 55,
+        "pageRank": 0,
+        "numRelatives": 0.18181818181818182,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Malwyn Frey",
+        "male": false,
+        "birth": 284,
+        "age": 20,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [
+            9,
+            6
+        ],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Marei",
+        "male": false,
+        "birth": 280,
+        "age": 24,
+        "pageRank": 0.02819332566168009,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 6,
+        "locations": [
+            34
+        ],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Margaery Tyrell",
+        "male": false,
+        "birth": 283,
+        "age": 21,
+        "pageRank": 0.38837744533947066,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 29,
+        "house": 227,
+        "locations": [
+            34,
+            1,
+            75,
+            41
+        ],
+        "titles": [
+            311
+        ],
+        "houseRegion": 9
+    },
+    {
+        "name": "Marianne Vance",
+        "male": false,
+        "birth": 262,
+        "age": 42,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": 31,
+        "house": 233,
+        "locations": [],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Marissa Frey",
+        "male": false,
+        "birth": 286,
+        "age": 18,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [
+            9,
+            6
+        ],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Maron Volmark",
+        "male": false,
+        "birth": 283,
+        "age": 21,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            4,
+            2,
+            1
+        ],
+        "culture": 16,
+        "house": 238,
+        "locations": [],
+        "titles": [
+            243,
+            185
+        ],
+        "houseRegion": 4
+    },
+    {
+        "name": "Martyn Lannister",
+        "male": false,
+        "birth": 285,
+        "age": 19,
+        "pageRank": 0.08918296892980437,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 41,
+        "house": 137,
+        "locations": [
+            47,
+            13,
+            24,
+            56,
+            9
+        ],
+        "titles": [],
+        "houseRegion": 27
+    }
+]
