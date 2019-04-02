@@ -6,6 +6,15 @@ To run the code in this repository, Node (at least version 10) is needed. Additi
 
 Please run `npm install` after cloning the repository to install all dependencies or when the dependencies changed after pulling. Afterwards, use Visual Studio Code as your IDE to immediately start working with ESLint and Prettier being directly integrated then.
 
+## Creating the book predictions using its neural network
+
+For creating the book predictions yourself, several steps are needed:
+
+1. Format the data into an intermediate JSON format by running `node index.js` in the `workers/formatter` directory.
+2. Create a zlib-inflated chunk of neural network data by running `node index-v2.js` in the `workers/formatter-neural` directory.
+3. Edit the file `workers/predictors-neural/predictor-neural-v1/predictor.py` to have `if True:` in line 28, then run it using `./predictor.py`.
+4. Change that line back to `if False:`, then run that script again using `./predictor.py`. The final predictions can now be found in `workers/predictors-neural/predictor-neural-v2/output/predictions.json`.
+
 ## Code management
 
 ### Creating new branches
