@@ -7,7 +7,9 @@
         "age": 13,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            184
+        ],
         "books": [
             14
         ],
@@ -25,7 +27,11 @@
         "age": 16,
         "pageRank": 0.0017261219792865361,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            252,
+            233,
+            3
+        ],
         "books": [
             16,
             6,
@@ -50,7 +56,9 @@
         "age": 12,
         "pageRank": 0.01380897583429229,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            39
+        ],
         "books": [
             16,
             14,
@@ -70,7 +78,9 @@
         "age": 50,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -198,7 +208,9 @@
         "age": 2,
         "pageRank": 0.014959723820483314,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            233
+        ],
         "books": [
             16,
             3,
@@ -226,7 +238,9 @@
         "age": 17,
         "pageRank": 0,
         "numRelatives": 0.13636363636363635,
-        "allegiances": [],
+        "allegiances": [
+            233
+        ],
         "books": [
             16,
             6,
@@ -252,7 +266,9 @@
         "age": 1,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            233
+        ],
         "books": [
             16,
             6
@@ -273,7 +289,9 @@
         "age": 0,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            233
+        ],
         "books": [
             16,
             6
@@ -296,7 +314,12 @@
         "age": 69,
         "pageRank": 0.07767548906789414,
         "numRelatives": 0.045454545454545456,
-        "allegiances": [],
+        "allegiances": [
+            49,
+            39,
+            289,
+            15
+        ],
         "books": [
             16,
             14,
@@ -325,7 +348,10 @@
         "age": 23,
         "pageRank": 0.07537399309551208,
         "numRelatives": 0.18181818181818182,
-        "allegiances": [],
+        "allegiances": [
+            26,
+            233
+        ],
         "books": [
             16,
             6,
@@ -349,7 +375,9 @@
         "age": 12,
         "pageRank": 0.013233601841196778,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            39
+        ],
         "books": [
             16,
             14,
@@ -370,7 +398,10 @@
         "age": 20,
         "pageRank": 0.10414269275028769,
         "numRelatives": 0.09090909090909091,
-        "allegiances": [],
+        "allegiances": [
+            233,
+            20
+        ],
         "books": [
             16,
             6,
@@ -400,7 +431,9 @@
         "age": 60,
         "pageRank": 0,
         "numRelatives": 0.13636363636363635,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             3,
             0,
@@ -454,7 +487,10 @@
         "age": 41,
         "pageRank": 0.11565017261219793,
         "numRelatives": 0.09090909090909091,
-        "allegiances": [],
+        "allegiances": [
+            233,
+            289
+        ],
         "books": [
             16,
             9,
@@ -527,7 +563,11 @@
         "age": 45,
         "pageRank": 0.10299194476409666,
         "numRelatives": 0.22727272727272727,
-        "allegiances": [],
+        "allegiances": [
+            132,
+            233,
+            20
+        ],
         "books": [
             16,
             6,
@@ -559,7 +599,10 @@
         "age": 16,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            70,
+            39
+        ],
         "books": [
             16,
             10
@@ -581,7 +624,11 @@
         "age": 56,
         "pageRank": 0,
         "numRelatives": 0.22727272727272727,
-        "allegiances": [],
+        "allegiances": [
+            252,
+            233,
+            3
+        ],
         "books": [
             16,
             6,
@@ -620,7 +667,9 @@
         "age": 21,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            184
+        ],
         "books": [
             14
         ],
@@ -640,7 +689,9 @@
         "age": 64,
         "pageRank": 0.08918296892980437,
         "numRelatives": 0.6363636363636364,
-        "allegiances": [],
+        "allegiances": [
+            233
+        ],
         "books": [
             16,
             6,
@@ -685,7 +736,10 @@
         "age": 16,
         "pageRank": 0,
         "numRelatives": 0.2727272727272727,
-        "allegiances": [],
+        "allegiances": [
+            42,
+            105
+        ],
         "books": [
             0,
             4,
@@ -711,7 +765,10 @@
         "age": 19,
         "pageRank": 0,
         "numRelatives": 0.36363636363636365,
-        "allegiances": [],
+        "allegiances": [
+            79,
+            105
+        ],
         "books": [
             8,
             0,
@@ -736,7 +793,9 @@
         "age": 36,
         "pageRank": 0,
         "numRelatives": 0.13636363636363635,
-        "allegiances": [],
+        "allegiances": [
+            50
+        ],
         "books": [
             3,
             0,
@@ -786,7 +845,10 @@
         "age": 23,
         "pageRank": 0.06329113924050633,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            85,
+            274
+        ],
         "books": [
             16,
             3,
@@ -816,7 +878,9 @@
         "age": 23,
         "pageRank": 0.015535097813578827,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            85
+        ],
         "books": [
             3,
             0,
@@ -839,7 +903,9 @@
         "age": 0,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            233
+        ],
         "books": [
             16,
             12,
@@ -882,7 +948,9 @@
         "age": 39,
         "pageRank": 0.08285385500575373,
         "numRelatives": 0.13636363636363635,
-        "allegiances": [],
+        "allegiances": [
+            233
+        ],
         "books": [
             16,
             9,
@@ -961,7 +1029,9 @@
         "age": 70,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            222
+        ],
         "books": [
             16,
             0
@@ -985,7 +1055,9 @@
         "age": 20,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            231
+        ],
         "books": [
             0,
             4,
@@ -1010,7 +1082,9 @@
         "age": 28,
         "pageRank": 0,
         "numRelatives": 0.13636363636363635,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -1035,7 +1109,10 @@
         "age": 23,
         "pageRank": 0.09896432681242807,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            88,
+            6
+        ],
         "books": [
             3,
             0,
@@ -1068,7 +1145,9 @@
         "age": 72,
         "pageRank": 0,
         "numRelatives": 0.36363636363636365,
-        "allegiances": [],
+        "allegiances": [
+            222
+        ],
         "books": [
             16,
             10,
@@ -1093,7 +1172,9 @@
         "age": 22,
         "pageRank": 0.007479861910241657,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            49
+        ],
         "books": [
             16,
             4,
@@ -1119,7 +1200,10 @@
         "age": 17,
         "pageRank": 0,
         "numRelatives": 0.2727272727272727,
-        "allegiances": [],
+        "allegiances": [
+            204,
+            105
+        ],
         "books": [
             0,
             4,
@@ -1142,7 +1226,9 @@
         "age": 20,
         "pageRank": 0.024165707710011506,
         "numRelatives": 0.045454545454545456,
-        "allegiances": [],
+        "allegiances": [
+            222
+        ],
         "books": [
             16,
             3,
@@ -1169,7 +1255,9 @@
         "age": 72,
         "pageRank": 0,
         "numRelatives": 0.22727272727272727,
-        "allegiances": [],
+        "allegiances": [
+            222
+        ],
         "books": [
             16,
             0
@@ -1193,7 +1281,11 @@
         "age": 23,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            61,
+            286,
+            32
+        ],
         "books": [
             3,
             0,
@@ -1219,7 +1311,10 @@
         "age": 77,
         "pageRank": 0.14556962025316456,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            233,
+            279
+        ],
         "books": [
             16,
             14,
@@ -1250,7 +1345,11 @@
         "age": 35,
         "pageRank": 0.44476409666283084,
         "numRelatives": 0.2727272727272727,
-        "allegiances": [],
+        "allegiances": [
+            240,
+            222,
+            6
+        ],
         "books": [
             3,
             0,
@@ -1285,7 +1384,10 @@
         "age": 41,
         "pageRank": 0.0011507479861910242,
         "numRelatives": 0.13636363636363635,
-        "allegiances": [],
+        "allegiances": [
+            105,
+            144
+        ],
         "books": [
             3,
             0,
@@ -1317,7 +1419,9 @@
         "age": 15,
         "pageRank": 0.02531645569620253,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            65
+        ],
         "books": [
             0,
             4,
@@ -1344,7 +1448,11 @@
         "age": 79,
         "pageRank": 0.04142692750287687,
         "numRelatives": 0.22727272727272727,
-        "allegiances": [],
+        "allegiances": [
+            252,
+            3,
+            20
+        ],
         "books": [
             16,
             6,
@@ -1385,7 +1493,11 @@
         "age": 80,
         "pageRank": 0.03164556962025317,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            8,
+            31,
+            32
+        ],
         "books": [
             0,
             4,
@@ -1409,7 +1521,12 @@
         "age": 48,
         "pageRank": 0.03682393555811277,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            72,
+            287,
+            274,
+            20
+        ],
         "books": [
             16,
             6,
@@ -1443,7 +1560,10 @@
         "age": 13,
         "pageRank": 0,
         "numRelatives": 0.13636363636363635,
-        "allegiances": [],
+        "allegiances": [
+            229,
+            105
+        ],
         "books": [
             0,
             4,
@@ -1464,7 +1584,9 @@
         "age": 47,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            168
+        ],
         "books": [
             3,
             0,
@@ -1488,7 +1610,10 @@
         "age": 18,
         "pageRank": 0,
         "numRelatives": 0.09090909090909091,
-        "allegiances": [],
+        "allegiances": [
+            233,
+            26
+        ],
         "books": [
             16,
             6,
@@ -1513,7 +1638,9 @@
         "age": 26,
         "pageRank": 0.006329113924050633,
         "numRelatives": 0.4090909090909091,
-        "allegiances": [],
+        "allegiances": [
+            39
+        ],
         "books": [
             16,
             14,
@@ -1543,7 +1670,9 @@
         "age": 23,
         "pageRank": 0.01726121979286536,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            39
+        ],
         "books": [
             16,
             10
@@ -1568,7 +1697,10 @@
         "age": 49,
         "pageRank": 0.14039125431530494,
         "numRelatives": 0.36363636363636365,
-        "allegiances": [],
+        "allegiances": [
+            233,
+            3
+        ],
         "books": [
             16,
             6,
@@ -1640,7 +1772,10 @@
         "age": 16,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            233,
+            20
+        ],
         "books": [
             16,
             12,
@@ -1668,7 +1803,9 @@
         "age": 31,
         "pageRank": 0,
         "numRelatives": 0.09090909090909091,
-        "allegiances": [],
+        "allegiances": [
+            233
+        ],
         "books": [
             16,
             9,
@@ -1696,7 +1833,9 @@
         "age": 45,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            279
+        ],
         "books": [
             0,
             4,
@@ -1721,7 +1860,9 @@
         "age": 31,
         "pageRank": 0,
         "numRelatives": 0.13636363636363635,
-        "allegiances": [],
+        "allegiances": [
+            144
+        ],
         "books": [
             16,
             9,
@@ -1769,7 +1910,9 @@
         "age": 24,
         "pageRank": 0.02991944764096663,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            45
+        ],
         "books": [
             0,
             2,
@@ -1793,7 +1936,10 @@
         "age": 48,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            31,
+            279
+        ],
         "books": [
             3,
             0,
@@ -1819,7 +1965,11 @@
         "age": 50,
         "pageRank": 0,
         "numRelatives": 0.13636363636363635,
-        "allegiances": [],
+        "allegiances": [
+            158,
+            135,
+            45
+        ],
         "books": [
             0,
             1
@@ -1845,7 +1995,9 @@
         "age": 39,
         "pageRank": 0.040851553509781355,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            134
+        ],
         "books": [
             3,
             0,
@@ -1872,7 +2024,9 @@
         "age": 20,
         "pageRank": 0.10759493670886076,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            233
+        ],
         "books": [
             3,
             0,
@@ -1919,7 +2073,9 @@
         "age": 39,
         "pageRank": 0.07882623705408516,
         "numRelatives": 0.045454545454545456,
-        "allegiances": [],
+        "allegiances": [
+            233
+        ],
         "books": [
             16,
             4,
@@ -1945,7 +2101,9 @@
         "age": 36,
         "pageRank": 0.6513233601841196,
         "numRelatives": 0.3181818181818182,
-        "allegiances": [],
+        "allegiances": [
+            222
+        ],
         "books": [
             16,
             3,
@@ -1993,7 +2151,9 @@
         "age": 36,
         "pageRank": 0,
         "numRelatives": 0.09090909090909091,
-        "allegiances": [],
+        "allegiances": [
+            222
+        ],
         "books": [
             16,
             0
@@ -2017,7 +2177,12 @@
         "age": 70,
         "pageRank": 0.07825086306098965,
         "numRelatives": 0.45454545454545453,
-        "allegiances": [],
+        "allegiances": [
+            233,
+            192,
+            190,
+            159
+        ],
         "books": [
             16,
             4,
@@ -2042,7 +2207,10 @@
         "age": 27,
         "pageRank": 0.1565017261219793,
         "numRelatives": 0.13636363636363635,
-        "allegiances": [],
+        "allegiances": [
+            162,
+            233
+        ],
         "books": [
             16,
             3,
@@ -2074,7 +2242,9 @@
         "age": 80,
         "pageRank": 0.006329113924050633,
         "numRelatives": 0.13636363636363635,
-        "allegiances": [],
+        "allegiances": [
+            137
+        ],
         "books": [
             3,
             0,
@@ -2101,7 +2271,10 @@
         "age": 35,
         "pageRank": 0.01668584579976985,
         "numRelatives": 0.045454545454545456,
-        "allegiances": [],
+        "allegiances": [
+            223,
+            58
+        ],
         "books": [
             0,
             4,
@@ -2127,7 +2300,9 @@
         "age": 57,
         "pageRank": 0.07537399309551208,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            280
+        ],
         "books": [
             3,
             0
@@ -2149,7 +2324,9 @@
         "age": 36,
         "pageRank": 0,
         "numRelatives": 0.045454545454545456,
-        "allegiances": [],
+        "allegiances": [
+            144
+        ],
         "books": [
             16,
             3,
@@ -2175,7 +2352,9 @@
         "age": 38,
         "pageRank": 0.012082853855005753,
         "numRelatives": 0.2727272727272727,
-        "allegiances": [],
+        "allegiances": [
+            144
+        ],
         "books": [
             16,
             14,
@@ -2200,7 +2379,10 @@
         "age": 35,
         "pageRank": 0.3291139240506329,
         "numRelatives": 0.045454545454545456,
-        "allegiances": [],
+        "allegiances": [
+            68,
+            144
+        ],
         "books": [
             3,
             0,
@@ -2234,7 +2416,10 @@
         "age": 21,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            169,
+            286
+        ],
         "books": [
             0,
             1
@@ -2258,7 +2443,11 @@
         "age": 42,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            132,
+            9,
+            20
+        ],
         "books": [
             6,
             12,
@@ -2282,7 +2471,12 @@
         "age": 30,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            226,
+            9,
+            233,
+            3
+        ],
         "books": [
             16,
             6,
@@ -2326,7 +2520,10 @@
         "age": 21,
         "pageRank": 0.08630609896432681,
         "numRelatives": 0.18181818181818182,
-        "allegiances": [],
+        "allegiances": [
+            233,
+            20
+        ],
         "books": [
             16,
             6,
@@ -2375,7 +2572,9 @@
         "age": 61,
         "pageRank": 0.119102416570771,
         "numRelatives": 0.2727272727272727,
-        "allegiances": [],
+        "allegiances": [
+            240
+        ],
         "books": [
             16,
             3,
@@ -2408,7 +2607,10 @@
         "age": 10,
         "pageRank": 0.07652474108170311,
         "numRelatives": 0.045454545454545456,
-        "allegiances": [],
+        "allegiances": [
+            233,
+            20
+        ],
         "books": [
             16,
             6,
@@ -2462,7 +2664,10 @@
         "age": 6,
         "pageRank": 0.07767548906789414,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            233,
+            20
+        ],
         "books": [
             16,
             6,
@@ -2509,7 +2714,11 @@
         "age": 22,
         "pageRank": 0.11104718066743383,
         "numRelatives": 0.18181818181818182,
-        "allegiances": [],
+        "allegiances": [
+            9,
+            218,
+            279
+        ],
         "books": [
             3,
             0,
@@ -2543,7 +2752,9 @@
         "age": 52,
         "pageRank": 0,
         "numRelatives": 0.13636363636363635,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             3,
             0,
@@ -2574,7 +2785,10 @@
         "age": 41,
         "pageRank": 0.006904487917146145,
         "numRelatives": 0.2727272727272727,
-        "allegiances": [],
+        "allegiances": [
+            144,
+            20
+        ],
         "books": [
             16,
             7,
@@ -2600,7 +2814,10 @@
         "age": 69,
         "pageRank": 0.24568469505178367,
         "numRelatives": 0.045454545454545456,
-        "allegiances": [],
+        "allegiances": [
+            168,
+            279
+        ],
         "books": [
             3,
             0,
@@ -2630,7 +2847,10 @@
         "age": 40,
         "pageRank": 0.0005753739930955121,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            26,
+            3
+        ],
         "books": [
             16,
             12,
@@ -2664,7 +2884,11 @@
         "age": 20,
         "pageRank": 0,
         "numRelatives": 0.18181818181818182,
-        "allegiances": [],
+        "allegiances": [
+            260,
+            232,
+            233
+        ],
         "books": [
             16,
             6,
@@ -2691,7 +2915,9 @@
         "age": 29,
         "pageRank": 0.09666283084004602,
         "numRelatives": 0.18181818181818182,
-        "allegiances": [],
+        "allegiances": [
+            144
+        ],
         "books": [
             16,
             3,
@@ -2742,7 +2968,9 @@
         "age": 15,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            150
+        ],
         "books": [
             16,
             12
@@ -2765,7 +2993,9 @@
         "age": 80,
         "pageRank": 0.2048331415420023,
         "numRelatives": 0.2727272727272727,
-        "allegiances": [],
+        "allegiances": [
+            26
+        ],
         "books": [
             16,
             3,
@@ -2805,7 +3035,9 @@
         "age": 21,
         "pageRank": 0,
         "numRelatives": 0.09090909090909091,
-        "allegiances": [],
+        "allegiances": [
+            55
+        ],
         "books": [
             4,
             2
@@ -2826,7 +3058,9 @@
         "age": 73,
         "pageRank": 0,
         "numRelatives": 0.09090909090909091,
-        "allegiances": [],
+        "allegiances": [
+            222
+        ],
         "books": [
             16,
             0
@@ -2850,7 +3084,10 @@
         "age": 25,
         "pageRank": 0.07825086306098965,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            62,
+            222
+        ],
         "books": [
             3,
             0,
@@ -2878,7 +3115,9 @@
         "age": 82,
         "pageRank": 0.0034522439585730723,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            293
+        ],
         "books": [
             16,
             4,
@@ -2905,7 +3144,9 @@
         "age": 56,
         "pageRank": 0.17894131185270426,
         "numRelatives": 0.22727272727272727,
-        "allegiances": [],
+        "allegiances": [
+            144
+        ],
         "books": [
             16,
             3,
@@ -2941,7 +3182,9 @@
         "age": 23,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            180
+        ],
         "books": [
             1
         ],
@@ -2959,7 +3202,9 @@
         "age": 20,
         "pageRank": 0.007479861910241657,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            222
+        ],
         "books": [
             3,
             0,
@@ -2983,7 +3228,11 @@
         "age": 27,
         "pageRank": 0,
         "numRelatives": 0.13636363636363635,
-        "allegiances": [],
+        "allegiances": [
+            252,
+            233,
+            3
+        ],
         "books": [
             16,
             6,
@@ -3004,7 +3253,10 @@
         "age": 26,
         "pageRank": 0.0379746835443038,
         "numRelatives": 0.2727272727272727,
-        "allegiances": [],
+        "allegiances": [
+            252,
+            233
+        ],
         "books": [
             16,
             6,
@@ -3030,7 +3282,9 @@
         "age": 17,
         "pageRank": 0.21518987341772153,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            222
+        ],
         "books": [
             16,
             3,
@@ -3059,7 +3313,10 @@
         "age": 80,
         "pageRank": 0.011507479861910242,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            34,
+            3
+        ],
         "books": [
             16,
             6,
@@ -3089,7 +3346,9 @@
         "age": 9,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            84
+        ],
         "books": [
             3,
             0
@@ -3113,7 +3372,9 @@
         "age": 43,
         "pageRank": 0,
         "numRelatives": 0.3181818181818182,
-        "allegiances": [],
+        "allegiances": [
+            226
+        ],
         "books": [
             16,
             6,
@@ -3141,7 +3402,11 @@
         "age": 34,
         "pageRank": 0.15362485615650173,
         "numRelatives": 0.18181818181818182,
-        "allegiances": [],
+        "allegiances": [
+            240,
+            26,
+            28
+        ],
         "books": [
             16,
             3,
@@ -3199,7 +3464,10 @@
         "age": 3,
         "pageRank": 0.0759493670886076,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            233,
+            20
+        ],
         "books": [
             16,
             6,
@@ -3252,7 +3520,9 @@
         "age": 20,
         "pageRank": 0.04430379746835443,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            118
+        ],
         "books": [
             3,
             0,
@@ -3276,7 +3546,9 @@
         "age": 25,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            233
+        ],
         "books": [
             16,
             9,

@@ -3,10 +3,12 @@
         "name": "Aegon Frey (son of Aenys)",
         "male": false,
         "birth": 253,
-        "age": 51,
+        "age": 47,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -23,10 +25,12 @@
         "name": "Aeron Greyjoy",
         "male": false,
         "birth": 269,
-        "age": 35,
+        "age": 31,
         "pageRank": 0.05868814729574223,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            118
+        ],
         "books": [
             3,
             0,
@@ -55,10 +59,12 @@
         "name": "Alayaya",
         "male": false,
         "birth": 282,
-        "age": 22,
+        "age": 18,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            7
+        ],
         "books": [
             0,
             4,
@@ -77,10 +83,13 @@
         "name": "Alerie Hightower",
         "male": false,
         "birth": 257,
-        "age": 47,
+        "age": 43,
         "pageRank": 0.0017261219792865361,
         "numRelatives": 0.22727272727272727,
-        "allegiances": [],
+        "allegiances": [
+            132,
+            242
+        ],
         "books": [
             3,
             0,
@@ -102,10 +111,12 @@
         "name": "Alesander Frey",
         "male": false,
         "birth": 265,
-        "age": 39,
+        "age": 35,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -124,10 +135,12 @@
         "name": "Alester Norcross",
         "male": false,
         "birth": 290,
-        "age": 14,
+        "age": 10,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            173
+        ],
         "books": [
             0,
             4,
@@ -143,10 +156,12 @@
         "name": "Alla Tyrell",
         "male": false,
         "birth": 286,
-        "age": 18,
+        "age": 14,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            242
+        ],
         "books": [
             4,
             2,
@@ -162,10 +177,13 @@
         "name": "Alliser Thorne",
         "male": false,
         "birth": 247,
-        "age": 57,
+        "age": 53,
         "pageRank": 0.17548906789413118,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            238,
+            279
+        ],
         "books": [
             3,
             0,
@@ -189,10 +207,12 @@
         "name": "Alyn Frey",
         "male": false,
         "birth": 295,
-        "age": 9,
+        "age": 5,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -211,10 +231,12 @@
         "name": "Alyn Haigh",
         "male": false,
         "birth": 256,
-        "age": 48,
+        "age": 44,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            120
+        ],
         "books": [
             0,
             4,
@@ -230,10 +252,13 @@
         "name": "Alys Arryn",
         "male": false,
         "birth": 218,
-        "age": 86,
+        "age": 82,
         "pageRank": 0.020713463751438434,
         "numRelatives": 0.13636363636363635,
-        "allegiances": [],
+        "allegiances": [
+            26,
+            258
+        ],
         "books": [
             2
         ],
@@ -247,10 +272,13 @@
         "name": "Alys Karstark",
         "male": false,
         "birth": 284,
-        "age": 20,
+        "age": 16,
         "pageRank": 0.05293440736478711,
         "numRelatives": 0.045454545454545456,
-        "allegiances": [],
+        "allegiances": [
+            142,
+            237
+        ],
         "books": [
             4,
             2,
@@ -273,10 +301,12 @@
         "name": "Alysane Mormont",
         "male": false,
         "birth": 273,
-        "age": 31,
+        "age": 27,
         "pageRank": 0,
         "numRelatives": 0.09090909090909091,
-        "allegiances": [],
+        "allegiances": [
+            168
+        ],
         "books": [
             2,
             1,
@@ -296,10 +326,12 @@
         "name": "Alysanne Bulwer",
         "male": false,
         "birth": 291,
-        "age": 13,
+        "age": 9,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            55
+        ],
         "books": [
             4,
             2,
@@ -319,10 +351,12 @@
         "name": "Alyx Frey",
         "male": false,
         "birth": 282,
-        "age": 22,
+        "age": 18,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -341,10 +375,13 @@
         "name": "Amerei Frey",
         "male": false,
         "birth": 282,
-        "age": 22,
+        "age": 18,
         "pageRank": 0,
         "numRelatives": 0.09090909090909091,
-        "allegiances": [],
+        "allegiances": [
+            105,
+            147
+        ],
         "books": [
             0,
             4,
@@ -366,10 +403,12 @@
         "name": "Androw Frey",
         "male": false,
         "birth": 295,
-        "age": 9,
+        "age": 5,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -388,10 +427,12 @@
         "name": "Ardrian Celtigar",
         "male": false,
         "birth": 229,
-        "age": 75,
+        "age": 71,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            64
+        ],
         "books": [
             0,
             4
@@ -410,10 +451,12 @@
         "name": "Areo Hotah",
         "male": false,
         "birth": 257,
-        "age": 47,
+        "age": 43,
         "pageRank": 0.05523590333716916,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            162
+        ],
         "books": [
             3,
             0,
@@ -436,10 +479,12 @@
         "name": "Arianne Martell",
         "male": false,
         "birth": 276,
-        "age": 28,
+        "age": 24,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            162
+        ],
         "books": [
             3,
             0,
@@ -465,10 +510,12 @@
         "name": "Arthor Karstark",
         "male": false,
         "birth": 249,
-        "age": 55,
+        "age": 51,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            142
+        ],
         "books": [
             1,
             15
@@ -485,10 +532,12 @@
         "name": "Arwood Frey",
         "male": false,
         "birth": 263,
-        "age": 41,
+        "age": 37,
         "pageRank": 0,
         "numRelatives": 0.22727272727272727,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -510,10 +559,12 @@
         "name": "Arwyn Frey",
         "male": false,
         "birth": 285,
-        "age": 19,
+        "age": 15,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -530,10 +581,13 @@
         "name": "Arya Stark",
         "male": false,
         "birth": 289,
-        "age": 15,
+        "age": 11,
         "pageRank": 0.5834292289988493,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            222,
+            12
+        ],
         "books": [
             16,
             3,
@@ -572,10 +626,13 @@
         "name": "Asha Greyjoy",
         "male": false,
         "birth": 275,
-        "age": 29,
+        "age": 25,
         "pageRank": 0.0005753739930955121,
         "numRelatives": 0.045454545454545456,
-        "allegiances": [],
+        "allegiances": [
+            118,
+            140
+        ],
         "books": [
             3,
             0,
@@ -605,10 +662,12 @@
         "name": "Aurane Waters",
         "male": false,
         "birth": 277,
-        "age": 27,
+        "age": 23,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            252
+        ],
         "books": [
             0,
             4,
@@ -634,10 +693,16 @@
         "name": "Barristan Selmy",
         "male": false,
         "birth": 236,
-        "age": 68,
+        "age": 64,
         "pageRank": 0.29344073647871116,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            213,
+            31,
+            274,
+            233,
+            284
+        ],
         "books": [
             16,
             3,
@@ -670,7 +735,7 @@
         "name": "Beck",
         "male": false,
         "birth": 299,
-        "age": 5,
+        "age": 1,
         "pageRank": 0,
         "numRelatives": 0,
         "allegiances": [],
@@ -689,7 +754,7 @@
         "name": "Bella",
         "male": false,
         "birth": 283,
-        "age": 21,
+        "age": 17,
         "pageRank": 0,
         "numRelatives": 0,
         "allegiances": [],
@@ -707,7 +772,7 @@
         "name": "Ben",
         "male": false,
         "birth": 293,
-        "age": 11,
+        "age": 7,
         "pageRank": 0,
         "numRelatives": 0,
         "allegiances": [],
@@ -724,10 +789,13 @@
         "name": "Benjen Stark",
         "male": false,
         "birth": 267,
-        "age": 37,
+        "age": 33,
         "pageRank": 0.2042577675489068,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            222,
+            279
+        ],
         "books": [
             16,
             3,
@@ -754,10 +822,12 @@
         "name": "Beren Tallhart",
         "male": false,
         "birth": 289,
-        "age": 15,
+        "age": 11,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            231
+        ],
         "books": [
             0,
             4,
@@ -777,10 +847,12 @@
         "name": "Beth Cassel",
         "male": false,
         "birth": 289,
-        "age": 15,
+        "age": 11,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            62
+        ],
         "books": [
             3,
             0,
@@ -801,7 +873,7 @@
         "name": "Boy",
         "male": false,
         "birth": 282,
-        "age": 22,
+        "age": 18,
         "pageRank": 0,
         "numRelatives": 0,
         "allegiances": [],
@@ -821,10 +893,12 @@
         "name": "Bradamar Frey",
         "male": false,
         "birth": 289,
-        "age": 15,
+        "age": 11,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -843,10 +917,12 @@
         "name": "Bran Stark",
         "male": false,
         "birth": 290,
-        "age": 14,
+        "age": 10,
         "pageRank": 0.4672036823935558,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            222
+        ],
         "books": [
             3,
             0,
@@ -876,10 +952,12 @@
         "name": "Brandon Tallhart",
         "male": false,
         "birth": 284,
-        "age": 20,
+        "age": 16,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            231
+        ],
         "books": [
             0,
             4,
@@ -899,10 +977,15 @@
         "name": "Bronn",
         "male": false,
         "birth": 264,
-        "age": 40,
+        "age": 36,
         "pageRank": 0.3020713463751438,
         "numRelatives": 0.045454545454545456,
-        "allegiances": [],
+        "allegiances": [
+            144,
+            145,
+            9,
+            223
+        ],
         "books": [
             3,
             0,
@@ -928,10 +1011,12 @@
         "name": "Bryan Frey",
         "male": false,
         "birth": 281,
-        "age": 23,
+        "age": 19,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -947,10 +1032,12 @@
         "name": "Bryen",
         "male": false,
         "birth": 220,
-        "age": 84,
+        "age": 80,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            28
+        ],
         "books": [
             4
         ],
@@ -964,10 +1051,14 @@
         "name": "Brynden Tully",
         "male": false,
         "birth": 243,
-        "age": 61,
+        "age": 57,
         "pageRank": 0.13636363636363635,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            240,
+            222,
+            26
+        ],
         "books": [
             3,
             0,
@@ -997,10 +1088,12 @@
         "name": "Cersei Frey",
         "male": false,
         "birth": 292,
-        "age": 12,
+        "age": 8,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -1019,10 +1112,13 @@
         "name": "Cersei Lannister",
         "male": false,
         "birth": 266,
-        "age": 38,
+        "age": 34,
         "pageRank": 0.7266973532796318,
         "numRelatives": 0.18181818181818182,
-        "allegiances": [],
+        "allegiances": [
+            144,
+            33
+        ],
         "books": [
             16,
             3,
@@ -1055,10 +1151,12 @@
         "name": "Clement",
         "male": false,
         "birth": 251,
-        "age": 53,
+        "age": 49,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            14
+        ],
         "books": [
             2
         ],
@@ -1077,10 +1175,12 @@
         "name": "Clydas",
         "male": false,
         "birth": 240,
-        "age": 64,
+        "age": 60,
         "pageRank": 0.05753739930955121,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            279
+        ],
         "books": [
             3,
             0,
@@ -1104,10 +1204,12 @@
         "name": "Colmar Frey",
         "male": false,
         "birth": 288,
-        "age": 16,
+        "age": 12,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -1124,10 +1226,12 @@
         "name": "Cregan Karstark",
         "male": false,
         "birth": 249,
-        "age": 55,
+        "age": 51,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            142
+        ],
         "books": [
             1
         ],
@@ -1146,7 +1250,7 @@
         "name": "Creighton Longbough",
         "male": false,
         "birth": 240,
-        "age": 64,
+        "age": 60,
         "pageRank": 0,
         "numRelatives": 0,
         "allegiances": [],
@@ -1167,10 +1271,12 @@
         "name": "Cynthea Frey",
         "male": false,
         "birth": 290,
-        "age": 14,
+        "age": 10,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -1189,10 +1295,12 @@
         "name": "Daemon Sand",
         "male": false,
         "birth": 275,
-        "age": 29,
+        "age": 25,
         "pageRank": 0.012658227848101266,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            23
+        ],
         "books": [
             4,
             2,
@@ -1214,7 +1322,7 @@
         "name": "Daenerys Targaryen",
         "male": false,
         "birth": 284,
-        "age": 20,
+        "age": 16,
         "pageRank": 0.9062140391254315,
         "numRelatives": 0.13636363636363635,
         "allegiances": [],
@@ -1233,10 +1341,12 @@
         "name": "Damion Lannister",
         "male": false,
         "birth": 257,
-        "age": 47,
+        "age": 43,
         "pageRank": 0,
         "numRelatives": 0.13636363636363635,
-        "allegiances": [],
+        "allegiances": [
+            144
+        ],
         "books": [
             16,
             4,
@@ -1258,10 +1368,12 @@
         "name": "Damon Lannister (son of Jason)",
         "male": false,
         "birth": 244,
-        "age": 60,
+        "age": 56,
         "pageRank": 0,
         "numRelatives": 0.09090909090909091,
-        "allegiances": [],
+        "allegiances": [
+            144
+        ],
         "books": [
             16
         ],
@@ -1277,10 +1389,12 @@
         "name": "Damon Vypren",
         "male": false,
         "birth": 284,
-        "age": 20,
+        "age": 16,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            255
+        ],
         "books": [
             0,
             4,
@@ -1300,10 +1414,12 @@
         "name": "Danwell Frey",
         "male": false,
         "birth": 252,
-        "age": 52,
+        "age": 48,
         "pageRank": 0,
         "numRelatives": 0.045454545454545456,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             3,
             0,
@@ -1328,10 +1444,12 @@
         "name": "Daven Lannister",
         "male": false,
         "birth": 273,
-        "age": 31,
+        "age": 27,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            144
+        ],
         "books": [
             16,
             3,
@@ -1357,10 +1475,13 @@
         "name": "Davos Seaworth",
         "male": false,
         "birth": 260,
-        "age": 44,
+        "age": 40,
         "pageRank": 0.29516685845799767,
         "numRelatives": 0.36363636363636365,
-        "allegiances": [],
+        "allegiances": [
+            212,
+            32
+        ],
         "books": [
             16,
             0,
@@ -1393,10 +1514,12 @@
         "name": "Della Frey",
         "male": false,
         "birth": 296,
-        "age": 8,
+        "age": 4,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -1412,10 +1535,12 @@
         "name": "Delonne Allyrion",
         "male": false,
         "birth": 250,
-        "age": 54,
+        "age": 50,
         "pageRank": 0,
         "numRelatives": 0.045454545454545456,
-        "allegiances": [],
+        "allegiances": [
+            23
+        ],
         "books": [
             4,
             2,
@@ -1433,7 +1558,7 @@
         "name": "Denyo Terys",
         "male": false,
         "birth": 287,
-        "age": 17,
+        "age": 13,
         "pageRank": 0,
         "numRelatives": 0,
         "allegiances": [],
@@ -1452,10 +1577,13 @@
         "name": "Denys Mallister",
         "male": false,
         "birth": 245,
-        "age": 59,
+        "age": 55,
         "pageRank": 0.07479861910241657,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            157,
+            279
+        ],
         "books": [
             3,
             0,
@@ -1484,10 +1612,13 @@
         "name": "Desmond Grell",
         "male": false,
         "birth": 237,
-        "age": 67,
+        "age": 63,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            117,
+            279
+        ],
         "books": [
             3,
             0,
@@ -1513,10 +1644,13 @@
         "name": "Devan Seaworth",
         "male": false,
         "birth": 287,
-        "age": 17,
+        "age": 13,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            212,
+            32
+        ],
         "books": [
             0,
             4,
@@ -1535,10 +1669,12 @@
         "name": "Dickon Frey",
         "male": false,
         "birth": 294,
-        "age": 10,
+        "age": 6,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -1554,10 +1690,12 @@
         "name": "Dickon Tarly",
         "male": false,
         "birth": 287,
-        "age": 17,
+        "age": 13,
         "pageRank": 0.05868814729574223,
         "numRelatives": 0.045454545454545456,
-        "allegiances": [],
+        "allegiances": [
+            234
+        ],
         "books": [
             3,
             2,
@@ -1575,10 +1713,12 @@
         "name": "Donel Greyjoy",
         "male": false,
         "birth": 255,
-        "age": 49,
+        "age": 45,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            118
+        ],
         "books": [
             2
         ],
@@ -1592,10 +1732,12 @@
         "name": "Donnel Haigh",
         "male": false,
         "birth": 255,
-        "age": 49,
+        "age": 45,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            120
+        ],
         "books": [
             0,
             4,
@@ -1615,10 +1757,12 @@
         "name": "Donnel Waynwood",
         "male": false,
         "birth": 277,
-        "age": 27,
+        "age": 23,
         "pageRank": 0.009781357882623706,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            258
+        ],
         "books": [
             3,
             0,
@@ -1643,10 +1787,12 @@
         "name": "Doran Martell",
         "male": false,
         "birth": 247,
-        "age": 57,
+        "age": 53,
         "pageRank": 0.14211737629459148,
         "numRelatives": 0.18181818181818182,
-        "allegiances": [],
+        "allegiances": [
+            176
+        ],
         "books": [
             16,
             3,
@@ -1673,10 +1819,12 @@
         "name": "Dorea Sand",
         "male": false,
         "birth": 291,
-        "age": 13,
+        "age": 9,
         "pageRank": 0.025891829689298044,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            162
+        ],
         "books": [
             4,
             2,
@@ -1695,10 +1843,12 @@
         "name": "Dunstan Drumm",
         "male": false,
         "birth": 212,
-        "age": 92,
+        "age": 88,
         "pageRank": 0,
         "numRelatives": 0.09090909090909091,
-        "allegiances": [],
+        "allegiances": [
+            90
+        ],
         "books": [
             0,
             4,
@@ -1721,10 +1871,12 @@
         "name": "Duram Bar Emmon",
         "male": false,
         "birth": 284,
-        "age": 20,
+        "age": 16,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            30
+        ],
         "books": [
             0,
             4,
@@ -1744,10 +1896,12 @@
         "name": "Eddara Tallhart",
         "male": false,
         "birth": 289,
-        "age": 15,
+        "age": 11,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            231
+        ],
         "books": [
             0,
             4,
@@ -1769,10 +1923,12 @@
         "name": "Edmure Tully",
         "male": false,
         "birth": 267,
-        "age": 37,
+        "age": 33,
         "pageRank": 0.1668584579976985,
         "numRelatives": 0.09090909090909091,
-        "allegiances": [],
+        "allegiances": [
+            240
+        ],
         "books": [
             3,
             0,
@@ -1802,10 +1958,13 @@
         "name": "Edric Dayne",
         "male": false,
         "birth": 287,
-        "age": 17,
+        "age": 13,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            85,
+            6
+        ],
         "books": [
             3,
             0,
@@ -1827,10 +1986,12 @@
         "name": "Edric Storm",
         "male": false,
         "birth": 287,
-        "age": 17,
+        "age": 13,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            31
+        ],
         "books": [
             3,
             0,
@@ -1851,10 +2012,12 @@
         "name": "Edwyn Frey",
         "male": false,
         "birth": 259,
-        "age": 45,
+        "age": 41,
         "pageRank": 0,
         "numRelatives": 0.09090909090909091,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -1878,10 +2041,12 @@
         "name": "Elder Brother (Quiet Isle)",
         "male": false,
         "birth": 255,
-        "age": 49,
+        "age": 45,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            14
+        ],
         "books": [
             2
         ],
@@ -1901,10 +2066,12 @@
         "name": "Eldon Estermont",
         "male": false,
         "birth": 228,
-        "age": 76,
+        "age": 72,
         "pageRank": 0,
         "numRelatives": 0.13636363636363635,
-        "allegiances": [],
+        "allegiances": [
+            93
+        ],
         "books": [
             0,
             4,
@@ -1924,10 +2091,13 @@
         "name": "Eleanor Mooton",
         "male": false,
         "birth": 286,
-        "age": 18,
+        "age": 14,
         "pageRank": 0,
         "numRelatives": 0.045454545454545456,
-        "allegiances": [],
+        "allegiances": [
+            167,
+            234
+        ],
         "books": [
             2,
             1
@@ -1945,10 +2115,12 @@
         "name": "Eleyna Westerling",
         "male": false,
         "birth": 287,
-        "age": 17,
+        "age": 13,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            260
+        ],
         "books": [
             4,
             2
@@ -1966,10 +2138,12 @@
         "name": "Elia Sand",
         "male": false,
         "birth": 285,
-        "age": 19,
+        "age": 15,
         "pageRank": 0.0333716915995397,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            162
+        ],
         "books": [
             4,
             2,
@@ -1989,10 +2163,12 @@
         "name": "Elinor Tyrell",
         "male": false,
         "birth": 286,
-        "age": 18,
+        "age": 14,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            242
+        ],
         "books": [
             4,
             2,
@@ -2010,10 +2186,12 @@
         "name": "Elmar Frey",
         "male": false,
         "birth": 290,
-        "age": 14,
+        "age": 10,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             3,
             0,
@@ -2031,10 +2209,13 @@
         "name": "Elwood Meadows",
         "male": false,
         "birth": 278,
-        "age": 26,
+        "age": 22,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            164,
+            32
+        ],
         "books": [
             0,
             4,
@@ -2055,10 +2236,13 @@
         "name": "Elyana Vypren",
         "male": false,
         "birth": 264,
-        "age": 40,
+        "age": 36,
         "pageRank": 0,
         "numRelatives": 0.09090909090909091,
-        "allegiances": [],
+        "allegiances": [
+            255,
+            266
+        ],
         "books": [
             0,
             4,
@@ -2074,10 +2258,12 @@
         "name": "Emberlei Frey",
         "male": false,
         "birth": 296,
-        "age": 8,
+        "age": 4,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -2093,7 +2279,7 @@
         "name": "Emma",
         "male": false,
         "birth": 260,
-        "age": 44,
+        "age": 40,
         "pageRank": 0,
         "numRelatives": 0,
         "allegiances": [],
@@ -2110,10 +2296,14 @@
         "name": "Emmon Frey",
         "male": false,
         "birth": 237,
-        "age": 67,
+        "age": 63,
         "pageRank": 0,
         "numRelatives": 0.22727272727272727,
-        "allegiances": [],
+        "allegiances": [
+            105,
+            106,
+            144
+        ],
         "books": [
             16,
             3,
@@ -2139,10 +2329,12 @@
         "name": "Erena Glover",
         "male": false,
         "birth": 297,
-        "age": 7,
+        "age": 3,
         "pageRank": 0.014384349827387802,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            108
+        ],
         "books": [
             0,
             4,
@@ -2163,10 +2355,13 @@
         "name": "Erik Ironmaker",
         "male": false,
         "birth": 211,
-        "age": 93,
+        "age": 89,
         "pageRank": 0,
         "numRelatives": 0.045454545454545456,
-        "allegiances": [],
+        "allegiances": [
+            139,
+            118
+        ],
         "books": [
             2,
             1
@@ -2186,10 +2381,13 @@
         "name": "Ermesande Hayford",
         "male": false,
         "birth": 298,
-        "age": 6,
+        "age": 2,
         "pageRank": 0,
         "numRelatives": 0.045454545454545456,
-        "allegiances": [],
+        "allegiances": [
+            129,
+            144
+        ],
         "books": [
             0,
             4,
@@ -2212,7 +2410,7 @@
         "name": "Euron Greyjoy",
         "male": false,
         "birth": 256,
-        "age": 48,
+        "age": 44,
         "pageRank": 0.22209436133486765,
         "numRelatives": 0.13636363636363635,
         "allegiances": [],
@@ -2229,10 +2427,12 @@
         "name": "Falia Flowers",
         "male": false,
         "birth": 281,
-        "age": 23,
+        "age": 19,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            131
+        ],
         "books": [
             2,
             1,
@@ -2248,10 +2448,12 @@
         "name": "Flement Brax",
         "male": false,
         "birth": 277,
-        "age": 27,
+        "age": 23,
         "pageRank": 0,
         "numRelatives": 0.18181818181818182,
-        "allegiances": [],
+        "allegiances": [
+            50
+        ],
         "books": [
             3,
             0,
@@ -2276,10 +2478,13 @@
         "name": "Galazza Galare",
         "male": false,
         "birth": 217,
-        "age": 87,
+        "age": 83,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            17,
+            179
+        ],
         "books": [
             1
         ],
@@ -2295,10 +2500,13 @@
         "name": "Garlan Tyrell",
         "male": false,
         "birth": 277,
-        "age": 27,
+        "age": 23,
         "pageRank": 0.00805523590333717,
         "numRelatives": 0.045454545454545456,
-        "allegiances": [],
+        "allegiances": [
+            244,
+            243
+        ],
         "books": [
             3,
             0,
@@ -2322,10 +2530,12 @@
         "name": "Gawen Glover",
         "male": false,
         "birth": 295,
-        "age": 9,
+        "age": 5,
         "pageRank": 0.014959723820483314,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            108
+        ],
         "books": [
             0,
             4,
@@ -2346,10 +2556,12 @@
         "name": "Gendry",
         "male": false,
         "birth": 284,
-        "age": 20,
+        "age": 16,
         "pageRank": 0.19850402761795166,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            6
+        ],
         "books": [
             3,
             0,
@@ -2372,10 +2584,13 @@
         "name": "Genna Lannister",
         "male": false,
         "birth": 245,
-        "age": 59,
+        "age": 55,
         "pageRank": 0,
         "numRelatives": 0.22727272727272727,
-        "allegiances": [],
+        "allegiances": [
+            144,
+            106
+        ],
         "books": [
             16,
             3,
@@ -2402,10 +2617,12 @@
         "name": "Gerold Dayne",
         "male": false,
         "birth": 270,
-        "age": 34,
+        "age": 30,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            86
+        ],
         "books": [
             2,
             1,
@@ -2427,10 +2644,14 @@
         "name": "Gerris Drinkwater",
         "male": false,
         "birth": 275,
-        "age": 29,
+        "age": 25,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            89,
+            270,
+            297
+        ],
         "books": [
             1
         ],
@@ -2446,7 +2667,7 @@
         "name": "Gilly",
         "male": false,
         "birth": 282,
-        "age": 22,
+        "age": 18,
         "pageRank": 0.17376294591484465,
         "numRelatives": 0.09090909090909091,
         "allegiances": [],
@@ -2475,10 +2696,12 @@
         "name": "Gilwood Hunter",
         "male": false,
         "birth": 250,
-        "age": 54,
+        "age": 50,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            137
+        ],
         "books": [
             4,
             2,
@@ -2500,10 +2723,12 @@
         "name": "Gormond Goodbrother",
         "male": false,
         "birth": 282,
-        "age": 22,
+        "age": 18,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            110
+        ],
         "books": [
             2
         ],
@@ -2519,10 +2744,12 @@
         "name": "Gran Goodbrother",
         "male": false,
         "birth": 282,
-        "age": 22,
+        "age": 18,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            110
+        ],
         "books": [
             2
         ],
@@ -2538,10 +2765,12 @@
         "name": "Grenn",
         "male": false,
         "birth": 281,
-        "age": 23,
+        "age": 19,
         "pageRank": 0.14039125431530494,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            279
+        ],
         "books": [
             3,
             0,
@@ -2565,10 +2794,12 @@
         "name": "Greydon Goodbrother",
         "male": false,
         "birth": 282,
-        "age": 22,
+        "age": 18,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            110
+        ],
         "books": [
             2
         ],
@@ -2584,10 +2815,12 @@
         "name": "Gulian Swann",
         "male": false,
         "birth": 259,
-        "age": 45,
+        "age": 41,
         "pageRank": 0,
         "numRelatives": 0.09090909090909091,
-        "allegiances": [],
+        "allegiances": [
+            229
+        ],
         "books": [
             0,
             4
@@ -2604,10 +2837,12 @@
         "name": "Gunthor Hightower",
         "male": false,
         "birth": 271,
-        "age": 33,
+        "age": 29,
         "pageRank": 0,
         "numRelatives": 0.045454545454545456,
-        "allegiances": [],
+        "allegiances": [
+            132
+        ],
         "books": [
             2
         ],
@@ -2623,10 +2858,12 @@
         "name": "Gwin Goodbrother",
         "male": false,
         "birth": 282,
-        "age": 22,
+        "age": 18,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            110
+        ],
         "books": [
             2
         ],
@@ -2642,10 +2879,12 @@
         "name": "Gysella Goodbrother",
         "male": false,
         "birth": 282,
-        "age": 22,
+        "age": 18,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            110
+        ],
         "books": [
             2
         ],
@@ -2661,10 +2900,12 @@
         "name": "Halder",
         "male": false,
         "birth": 281,
-        "age": 23,
+        "age": 19,
         "pageRank": 0.05868814729574223,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            279
+        ],
         "books": [
             3,
             0,
@@ -2687,10 +2928,12 @@
         "name": "Harlon Greyjoy",
         "male": false,
         "birth": 253,
-        "age": 51,
+        "age": 47,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            118
+        ],
         "books": [
             2,
             15
@@ -2707,10 +2950,13 @@
         "name": "Harrold Hardyng",
         "male": false,
         "birth": 281,
-        "age": 23,
+        "age": 19,
         "pageRank": 0,
         "numRelatives": 0.09090909090909091,
-        "allegiances": [],
+        "allegiances": [
+            122,
+            26
+        ],
         "books": [
             2,
             1,
@@ -2735,10 +2981,13 @@
         "name": "Harwin",
         "male": false,
         "birth": 271,
-        "age": 33,
+        "age": 29,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            222,
+            6
+        ],
         "books": [
             3,
             0,
@@ -2758,10 +3007,13 @@
         "name": "Harys Haigh",
         "male": false,
         "birth": 254,
-        "age": 50,
+        "age": 46,
         "pageRank": 0,
         "numRelatives": 0.09090909090909091,
-        "allegiances": [],
+        "allegiances": [
+            120,
+            105
+        ],
         "books": [
             0,
             4,
@@ -2782,10 +3034,12 @@
         "name": "Hosteen Frey",
         "male": false,
         "birth": 249,
-        "age": 55,
+        "age": 51,
         "pageRank": 0,
         "numRelatives": 0.09090909090909091,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             3,
             0,
@@ -2811,10 +3065,12 @@
         "name": "Hoster Frey",
         "male": false,
         "birth": 287,
-        "age": 17,
+        "age": 13,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -2830,10 +3086,12 @@
         "name": "Hother Umber",
         "male": false,
         "birth": 241,
-        "age": 63,
+        "age": 59,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            247
+        ],
         "books": [
             0,
             4,
@@ -2859,10 +3117,12 @@
         "name": "Howland Reed",
         "male": false,
         "birth": 260,
-        "age": 44,
+        "age": 40,
         "pageRank": 0.05293440736478711,
         "numRelatives": 0.13636363636363635,
-        "allegiances": [],
+        "allegiances": [
+            201
+        ],
         "books": [
             3,
             0,
@@ -2888,10 +3148,13 @@
         "name": "Humfrey Wagstaff",
         "male": false,
         "birth": 232,
-        "age": 72,
+        "age": 68,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            257,
+            114
+        ],
         "books": [
             2
         ],
@@ -2908,7 +3171,7 @@
         "name": "Illifer",
         "male": false,
         "birth": 240,
-        "age": 64,
+        "age": 60,
         "pageRank": 0,
         "numRelatives": 0,
         "allegiances": [],
@@ -2929,10 +3192,12 @@
         "name": "Irri",
         "male": false,
         "birth": 283,
-        "age": 21,
+        "age": 17,
         "pageRank": 0.09263521288837745,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            233
+        ],
         "books": [
             3,
             0,
@@ -2950,10 +3215,12 @@
         "name": "Jaime Frey",
         "male": false,
         "birth": 299,
-        "age": 5,
+        "age": 1,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             2
         ],
@@ -2970,10 +3237,13 @@
         "name": "Jaime Lannister",
         "male": false,
         "birth": 266,
-        "age": 38,
+        "age": 34,
         "pageRank": 0.7744533947065593,
         "numRelatives": 0.13636363636363635,
-        "allegiances": [],
+        "allegiances": [
+            144,
+            274
+        ],
         "books": [
             16,
             3,
@@ -3010,10 +3280,12 @@
         "name": "Jammos Frey",
         "male": false,
         "birth": 266,
-        "age": 38,
+        "age": 34,
         "pageRank": 0,
         "numRelatives": 0.18181818181818182,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -3032,10 +3304,12 @@
         "name": "Janei Lannister",
         "male": false,
         "birth": 296,
-        "age": 8,
+        "age": 4,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            144
+        ],
         "books": [
             16,
             3,
@@ -3057,10 +3331,12 @@
         "name": "Jeyne Goodbrook",
         "male": false,
         "birth": 293,
-        "age": 11,
+        "age": 7,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            109
+        ],
         "books": [
             0,
             4,
@@ -3076,10 +3352,12 @@
         "name": "Jeyne Heddle",
         "male": false,
         "birth": 281,
-        "age": 23,
+        "age": 19,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            6
+        ],
         "books": [
             2
         ],
@@ -3095,10 +3373,14 @@
         "name": "Jeyne Poole",
         "male": false,
         "birth": 286,
-        "age": 18,
+        "age": 14,
         "pageRank": 0.07537399309551208,
         "numRelatives": 0.045454545454545456,
-        "allegiances": [],
+        "allegiances": [
+            193,
+            222,
+            46
+        ],
         "books": [
             3,
             0,
@@ -3126,10 +3408,13 @@
         "name": "Jeyne Westerling",
         "male": false,
         "birth": 283,
-        "age": 21,
+        "age": 17,
         "pageRank": 0.0023014959723820483,
         "numRelatives": 0.045454545454545456,
-        "allegiances": [],
+        "allegiances": [
+            260,
+            222
+        ],
         "books": [
             4,
             2,
@@ -3151,10 +3436,12 @@
         "name": "Jhiqui",
         "male": false,
         "birth": 284,
-        "age": 20,
+        "age": 16,
         "pageRank": 0.05983889528193326,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            233
+        ],
         "books": [
             3,
             0,
@@ -3172,10 +3459,12 @@
         "name": "Jhogo",
         "male": false,
         "birth": 281,
-        "age": 23,
+        "age": 19,
         "pageRank": 0.004027617951668585,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            233
+        ],
         "books": [
             3,
             0,
@@ -3196,10 +3485,12 @@
         "name": "Jojen Reed",
         "male": false,
         "birth": 286,
-        "age": 18,
+        "age": 14,
         "pageRank": 0.10069044879171461,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            201
+        ],
         "books": [
             0,
             4,
@@ -3225,10 +3516,12 @@
         "name": "Jon Brax",
         "male": false,
         "birth": 296,
-        "age": 8,
+        "age": 4,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            50
+        ],
         "books": [
             0,
             4,
@@ -3244,10 +3537,14 @@
         "name": "Jon Connington",
         "male": false,
         "birth": 260,
-        "age": 44,
+        "age": 40,
         "pageRank": 0.021288837744533946,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            75,
+            233,
+            15
+        ],
         "books": [
             16,
             4,
@@ -3273,10 +3570,13 @@
         "name": "Jon Snow",
         "male": false,
         "birth": 283,
-        "age": 21,
+        "age": 17,
         "pageRank": 1,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            222,
+            279
+        ],
         "books": [
             3,
             0,
@@ -3316,10 +3616,12 @@
         "name": "Jonelle Cerwyn",
         "male": false,
         "birth": 267,
-        "age": 37,
+        "age": 33,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            65
+        ],
         "books": [
             3,
             4,
@@ -3345,10 +3647,12 @@
         "name": "Jonos Frey",
         "male": false,
         "birth": 291,
-        "age": 13,
+        "age": 9,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -3364,10 +3668,14 @@
         "name": "Jorah Mormont",
         "male": false,
         "birth": 254,
-        "age": 50,
+        "age": 46,
         "pageRank": 0.41254315304948214,
         "numRelatives": 0.09090909090909091,
-        "allegiances": [],
+        "allegiances": [
+            168,
+            233,
+            289
+        ],
         "books": [
             3,
             0,
@@ -3394,10 +3702,12 @@
         "name": "Jorelle Mormont",
         "male": false,
         "birth": 278,
-        "age": 26,
+        "age": 22,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            168
+        ],
         "books": [
             2,
             1
@@ -3412,10 +3722,12 @@
         "name": "Josmyn Peckledon",
         "male": false,
         "birth": 284,
-        "age": 20,
+        "age": 16,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            188
+        ],
         "books": [
             0,
             4,
@@ -3436,10 +3748,12 @@
         "name": "Joy Hill",
         "male": false,
         "birth": 288,
-        "age": 16,
+        "age": 12,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            144
+        ],
         "books": [
             16,
             3,
@@ -3461,10 +3775,13 @@
         "name": "Joyeuse Erenford",
         "male": false,
         "birth": 282,
-        "age": 22,
+        "age": 18,
         "pageRank": 0.03624856156501726,
         "numRelatives": 0.09090909090909091,
-        "allegiances": [],
+        "allegiances": [
+            92,
+            105
+        ],
         "books": [
             3,
             0,
@@ -3484,10 +3801,12 @@
         "name": "Kedge Whiteye",
         "male": false,
         "birth": 251,
-        "age": 53,
+        "age": 49,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            279
+        ],
         "books": [
             4,
             2,
@@ -3507,10 +3826,12 @@
         "name": "Kyra Frey",
         "male": false,
         "birth": 262,
-        "age": 42,
+        "age": 38,
         "pageRank": 0,
         "numRelatives": 0.13636363636363635,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -3526,10 +3847,14 @@
         "name": "Lancel Lannister",
         "male": false,
         "birth": 282,
-        "age": 22,
+        "age": 18,
         "pageRank": 0.13060989643268126,
         "numRelatives": 0.045454545454545456,
-        "allegiances": [],
+        "allegiances": [
+            146,
+            147,
+            281
+        ],
         "books": [
             16,
             3,
@@ -3556,10 +3881,12 @@
         "name": "Lanna (Happy Port)",
         "male": false,
         "birth": 285,
-        "age": 19,
+        "age": 15,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            21
+        ],
         "books": [
             2,
             1
@@ -3574,10 +3901,13 @@
         "name": "Lanna Lannister",
         "male": false,
         "birth": 271,
-        "age": 33,
+        "age": 29,
         "pageRank": 0,
         "numRelatives": 0.09090909090909091,
-        "allegiances": [],
+        "allegiances": [
+            144,
+            141
+        ],
         "books": [
             16,
             4,
@@ -3598,10 +3928,13 @@
         "name": "Larence Snow",
         "male": false,
         "birth": 286,
-        "age": 18,
+        "age": 14,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            135,
+            108
+        ],
         "books": [
             0,
             4,
@@ -3621,7 +3954,7 @@
         "name": "Layna",
         "male": false,
         "birth": 279,
-        "age": 25,
+        "age": 21,
         "pageRank": 0,
         "numRelatives": 0,
         "allegiances": [],
@@ -3638,10 +3971,12 @@
         "name": "Leana Frey",
         "male": false,
         "birth": 299,
-        "age": 5,
+        "age": 1,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             2
         ],
@@ -3655,10 +3990,13 @@
         "name": "Leathers",
         "male": false,
         "birth": 259,
-        "age": 45,
+        "age": 41,
         "pageRank": 0,
         "numRelatives": 0.045454545454545456,
-        "allegiances": [],
+        "allegiances": [
+            276,
+            279
+        ],
         "books": [
             1
         ],
@@ -3678,10 +4016,12 @@
         "name": "Lollys Stokeworth",
         "male": false,
         "birth": 265,
-        "age": 39,
+        "age": 35,
         "pageRank": 0.04027617951668585,
         "numRelatives": 0.09090909090909091,
-        "allegiances": [],
+        "allegiances": [
+            223
+        ],
         "books": [
             3,
             0,
@@ -3704,10 +4044,14 @@
         "name": "Loras Tyrell",
         "male": false,
         "birth": 282,
-        "age": 22,
+        "age": 18,
         "pageRank": 0.23014959723820483,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            242,
+            286,
+            274
+        ],
         "books": [
             3,
             0,
@@ -3733,10 +4077,12 @@
         "name": "Lorcas",
         "male": false,
         "birth": 241,
-        "age": 63,
+        "age": 59,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            293
+        ],
         "books": [
             2
         ],
@@ -3752,10 +4098,12 @@
         "name": "Loreza Sand",
         "male": false,
         "birth": 293,
-        "age": 11,
+        "age": 7,
         "pageRank": 0.025891829689298044,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            162
+        ],
         "books": [
             4,
             2,
@@ -3772,10 +4120,12 @@
         "name": "Lothar Frey",
         "male": false,
         "birth": 264,
-        "age": 40,
+        "age": 36,
         "pageRank": 0.09551208285385501,
         "numRelatives": 0.22727272727272727,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             3,
             0,
@@ -3798,10 +4148,13 @@
         "name": "Luceon Frey",
         "male": false,
         "birth": 249,
-        "age": 55,
+        "age": 51,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            14,
+            278
+        ],
         "books": [
             0,
             4,
@@ -3822,10 +4175,12 @@
         "name": "Lucion Lannister",
         "male": false,
         "birth": 270,
-        "age": 34,
+        "age": 30,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            144
+        ],
         "books": [
             16,
             4,
@@ -3846,10 +4201,12 @@
         "name": "Lucos Chyttering",
         "male": false,
         "birth": 283,
-        "age": 21,
+        "age": 17,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            67
+        ],
         "books": [
             4,
             2
@@ -3866,10 +4223,12 @@
         "name": "Lyanna Mormont",
         "male": false,
         "birth": 290,
-        "age": 14,
+        "age": 10,
         "pageRank": 0.0661680092059839,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            168
+        ],
         "books": [
             2,
             1
@@ -3884,10 +4243,13 @@
         "name": "Lynesse Hightower",
         "male": false,
         "birth": 272,
-        "age": 32,
+        "age": 28,
         "pageRank": 0.02474108170310702,
         "numRelatives": 0.09090909090909091,
-        "allegiances": [],
+        "allegiances": [
+            132,
+            168
+        ],
         "books": [
             0,
             4,
@@ -3906,10 +4268,12 @@
         "name": "Lyonel Corbray",
         "male": false,
         "birth": 260,
-        "age": 44,
+        "age": 40,
         "pageRank": 0,
         "numRelatives": 0.13636363636363635,
-        "allegiances": [],
+        "allegiances": [
+            76
+        ],
         "books": [
             2,
             1,
@@ -3930,10 +4294,12 @@
         "name": "Lyonel Frey",
         "male": false,
         "birth": 259,
-        "age": 45,
+        "age": 41,
         "pageRank": 0,
         "numRelatives": 0.045454545454545456,
-        "allegiances": [],
+        "allegiances": [
+            106
+        ],
         "books": [
             0,
             4,
@@ -3956,10 +4322,12 @@
         "name": "Lyra Mormont",
         "male": false,
         "birth": 277,
-        "age": 27,
+        "age": 23,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            168
+        ],
         "books": [
             2,
             1
@@ -3974,10 +4342,12 @@
         "name": "Lythene Frey",
         "male": false,
         "birth": 251,
-        "age": 53,
+        "age": 49,
         "pageRank": 0,
         "numRelatives": 0.13636363636363635,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -3996,10 +4366,12 @@
         "name": "Mace Tyrell",
         "male": false,
         "birth": 256,
-        "age": 48,
+        "age": 44,
         "pageRank": 0.18814729574223246,
         "numRelatives": 0.22727272727272727,
-        "allegiances": [],
+        "allegiances": [
+            242
+        ],
         "books": [
             3,
             0,
@@ -4034,10 +4406,12 @@
         "name": "Maege Mormont",
         "male": false,
         "birth": 239,
-        "age": 65,
+        "age": 61,
         "pageRank": 0.04142692750287687,
         "numRelatives": 0.22727272727272727,
-        "allegiances": [],
+        "allegiances": [
+            168
+        ],
         "books": [
             3,
             0,
@@ -4065,10 +4439,12 @@
         "name": "Maegelle Frey",
         "male": false,
         "birth": 249,
-        "age": 55,
+        "age": 51,
         "pageRank": 0,
         "numRelatives": 0.18181818181818182,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -4084,10 +4460,12 @@
         "name": "Malwyn Frey",
         "male": false,
         "birth": 284,
-        "age": 20,
+        "age": 16,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -4106,10 +4484,12 @@
         "name": "Marei",
         "male": false,
         "birth": 280,
-        "age": 24,
+        "age": 20,
         "pageRank": 0.02819332566168009,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            7
+        ],
         "books": [
             0,
             4,
@@ -4128,10 +4508,12 @@
         "name": "Margaery Tyrell",
         "male": false,
         "birth": 283,
-        "age": 21,
+        "age": 17,
         "pageRank": 0.38837744533947066,
         "numRelatives": 0.13636363636363635,
-        "allegiances": [],
+        "allegiances": [
+            242
+        ],
         "books": [
             3,
             0,
@@ -4156,10 +4538,13 @@
         "name": "Marianne Vance",
         "male": false,
         "birth": 262,
-        "age": 42,
+        "age": 38,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            249,
+            105
+        ],
         "books": [
             0,
             4,
@@ -4175,10 +4560,12 @@
         "name": "Marissa Frey",
         "male": false,
         "birth": 286,
-        "age": 18,
+        "age": 14,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            105
+        ],
         "books": [
             0,
             4,
@@ -4197,10 +4584,12 @@
         "name": "Maron Volmark",
         "male": false,
         "birth": 283,
-        "age": 21,
+        "age": 17,
         "pageRank": 0,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            254
+        ],
         "books": [
             4,
             2,
@@ -4219,10 +4608,12 @@
         "name": "Martyn Lannister",
         "male": false,
         "birth": 285,
-        "age": 19,
+        "age": 15,
         "pageRank": 0.08918296892980437,
         "numRelatives": 0,
-        "allegiances": [],
+        "allegiances": [
+            144
+        ],
         "books": [
             3,
             0,
