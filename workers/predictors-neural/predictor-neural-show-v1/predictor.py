@@ -28,6 +28,8 @@ labelsTrain = readFormattedBinaryShowMLFile("v1-labels-train")
 if False:
   # build the model
   model = Sequential()
+  model.add(Dense(1000, activation='relu'))
+  model.add(Dropout(0.7))
   model.add(Dense(500, activation='relu'))
   model.add(Dropout(0.7))
   model.add(Dense(250, activation='relu'))
@@ -38,7 +40,7 @@ if False:
   model.compile(optimizer='rmsprop', loss='binary_crossentropy', metrics=['accuracy'])
 
   # train the model
-  model.fit(dataTrain, labelsTrain, epochs=50, batch_size=32)
+  model.fit(dataTrain, labelsTrain, epochs=10, batch_size=32, validation_split=0.1)
   model.save(os.path.join(dirnameMain, 'models/got-predictor-model.h5'))
 
 else:
