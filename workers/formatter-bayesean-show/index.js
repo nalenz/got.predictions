@@ -13,7 +13,7 @@ const config = require('../common/config');
 const fs = require('fs-extra');
 
 const LOCATION_VISITED_THRESHOLD = 50; //min. amount of people need to visit a location before it's used
-const HOUSE_THRESHOLD = 10; //min. amount of people in this house before it's used
+const HOUSE_THRESHOLD = 5; //min. amount of people in this house before it's used
 const CULTURES_THRESHOLD = 10; //min. amount of people with this culture before it's used
 
 /*************************************************************************************************/
@@ -24,6 +24,8 @@ function isSuitableChar(character) {
 	return false;
   } else if ((character.death == null || character.death == undefined) && character.alive == false) {
     return false; // character is dead, but has no date of death
+  } else if (character.death > config.GOT_SHOW_BEGIN + 6) {
+    return false; //character apparently died after season 7?
   }
   return true;
 }
@@ -58,7 +60,7 @@ function collectHouses(filteredChars) {
         house_counter += 1;
 	  }
 	}
-	if(house_counter >= HOUSE_THRESHOLD) {
+	if(house_counter >= HOUSE_THRESHOLD && h.includes("House")) { //why is the Night's Watch considered a house anyway?
       houses.push(h);
 	}
   }
@@ -97,6 +99,16 @@ function collectCultures(filteredChars) {
   return cultures;
 }
 
+function getMaxPagerank(characters) {
+  let max_rank = 0;
+  for(let ch of characters) {
+    if(ch.pagerank != null && ch.pagerank != undefined && ch.pagerank.rank > max_rank) {
+      max_rank = ch.pagerank.rank;
+    }
+  }
+  return max_rank;
+}
+
 /*************************************************************************************************/
 //FORMATTER FUNCTIONS (will use the collected data to add flags to a reformatted character model)
 //They do this as a side effect and do not return anything.
@@ -104,7 +116,7 @@ function collectCultures(filteredChars) {
 function processAge(srcChar, destChar) {
   // use absolute time, since birth dates are generally unavailable
   // check whether character alive or not and calculate "age", i.e. how long in the show they lived
-  destChar.isDead = !srcChar.alive;
+  destChar.isDead = !srcChar.alive ? 1 : 0;
   
   if (!srcChar.alive) {
     // dead
@@ -132,9 +144,12 @@ function processGender(srcChar, destChar) {
 
 function processHouses(srcChar, destChar, houses) {
   // for each suitable house, add a flag = 1 if the character is in that house
+  numHouses = 0;
+  
   for (let h of houses) {
     if (srcChar.house === h) {
       // character IS in this house
+      numHouses += 1;
       destChar[h] = 1;
     } else {
       // character is NOT in this house
@@ -144,12 +159,17 @@ function processHouses(srcChar, destChar, houses) {
   
   // also set the house flag to = 1 if the character has pledged allegiance to it
   if (srcChar.allegiances !== null && srcChar.allegiances !== undefined) {
-	for (let h of srcChar.allegiances) {
-	  if(houses.includes(h)) {
-	    destChar[h] = 1;
+    for (let h of srcChar.allegiances) {
+	    if(houses.includes(h)) {
+        if(destChar[h] == 0) {
+          numHouses += 1;
+        }
+	      destChar[h] = 1;
+	    }
 	  }
-	}
   }
+  
+  //destChar["multipleHouses"] = numHouses > 1 ? 1 : 0; //allegiance to multiple houses indicates changing allegiances. Weak predictor.
 }
 
 function processCultures(srcChar, destChar, cultures) {
@@ -207,6 +227,14 @@ function processParent(srcChar, destChar, characters) {
   }
 }
 
+function processPagerank(srcChar, destChar, maxRank) {
+  if(srcChar.pagerank != null && srcChar.pagerank != undefined && srcChar.pagerank.rank >= 0.34 * maxRank) {
+    destChar.isMajor = 1;
+  } else{
+    destChar.isMajor = 0;
+  }
+}
+
 /*************************************************************************************************/
 
 async function genTrainingData (callback) {
@@ -218,6 +246,7 @@ async function genTrainingData (callback) {
   let characters = filterChars(characters_unfiltered); // filter out unsuitable characters
   let houses = collectHouses(characters); // collect houses and filter them
   let cultures = collectCultures(characters); // collect cultures and filter them
+  let maxRank = getMaxPagerank(characters);
 
   // in training_chars, we will accumulate the character data used for training
   let training_chars = [];
@@ -237,6 +266,7 @@ async function genTrainingData (callback) {
     processLovers(ch, ref_ch);
     processSiblings(ch, ref_ch);
     processParent(ch, ref_ch, characters);
+    processPagerank(ch, ref_ch, maxRank);
 	  
     // push the reformatted character and move on to the next one
     training_chars.push(ref_ch);
