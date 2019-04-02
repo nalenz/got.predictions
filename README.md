@@ -35,7 +35,7 @@ To create a new branch to add your changes to, please execute the following comm
 
 - number of datapoints: 11250
   - used for training: 9000, used for validation: 2250
-  - final training accuracy: 88.81%, final validation accuracy: 78.36% (from [Keras log](workers/predictors-neural/predictor-neural-v2/models/keras-log))
+  - final training accuracy: 88.72%, final validation accuracy: 91.56% (from [Keras log](workers/predictors-neural/predictor-neural-v2/models/keras-log))
 - number of dimensions per datapoint: 1175
   - scalar values
     - male: 1, page rank (normalized): 1, number of relatives (normalized): 1
