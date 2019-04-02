@@ -47,7 +47,7 @@ const config = require('../common/config');
     .filter(c => c.age <= config.AGE_MAXIMUM);
 
   // normalize some scalar values
-  ['numRelatives', 'pageRank'].forEach(a => {
+  ['pageRank', 'numRelatives'].forEach(a => {
     let max = utils.maxAttr(charsFmt, a);
     charsFmt.forEach(c => (c[a] /= max));
   });

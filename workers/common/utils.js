@@ -226,6 +226,35 @@ function clamp(val, rng) {
   return val;
 }
 
+/**
+ * Shuffles an array in place using the Fisher-Yates shuffle algorithm.
+ * @param {array} a - The array to be shuffled.
+ */
+function shuffleArray(a) {
+  for (let i = a.length - 1; i > 0; --i) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+/**
+ * Shuffles two arrays, keeping the correspondance between elements, i.e.
+ * [1,2,3,4] and [11,12,13,14] can for example be shuffled to
+ * [4,3,1,2] and [14,13,11,12]. This will not happen in place, but an array containing the
+ * two shuffled arrays will be returned.
+ * @param {array} a - The first array to be shuffled.
+ * @param {array} b - The second array to be shuffled.
+ */
+function shuffleTwoArrays(a, b) {
+  if (b === undefined) {
+    b = a[1];
+    a = a[0];
+  }
+  let shuffled = shuffleArray(a.map((x, i) => [x, b[i]]));
+  return [shuffled.map(s => s[0]), shuffled.map(s => s[1])];
+}
+
 async function writeJSONSetFromAttr(arr, attr) {
   const ret = createSetFromAttr(arr, attr);
   await writeOutputData(attr, ret);
@@ -235,9 +264,9 @@ async function writeJSONSetFromAttr(arr, attr) {
 class JoinedOneHotVector {
   constructor(baseData, scalarAttrs, vectorAttrs) {
     this.scalarAttrs = scalarAttrs;
-    this.vectorAttrs = vectorAttrs;
     this.ranges = this.calculateRanges(baseData, vectorAttrs);
-    this.applyConfig(scalarAttrs, vectorAttrs);
+    this.vectorAttrs = vectorAttrs.filter(a => this.ranges[a].span !== -Infinity);
+    this.applyConfig(this.scalarAttrs, this.vectorAttrs);
   }
 
   applyConfig(localScalarAttrs, localVectorAttrs) {
@@ -314,6 +343,8 @@ module.exports = {
   maxAttr,
   extremeAttr,
   clamp,
+  shuffleArray,
+  shuffleTwoArrays,
   writeJSONSetFromAttr,
   JoinedOneHotVector,
 };

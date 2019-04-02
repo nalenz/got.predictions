@@ -2,7 +2,7 @@ const utils = require('../common/utils');
 const config = require('../common/config');
 
 (async () => {
-  const [characters] = await Promise.all([utils.loadShowData('characters')]);
+  const [characters, charactersBook] = await Promise.all([utils.loadShowData('characters'), utils.loadBookData('characters')]);
 
   // get maximum page rank and other uniquified attributes
   const [allegiances, appearances, cultures, titles] = await Promise.all([
@@ -14,6 +14,10 @@ const config = require('../common/config');
 
   // extract only the attributes we need for our prediction script and format them accordingly
   let charsFmt = characters
+    .map(c => {
+      let cb = charactersBook.find(d => d.name === c.name);
+      return cb && !c.birth ? { ...c, birth: cb.birth } : c;
+    })
     .filter(c => !!c.birth && (!c.death || c.death - c.birth >= 0))
     .map(c => ({
       name: c.name,
@@ -22,6 +26,7 @@ const config = require('../common/config');
       birth: c.birth,
       death: c.death || undefined,
 
+      pageRank: c.pagerank && c.pagerank.rank ? c.pagerank.rank : 0,
       numRelatives: utils.countAttrValues(c, ['mother', 'father', 'lovers', 'siblings', 'spouse']),
 
       allegiances: utils.arrToIndices(c.allegiances, allegiances),
@@ -32,7 +37,7 @@ const config = require('../common/config');
     .filter(c => c.age <= config.AGE_MAXIMUM);
 
   // normalize some scalar values
-  ['numRelatives'].forEach(a => {
+  ['pageRank', 'numRelatives'].forEach(a => {
     let max = utils.maxAttr(charsFmt, a);
     charsFmt.forEach(c => (c[a] /= max));
   });
@@ -54,5 +59,4 @@ const config = require('../common/config');
   console.log('appearances   :', appearances.length);
   console.log('cultures      :', cultures.length);
   console.log('titles        :', titles.length);
-  console.log(`# of relatives: ${utils.minAttr(charsFmt, 'numRelatives')} – ${utils.maxAttr(charsFmt, 'numRelatives')}`);
 })();
