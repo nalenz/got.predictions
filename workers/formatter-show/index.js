@@ -18,7 +18,7 @@ const config = require('../common/config');
     .map(c => ({
       name: c.name,
       male: c.gender === 'male',
-      age: (!c.death ? config.GOT_CURRENT_YEAR : c.death) - c.birth,
+      age: (!c.death ? config.GOT_CURRENT_YEAR_SHOW : c.death) - c.birth,
       birth: c.birth,
       death: c.death || undefined,
 

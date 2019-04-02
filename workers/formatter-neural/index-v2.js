@@ -1,9 +1,10 @@
 const utils = require('../common/utils');
+const config = require('../common/config');
 
 (async () => {
   // attributes for data
-  const dataScalarAttrs = ['male', 'pageRank'];
-  const dataVectorAttrs = ['age', 'books', 'house', 'locations', 'titles'];
+  const dataScalarAttrs = ['male', 'pageRank', 'numRelatives'];
+  const dataVectorAttrs = ['age', 'allegiances', 'books', 'culture', 'house', 'houseRegion', 'locations', 'titles'];
 
   // read data and determine ranges for all attributes
   const [charsTrain, charsPredict] = await Promise.all([
@@ -14,8 +15,11 @@ const utils = require('../common/utils');
   // create final data and labels
   const johv = new utils.JoinedOneHotVector(charsTrain.concat(charsPredict), dataScalarAttrs, dataVectorAttrs);
   const [dataTrain, labelsTrain] = johv.createMultipleUnfolded(charsTrain, 'age', (char, currAge) => [char.age >= currAge ? 1.0 : 0.0]);
-  const dataPredict = johv.createMultipleUnfoldedOnlyData(charsPredict, 'age', { min: 300, max: 320 }, (char, currYear, ageRange) =>
-    utils.clamp(currYear - char.dateOfBirth, ageRange),
+  const dataPredict = johv.createMultipleUnfoldedOnlyData(
+    charsPredict,
+    'age',
+    { min: config.GOT_CURRENT_YEAR_BOOK, max: 320 },
+    (char, currYear, ageRange) => utils.clamp(currYear - char.birth, ageRange),
   );
 
   // write data and labels to output file

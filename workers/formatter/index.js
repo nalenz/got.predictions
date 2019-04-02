@@ -27,12 +27,12 @@ const config = require('../common/config');
       male: c.male || false,
       birth: c.birth,
       death: c.death,
-      age: (c.death === undefined ? config.GOT_CURRENT_YEAR : c.death) - c.birth,
+      age: (c.death === undefined ? config.GOT_CURRENT_YEAR_BOOK : c.death) - c.birth,
 
       pageRank: c.pagerank && c.pagerank.rank ? c.pagerank.rank : 0,
       numRelatives: utils.countAttrValues(c, ['children', 'father', 'mother', 'spouse']),
 
-      allegiances: utils.arrToIndices(c.allegiances, allegiances),
+      allegiances: utils.arrToIndices(c.allegiance, allegiances),
       books: utils.arrToIndices(c.books, books),
       culture: cultures.findIndex(cu => cu === utils.sanitizeString(c.culture)),
       house: houses.findIndex(h => h === utils.sanitizeString(c.house)),

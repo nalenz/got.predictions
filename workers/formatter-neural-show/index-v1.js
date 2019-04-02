@@ -18,8 +18,8 @@ const config = require('../common/config');
   const dataPredict = johv.createMultipleUnfoldedOnlyData(
     charsPredict,
     'age',
-    { min: config.GOT_CURRENT_YEAR, max: 320 },
-    (char, currYear, ageRange) => utils.clamp(currYear - char.dateOfBirth, ageRange),
+    { min: config.GOT_CURRENT_YEAR_BOOK, max: 320 },
+    (char, currYear, ageRange) => utils.clamp(currYear - char.birth, ageRange),
   );
 
   // write data and labels to output file
