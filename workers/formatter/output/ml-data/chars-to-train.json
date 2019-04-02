@@ -1,7 +1,7 @@
 [
     {
         "name": "Addam Osgrey",
-        "male": false,
+        "male": true,
         "birth": 183,
         "death": 196,
         "age": 13,
@@ -21,7 +21,7 @@
     },
     {
         "name": "Addam Velaryon",
-        "male": false,
+        "male": true,
         "birth": 114,
         "death": 130,
         "age": 16,
@@ -50,7 +50,7 @@
     },
     {
         "name": "Aegon Blackfyre",
-        "male": false,
+        "male": true,
         "birth": 184,
         "death": 196,
         "age": 12,
@@ -72,7 +72,7 @@
     },
     {
         "name": "Aegon Frey (son of Stevron)",
-        "male": false,
+        "male": true,
         "birth": 249,
         "death": 299,
         "age": 50,
@@ -97,7 +97,7 @@
     },
     {
         "name": "Aegon I Targaryen",
-        "male": false,
+        "male": true,
         "birth": -27,
         "death": 37,
         "age": 64,
@@ -119,7 +119,7 @@
     },
     {
         "name": "Aegon II Targaryen",
-        "male": false,
+        "male": true,
         "birth": 107,
         "death": 131,
         "age": 24,
@@ -139,7 +139,7 @@
     },
     {
         "name": "Aegon III Targaryen",
-        "male": false,
+        "male": true,
         "birth": 120,
         "death": 157,
         "age": 37,
@@ -162,7 +162,7 @@
     },
     {
         "name": "Aegon IV Targaryen",
-        "male": false,
+        "male": true,
         "birth": 135,
         "death": 184,
         "age": 49,
@@ -182,7 +182,7 @@
     },
     {
         "name": "Aegon V Targaryen",
-        "male": false,
+        "male": true,
         "birth": 200,
         "death": 259,
         "age": 59,
@@ -202,7 +202,7 @@
     },
     {
         "name": "Aegon Targaryen (son of Rhaegar)",
-        "male": false,
+        "male": true,
         "birth": 281,
         "death": 283,
         "age": 2,
@@ -232,7 +232,7 @@
     },
     {
         "name": "Aegon Targaryen (son of Aenys I)",
-        "male": false,
+        "male": true,
         "birth": 26,
         "death": 43,
         "age": 17,
@@ -260,7 +260,7 @@
     },
     {
         "name": "Aegon Targaryen (son of Baelon)",
-        "male": false,
+        "male": true,
         "birth": 84,
         "death": 85,
         "age": 1,
@@ -283,7 +283,7 @@
     },
     {
         "name": "Aegon Targaryen (son of Jaehaerys I)",
-        "male": false,
+        "male": true,
         "birth": 52,
         "death": 52,
         "age": 0,
@@ -308,7 +308,7 @@
     },
     {
         "name": "Aegor Rivers",
-        "male": false,
+        "male": true,
         "birth": 172,
         "death": 241,
         "age": 69,
@@ -369,7 +369,7 @@
     },
     {
         "name": "Aemon Blackfyre",
-        "male": false,
+        "male": true,
         "birth": 184,
         "death": 196,
         "age": 12,
@@ -392,7 +392,7 @@
     },
     {
         "name": "Aemond Targaryen",
-        "male": false,
+        "male": true,
         "birth": 110,
         "death": 130,
         "age": 20,
@@ -425,7 +425,7 @@
     },
     {
         "name": "Aenys Frey",
-        "male": false,
+        "male": true,
         "birth": 240,
         "death": 300,
         "age": 60,
@@ -459,7 +459,7 @@
     },
     {
         "name": "Aenys I Targaryen",
-        "male": false,
+        "male": true,
         "birth": 7,
         "death": 42,
         "age": 35,
@@ -481,7 +481,7 @@
     },
     {
         "name": "Aerion Targaryen",
-        "male": false,
+        "male": true,
         "birth": 191,
         "death": 232,
         "age": 41,
@@ -513,7 +513,7 @@
     },
     {
         "name": "Aerys I Targaryen",
-        "male": false,
+        "male": true,
         "birth": 172,
         "death": 221,
         "age": 49,
@@ -532,7 +532,7 @@
     },
     {
         "name": "Aerys II Targaryen",
-        "male": false,
+        "male": true,
         "birth": 244,
         "death": 283,
         "age": 39,
@@ -593,7 +593,7 @@
     },
     {
         "name": "Alyn Cockshaw",
-        "male": false,
+        "male": true,
         "birth": 196,
         "death": 212,
         "age": 16,
@@ -618,7 +618,7 @@
     },
     {
         "name": "Alyn Velaryon",
-        "male": false,
+        "male": true,
         "birth": 115,
         "death": 171,
         "age": 56,
@@ -787,7 +787,7 @@
     },
     {
         "name": "Andros Brax",
-        "male": false,
+        "male": true,
         "birth": 262,
         "death": 298,
         "age": 36,
@@ -813,7 +813,7 @@
     },
     {
         "name": "Arlan of Pennytree",
-        "male": false,
+        "male": true,
         "birth": 149,
         "death": 209,
         "age": 60,
@@ -839,7 +839,7 @@
     },
     {
         "name": "Arthur Dayne",
-        "male": false,
+        "male": true,
         "birth": 260,
         "death": 283,
         "age": 23,
@@ -897,7 +897,7 @@
     },
     {
         "name": "Baelon Targaryen (son of Viserys I)",
-        "male": false,
+        "male": true,
         "birth": 105,
         "death": 105,
         "age": 0,
@@ -923,7 +923,7 @@
     },
     {
         "name": "Baelor I Targaryen",
-        "male": false,
+        "male": true,
         "birth": 144,
         "death": 171,
         "age": 27,
@@ -942,7 +942,7 @@
     },
     {
         "name": "Baelor Targaryen (son of Daeron II)",
-        "male": false,
+        "male": true,
         "birth": 170,
         "death": 209,
         "age": 39,
@@ -976,7 +976,7 @@
     },
     {
         "name": "Balon Greyjoy",
-        "male": false,
+        "male": true,
         "birth": 255,
         "death": 299,
         "age": 44,
@@ -1023,7 +1023,7 @@
     },
     {
         "name": "Barthogan Stark",
-        "male": false,
+        "male": true,
         "birth": 139,
         "death": 209,
         "age": 70,
@@ -1049,7 +1049,7 @@
     },
     {
         "name": "Benfred Tallhart",
-        "male": false,
+        "male": true,
         "birth": 279,
         "death": 299,
         "age": 20,
@@ -1076,7 +1076,7 @@
     },
     {
         "name": "Benfrey Frey",
-        "male": false,
+        "male": true,
         "birth": 271,
         "death": 299,
         "age": 28,
@@ -1103,7 +1103,7 @@
     },
     {
         "name": "Beric Dondarrion",
-        "male": false,
+        "male": true,
         "birth": 276,
         "death": 299,
         "age": 23,
@@ -1139,7 +1139,7 @@
     },
     {
         "name": "Beron Stark",
-        "male": false,
+        "male": true,
         "birth": 154,
         "death": 226,
         "age": 72,
@@ -1220,7 +1220,7 @@
     },
     {
         "name": "Brandon Stark",
-        "male": false,
+        "male": true,
         "birth": 262,
         "death": 282,
         "age": 20,
@@ -1249,7 +1249,7 @@
     },
     {
         "name": "Brandon Stark (son of Cregan)",
-        "male": false,
+        "male": true,
         "birth": 140,
         "death": 212,
         "age": 72,
@@ -1275,7 +1275,7 @@
     },
     {
         "name": "Bryce Caron",
-        "male": false,
+        "male": true,
         "birth": 276,
         "death": 299,
         "age": 23,
@@ -1305,7 +1305,7 @@
     },
     {
         "name": "Brynden Rivers",
-        "male": false,
+        "male": true,
         "birth": 175,
         "death": 252,
         "age": 77,
@@ -1378,7 +1378,7 @@
     },
     {
         "name": "Cleos Frey",
-        "male": false,
+        "male": true,
         "birth": 258,
         "death": 299,
         "age": 41,
@@ -1413,7 +1413,7 @@
     },
     {
         "name": "Cley Cerwyn",
-        "male": false,
+        "male": true,
         "birth": 284,
         "death": 299,
         "age": 15,
@@ -1442,7 +1442,7 @@
     },
     {
         "name": "Corlys Velaryon",
-        "male": false,
+        "male": true,
         "birth": 53,
         "death": 132,
         "age": 79,
@@ -1487,7 +1487,7 @@
     },
     {
         "name": "Cressen",
-        "male": false,
+        "male": true,
         "birth": 219,
         "death": 299,
         "age": 80,
@@ -1515,7 +1515,7 @@
     },
     {
         "name": "Criston Cole",
-        "male": false,
+        "male": true,
         "birth": 82,
         "death": 130,
         "age": 48,
@@ -1554,7 +1554,7 @@
     },
     {
         "name": "Cyrenna Swann",
-        "male": false,
+        "male": true,
         "birth": 236,
         "death": 249,
         "age": 13,
@@ -1632,7 +1632,7 @@
     },
     {
         "name": "Daemon I Blackfyre",
-        "male": false,
+        "male": true,
         "birth": 170,
         "death": 196,
         "age": 26,
@@ -1664,7 +1664,7 @@
     },
     {
         "name": "Daemon II Blackfyre",
-        "male": false,
+        "male": true,
         "birth": 189,
         "death": 212,
         "age": 23,
@@ -1691,7 +1691,7 @@
     },
     {
         "name": "Daemon Targaryen",
-        "male": false,
+        "male": true,
         "birth": 81,
         "death": 130,
         "age": 49,
@@ -1729,7 +1729,7 @@
     },
     {
         "name": "Daeron I Targaryen",
-        "male": false,
+        "male": true,
         "birth": 143,
         "death": 161,
         "age": 18,
@@ -1748,7 +1748,7 @@
     },
     {
         "name": "Daeron II Targaryen",
-        "male": false,
+        "male": true,
         "birth": 153,
         "death": 209,
         "age": 56,
@@ -1766,7 +1766,7 @@
     },
     {
         "name": "Daeron Targaryen (son of Viserys I)",
-        "male": false,
+        "male": true,
         "birth": 114,
         "death": 130,
         "age": 16,
@@ -1797,7 +1797,7 @@
     },
     {
         "name": "Daeron Targaryen (son of Maekar I)",
-        "male": false,
+        "male": true,
         "birth": 190,
         "death": 221,
         "age": 31,
@@ -1827,7 +1827,7 @@
     },
     {
         "name": "Dalbridge",
-        "male": false,
+        "male": true,
         "birth": 254,
         "death": 299,
         "age": 45,
@@ -1854,7 +1854,7 @@
     },
     {
         "name": "Damon Lannister (lord)",
-        "male": false,
+        "male": true,
         "birth": 179,
         "death": 210,
         "age": 31,
@@ -1882,7 +1882,7 @@
     },
     {
         "name": "Del",
-        "male": false,
+        "male": true,
         "birth": 283,
         "death": 299,
         "age": 16,
@@ -1904,7 +1904,7 @@
     },
     {
         "name": "Domeric Bolton",
-        "male": false,
+        "male": true,
         "birth": 273,
         "death": 297,
         "age": 24,
@@ -1930,7 +1930,7 @@
     },
     {
         "name": "Donal Noye",
-        "male": false,
+        "male": true,
         "birth": 252,
         "death": 300,
         "age": 48,
@@ -2040,7 +2040,7 @@
     },
     {
         "name": "Drogo",
-        "male": false,
+        "male": true,
         "birth": 267,
         "death": 299,
         "age": 32,
@@ -2067,7 +2067,7 @@
     },
     {
         "name": "Duncan Targaryen",
-        "male": false,
+        "male": true,
         "birth": 220,
         "death": 259,
         "age": 39,
@@ -2095,7 +2095,7 @@
     },
     {
         "name": "Eddard Stark",
-        "male": false,
+        "male": true,
         "birth": 263,
         "death": 299,
         "age": 36,
@@ -2145,7 +2145,7 @@
     },
     {
         "name": "Edwyle Stark",
-        "male": false,
+        "male": true,
         "birth": 226,
         "death": 262,
         "age": 36,
@@ -2236,7 +2236,7 @@
     },
     {
         "name": "Eon Hunter",
-        "male": false,
+        "male": true,
         "birth": 220,
         "death": 300,
         "age": 80,
@@ -2294,7 +2294,7 @@
     },
     {
         "name": "Gared",
-        "male": false,
+        "male": true,
         "birth": 241,
         "death": 298,
         "age": 57,
@@ -2318,7 +2318,7 @@
     },
     {
         "name": "Gerion Lannister",
-        "male": false,
+        "male": true,
         "birth": 255,
         "death": 291,
         "age": 36,
@@ -2346,7 +2346,7 @@
     },
     {
         "name": "Gerold Lannister",
-        "male": false,
+        "male": true,
         "birth": 206,
         "death": 244,
         "age": 38,
@@ -2373,7 +2373,7 @@
     },
     {
         "name": "Gregor Clegane",
-        "male": false,
+        "male": true,
         "birth": 265,
         "death": 300,
         "age": 35,
@@ -2410,7 +2410,7 @@
     },
     {
         "name": "Guyard Morrigen",
-        "male": false,
+        "male": true,
         "birth": 278,
         "death": 299,
         "age": 21,
@@ -2437,7 +2437,7 @@
     },
     {
         "name": "Gwayne Hightower",
-        "male": false,
+        "male": true,
         "birth": 88,
         "death": 130,
         "age": 42,
@@ -2465,7 +2465,7 @@
     },
     {
         "name": "Harwin Strong",
-        "male": false,
+        "male": true,
         "birth": 90,
         "death": 120,
         "age": 30,
@@ -2546,7 +2546,7 @@
     },
     {
         "name": "Holly",
-        "male": false,
+        "male": true,
         "birth": 283,
         "death": 300,
         "age": 17,
@@ -2566,7 +2566,7 @@
     },
     {
         "name": "Hoster Tully",
-        "male": false,
+        "male": true,
         "birth": 238,
         "death": 299,
         "age": 61,
@@ -2632,7 +2632,7 @@
     },
     {
         "name": "Jaehaerys I Targaryen",
-        "male": false,
+        "male": true,
         "birth": 34,
         "death": 103,
         "age": 69,
@@ -2658,7 +2658,7 @@
     },
     {
         "name": "Jaehaerys Targaryen (son of Aegon II)",
-        "male": false,
+        "male": true,
         "birth": 123,
         "death": 129,
         "age": 6,
@@ -2687,7 +2687,7 @@
     },
     {
         "name": "Jaehaerys II Targaryen",
-        "male": false,
+        "male": true,
         "birth": 225,
         "death": 262,
         "age": 37,
@@ -2708,7 +2708,7 @@
     },
     {
         "name": "Janos Slynt",
-        "male": false,
+        "male": true,
         "birth": 278,
         "death": 300,
         "age": 22,
@@ -2746,7 +2746,7 @@
     },
     {
         "name": "Jared Frey",
-        "male": false,
+        "male": true,
         "birth": 248,
         "death": 300,
         "age": 52,
@@ -2779,7 +2779,7 @@
     },
     {
         "name": "Jason Lannister",
-        "male": false,
+        "male": true,
         "birth": 89,
         "death": 130,
         "age": 41,
@@ -2808,7 +2808,7 @@
     },
     {
         "name": "Jeor Mormont",
-        "male": false,
+        "male": true,
         "birth": 230,
         "death": 299,
         "age": 69,
@@ -2940,7 +2940,7 @@
     },
     {
         "name": "Joffrey Baratheon",
-        "male": false,
+        "male": true,
         "birth": 286,
         "death": 300,
         "age": 14,
@@ -2962,7 +2962,7 @@
     },
     {
         "name": "Joffrey Lonmouth",
-        "male": false,
+        "male": true,
         "birth": 99,
         "death": 114,
         "age": 15,
@@ -2987,7 +2987,7 @@
     },
     {
         "name": "Jon Arryn",
-        "male": false,
+        "male": true,
         "birth": 218,
         "death": 298,
         "age": 80,
@@ -3029,7 +3029,7 @@
     },
     {
         "name": "Jon Bulwer",
-        "male": false,
+        "male": true,
         "birth": 278,
         "death": 299,
         "age": 21,
@@ -3052,7 +3052,7 @@
     },
     {
         "name": "Jonnel Stark",
-        "male": false,
+        "male": true,
         "birth": 136,
         "death": 209,
         "age": 73,
@@ -3078,7 +3078,7 @@
     },
     {
         "name": "Jory Cassel",
-        "male": false,
+        "male": true,
         "birth": 273,
         "death": 298,
         "age": 25,
@@ -3109,7 +3109,7 @@
     },
     {
         "name": "Kaeth",
-        "male": false,
+        "male": true,
         "birth": 175,
         "death": 257,
         "age": 82,
@@ -3138,7 +3138,7 @@
     },
     {
         "name": "Kevan Lannister",
-        "male": false,
+        "male": true,
         "birth": 244,
         "death": 300,
         "age": 56,
@@ -3176,7 +3176,7 @@
     },
     {
         "name": "Khrazz",
-        "male": false,
+        "male": true,
         "birth": 277,
         "death": 300,
         "age": 23,
@@ -3196,7 +3196,7 @@
     },
     {
         "name": "Kyra",
-        "male": false,
+        "male": true,
         "birth": 280,
         "death": 300,
         "age": 20,
@@ -3247,7 +3247,7 @@
     },
     {
         "name": "Laenor Velaryon",
-        "male": false,
+        "male": true,
         "birth": 94,
         "death": 120,
         "age": 26,
@@ -3307,7 +3307,7 @@
     },
     {
         "name": "Lyman Beesbury",
-        "male": false,
+        "male": true,
         "birth": 49,
         "death": 129,
         "age": 80,
@@ -3366,7 +3366,7 @@
     },
     {
         "name": "Lyonel Strong",
-        "male": false,
+        "male": true,
         "birth": 77,
         "death": 120,
         "age": 43,
@@ -3433,7 +3433,7 @@
     },
     {
         "name": "Maegor I Targaryen",
-        "male": false,
+        "male": true,
         "birth": 12,
         "death": 48,
         "age": 36,
@@ -3458,7 +3458,7 @@
     },
     {
         "name": "Maelor Targaryen",
-        "male": false,
+        "male": true,
         "birth": 127,
         "death": 130,
         "age": 3,
@@ -3488,7 +3488,7 @@
     },
     {
         "name": "Marillion",
-        "male": false,
+        "male": true,
         "birth": 279,
         "death": 300,
         "age": 21,
@@ -3514,7 +3514,7 @@
     },
     {
         "name": "Maron Greyjoy",
-        "male": false,
+        "male": true,
         "birth": 269,
         "death": 289,
         "age": 20,
@@ -3540,7 +3540,7 @@
     },
     {
         "name": "Matarys Targaryen",
-        "male": false,
+        "male": true,
         "birth": 184,
         "death": 209,
         "age": 25,

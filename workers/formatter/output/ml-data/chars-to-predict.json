@@ -1,7 +1,7 @@
 [
     {
         "name": "Aegon Frey (son of Aenys)",
-        "male": false,
+        "male": true,
         "birth": 253,
         "age": 47,
         "pageRank": 0,
@@ -23,7 +23,7 @@
     },
     {
         "name": "Aeron Greyjoy",
-        "male": false,
+        "male": true,
         "birth": 269,
         "age": 31,
         "pageRank": 0.05868814729574223,
@@ -133,7 +133,7 @@
     },
     {
         "name": "Alester Norcross",
-        "male": false,
+        "male": true,
         "birth": 290,
         "age": 10,
         "pageRank": 0,
@@ -175,7 +175,7 @@
     },
     {
         "name": "Alliser Thorne",
-        "male": false,
+        "male": true,
         "birth": 247,
         "age": 53,
         "pageRank": 0.17548906789413118,
@@ -205,7 +205,7 @@
     },
     {
         "name": "Alyn Frey",
-        "male": false,
+        "male": true,
         "birth": 295,
         "age": 5,
         "pageRank": 0,
@@ -229,7 +229,7 @@
     },
     {
         "name": "Alyn Haigh",
-        "male": false,
+        "male": true,
         "birth": 256,
         "age": 44,
         "pageRank": 0,
@@ -401,7 +401,7 @@
     },
     {
         "name": "Androw Frey",
-        "male": false,
+        "male": true,
         "birth": 295,
         "age": 5,
         "pageRank": 0,
@@ -425,7 +425,7 @@
     },
     {
         "name": "Ardrian Celtigar",
-        "male": false,
+        "male": true,
         "birth": 229,
         "age": 71,
         "pageRank": 0,
@@ -449,7 +449,7 @@
     },
     {
         "name": "Areo Hotah",
-        "male": false,
+        "male": true,
         "birth": 257,
         "age": 43,
         "pageRank": 0.05523590333716916,
@@ -508,7 +508,7 @@
     },
     {
         "name": "Arthor Karstark",
-        "male": false,
+        "male": true,
         "birth": 249,
         "age": 51,
         "pageRank": 0,
@@ -530,7 +530,7 @@
     },
     {
         "name": "Arwood Frey",
-        "male": false,
+        "male": true,
         "birth": 263,
         "age": 37,
         "pageRank": 0,
@@ -660,7 +660,7 @@
     },
     {
         "name": "Aurane Waters",
-        "male": false,
+        "male": true,
         "birth": 277,
         "age": 23,
         "pageRank": 0,
@@ -691,7 +691,7 @@
     },
     {
         "name": "Barristan Selmy",
-        "male": false,
+        "male": true,
         "birth": 236,
         "age": 64,
         "pageRank": 0.29344073647871116,
@@ -733,7 +733,7 @@
     },
     {
         "name": "Beck",
-        "male": false,
+        "male": true,
         "birth": 299,
         "age": 1,
         "pageRank": 0,
@@ -770,7 +770,7 @@
     },
     {
         "name": "Ben",
-        "male": false,
+        "male": true,
         "birth": 293,
         "age": 7,
         "pageRank": 0,
@@ -787,7 +787,7 @@
     },
     {
         "name": "Benjen Stark",
-        "male": false,
+        "male": true,
         "birth": 267,
         "age": 33,
         "pageRank": 0.2042577675489068,
@@ -820,7 +820,7 @@
     },
     {
         "name": "Beren Tallhart",
-        "male": false,
+        "male": true,
         "birth": 289,
         "age": 11,
         "pageRank": 0,
@@ -871,7 +871,7 @@
     },
     {
         "name": "Boy",
-        "male": false,
+        "male": true,
         "birth": 282,
         "age": 18,
         "pageRank": 0,
@@ -891,7 +891,7 @@
     },
     {
         "name": "Bradamar Frey",
-        "male": false,
+        "male": true,
         "birth": 289,
         "age": 11,
         "pageRank": 0,
@@ -915,7 +915,7 @@
     },
     {
         "name": "Bran Stark",
-        "male": false,
+        "male": true,
         "birth": 290,
         "age": 10,
         "pageRank": 0.4672036823935558,
@@ -950,7 +950,7 @@
     },
     {
         "name": "Brandon Tallhart",
-        "male": false,
+        "male": true,
         "birth": 284,
         "age": 16,
         "pageRank": 0,
@@ -975,7 +975,7 @@
     },
     {
         "name": "Bronn",
-        "male": false,
+        "male": true,
         "birth": 264,
         "age": 36,
         "pageRank": 0.3020713463751438,
@@ -1009,7 +1009,7 @@
     },
     {
         "name": "Bryan Frey",
-        "male": false,
+        "male": true,
         "birth": 281,
         "age": 19,
         "pageRank": 0,
@@ -1030,7 +1030,7 @@
     },
     {
         "name": "Bryen",
-        "male": false,
+        "male": true,
         "birth": 220,
         "age": 80,
         "pageRank": 0,
@@ -1049,7 +1049,7 @@
     },
     {
         "name": "Brynden Tully",
-        "male": false,
+        "male": true,
         "birth": 243,
         "age": 57,
         "pageRank": 0.13636363636363635,
@@ -1149,7 +1149,7 @@
     },
     {
         "name": "Clement",
-        "male": false,
+        "male": true,
         "birth": 251,
         "age": 49,
         "pageRank": 0,
@@ -1173,7 +1173,7 @@
     },
     {
         "name": "Clydas",
-        "male": false,
+        "male": true,
         "birth": 240,
         "age": 60,
         "pageRank": 0.05753739930955121,
@@ -1202,7 +1202,7 @@
     },
     {
         "name": "Colmar Frey",
-        "male": false,
+        "male": true,
         "birth": 288,
         "age": 12,
         "pageRank": 0,
@@ -1224,7 +1224,7 @@
     },
     {
         "name": "Cregan Karstark",
-        "male": false,
+        "male": true,
         "birth": 249,
         "age": 51,
         "pageRank": 0,
@@ -1248,7 +1248,7 @@
     },
     {
         "name": "Creighton Longbough",
-        "male": false,
+        "male": true,
         "birth": 240,
         "age": 60,
         "pageRank": 0,
@@ -1293,7 +1293,7 @@
     },
     {
         "name": "Daemon Sand",
-        "male": false,
+        "male": true,
         "birth": 275,
         "age": 25,
         "pageRank": 0.012658227848101266,
@@ -1339,7 +1339,7 @@
     },
     {
         "name": "Damion Lannister",
-        "male": false,
+        "male": true,
         "birth": 257,
         "age": 43,
         "pageRank": 0,
@@ -1366,7 +1366,7 @@
     },
     {
         "name": "Damon Lannister (son of Jason)",
-        "male": false,
+        "male": true,
         "birth": 244,
         "age": 56,
         "pageRank": 0,
@@ -1412,7 +1412,7 @@
     },
     {
         "name": "Danwell Frey",
-        "male": false,
+        "male": true,
         "birth": 252,
         "age": 48,
         "pageRank": 0,
@@ -1442,7 +1442,7 @@
     },
     {
         "name": "Daven Lannister",
-        "male": false,
+        "male": true,
         "birth": 273,
         "age": 27,
         "pageRank": 0,
@@ -1473,7 +1473,7 @@
     },
     {
         "name": "Davos Seaworth",
-        "male": false,
+        "male": true,
         "birth": 260,
         "age": 40,
         "pageRank": 0.29516685845799767,
@@ -1556,7 +1556,7 @@
     },
     {
         "name": "Denyo Terys",
-        "male": false,
+        "male": true,
         "birth": 287,
         "age": 13,
         "pageRank": 0,
@@ -1575,7 +1575,7 @@
     },
     {
         "name": "Denys Mallister",
-        "male": false,
+        "male": true,
         "birth": 245,
         "age": 55,
         "pageRank": 0.07479861910241657,
@@ -1610,7 +1610,7 @@
     },
     {
         "name": "Desmond Grell",
-        "male": false,
+        "male": true,
         "birth": 237,
         "age": 63,
         "pageRank": 0,
@@ -1642,7 +1642,7 @@
     },
     {
         "name": "Devan Seaworth",
-        "male": false,
+        "male": true,
         "birth": 287,
         "age": 13,
         "pageRank": 0,
@@ -1667,7 +1667,7 @@
     },
     {
         "name": "Dickon Frey",
-        "male": false,
+        "male": true,
         "birth": 294,
         "age": 6,
         "pageRank": 0,
@@ -1688,7 +1688,7 @@
     },
     {
         "name": "Dickon Tarly",
-        "male": false,
+        "male": true,
         "birth": 287,
         "age": 13,
         "pageRank": 0.05868814729574223,
@@ -1711,7 +1711,7 @@
     },
     {
         "name": "Donel Greyjoy",
-        "male": false,
+        "male": true,
         "birth": 255,
         "age": 45,
         "pageRank": 0,
@@ -1730,7 +1730,7 @@
     },
     {
         "name": "Donnel Haigh",
-        "male": false,
+        "male": true,
         "birth": 255,
         "age": 45,
         "pageRank": 0,
@@ -1755,7 +1755,7 @@
     },
     {
         "name": "Donnel Waynwood",
-        "male": false,
+        "male": true,
         "birth": 277,
         "age": 23,
         "pageRank": 0.009781357882623706,
@@ -1785,7 +1785,7 @@
     },
     {
         "name": "Doran Martell",
-        "male": false,
+        "male": true,
         "birth": 247,
         "age": 53,
         "pageRank": 0.14211737629459148,
@@ -1841,7 +1841,7 @@
     },
     {
         "name": "Dunstan Drumm",
-        "male": false,
+        "male": true,
         "birth": 212,
         "age": 88,
         "pageRank": 0,
@@ -1869,7 +1869,7 @@
     },
     {
         "name": "Duram Bar Emmon",
-        "male": false,
+        "male": true,
         "birth": 284,
         "age": 16,
         "pageRank": 0,
@@ -1894,7 +1894,7 @@
     },
     {
         "name": "Eddara Tallhart",
-        "male": false,
+        "male": true,
         "birth": 289,
         "age": 11,
         "pageRank": 0,
@@ -1921,7 +1921,7 @@
     },
     {
         "name": "Edmure Tully",
-        "male": false,
+        "male": true,
         "birth": 267,
         "age": 33,
         "pageRank": 0.1668584579976985,
@@ -1956,7 +1956,7 @@
     },
     {
         "name": "Edric Dayne",
-        "male": false,
+        "male": true,
         "birth": 287,
         "age": 13,
         "pageRank": 0,
@@ -1984,7 +1984,7 @@
     },
     {
         "name": "Edric Storm",
-        "male": false,
+        "male": true,
         "birth": 287,
         "age": 13,
         "pageRank": 0,
@@ -2010,7 +2010,7 @@
     },
     {
         "name": "Edwyn Frey",
-        "male": false,
+        "male": true,
         "birth": 259,
         "age": 41,
         "pageRank": 0,
@@ -2039,7 +2039,7 @@
     },
     {
         "name": "Elder Brother (Quiet Isle)",
-        "male": false,
+        "male": true,
         "birth": 255,
         "age": 45,
         "pageRank": 0,
@@ -2064,7 +2064,7 @@
     },
     {
         "name": "Eldon Estermont",
-        "male": false,
+        "male": true,
         "birth": 228,
         "age": 72,
         "pageRank": 0,
@@ -2089,7 +2089,7 @@
     },
     {
         "name": "Eleanor Mooton",
-        "male": false,
+        "male": true,
         "birth": 286,
         "age": 14,
         "pageRank": 0,
@@ -2184,7 +2184,7 @@
     },
     {
         "name": "Elmar Frey",
-        "male": false,
+        "male": true,
         "birth": 290,
         "age": 10,
         "pageRank": 0,
@@ -2207,7 +2207,7 @@
     },
     {
         "name": "Elwood Meadows",
-        "male": false,
+        "male": true,
         "birth": 278,
         "age": 22,
         "pageRank": 0,
@@ -2294,7 +2294,7 @@
     },
     {
         "name": "Emmon Frey",
-        "male": false,
+        "male": true,
         "birth": 237,
         "age": 63,
         "pageRank": 0,
@@ -2353,7 +2353,7 @@
     },
     {
         "name": "Erik Ironmaker",
-        "male": false,
+        "male": true,
         "birth": 211,
         "age": 89,
         "pageRank": 0,
@@ -2408,7 +2408,7 @@
     },
     {
         "name": "Euron Greyjoy",
-        "male": false,
+        "male": true,
         "birth": 256,
         "age": 44,
         "pageRank": 0.22209436133486765,
@@ -2425,7 +2425,7 @@
     },
     {
         "name": "Falia Flowers",
-        "male": false,
+        "male": true,
         "birth": 281,
         "age": 19,
         "pageRank": 0,
@@ -2446,7 +2446,7 @@
     },
     {
         "name": "Flement Brax",
-        "male": false,
+        "male": true,
         "birth": 277,
         "age": 23,
         "pageRank": 0,
@@ -2498,7 +2498,7 @@
     },
     {
         "name": "Garlan Tyrell",
-        "male": false,
+        "male": true,
         "birth": 277,
         "age": 23,
         "pageRank": 0.00805523590333717,
@@ -2528,7 +2528,7 @@
     },
     {
         "name": "Gawen Glover",
-        "male": false,
+        "male": true,
         "birth": 295,
         "age": 5,
         "pageRank": 0.014959723820483314,
@@ -2554,7 +2554,7 @@
     },
     {
         "name": "Gendry",
-        "male": false,
+        "male": true,
         "birth": 284,
         "age": 16,
         "pageRank": 0.19850402761795166,
@@ -2615,7 +2615,7 @@
     },
     {
         "name": "Gerold Dayne",
-        "male": false,
+        "male": true,
         "birth": 270,
         "age": 30,
         "pageRank": 0,
@@ -2642,7 +2642,7 @@
     },
     {
         "name": "Gerris Drinkwater",
-        "male": false,
+        "male": true,
         "birth": 275,
         "age": 25,
         "pageRank": 0,
@@ -2694,7 +2694,7 @@
     },
     {
         "name": "Gilwood Hunter",
-        "male": false,
+        "male": true,
         "birth": 250,
         "age": 50,
         "pageRank": 0,
@@ -2721,7 +2721,7 @@
     },
     {
         "name": "Gormond Goodbrother",
-        "male": false,
+        "male": true,
         "birth": 282,
         "age": 18,
         "pageRank": 0,
@@ -2742,7 +2742,7 @@
     },
     {
         "name": "Gran Goodbrother",
-        "male": false,
+        "male": true,
         "birth": 282,
         "age": 18,
         "pageRank": 0,
@@ -2763,7 +2763,7 @@
     },
     {
         "name": "Grenn",
-        "male": false,
+        "male": true,
         "birth": 281,
         "age": 19,
         "pageRank": 0.14039125431530494,
@@ -2792,7 +2792,7 @@
     },
     {
         "name": "Greydon Goodbrother",
-        "male": false,
+        "male": true,
         "birth": 282,
         "age": 18,
         "pageRank": 0,
@@ -2813,7 +2813,7 @@
     },
     {
         "name": "Gulian Swann",
-        "male": false,
+        "male": true,
         "birth": 259,
         "age": 41,
         "pageRank": 0,
@@ -2835,7 +2835,7 @@
     },
     {
         "name": "Gunthor Hightower",
-        "male": false,
+        "male": true,
         "birth": 271,
         "age": 29,
         "pageRank": 0,
@@ -2898,7 +2898,7 @@
     },
     {
         "name": "Halder",
-        "male": false,
+        "male": true,
         "birth": 281,
         "age": 19,
         "pageRank": 0.05868814729574223,
@@ -2926,7 +2926,7 @@
     },
     {
         "name": "Harlon Greyjoy",
-        "male": false,
+        "male": true,
         "birth": 253,
         "age": 47,
         "pageRank": 0,
@@ -2948,7 +2948,7 @@
     },
     {
         "name": "Harrold Hardyng",
-        "male": false,
+        "male": true,
         "birth": 281,
         "age": 19,
         "pageRank": 0,
@@ -2979,7 +2979,7 @@
     },
     {
         "name": "Harwin",
-        "male": false,
+        "male": true,
         "birth": 271,
         "age": 29,
         "pageRank": 0,
@@ -3005,7 +3005,7 @@
     },
     {
         "name": "Harys Haigh",
-        "male": false,
+        "male": true,
         "birth": 254,
         "age": 46,
         "pageRank": 0,
@@ -3032,7 +3032,7 @@
     },
     {
         "name": "Hosteen Frey",
-        "male": false,
+        "male": true,
         "birth": 249,
         "age": 51,
         "pageRank": 0,
@@ -3063,7 +3063,7 @@
     },
     {
         "name": "Hoster Frey",
-        "male": false,
+        "male": true,
         "birth": 287,
         "age": 13,
         "pageRank": 0,
@@ -3084,7 +3084,7 @@
     },
     {
         "name": "Hother Umber",
-        "male": false,
+        "male": true,
         "birth": 241,
         "age": 59,
         "pageRank": 0,
@@ -3115,7 +3115,7 @@
     },
     {
         "name": "Howland Reed",
-        "male": false,
+        "male": true,
         "birth": 260,
         "age": 40,
         "pageRank": 0.05293440736478711,
@@ -3169,7 +3169,7 @@
     },
     {
         "name": "Illifer",
-        "male": false,
+        "male": true,
         "birth": 240,
         "age": 60,
         "pageRank": 0,
@@ -3213,7 +3213,7 @@
     },
     {
         "name": "Jaime Frey",
-        "male": false,
+        "male": true,
         "birth": 299,
         "age": 1,
         "pageRank": 0,
@@ -3235,7 +3235,7 @@
     },
     {
         "name": "Jaime Lannister",
-        "male": false,
+        "male": true,
         "birth": 266,
         "age": 34,
         "pageRank": 0.7744533947065593,
@@ -3278,7 +3278,7 @@
     },
     {
         "name": "Jammos Frey",
-        "male": false,
+        "male": true,
         "birth": 266,
         "age": 34,
         "pageRank": 0,
@@ -3457,7 +3457,7 @@
     },
     {
         "name": "Jhogo",
-        "male": false,
+        "male": true,
         "birth": 281,
         "age": 19,
         "pageRank": 0.004027617951668585,
@@ -3483,7 +3483,7 @@
     },
     {
         "name": "Jojen Reed",
-        "male": false,
+        "male": true,
         "birth": 286,
         "age": 14,
         "pageRank": 0.10069044879171461,
@@ -3535,7 +3535,7 @@
     },
     {
         "name": "Jon Connington",
-        "male": false,
+        "male": true,
         "birth": 260,
         "age": 40,
         "pageRank": 0.021288837744533946,
@@ -3568,7 +3568,7 @@
     },
     {
         "name": "Jon Snow",
-        "male": false,
+        "male": true,
         "birth": 283,
         "age": 17,
         "pageRank": 1,
@@ -3666,7 +3666,7 @@
     },
     {
         "name": "Jorah Mormont",
-        "male": false,
+        "male": true,
         "birth": 254,
         "age": 46,
         "pageRank": 0.41254315304948214,
@@ -3720,7 +3720,7 @@
     },
     {
         "name": "Josmyn Peckledon",
-        "male": false,
+        "male": true,
         "birth": 284,
         "age": 16,
         "pageRank": 0,
@@ -3773,7 +3773,7 @@
     },
     {
         "name": "Joyeuse Erenford",
-        "male": false,
+        "male": true,
         "birth": 282,
         "age": 18,
         "pageRank": 0.03624856156501726,
@@ -3799,7 +3799,7 @@
     },
     {
         "name": "Kedge Whiteye",
-        "male": false,
+        "male": true,
         "birth": 251,
         "age": 49,
         "pageRank": 0,
@@ -3845,7 +3845,7 @@
     },
     {
         "name": "Lancel Lannister",
-        "male": false,
+        "male": true,
         "birth": 282,
         "age": 18,
         "pageRank": 0.13060989643268126,
@@ -3926,7 +3926,7 @@
     },
     {
         "name": "Larence Snow",
-        "male": false,
+        "male": true,
         "birth": 286,
         "age": 14,
         "pageRank": 0,
@@ -3988,7 +3988,7 @@
     },
     {
         "name": "Leathers",
-        "male": false,
+        "male": true,
         "birth": 259,
         "age": 41,
         "pageRank": 0,
@@ -4042,7 +4042,7 @@
     },
     {
         "name": "Loras Tyrell",
-        "male": false,
+        "male": true,
         "birth": 282,
         "age": 18,
         "pageRank": 0.23014959723820483,
@@ -4075,7 +4075,7 @@
     },
     {
         "name": "Lorcas",
-        "male": false,
+        "male": true,
         "birth": 241,
         "age": 59,
         "pageRank": 0,
@@ -4118,7 +4118,7 @@
     },
     {
         "name": "Lothar Frey",
-        "male": false,
+        "male": true,
         "birth": 264,
         "age": 36,
         "pageRank": 0.09551208285385501,
@@ -4146,7 +4146,7 @@
     },
     {
         "name": "Luceon Frey",
-        "male": false,
+        "male": true,
         "birth": 249,
         "age": 51,
         "pageRank": 0,
@@ -4199,7 +4199,7 @@
     },
     {
         "name": "Lucos Chyttering",
-        "male": false,
+        "male": true,
         "birth": 283,
         "age": 17,
         "pageRank": 0,
@@ -4241,7 +4241,7 @@
     },
     {
         "name": "Lynesse Hightower",
-        "male": false,
+        "male": true,
         "birth": 272,
         "age": 28,
         "pageRank": 0.02474108170310702,
@@ -4266,7 +4266,7 @@
     },
     {
         "name": "Lyonel Corbray",
-        "male": false,
+        "male": true,
         "birth": 260,
         "age": 40,
         "pageRank": 0,
@@ -4364,7 +4364,7 @@
     },
     {
         "name": "Mace Tyrell",
-        "male": false,
+        "male": true,
         "birth": 256,
         "age": 44,
         "pageRank": 0.18814729574223246,
@@ -4458,7 +4458,7 @@
     },
     {
         "name": "Malwyn Frey",
-        "male": false,
+        "male": true,
         "birth": 284,
         "age": 16,
         "pageRank": 0,
@@ -4582,7 +4582,7 @@
     },
     {
         "name": "Maron Volmark",
-        "male": false,
+        "male": true,
         "birth": 283,
         "age": 17,
         "pageRank": 0,
@@ -4606,7 +4606,7 @@
     },
     {
         "name": "Martyn Lannister",
-        "male": false,
+        "male": true,
         "birth": 285,
         "age": 15,
         "pageRank": 0.08918296892980437,

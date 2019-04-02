@@ -25,7 +25,7 @@ labelsTrain = readFormattedBinaryBookMLFile("v2-labels-train")
 
 
 
-if False:
+if True:
   # build the model
   model = Sequential()
   model.add(Dense(500, activation='relu'))

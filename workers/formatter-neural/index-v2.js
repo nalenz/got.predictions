@@ -14,7 +14,9 @@ const config = require('../common/config');
 
   // create final data and labels
   const johv = new utils.JoinedOneHotVector(charsTrain.concat(charsPredict), dataScalarAttrs, dataVectorAttrs);
-  const [dataTrain, labelsTrain] = johv.createMultipleUnfolded(charsTrain, 'age', (char, currAge) => [char.age >= currAge ? 1.0 : 0.0]);
+  const [dataTrain, labelsTrain] = utils.shuffleTwoArrays(
+    johv.createMultipleUnfolded(charsTrain, 'age', (char, currAge) => [char.age >= currAge ? 1.0 : 0.0]),
+  );
   const dataPredict = johv.createMultipleUnfoldedOnlyData(
     charsPredict,
     'age',
