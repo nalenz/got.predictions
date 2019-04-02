@@ -94,6 +94,30 @@ async function writeOutputDataBinary(name, data, compress) {
 }
 
 /**
+ * Sanitizes a string by removing certain quirky characters in the input data, for example invalid
+ * single quotes, wiki reference strings, or leading or training quotes.
+ * @param {string} s - The string to be sanitized.
+ */
+function sanitizeString(s) {
+  if (!s) return null;
+  return s
+    .toLowerCase()
+    .replace(/(&apos;|\u2019)/g, "'")
+    .replace(/\[[0-9]+\]/g, '')
+    .replace(/^"/g, '')
+    .replace(/"$/g, '');
+}
+
+/**
+ * Checks if the sanitized versions of two strings are equal.
+ * @param {string} a - The first string to be compared.
+ * @param {string} b - The second string to be compared.
+ */
+function sanitizedCmp(a, b) {
+  return sanitizeString(a) === sanitizeString(b);
+}
+
+/**
  * Uniquifies and sorts all entries of the given array which have been modified by the given
  * function before. For an example, see the `createSetFromAttr` function, which is a specialization
  * of this one. Note that this function is only designed to deal with string arrays. It automatically
@@ -104,15 +128,14 @@ async function writeOutputDataBinary(name, data, compress) {
  * to return an array of values itself.
  */
 function createSetFromAttrFunc(arr, fn) {
-  return [...new Set([].concat(...arr.map(c => fn(c).map(x => (x || '').toLowerCase()))))]
-    .filter(c => c.length > 0)
-    .map(c =>
-      c
-        .replace(/(&apos;|\u2019)/g, "'")
-        .replace(/^"/g, '')
-        .replace(/"$/g, ''),
-    )
-    .sort();
+  return [
+    ...new Set(
+      []
+        .concat(...arr.map(c => fn(c).map(x => x || '')))
+        .filter(c => c.length > 0)
+        .map(sanitizeString),
+    ),
+  ].sort();
 }
 
 /**
@@ -126,7 +149,7 @@ function createSetFromAttrFunc(arr, fn) {
  * have an array itself at every value of this attribute.
  */
 function createSetFromAttr(arr, attr) {
-  return createSetFromAttrFunc(arr, n => n[attr]);
+  return createSetFromAttrFunc(arr, n => (n[attr] instanceof Array ? n[attr] : [n[attr]]));
 }
 
 /**
@@ -138,7 +161,7 @@ function createSetFromAttr(arr, attr) {
  * @param {string[]} base - The list of base values to be used.
  */
 function arrToIndices(arr, base) {
-  return (arr || []).map(x => base.indexOf(x.toLowerCase())).filter(x => x !== -1);
+  return (arr || []).map(x => base.indexOf(sanitizeString(x))).filter(x => x !== -1);
 }
 
 /**
@@ -282,6 +305,8 @@ module.exports = {
   loadFormatterShowMLData,
   writeOutputData,
   writeOutputDataBinary,
+  sanitizeString,
+  sanitizedCmp,
   createSetFromAttrFunc,
   arrToIndices,
   countAttrValues,
