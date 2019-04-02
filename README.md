@@ -68,3 +68,8 @@ To create a new branch to add your changes to, please execute the following comm
   - This prevents illogical results from appearing, as the character's current age is one part of the input and the number of years he has still left to live is output.
   - It's strange that the predictions never exceed 63.87% for any character in any year.
   - It will be necessary to discuss which threshold will define the prediction for the year the character will die in. Maybe when the value drops below 50%? Alternatively, no such specific prediction will be made at all, but the user will just see the PLOSs for every future year.
+
+## Neural Network Predictions
+
+- [Book](workers/predictors-neural/predictor-neural-v2/output/predictions.json) (PLOS for characters from years 300 to 320)
+- [Show](workers/predictors-neural/predictor-neural-show-v1/output/predictions.json) (PLOS for characters from years 304 to 320)
