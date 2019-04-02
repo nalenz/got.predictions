@@ -1,0 +1,77 @@
+[
+    {
+        "__v": 0,
+        "_id": "5ca359419dd2ce06aa4a9ddd",
+        "endDate": 1000032,
+        "name": "Dawn Age",
+        "successor": "Age of Heroes"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca359419dd2ce06aa4a9dde",
+        "endDate": 800032,
+        "name": "Age of Heroes",
+        "predecessor": "Dawn Age",
+        "startDate": 1000032,
+        "successor": "Andal invasion"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca359419dd2ce06aa4a9ddf",
+        "endDate": 600032,
+        "name": "Andal invasion",
+        "predecessor": "Age of Heroes",
+        "startDate": 600032,
+        "successor": "Age of Valyria"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca359419dd2ce06aa4a9de0",
+        "endDate": 11432,
+        "name": "Age of Valyria",
+        "predecessor": "Andal invasion",
+        "successor": "The Seven Kingdoms"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca359419dd2ce06aa4a9de1",
+        "endDate": 4232,
+        "name": "The Seven Kingdoms",
+        "predecessor": "Age of Valyria",
+        "startDate": 300032,
+        "successor": "Targaryen Dynasty"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca359419dd2ce06aa4a9de2",
+        "endDate": 28032,
+        "name": "Targaryen Dynasty",
+        "predecessor": "The Seven Kingdoms",
+        "successor": "The Fall of the Dragons"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca359419dd2ce06aa4a9de3",
+        "name": "The Fall of the Dragons",
+        "predecessor": "Targaryen Dynasty",
+        "startDate": 28132,
+        "successor": "King Robert's Reign"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca359419dd2ce06aa4a9de4",
+        "endDate": 29732,
+        "name": "King Robert's Reign",
+        "predecessor": "The Fall of the Dragons",
+        "startDate": 28432,
+        "successor": "A Song of Ice and Fire"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca359419dd2ce06aa4a9de5",
+        "endDate": 30032,
+        "name": "A Song of Ice and Fire",
+        "predecessor": "King Robert's Reign",
+        "startDate": 29832
+    }
+]
