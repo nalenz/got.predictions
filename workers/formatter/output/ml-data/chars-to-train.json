@@ -1,1 +1,3568 @@
-[{"name":"Addam Osgrey","age":13,"books":[13],"dateOfBirth":183,"dateOfDeath":196,"house":189,"locations":[],"male":true,"pageRank":0.02,"titles":[]},{"name":"Aegon Blackfyre","age":12,"books":[13,10,6],"dateOfBirth":184,"dateOfDeath":196,"house":309,"locations":[174,170],"male":true,"pageRank":0.08666666666666667,"titles":[]},{"name":"Addam Velaryon","age":16,"books":[15,11],"dateOfBirth":114,"dateOfDeath":130,"house":289,"locations":[174,123,31,107,77,169],"male":true,"pageRank":0.11,"titles":[401]},{"name":"Aegon Frey (son of Stevron)","age":50,"books":[0,6,4],"dateOfBirth":249,"dateOfDeath":299,"house":188,"locations":[],"male":true,"pageRank":0,"titles":[]},{"name":"Aegon I Targaryen","age":64,"books":[],"dateOfBirth":-27,"dateOfDeath":37,"house":167,"locations":[175,174,58,31,107,170,88,113,77,165],"male":true,"pageRank":1,"titles":[]},{"name":"Aegon II Targaryen","age":24,"books":[],"dateOfBirth":107,"dateOfDeath":131,"house":167,"locations":[31,127,77,6],"male":true,"pageRank":0.76,"titles":[]},{"name":"Aegon IV Targaryen","age":49,"books":[],"dateOfBirth":135,"dateOfDeath":184,"house":167,"locations":[174,173,58,148,159,11,170,88,77,112,165],"male":true,"pageRank":0.6766666666666666,"titles":[]},{"name":"Aegon V Targaryen","age":59,"books":[],"dateOfBirth":200,"dateOfDeath":259,"house":167,"locations":[126,16,31,2,66,155,157,170,106,77],"male":true,"pageRank":0.6966666666666667,"titles":[]},{"name":"Aegon III Targaryen","age":37,"books":[],"dateOfBirth":120,"dateOfDeath":157,"house":167,"locations":[174,31,99,77,169,165,36,89],"male":true,"pageRank":0.6266666666666667,"titles":[]},{"name":"Aegon Targaryen (son of Aenys I)","age":17,"books":[15],"dateOfBirth":26,"dateOfDeath":43,"house":167,"locations":[174,23,31,77,165],"male":true,"pageRank":0.6466666666666666,"titles":[370]},{"name":"Aegon Targaryen (son of Rhaegar)","age":2,"books":[15,5,0,6,4,2],"dateOfBirth":281,"dateOfDeath":283,"house":167,"locations":[176,175,90,174,91,185,3,172,44,16,31,155,54,122,51,159,170,88,96,113,106,77,67,165],"male":true,"pageRank":0,"titles":[]},{"name":"Aegor Rivers","age":69,"books":[13,10,4,2,15],"dateOfBirth":172,"dateOfDeath":241,"house":212,"locations":[149,118,170,96,77,116],"male":true,"pageRank":0.21333333333333335,"titles":[401]},{"name":"Aemma Arryn","age":23,"books":[15,12,11],"dateOfBirth":82,"dateOfDeath":105,"house":274,"locations":[],"male":false,"pageRank":0.01,"titles":[385]},{"name":"Aemon Blackfyre","age":12,"books":[13,10,6],"dateOfBirth":184,"dateOfDeath":196,"house":309,"locations":[174,170],"male":true,"pageRank":0.09,"titles":[]},{"name":"Aenys Frey","age":60,"books":[5,0,6,4,2],"dateOfBirth":240,"dateOfDeath":300,"house":188,"locations":[162,58,180,77,183],"male":true,"pageRank":0.15,"titles":[401]},{"name":"Aemond Targaryen","age":20,"books":[15,12,11,2],"dateOfBirth":110,"dateOfDeath":130,"house":167,"locations":[174,58,31,155,127,77],"male":true,"pageRank":0.31333333333333335,"titles":[370,382,378]},{"name":"Aerion Targaryen","age":41,"books":[15,9,13,10,0,6,2],"dateOfBirth":191,"dateOfDeath":232,"house":167,"locations":[174,31,2,170,88],"male":true,"pageRank":0.21,"titles":[370]},{"name":"Aenys I Targaryen","age":35,"books":[],"dateOfBirth":7,"dateOfDeath":42,"house":167,"locations":[23,31,148,66,113,77,165,36],"male":true,"pageRank":0.5733333333333334,"titles":[]},{"name":"Aerys I Targaryen","age":49,"books":[],"dateOfBirth":172,"dateOfDeath":221,"house":167,"locations":[31,170,77,116],"male":true,"pageRank":0.6233333333333333,"titles":[]},{"name":"Aerys II Targaryen","age":39,"books":[],"dateOfBirth":244,"dateOfDeath":283,"house":167,"locations":[175,174,27,64,58,154,16,31,107,155,157,11,170,88,96,106,33,77,183,67,36],"male":true,"pageRank":1,"titles":[]},{"name":"Alicent Hightower","age":45,"books":[15,12,11],"dateOfBirth":88,"dateOfDeath":133,"house":235,"locations":[31,107,113,77,67,165],"male":false,"pageRank":0.27,"titles":[132,385,70]},{"name":"Alyn Velaryon","age":56,"books":[15,11,4,2],"dateOfBirth":115,"dateOfDeath":171,"house":289,"locations":[175,174,115,31,128,148,159,170,88,96,113,60],"male":true,"pageRank":0.08166666666666667,"titles":[313,345,2,351]},{"name":"Alysanne Osgrey","age":21,"books":[13],"dateOfBirth":188,"dateOfDeath":209,"house":189,"locations":[77],"male":false,"pageRank":0.015,"titles":[]},{"name":"Alyssa Blackwood","age":16,"books":[0,6,4,2],"dateOfBirth":253,"dateOfDeath":269,"house":266,"locations":[162,23],"male":false,"pageRank":0.05,"titles":[132]},{"name":"Amarei Crakehall","age":19,"books":[0,6,4,2],"dateOfBirth":245,"dateOfDeath":264,"house":237,"locations":[27,23,11],"male":false,"pageRank":0.023333333333333334,"titles":[]},{"name":"Alysanne Targaryen","age":63,"books":[],"dateOfBirth":36,"dateOfDeath":99,"house":167,"locations":[31,113,98,29,120,165],"male":false,"pageRank":0.28,"titles":[]},{"name":"Arlan of Pennytree","age":60,"books":[9,13,10],"dateOfBirth":149,"dateOfDeath":209,"house":-1,"locations":[58,148,2,155,60,77,112],"male":true,"pageRank":0.10666666666666667,"titles":[401]},{"name":"Arthur Dayne","age":23,"books":[5,0,6,4,2,15],"dateOfBirth":260,"dateOfDeath":283,"house":205,"locations":[27,58,155,166,147,183,165],"male":true,"pageRank":0.15666666666666668,"titles":[401,413]},{"name":"Ashara Dayne","age":23,"books":[5,0,6,2],"dateOfBirth":260,"dateOfDeath":283,"house":205,"locations":[91,58,166,147,183,165],"male":false,"pageRank":0.09666666666666666,"titles":[]},{"name":"Baelon Targaryen (son of Viserys I)","age":0,"books":[12],"dateOfBirth":105,"dateOfDeath":105,"house":167,"locations":[174,77],"male":true,"pageRank":0,"titles":[370]},{"name":"Baelor Targaryen (son of Daeron II)","age":39,"books":[15,9,13,10,6],"dateOfBirth":170,"dateOfDeath":209,"house":167,"locations":[31,128,148,2,155,170,113,60,112],"male":true,"pageRank":0,"titles":[372,382,88]},{"name":"Baelor I Targaryen","age":27,"books":[],"dateOfBirth":144,"dateOfDeath":171,"house":167,"locations":[155,8,159,77,165],"male":true,"pageRank":0.5033333333333333,"titles":[]},{"name":"Barsena Blackhair","age":30,"books":[2],"dateOfBirth":270,"dateOfDeath":300,"house":-1,"locations":[91],"male":false,"pageRank":0.06,"titles":[]},{"name":"Barra","age":1,"books":[5,0,2],"dateOfBirth":298,"dateOfDeath":299,"house":170,"locations":[96,77],"male":false,"pageRank":0.11,"titles":[]},{"name":"Benfred Tallhart","age":18,"books":[0,6,4,2],"dateOfBirth":281,"dateOfDeath":299,"house":118,"locations":[183,71,164,92],"male":true,"pageRank":0.07333333333333333,"titles":[]},{"name":"Benfrey Frey","age":28,"books":[0,6,4,2],"dateOfBirth":271,"dateOfDeath":299,"house":188,"locations":[162,128],"male":true,"pageRank":0.03833333333333333,"titles":[401]},{"name":"Beric Dondarrion","age":23,"books":[5,0,6,4,2],"dateOfBirth":276,"dateOfDeath":299,"house":-1,"locations":[64,130,23,58,95,8,147,96,77],"male":true,"pageRank":0.43666666666666665,"titles":[198]},{"name":"Bethany Bracken","age":22,"books":[15],"dateOfBirth":156,"dateOfDeath":178,"house":212,"locations":[149],"male":false,"pageRank":0.03333333333333333,"titles":[]},{"name":"Bethany Rosby","age":17,"books":[0,6,4,2],"dateOfBirth":265,"dateOfDeath":282,"house":161,"locations":[128],"male":false,"pageRank":0.13166666666666665,"titles":[132]},{"name":"Brandon Stark","age":20,"books":[5,0,6,2],"dateOfBirth":262,"dateOfDeath":282,"house":160,"locations":[126,58,88,77,183,5],"male":true,"pageRank":0.35,"titles":[]},{"name":"Brynden Rivers","age":77,"books":[15,13,10,4,2],"dateOfBirth":175,"dateOfDeath":252,"house":167,"locations":[174,149,148,170,60,77],"male":true,"pageRank":0.6066666666666667,"titles":[401,88]},{"name":"Catelyn Stark","age":35,"books":[5,0,6,4,2],"dateOfBirth":264,"dateOfDeath":299,"house":136,"locations":[174,38,126,155,88,180,106,77,6,183,92,36],"male":false,"pageRank":0,"titles":[172]},{"name":"Cley Cerwyn","age":15,"books":[0,6,4,2],"dateOfBirth":284,"dateOfDeath":299,"house":143,"locations":[58,183,18,164],"male":true,"pageRank":0.03833333333333333,"titles":[209]},{"name":"Cleos Frey","age":41,"books":[5,0,6,4,2],"dateOfBirth":258,"dateOfDeath":299,"house":188,"locations":[73,27,23,16,33,77,89],"male":true,"pageRank":0.25,"titles":[401]},{"name":"Corlys Velaryon","age":79,"books":[15,12,11],"dateOfBirth":53,"dateOfDeath":132,"house":289,"locations":[174,117,31,128,148,113,127,60,77],"male":true,"pageRank":0.5266666666666666,"titles":[313,345,90,331,351]},{"name":"Cressen","age":80,"books":[0,6,4],"dateOfBirth":219,"dateOfDeath":299,"house":-1,"locations":[31,155,165],"male":true,"pageRank":0.18666666666666668,"titles":[337]},{"name":"Criston Cole","age":48,"books":[15,12,11,4],"dateOfBirth":82,"dateOfDeath":130,"house":426,"locations":[27,58,31,128,148,8,184,96,113,127,33,60,77,165,89],"male":true,"pageRank":0.5066666666666667,"titles":[401,179,88]},{"name":"Cyrenna Swann","age":13,"books":[0,6,4,2],"dateOfBirth":236,"dateOfDeath":249,"house":243,"locations":[153],"male":true,"pageRank":0.04,"titles":[]},{"name":"Dacey Mormont","age":47,"books":[5,0,6,4,2],"dateOfBirth":252,"dateOfDeath":299,"house":165,"locations":[92],"male":false,"pageRank":0.09,"titles":[]},{"name":"Daella Targaryen (daughter of Jaehaerys I)","age":28,"books":[15,12],"dateOfBirth":54,"dateOfDeath":82,"house":167,"locations":[174,36],"male":false,"pageRank":0,"titles":[379,166]},{"name":"Daemon II Blackfyre","age":23,"books":[15,10],"dateOfBirth":188,"dateOfDeath":211,"house":309,"locations":[170,77],"male":true,"pageRank":0.23,"titles":[111,308,383]},{"name":"Daemon I Blackfyre","age":26,"books":[15,13,10,6,2],"dateOfBirth":170,"dateOfDeath":196,"house":309,"locations":[174,170,77],"male":true,"pageRank":0,"titles":[401,111,308,384]},{"name":"Daemon Targaryen","age":49,"books":[15,12,11],"dateOfBirth":81,"dateOfDeath":130,"house":167,"locations":[174,58,31,128,148,170,88,96,113,129,60,77,165,89],"male":true,"pageRank":0.10333333333333333,"titles":[370,57,341,350,114,382]},{"name":"Daeron I Targaryen","age":18,"books":[],"dateOfBirth":143,"dateOfDeath":161,"house":167,"locations":[115,107,159,77],"male":true,"pageRank":0.52,"titles":[]},{"name":"Daeron Targaryen (son of Viserys I)","age":16,"books":[15,12,11],"dateOfBirth":114,"dateOfDeath":130,"house":167,"locations":[107,169],"male":true,"pageRank":0,"titles":[370,401]},{"name":"Daeron II Targaryen","age":56,"books":[],"dateOfBirth":153,"dateOfDeath":209,"house":167,"locations":[31,2,157,159,170,96,77],"male":true,"pageRank":0.7666666666666667,"titles":[]},{"name":"Daeron Targaryen (son of Maekar I)","age":31,"books":[15,9,10,0,4],"dateOfBirth":190,"dateOfDeath":221,"house":167,"locations":[23,31,2,157,170],"male":true,"pageRank":0,"titles":[372,374]},{"name":"Dalbridge","age":45,"books":[0,6,4,2],"dateOfBirth":254,"dateOfDeath":299,"house":-1,"locations":[138,41,165],"male":true,"pageRank":0.02666666666666667,"titles":[]},{"name":"Del","age":16,"books":[6,4],"dateOfBirth":283,"dateOfDeath":299,"house":-1,"locations":[119],"male":true,"pageRank":0.008333333333333333,"titles":[]},{"name":"Donal Noye","age":56,"books":[5,0,6,4,2],"dateOfBirth":244,"dateOfDeath":300,"house":170,"locations":[155,17,93,165],"male":true,"pageRank":0.14333333333333334,"titles":[]},{"name":"Domeric Bolton","age":18,"books":[0,4,2],"dateOfBirth":279,"dateOfDeath":297,"house":176,"locations":[32,5,125],"male":true,"pageRank":0.09333333333333334,"titles":[]},{"name":"Donella Hornwood","age":50,"books":[0,2],"dateOfBirth":249,"dateOfDeath":299,"house":116,"locations":[30,32,183,71],"male":false,"pageRank":0.1,"titles":[154]},{"name":"Dontos Hollard","age":39,"books":[5,0,6,4],"dateOfBirth":261,"dateOfDeath":300,"house":295,"locations":[96,33,77],"male":true,"pageRank":0.23333333333333334,"titles":[401]},{"name":"Doreah","age":20,"books":[5,0,2],"dateOfBirth":279,"dateOfDeath":299,"house":167,"locations":[88],"male":false,"pageRank":0.11333333333333333,"titles":[]},{"name":"Drogo","age":32,"books":[5,0,6,2],"dateOfBirth":267,"dateOfDeath":299,"house":-1,"locations":[91,172,113],"male":true,"pageRank":0.56,"titles":[104]},{"name":"Dunk","age":68,"books":[9,13,10,6,4,2,15],"dateOfBirth":191,"dateOfDeath":259,"house":-1,"locations":[27,173,115,154,128,148,2,107,35,155,157,113,106,33,60,77,112,183],"male":true,"pageRank":0.43,"titles":[401,179]},{"name":"Duncan Targaryen","age":39,"books":[15,6,4,2],"dateOfBirth":220,"dateOfDeath":259,"house":167,"locations":[31,155,157,8,106,77],"male":true,"pageRank":0.14333333333333334,"titles":[373]},{"name":"Eddard Stark","age":36,"books":[15,5,0,6,4,2],"dateOfBirth":263,"dateOfDeath":299,"house":160,"locations":[174,126,58,128,148,155,166,11,88,96,113,180,142,60,77,183,92,165,36,55,116],"male":true,"pageRank":1,"titles":[321,435,88,382,394]},{"name":"Elaena Targaryen","age":70,"books":[15,6,4,2],"dateOfBirth":150,"dateOfDeath":220,"house":167,"locations":[174,31,11,165],"male":false,"pageRank":0.14,"titles":[379]},{"name":"Elia Martell","age":27,"books":[15,5,0,6,4,2],"dateOfBirth":256,"dateOfDeath":283,"house":166,"locations":[100,23,58,16,31,107,147,159,77,183,67,165],"male":false,"pageRank":0.44333333333333336,"titles":[379]},{"name":"Eon Hunter","age":80,"books":[5,0,6,4,2],"dateOfBirth":220,"dateOfDeath":300,"house":320,"locations":[58,88,83,36],"male":true,"pageRank":0.025,"titles":[247]},{"name":"Falyse Stokeworth","age":35,"books":[0,6,4,2],"dateOfBirth":265,"dateOfDeath":300,"house":134,"locations":[128,148,77,67],"male":false,"pageRank":0.10333333333333333,"titles":[]},{"name":"Galladon of Tarth","age":9,"books":[4],"dateOfBirth":275,"dateOfDeath":284,"house":127,"locations":[],"male":true,"pageRank":0.015,"titles":[]},{"name":"Gared","age":66,"books":[5,0],"dateOfBirth":231,"dateOfDeath":297,"house":-1,"locations":[183],"male":true,"pageRank":0.09666666666666666,"titles":[]},{"name":"Gerion Lannister","age":36,"books":[15,5,0,6,4,2],"dateOfBirth":255,"dateOfDeath":291,"house":271,"locations":[175,174,126,16,60],"male":true,"pageRank":0.14333333333333334,"titles":[]},{"name":"Gregor Clegane","age":35,"books":[5,0,6,4,2],"dateOfBirth":265,"dateOfDeath":300,"house":114,"locations":[162,126,149,27,150,58,95,20,159,96,33,77,67],"male":true,"pageRank":0.8366666666666667,"titles":[401]},{"name":"Guyard Morrigen","age":21,"books":[0,2],"dateOfBirth":278,"dateOfDeath":299,"house":115,"locations":[155,77,6],"male":true,"pageRank":0.06666666666666667,"titles":[401]},{"name":"Gwayne Hightower","age":42,"books":[11],"dateOfBirth":88,"dateOfDeath":130,"house":235,"locations":[77],"male":true,"pageRank":0.02666666666666667,"titles":[401]},{"name":"Haegon Blackfyre","age":30,"books":[15,10],"dateOfBirth":189,"dateOfDeath":219,"house":309,"locations":[174,170,77],"male":true,"pageRank":0.085,"titles":[]},{"name":"Harwin Strong","age":30,"books":[12,11,15],"dateOfBirth":90,"dateOfDeath":120,"house":342,"locations":[58,31,77],"male":true,"pageRank":0.045,"titles":[401,15]},{"name":"Hazzea","age":5,"books":[2],"dateOfBirth":295,"dateOfDeath":300,"house":-1,"locations":[91],"male":false,"pageRank":0.04666666666666667,"titles":[]},{"name":"Helaena Targaryen","age":21,"books":[12,11,15],"dateOfBirth":109,"dateOfDeath":130,"house":167,"locations":[113,77,67],"male":false,"pageRank":0.2733333333333333,"titles":[385]},{"name":"Holly","age":17,"books":[2],"dateOfBirth":283,"dateOfDeath":300,"house":-1,"locations":[96,183],"male":true,"pageRank":0.06,"titles":[]},{"name":"Hoster Tully","age":62,"books":[5,0,6,4,2],"dateOfBirth":237,"dateOfDeath":299,"house":136,"locations":[126,27,88,77,183,165,36],"male":true,"pageRank":0.3333333333333333,"titles":[326,261]},{"name":"Jaehaerys Targaryen (son of Aegon II)","age":6,"books":[12,11],"dateOfBirth":123,"dateOfDeath":129,"house":167,"locations":[77,165],"male":true,"pageRank":0,"titles":[370]},{"name":"Jaehaera Targaryen","age":10,"books":[12,11,15],"dateOfBirth":123,"dateOfDeath":133,"house":167,"locations":[174,155,113,77,67,165],"male":true,"pageRank":0.2833333333333333,"titles":[379,385]},{"name":"Jaehaerys II Targaryen","age":37,"books":[],"dateOfBirth":225,"dateOfDeath":262,"house":167,"locations":[91,126,64,66,157,106,77],"male":true,"pageRank":0.49666666666666665,"titles":[]},{"name":"Jaehaerys I Targaryen","age":69,"books":[],"dateOfBirth":34,"dateOfDeath":103,"house":167,"locations":[174,126,23,31,155,113,77,29,17,165],"male":true,"pageRank":0.66,"titles":[]},{"name":"Janos Slynt","age":22,"books":[5,0,6,4,2],"dateOfBirth":278,"dateOfDeath":300,"house":-1,"locations":[58,128,148,113,60,77,52,17,165,116],"male":true,"pageRank":0.5633333333333334,"titles":[57,234]},{"name":"Jared Frey","age":52,"books":[5,0,6,4,2],"dateOfBirth":248,"dateOfDeath":300,"house":188,"locations":[58,180,77,183],"male":true,"pageRank":0.15,"titles":[401]},{"name":"Jeor Mormont","age":69,"books":[5,0,6,4,2],"dateOfBirth":230,"dateOfDeath":299,"house":165,"locations":[174,17,41,24,183],"male":true,"pageRank":0.62,"titles":[194]},{"name":"Jeyne Westerling (wife of Maegor I)","age":20,"books":[15,6],"dateOfBirth":27,"dateOfDeath":47,"house":171,"locations":[16,113],"male":false,"pageRank":0,"titles":[385,7]},{"name":"Joffrey Lonmouth","age":15,"books":[12],"dateOfBirth":99,"dateOfDeath":114,"house":358,"locations":[77],"male":true,"pageRank":0.013333333333333334,"titles":[401]},{"name":"Joanna Lannister","age":28,"books":[5,0,6,4,2],"dateOfBirth":245,"dateOfDeath":273,"house":271,"locations":[126,23,16,96,77],"male":false,"pageRank":0.23333333333333334,"titles":[138]},{"name":"Joffrey Baratheon","age":14,"books":[],"dateOfBirth":286,"dateOfDeath":300,"house":144,"locations":[174,126,16,96,60,77,183],"male":true,"pageRank":1,"titles":[]},{"name":"Jon Arryn","age":81,"books":[15,5,0,6,4,2],"dateOfBirth":217,"dateOfDeath":298,"house":274,"locations":[16,31,128,148,159,88,96,113,60,77,183,36,55],"male":true,"pageRank":0.8366666666666667,"titles":[291,68,433,88]},{"name":"Kaeth","age":82,"books":[6,4],"dateOfBirth":175,"dateOfDeath":257,"house":-1,"locations":[128,148,113,60,77],"male":true,"pageRank":0.13166666666666665,"titles":[85]},{"name":"Khrazz","age":23,"books":[2],"dateOfBirth":277,"dateOfDeath":300,"house":-1,"locations":[91],"male":true,"pageRank":0.08,"titles":[]},{"name":"Kevan Lannister","age":56,"books":[5,0,6,4,2],"dateOfBirth":244,"dateOfDeath":300,"house":271,"locations":[126,27,150,58,16,128,148,66,170,96,113,60,77],"male":true,"pageRank":0.87,"titles":[401,350,331,382]},{"name":"Krazz","age":23,"books":[2],"dateOfBirth":277,"dateOfDeath":300,"house":-1,"locations":[91],"male":true,"pageRank":0.016666666666666666,"titles":[]},{"name":"Kyra","age":20,"books":[5,0,4,2],"dateOfBirth":280,"dateOfDeath":300,"house":160,"locations":[32,183],"male":true,"pageRank":0.028333333333333332,"titles":[]},{"name":"Laenor Velaryon","age":26,"books":[15,12,11],"dateOfBirth":94,"dateOfDeath":120,"house":289,"locations":[174,77],"male":true,"pageRank":0.09833333333333333,"titles":[401]},{"name":"Laena Velaryon","age":27,"books":[15,12,11],"dateOfBirth":93,"dateOfDeath":120,"house":289,"locations":[174,31,11,113],"male":false,"pageRank":0.14333333333333334,"titles":[]},{"name":"Lyman Beesbury","age":81,"books":[11],"dateOfBirth":48,"dateOfDeath":129,"house":139,"locations":[128,148,68,113,60,77],"male":true,"pageRank":0.13166666666666665,"titles":[175,341]},{"name":"Lyman Darry","age":9,"books":[5,0],"dateOfBirth":290,"dateOfDeath":299,"house":210,"locations":[126,27],"male":false,"pageRank":0.03,"titles":[215]},{"name":"Lyanna Stark","age":17,"books":[15,5,0,6,2],"dateOfBirth":266,"dateOfDeath":283,"house":160,"locations":[126,58,155,166,88,77,183,165,36],"male":true,"pageRank":0.3566666666666667,"titles":[]},{"name":"Lysa Arryn","age":34,"books":[5,0,6,4,2],"dateOfBirth":266,"dateOfDeath":300,"house":136,"locations":[126,58,16,31,88,77,183,36,55],"male":false,"pageRank":0,"titles":[168]},{"name":"Maekar Targaryen","age":59,"books":[],"dateOfBirth":174,"dateOfDeath":233,"house":167,"locations":[2,157,170,77],"male":true,"pageRank":0.03,"titles":[]},{"name":"Maelor Targaryen","age":3,"books":[12,11,15],"dateOfBirth":127,"dateOfDeath":130,"house":167,"locations":[31,107,77,6,165],"male":true,"pageRank":0.18333333333333332,"titles":[370]},{"name":"Maegor I Targaryen","age":36,"books":[],"dateOfBirth":12,"dateOfDeath":48,"house":167,"locations":[174,126,23,58,31,128,148,155,170,96,113,60,77,6,86,67,165,36],"male":true,"pageRank":0.7066666666666667,"titles":[]},{"name":"Marillion","age":21,"books":[5,0,6,4],"dateOfBirth":279,"dateOfDeath":300,"house":-1,"locations":[88,96,77,36],"male":true,"pageRank":0.14666666666666667,"titles":[]},{"name":"Maron Greyjoy","age":14,"books":[5,0,6,4,2],"dateOfBirth":275,"dateOfDeath":289,"house":253,"locations":[165,116],"male":true,"pageRank":0.14333333333333334,"titles":[]},{"name":"Matarys Targaryen","age":25,"books":[15,9,13,10],"dateOfBirth":184,"dateOfDeath":209,"house":167,"locations":[170,77],"male":true,"pageRank":0.051666666666666666,"titles":[370]},{"name":"Melara Hetherspoon","age":12,"books":[4,2],"dateOfBirth":264,"dateOfDeath":276,"house":156,"locations":[96],"male":true,"pageRank":0.05,"titles":[]},{"name":"Merrett Frey","age":38,"books":[5,0,6,4,2],"dateOfBirth":262,"dateOfDeath":300,"house":188,"locations":[38,126,27,23,58,11,96,106,183],"male":true,"pageRank":0.43666666666666665,"titles":[]},{"name":"Mirri Maz Duur","age":42,"books":[5,0,6,4,2],"dateOfBirth":257,"dateOfDeath":299,"house":-1,"locations":[117],"male":false,"pageRank":0.14666666666666667,"titles":[79,336]},{"name":"Mors Martell (brother of Doran)","age":0,"books":[4],"dateOfBirth":248,"dateOfDeath":248,"house":166,"locations":[100],"male":true,"pageRank":0,"titles":[]},{"name":"Mycah","age":13,"books":[5,0,6],"dateOfBirth":285,"dateOfDeath":298,"house":-1,"locations":[27,77,183],"male":true,"pageRank":0.10666666666666667,"titles":[]},{"name":"Naerys Targaryen","age":41,"books":[5,15],"dateOfBirth":138,"dateOfDeath":179,"house":167,"locations":[174,11,113,77],"male":false,"pageRank":0.22333333333333333,"titles":[379,385]},{"name":"Old Henly","age":79,"books":[6],"dateOfBirth":220,"dateOfDeath":299,"house":-1,"locations":[17],"male":true,"pageRank":0.008333333333333333,"titles":[]},{"name":"Oberyn Martell","age":43,"books":[15,5,0,6,4,2],"dateOfBirth":257,"dateOfDeath":300,"house":166,"locations":[100,27,23,58,16,128,148,107,155,147,134,184,159,11,88,113,60,77,165],"male":true,"pageRank":0.7733333333333333,"titles":[370,401]},{"name":"Ottyn Wythers","age":69,"books":[0,6],"dateOfBirth":230,"dateOfDeath":299,"house":296,"locations":[17,41],"male":true,"pageRank":0.023333333333333334,"titles":[401]},{"name":"Petyr Frey","age":19,"books":[0,6,4],"dateOfBirth":281,"dateOfDeath":300,"house":188,"locations":[106],"male":true,"pageRank":0.18,"titles":[]},{"name":"Pycelle","age":84,"books":[5,0,6,4,2],"dateOfBirth":216,"dateOfDeath":300,"house":271,"locations":[128,148,11,88,96,113,60,77,183],"male":true,"pageRank":0.64,"titles":[85]},{"name":"Quort","age":14,"books":[6],"dateOfBirth":285,"dateOfDeath":299,"house":-1,"locations":[17],"male":true,"pageRank":0.006666666666666667,"titles":[]},{"name":"Quentyn Martell","age":19,"books":[5,0,6,4,2],"dateOfBirth":281,"dateOfDeath":300,"house":166,"locations":[100,175,174,91,185,3,27,115,184,159,11,88,113,165],"male":true,"pageRank":0.5533333333333333,"titles":[370,401]},{"name":"Renly Baratheon","age":22,"books":[5,0,6,4,2],"dateOfBirth":277,"dateOfDeath":299,"house":170,"locations":[27,58,128,148,66,155,159,96,113,60,77,6,183,165],"male":true,"pageRank":1,"titles":[325,350,308]},{"name":"Rhaegar Frey","age":31,"books":[0,6,4,2],"dateOfBirth":269,"dateOfDeath":300,"house":188,"locations":[180,183],"male":true,"pageRank":0.13666666666666666,"titles":[]},{"name":"Rhaegel Targaryen","age":42,"books":[9,10,15],"dateOfBirth":173,"dateOfDeath":215,"house":167,"locations":[174,31,170],"male":true,"pageRank":0.05,"titles":[372]},{"name":"Rhaegar Targaryen","age":24,"books":[5,0,6,4,2],"dateOfBirth":259,"dateOfDeath":283,"house":167,"locations":[174,27,58,31,155,166,54,157,106,77,183,165],"male":true,"pageRank":0.8,"titles":[372,401]},{"name":"Rhaella Targaryen","age":39,"books":[15,5,6,4,2],"dateOfBirth":245,"dateOfDeath":284,"house":167,"locations":[174,27,64,58,31,157,113,106,77,67],"male":true,"pageRank":0.3233333333333333,"titles":[379,385,70]},{"name":"Rhaenys Targaryen (daughter of Rhaegar)","age":3,"books":[5,0,6,4,2],"dateOfBirth":280,"dateOfDeath":283,"house":167,"locations":[31,106,77],"male":false,"pageRank":0,"titles":[379]},{"name":"Rhaenys Targaryen (daughter of Aemon)","age":55,"books":[15,12,11],"dateOfBirth":74,"dateOfDeath":129,"house":167,"locations":[174,58,31,127,183,5],"male":false,"pageRank":0,"titles":[379]},{"name":"Rickard Stark","age":52,"books":[15,5,0,6,2],"dateOfBirth":230,"dateOfDeath":282,"house":160,"locations":[88,77,183],"male":true,"pageRank":0.2733333333333333,"titles":[321,435]},{"name":"Robar Royce","age":22,"books":[5,0,6,4],"dateOfBirth":277,"dateOfDeath":299,"house":206,"locations":[155,129,77,6,125],"male":true,"pageRank":0.1,"titles":[401]},{"name":"Robb Stark","age":16,"books":[],"dateOfBirth":283,"dateOfDeath":299,"house":160,"locations":[126,58,1,66,155,88,53,180,108,77,75,183,92,36,116],"male":true,"pageRank":1,"titles":[]},{"name":"Robert Baratheon","age":36,"books":[],"dateOfBirth":262,"dateOfDeath":298,"house":144,"locations":[175,58,154,16,31,2,155,157,11,88,96,77,183,36,55,116],"male":true,"pageRank":1,"titles":[]},{"name":"Rodrik Greyjoy","age":15,"books":[5,0,6,4,2],"dateOfBirth":274,"dateOfDeath":289,"house":253,"locations":[136,165],"male":true,"pageRank":0.15666666666666668,"titles":[]},{"name":"Ryman Frey","age":54,"books":[0,6,4,2],"dateOfBirth":246,"dateOfDeath":300,"house":188,"locations":[136,38,126,108,183],"male":true,"pageRank":0.22,"titles":[401]},{"name":"Sandor Clegane","age":30,"books":[5,0,6,4,2],"dateOfBirth":270,"dateOfDeath":300,"house":114,"locations":[126,27,135,23,58,96,108,77,183,36,133,121,89],"male":true,"pageRank":0.6966666666666667,"titles":[]},{"name":"Shae","age":20,"books":[5,0,6,4,2,14],"dateOfBirth":280,"dateOfDeath":300,"house":-1,"locations":[148,77],"male":false,"pageRank":0.29333333333333333,"titles":[]},{"name":"Stafford Lannister","age":53,"books":[5,0,6,4,2],"dateOfBirth":246,"dateOfDeath":299,"house":271,"locations":[23,47,96,108],"male":true,"pageRank":0.08666666666666667,"titles":[401]},{"name":"Steffon Baratheon","age":32,"books":[15,0,6,2],"dateOfBirth":246,"dateOfDeath":278,"house":170,"locations":[175,174,128,148,155,96,113,33,60,77],"male":true,"pageRank":0.37333333333333335,"titles":[325]},{"name":"Stevron Frey","age":66,"books":[5,0,6,4,2],"dateOfBirth":233,"dateOfDeath":299,"house":188,"locations":[162,126,58,108,77],"male":true,"pageRank":0.17666666666666667,"titles":[401]},{"name":"Symond Frey","age":48,"books":[0,6,4,2],"dateOfBirth":252,"dateOfDeath":300,"house":188,"locations":[162,27,23,11,180,183],"male":true,"pageRank":0.10166666666666667,"titles":[]},{"name":"Tion Frey","age":20,"books":[5,0,6,4,2],"dateOfBirth":279,"dateOfDeath":299,"house":-1,"locations":[126,27,23],"male":true,"pageRank":0.06166666666666667,"titles":[]},{"name":"Tomard","age":49,"books":[5,0,6,2],"dateOfBirth":249,"dateOfDeath":298,"house":160,"locations":[77],"male":true,"pageRank":0.03333333333333333,"titles":[]},{"name":"Tygett Lannister","age":35,"books":[5,0,6,4,2],"dateOfBirth":250,"dateOfDeath":285,"house":271,"locations":[126,27,60],"male":true,"pageRank":0.11333333333333333,"titles":[401]},{"name":"Tyrek Lannister","age":13,"books":[5,0,6,4,2],"dateOfBirth":286,"dateOfDeath":299,"house":271,"locations":[126,96,60,77],"male":true,"pageRank":0.06833333333333333,"titles":[]},{"name":"Tytos Frey","age":38,"books":[0,6,4],"dateOfBirth":261,"dateOfDeath":299,"house":188,"locations":[],"male":true,"pageRank":0.03333333333333333,"titles":[401]},{"name":"Tytos Lannister","age":47,"books":[15,6,4,2],"dateOfBirth":220,"dateOfDeath":267,"house":271,"locations":[126,15,76,16,60,77],"male":true,"pageRank":0.21333333333333335,"titles":[206,403,441]},{"name":"Tywin Lannister","age":58,"books":[5,0,6,4,2,15],"dateOfBirth":242,"dateOfDeath":300,"house":271,"locations":[174,126,58,95,168,15,16,128,148,155,88,113,37,108,60,77,183,165,36],"male":true,"pageRank":1,"titles":[206,403,441,88]},{"name":"Vardis Egen","age":49,"books":[5,0,6],"dateOfBirth":249,"dateOfDeath":298,"house":334,"locations":[88,77,36],"male":true,"pageRank":0.09333333333333334,"titles":[401,25]},{"name":"Valarr Targaryen","age":26,"books":[9,13,10],"dateOfBirth":183,"dateOfDeath":209,"house":167,"locations":[174,154,31,148,2,170,60,77],"male":true,"pageRank":0.43333333333333335,"titles":[370,89]},{"name":"Viserys Targaryen","age":22,"books":[15,5,0,6,4,2,14],"dateOfBirth":276,"dateOfDeath":298,"house":167,"locations":[175,174,91,3,172,117,27,118,58,31,159,11,170,88,96,113,106,77,165],"male":true,"pageRank":0.6233333333333333,"titles":[112]},{"name":"Viserys I Targaryen","age":52,"books":[],"dateOfBirth":77,"dateOfDeath":129,"house":167,"locations":[175,174,58,31,107,11,113,77,89],"male":true,"pageRank":0.68,"titles":[]},{"name":"Viserys II Targaryen","age":50,"books":[],"dateOfBirth":122,"dateOfDeath":172,"house":167,"locations":[31,148,11,170,88,113,60,77],"male":true,"pageRank":0.6066666666666667,"titles":[]},{"name":"Walder Frey (son of Merrett)","age":9,"books":[5,0,6,4,2],"dateOfBirth":291,"dateOfDeath":300,"house":188,"locations":[162,27,23,11,180,108,183],"male":true,"pageRank":0,"titles":[]},{"name":"Waymar Royce","age":19,"books":[5,0,6,4],"dateOfBirth":278,"dateOfDeath":297,"house":206,"locations":[129,183,125],"male":true,"pageRank":0.12666666666666668,"titles":[401]},{"name":"Wendel Manderly","age":45,"books":[5,0,6,4,2],"dateOfBirth":254,"dateOfDeath":299,"house":116,"locations":[126,155,180,6,71,92],"male":true,"pageRank":0.13666666666666666,"titles":[401]},{"name":"Willem Lannister","age":14,"books":[5,0,6,4,2],"dateOfBirth":285,"dateOfDeath":299,"house":271,"locations":[126,60],"male":true,"pageRank":0.085,"titles":[]},{"name":"Ygritte","age":19,"books":[0,6,4,2],"dateOfBirth":280,"dateOfDeath":299,"house":-1,"locations":[17,41,119],"male":false,"pageRank":0.24666666666666667,"titles":[]},{"name":"Young Henly","age":59,"books":[6],"dateOfBirth":240,"dateOfDeath":299,"house":-1,"locations":[17],"male":true,"pageRank":0.008333333333333333,"titles":[]}]
+[
+    {
+        "name": "Addam Osgrey",
+        "male": true,
+        "birth": 183,
+        "death": 196,
+        "age": 13,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [
+            184
+        ],
+        "books": [
+            14
+        ],
+        "culture": -1,
+        "house": 172,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 17
+    },
+    {
+        "name": "Addam Velaryon",
+        "male": true,
+        "birth": 114,
+        "death": 130,
+        "age": 16,
+        "pageRank": 0.0017261219792865361,
+        "numRelatives": 0,
+        "allegiances": [
+            252,
+            233,
+            3
+        ],
+        "books": [
+            16,
+            6,
+            11
+        ],
+        "culture": 6,
+        "house": 236,
+        "locations": [
+            34,
+            77
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": 0
+    },
+    {
+        "name": "Aegon Blackfyre",
+        "male": true,
+        "birth": 184,
+        "death": 196,
+        "age": 12,
+        "pageRank": 0.01380897583429229,
+        "numRelatives": 0,
+        "allegiances": [
+            39
+        ],
+        "books": [
+            16,
+            14,
+            10
+        ],
+        "culture": 6,
+        "house": 33,
+        "locations": [],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Aegon Frey (son of Stevron)",
+        "male": true,
+        "birth": 249,
+        "death": 299,
+        "age": 50,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [
+            105
+        ],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 31,
+        "house": 98,
+        "locations": [
+            47
+        ],
+        "titles": [],
+        "houseRegion": 11
+    },
+    {
+        "name": "Aegon I Targaryen",
+        "male": true,
+        "birth": -27,
+        "death": 37,
+        "age": 64,
+        "pageRank": 0.2807825086306099,
+        "numRelatives": 0.2727272727272727,
+        "allegiances": [],
+        "books": [],
+        "culture": -1,
+        "house": 219,
+        "locations": [
+            34,
+            81,
+            75,
+            50,
+            56
+        ],
+        "titles": [],
+        "houseRegion": 2
+    },
+    {
+        "name": "Aegon II Targaryen",
+        "male": true,
+        "birth": 107,
+        "death": 131,
+        "age": 24,
+        "pageRank": 0.2180667433831991,
+        "numRelatives": 0.4090909090909091,
+        "allegiances": [],
+        "books": [],
+        "culture": -1,
+        "house": 219,
+        "locations": [
+            57,
+            34,
+            1
+        ],
+        "titles": [],
+        "houseRegion": 2
+    },
+    {
+        "name": "Aegon III Targaryen",
+        "male": true,
+        "birth": 120,
+        "death": 157,
+        "age": 37,
+        "pageRank": 0.15017261219792866,
+        "numRelatives": 0.4090909090909091,
+        "allegiances": [],
+        "books": [],
+        "culture": -1,
+        "house": 219,
+        "locations": [
+            58,
+            13,
+            34,
+            81,
+            28,
+            21
+        ],
+        "titles": [],
+        "houseRegion": 2
+    },
+    {
+        "name": "Aegon IV Targaryen",
+        "male": true,
+        "birth": 135,
+        "death": 184,
+        "age": 49,
+        "pageRank": 0.14672036823935558,
+        "numRelatives": 1,
+        "allegiances": [],
+        "books": [],
+        "culture": -1,
+        "house": 219,
+        "locations": [
+            34,
+            49,
+            75
+        ],
+        "titles": [],
+        "houseRegion": 2
+    },
+    {
+        "name": "Aegon V Targaryen",
+        "male": true,
+        "birth": 200,
+        "death": 259,
+        "age": 59,
+        "pageRank": 0.17088607594936708,
+        "numRelatives": 0.36363636363636365,
+        "allegiances": [],
+        "books": [],
+        "culture": -1,
+        "house": 219,
+        "locations": [
+            46,
+            34,
+            56
+        ],
+        "titles": [],
+        "houseRegion": 2
+    },
+    {
+        "name": "Aegon Targaryen (son of Rhaegar)",
+        "male": true,
+        "birth": 281,
+        "death": 283,
+        "age": 2,
+        "pageRank": 0.014959723820483314,
+        "numRelatives": 0,
+        "allegiances": [
+            233
+        ],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 6,
+        "house": 219,
+        "locations": [
+            46,
+            34,
+            28,
+            75
+        ],
+        "titles": [],
+        "houseRegion": 2
+    },
+    {
+        "name": "Aegon Targaryen (son of Aenys I)",
+        "male": true,
+        "birth": 26,
+        "death": 43,
+        "age": 17,
+        "pageRank": 0,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [
+            233
+        ],
+        "books": [
+            16,
+            6,
+            13
+        ],
+        "culture": 6,
+        "house": 219,
+        "locations": [
+            34,
+            75,
+            6
+        ],
+        "titles": [
+            300
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Aegon Targaryen (son of Baelon)",
+        "male": true,
+        "birth": 84,
+        "death": 85,
+        "age": 1,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [
+            233
+        ],
+        "books": [
+            16,
+            6
+        ],
+        "culture": 6,
+        "house": 219,
+        "locations": [],
+        "titles": [
+            297
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Aegon Targaryen (son of Jaehaerys I)",
+        "male": true,
+        "birth": 52,
+        "death": 52,
+        "age": 0,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [
+            233
+        ],
+        "books": [
+            16,
+            6
+        ],
+        "culture": 6,
+        "house": 219,
+        "locations": [
+            41
+        ],
+        "titles": [
+            297
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Aegor Rivers",
+        "male": true,
+        "birth": 172,
+        "death": 241,
+        "age": 69,
+        "pageRank": 0.07767548906789414,
+        "numRelatives": 0.045454545454545456,
+        "allegiances": [
+            49,
+            39,
+            289,
+            15
+        ],
+        "books": [
+            16,
+            14,
+            10,
+            2,
+            1,
+            15
+        ],
+        "culture": 31,
+        "house": 42,
+        "locations": [
+            34,
+            50,
+            68
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Aemma Arryn",
+        "male": false,
+        "birth": 82,
+        "death": 105,
+        "age": 23,
+        "pageRank": 0.07537399309551208,
+        "numRelatives": 0.18181818181818182,
+        "allegiances": [
+            26,
+            233
+        ],
+        "books": [
+            16,
+            6,
+            12,
+            11
+        ],
+        "culture": 39,
+        "house": 21,
+        "locations": [],
+        "titles": [
+            113,
+            310
+        ],
+        "houseRegion": 24
+    },
+    {
+        "name": "Aemon Blackfyre",
+        "male": true,
+        "birth": 184,
+        "death": 196,
+        "age": 12,
+        "pageRank": 0.013233601841196778,
+        "numRelatives": 0,
+        "allegiances": [
+            39
+        ],
+        "books": [
+            16,
+            14,
+            10,
+            4
+        ],
+        "culture": 6,
+        "house": 33,
+        "locations": [],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Aemond Targaryen",
+        "male": true,
+        "birth": 110,
+        "death": 130,
+        "age": 20,
+        "pageRank": 0.10414269275028769,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [
+            233,
+            20
+        ],
+        "books": [
+            16,
+            6,
+            12,
+            11,
+            1
+        ],
+        "culture": 6,
+        "house": 219,
+        "locations": [
+            57,
+            34,
+            9
+        ],
+        "titles": [
+            297,
+            308,
+            305
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Aenys Frey",
+        "male": true,
+        "birth": 240,
+        "death": 300,
+        "age": 60,
+        "pageRank": 0,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [
+            105
+        ],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1,
+            15
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [
+            78,
+            34,
+            12,
+            81,
+            29,
+            0
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Aenys I Targaryen",
+        "male": true,
+        "birth": 7,
+        "death": 42,
+        "age": 35,
+        "pageRank": 0.012082853855005753,
+        "numRelatives": 0.4090909090909091,
+        "allegiances": [],
+        "books": [],
+        "culture": -1,
+        "house": 219,
+        "locations": [
+            34,
+            75,
+            15,
+            56,
+            6
+        ],
+        "titles": [],
+        "houseRegion": 2
+    },
+    {
+        "name": "Aerion Targaryen",
+        "male": true,
+        "birth": 191,
+        "death": 232,
+        "age": 41,
+        "pageRank": 0.11565017261219793,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [
+            233,
+            289
+        ],
+        "books": [
+            16,
+            9,
+            14,
+            10,
+            0,
+            4,
+            1
+        ],
+        "culture": 6,
+        "house": 219,
+        "locations": [
+            13,
+            6
+        ],
+        "titles": [
+            297
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Aerys I Targaryen",
+        "male": true,
+        "birth": 172,
+        "death": 221,
+        "age": 49,
+        "pageRank": 0.0949367088607595,
+        "numRelatives": 0.18181818181818182,
+        "allegiances": [],
+        "books": [],
+        "culture": -1,
+        "house": 219,
+        "locations": [
+            34,
+            50
+        ],
+        "titles": [],
+        "houseRegion": 2
+    },
+    {
+        "name": "Aerys II Targaryen",
+        "male": true,
+        "birth": 244,
+        "death": 283,
+        "age": 39,
+        "pageRank": 0.37917146144994246,
+        "numRelatives": 0.5,
+        "allegiances": [],
+        "books": [],
+        "culture": -1,
+        "house": 219,
+        "locations": [
+            46,
+            13,
+            34,
+            81,
+            28,
+            15,
+            9,
+            26
+        ],
+        "titles": [],
+        "houseRegion": 2
+    },
+    {
+        "name": "Alicent Hightower",
+        "male": false,
+        "birth": 88,
+        "death": 133,
+        "age": 45,
+        "pageRank": 0.10299194476409666,
+        "numRelatives": 0.22727272727272727,
+        "allegiances": [
+            132,
+            233,
+            20
+        ],
+        "books": [
+            16,
+            6,
+            12,
+            11
+        ],
+        "culture": 30,
+        "house": 126,
+        "locations": [
+            57,
+            34,
+            77,
+            1,
+            28,
+            75
+        ],
+        "titles": [
+            113,
+            310,
+            69
+        ],
+        "houseRegion": 9
+    },
+    {
+        "name": "Alyn Cockshaw",
+        "male": true,
+        "birth": 196,
+        "death": 212,
+        "age": 16,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [
+            70,
+            39
+        ],
+        "books": [
+            16,
+            10
+        ],
+        "culture": 30,
+        "house": 63,
+        "locations": [],
+        "titles": [
+            321,
+            150
+        ],
+        "houseRegion": 17
+    },
+    {
+        "name": "Alyn Velaryon",
+        "male": true,
+        "birth": 115,
+        "death": 171,
+        "age": 56,
+        "pageRank": 0,
+        "numRelatives": 0.22727272727272727,
+        "allegiances": [
+            252,
+            233,
+            3
+        ],
+        "books": [
+            16,
+            6,
+            11,
+            2,
+            1
+        ],
+        "culture": 6,
+        "house": 236,
+        "locations": [
+            58,
+            24,
+            34,
+            77,
+            75,
+            21,
+            9
+        ],
+        "titles": [
+            321,
+            240,
+            277,
+            1,
+            282,
+            17,
+            16,
+            12
+        ],
+        "houseRegion": 0
+    },
+    {
+        "name": "Alysanne Osgrey",
+        "male": false,
+        "birth": 188,
+        "death": 209,
+        "age": 21,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [
+            184
+        ],
+        "books": [
+            14
+        ],
+        "culture": -1,
+        "house": 172,
+        "locations": [
+            34
+        ],
+        "titles": [],
+        "houseRegion": 17
+    },
+    {
+        "name": "Alysanne Targaryen",
+        "male": false,
+        "birth": 36,
+        "death": 100,
+        "age": 64,
+        "pageRank": 0.08918296892980437,
+        "numRelatives": 0.6363636363636364,
+        "allegiances": [
+            233
+        ],
+        "books": [
+            16,
+            6,
+            13,
+            12,
+            11,
+            4,
+            2,
+            1,
+            14
+        ],
+        "culture": 6,
+        "house": 219,
+        "locations": [
+            78,
+            13,
+            34,
+            44,
+            10,
+            52,
+            4,
+            43,
+            51,
+            81,
+            74,
+            0,
+            75,
+            41,
+            6
+        ],
+        "titles": [
+            306,
+            310
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Alyssa Blackwood",
+        "male": false,
+        "birth": 253,
+        "death": 269,
+        "age": 16,
+        "pageRank": 0,
+        "numRelatives": 0.2727272727272727,
+        "allegiances": [
+            42,
+            105
+        ],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 31,
+        "house": 36,
+        "locations": [
+            73,
+            6
+        ],
+        "titles": [
+            138
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Amarei Crakehall",
+        "male": false,
+        "birth": 245,
+        "death": 264,
+        "age": 19,
+        "pageRank": 0,
+        "numRelatives": 0.36363636363636365,
+        "allegiances": [
+            79,
+            105
+        ],
+        "books": [
+            8,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 72,
+        "locations": [
+            9,
+            6
+        ],
+        "titles": [],
+        "houseRegion": 27
+    },
+    {
+        "name": "Andros Brax",
+        "male": true,
+        "birth": 262,
+        "death": 298,
+        "age": 36,
+        "pageRank": 0,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [
+            50
+        ],
+        "books": [
+            3,
+            0,
+            4
+        ],
+        "culture": 41,
+        "house": 43,
+        "locations": [
+            56
+        ],
+        "titles": [
+            197
+        ],
+        "houseRegion": 27
+    },
+    {
+        "name": "Arlan of Pennytree",
+        "male": true,
+        "birth": 149,
+        "death": 209,
+        "age": 60,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            9,
+            14,
+            10
+        ],
+        "culture": 31,
+        "house": -1,
+        "locations": [
+            24,
+            34,
+            49
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": -1
+    },
+    {
+        "name": "Arthur Dayne",
+        "male": true,
+        "birth": 260,
+        "death": 283,
+        "age": 23,
+        "pageRank": 0.06329113924050633,
+        "numRelatives": 0,
+        "allegiances": [
+            85,
+            274
+        ],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 10,
+        "house": 78,
+        "locations": [
+            81,
+            75,
+            9
+        ],
+        "titles": [
+            321,
+            329
+        ],
+        "houseRegion": 3
+    },
+    {
+        "name": "Ashara Dayne",
+        "male": false,
+        "birth": 260,
+        "death": 283,
+        "age": 23,
+        "pageRank": 0.015535097813578827,
+        "numRelatives": 0,
+        "allegiances": [
+            85
+        ],
+        "books": [
+            3,
+            0,
+            4,
+            1
+        ],
+        "culture": 10,
+        "house": 78,
+        "locations": [
+            81
+        ],
+        "titles": [],
+        "houseRegion": 3
+    },
+    {
+        "name": "Baelon Targaryen (son of Viserys I)",
+        "male": true,
+        "birth": 105,
+        "death": 105,
+        "age": 0,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [
+            233
+        ],
+        "books": [
+            16,
+            12,
+            7
+        ],
+        "culture": 6,
+        "house": 219,
+        "locations": [
+            34
+        ],
+        "titles": [
+            297
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Baelor I Targaryen",
+        "male": true,
+        "birth": 144,
+        "death": 171,
+        "age": 27,
+        "pageRank": 0.056962025316455694,
+        "numRelatives": 0.18181818181818182,
+        "allegiances": [],
+        "books": [],
+        "culture": -1,
+        "house": 219,
+        "locations": [
+            34,
+            75
+        ],
+        "titles": [],
+        "houseRegion": 2
+    },
+    {
+        "name": "Baelor Targaryen (son of Daeron II)",
+        "male": true,
+        "birth": 170,
+        "death": 209,
+        "age": 39,
+        "pageRank": 0.08285385500575373,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [
+            233
+        ],
+        "books": [
+            16,
+            9,
+            14,
+            10,
+            4,
+            15
+        ],
+        "culture": -1,
+        "house": 219,
+        "locations": [
+            24,
+            49,
+            75,
+            9
+        ],
+        "titles": [
+            300,
+            308,
+            81
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Balon Greyjoy",
+        "male": true,
+        "birth": 255,
+        "death": 299,
+        "age": 44,
+        "pageRank": 0.21288837744533948,
+        "numRelatives": 0.2727272727272727,
+        "allegiances": [],
+        "books": [],
+        "culture": -1,
+        "house": 112,
+        "locations": [
+            34,
+            11,
+            81,
+            74,
+            42,
+            50,
+            62,
+            26
+        ],
+        "titles": [],
+        "houseRegion": 4
+    },
+    {
+        "name": "Barra",
+        "male": false,
+        "birth": 298,
+        "death": 299,
+        "age": 1,
+        "pageRank": 0.05408515535097814,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            1
+        ],
+        "culture": -1,
+        "house": -1,
+        "locations": [
+            34
+        ],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Barthogan Stark",
+        "male": true,
+        "birth": 139,
+        "death": 209,
+        "age": 70,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [
+            222
+        ],
+        "books": [
+            16,
+            0
+        ],
+        "culture": 24,
+        "house": 209,
+        "locations": [
+            81
+        ],
+        "titles": [
+            247,
+            340
+        ],
+        "houseRegion": 8
+    },
+    {
+        "name": "Benfred Tallhart",
+        "male": true,
+        "birth": 279,
+        "death": 299,
+        "age": 20,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [
+            231
+        ],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 24,
+        "house": 218,
+        "locations": [
+            81,
+            29,
+            74
+        ],
+        "titles": [],
+        "houseRegion": 8
+    },
+    {
+        "name": "Benfrey Frey",
+        "male": true,
+        "birth": 271,
+        "death": 299,
+        "age": 28,
+        "pageRank": 0,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [
+            105
+        ],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [
+            73
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Beric Dondarrion",
+        "male": true,
+        "birth": 276,
+        "death": 299,
+        "age": 23,
+        "pageRank": 0.09896432681242807,
+        "numRelatives": 0,
+        "allegiances": [
+            88,
+            6
+        ],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 20,
+        "house": 81,
+        "locations": [
+            46,
+            34,
+            56,
+            9,
+            26,
+            59,
+            6
+        ],
+        "titles": [
+            164,
+            321
+        ],
+        "houseRegion": 13
+    },
+    {
+        "name": "Beron Stark",
+        "male": true,
+        "birth": 154,
+        "death": 226,
+        "age": 72,
+        "pageRank": 0,
+        "numRelatives": 0.36363636363636365,
+        "allegiances": [
+            222
+        ],
+        "books": [
+            16,
+            10,
+            0
+        ],
+        "culture": 24,
+        "house": 209,
+        "locations": [
+            81
+        ],
+        "titles": [
+            247,
+            340
+        ],
+        "houseRegion": 8
+    },
+    {
+        "name": "Bethany Bracken",
+        "male": false,
+        "birth": 156,
+        "death": 178,
+        "age": 22,
+        "pageRank": 0.007479861910241657,
+        "numRelatives": 0,
+        "allegiances": [
+            49
+        ],
+        "books": [
+            16,
+            4,
+            2,
+            1
+        ],
+        "culture": 31,
+        "house": 42,
+        "locations": [
+            34,
+            68
+        ],
+        "titles": [
+            113
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Bethany Rosby",
+        "male": false,
+        "birth": 265,
+        "death": 282,
+        "age": 17,
+        "pageRank": 0,
+        "numRelatives": 0.2727272727272727,
+        "allegiances": [
+            204,
+            105
+        ],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 6,
+        "house": 192,
+        "locations": [],
+        "titles": [
+            138
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Brandon Stark",
+        "male": true,
+        "birth": 262,
+        "death": 282,
+        "age": 20,
+        "pageRank": 0.024165707710011506,
+        "numRelatives": 0.045454545454545456,
+        "allegiances": [
+            222
+        ],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            1
+        ],
+        "culture": 24,
+        "house": 209,
+        "locations": [
+            34,
+            81,
+            0,
+            56
+        ],
+        "titles": [],
+        "houseRegion": 8
+    },
+    {
+        "name": "Brandon Stark (son of Cregan)",
+        "male": true,
+        "birth": 140,
+        "death": 212,
+        "age": 72,
+        "pageRank": 0,
+        "numRelatives": 0.22727272727272727,
+        "allegiances": [
+            222
+        ],
+        "books": [
+            16,
+            0
+        ],
+        "culture": 24,
+        "house": 209,
+        "locations": [
+            81
+        ],
+        "titles": [
+            247,
+            340
+        ],
+        "houseRegion": 8
+    },
+    {
+        "name": "Bryce Caron",
+        "male": true,
+        "birth": 276,
+        "death": 299,
+        "age": 23,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [
+            61,
+            286,
+            32
+        ],
+        "books": [
+            3,
+            0,
+            1
+        ],
+        "culture": -1,
+        "house": 54,
+        "locations": [
+            34,
+            1
+        ],
+        "titles": [
+            202,
+            233
+        ],
+        "houseRegion": 13
+    },
+    {
+        "name": "Brynden Rivers",
+        "male": true,
+        "birth": 175,
+        "death": 252,
+        "age": 77,
+        "pageRank": 0.14556962025316456,
+        "numRelatives": 0,
+        "allegiances": [
+            233,
+            279
+        ],
+        "books": [
+            16,
+            14,
+            10,
+            2,
+            1
+        ],
+        "culture": 40,
+        "house": 219,
+        "locations": [
+            24,
+            34,
+            68
+        ],
+        "titles": [
+            321,
+            286,
+            81,
+            154
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Catelyn Stark",
+        "male": false,
+        "birth": 264,
+        "death": 299,
+        "age": 35,
+        "pageRank": 0.44476409666283084,
+        "numRelatives": 0.2727272727272727,
+        "allegiances": [
+            240,
+            222,
+            6
+        ],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 31,
+        "house": 225,
+        "locations": [
+            78,
+            46,
+            34,
+            1,
+            81,
+            42,
+            15,
+            62,
+            16,
+            56
+        ],
+        "titles": [
+            146
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Cleos Frey",
+        "male": true,
+        "birth": 258,
+        "death": 299,
+        "age": 41,
+        "pageRank": 0.0011507479861910242,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [
+            105,
+            144
+        ],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 41,
+        "house": 98,
+        "locations": [
+            13,
+            34,
+            31,
+            41,
+            56,
+            9,
+            6
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Cley Cerwyn",
+        "male": true,
+        "birth": 284,
+        "death": 299,
+        "age": 15,
+        "pageRank": 0.02531645569620253,
+        "numRelatives": 0,
+        "allegiances": [
+            65
+        ],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 24,
+        "house": 58,
+        "locations": [
+            81,
+            5,
+            74
+        ],
+        "titles": [
+            171
+        ],
+        "houseRegion": 8
+    },
+    {
+        "name": "Corlys Velaryon",
+        "male": true,
+        "birth": 53,
+        "death": 132,
+        "age": 79,
+        "pageRank": 0.04142692750287687,
+        "numRelatives": 0.22727272727272727,
+        "allegiances": [
+            252,
+            3,
+            20
+        ],
+        "books": [
+            16,
+            6,
+            12,
+            11
+        ],
+        "culture": 6,
+        "house": 236,
+        "locations": [
+            57,
+            24,
+            34,
+            77,
+            23,
+            75,
+            9
+        ],
+        "titles": [
+            321,
+            240,
+            277,
+            151,
+            282,
+            82,
+            254,
+            19,
+            33,
+            26,
+            31
+        ],
+        "houseRegion": 0
+    },
+    {
+        "name": "Cressen",
+        "male": true,
+        "birth": 219,
+        "death": 299,
+        "age": 80,
+        "pageRank": 0.03164556962025317,
+        "numRelatives": 0,
+        "allegiances": [
+            8,
+            31,
+            32
+        ],
+        "books": [
+            0,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 7,
+        "locations": [
+            75
+        ],
+        "titles": [
+            262
+        ],
+        "houseRegion": -1
+    },
+    {
+        "name": "Criston Cole",
+        "male": true,
+        "birth": 82,
+        "death": 130,
+        "age": 48,
+        "pageRank": 0.03682393555811277,
+        "numRelatives": 0,
+        "allegiances": [
+            72,
+            287,
+            274,
+            20
+        ],
+        "books": [
+            16,
+            6,
+            12,
+            11,
+            2
+        ],
+        "culture": 33,
+        "house": 65,
+        "locations": [
+            57,
+            13,
+            24,
+            34,
+            75,
+            41,
+            9
+        ],
+        "titles": [
+            321,
+            152,
+            81
+        ],
+        "houseRegion": 13
+    },
+    {
+        "name": "Cyrenna Swann",
+        "male": true,
+        "birth": 236,
+        "death": 249,
+        "age": 13,
+        "pageRank": 0,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [
+            229,
+            105
+        ],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 216,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 13
+    },
+    {
+        "name": "Dacey Mormont",
+        "male": false,
+        "birth": 252,
+        "death": 299,
+        "age": 47,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [
+            168
+        ],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 24,
+        "house": 159,
+        "locations": [
+            42
+        ],
+        "titles": [],
+        "houseRegion": 8
+    },
+    {
+        "name": "Daella Targaryen (daughter of Jaehaerys I)",
+        "male": false,
+        "birth": 64,
+        "death": 82,
+        "age": 18,
+        "pageRank": 0,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [
+            233,
+            26
+        ],
+        "books": [
+            16,
+            6,
+            12
+        ],
+        "culture": 6,
+        "house": 219,
+        "locations": [
+            15
+        ],
+        "titles": [
+            306,
+            140
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Daemon I Blackfyre",
+        "male": true,
+        "birth": 170,
+        "death": 196,
+        "age": 26,
+        "pageRank": 0.006329113924050633,
+        "numRelatives": 0.4090909090909091,
+        "allegiances": [
+            39
+        ],
+        "books": [
+            16,
+            14,
+            10,
+            4,
+            1,
+            15
+        ],
+        "culture": 6,
+        "house": 33,
+        "locations": [
+            34
+        ],
+        "titles": [
+            321,
+            96,
+            238,
+            309
+        ],
+        "houseRegion": -1
+    },
+    {
+        "name": "Daemon II Blackfyre",
+        "male": true,
+        "birth": 189,
+        "death": 212,
+        "age": 23,
+        "pageRank": 0.01726121979286536,
+        "numRelatives": 0,
+        "allegiances": [
+            39
+        ],
+        "books": [
+            16,
+            10
+        ],
+        "culture": 6,
+        "house": 33,
+        "locations": [
+            34
+        ],
+        "titles": [
+            96,
+            238,
+            309
+        ],
+        "houseRegion": -1
+    },
+    {
+        "name": "Daemon Targaryen",
+        "male": true,
+        "birth": 81,
+        "death": 130,
+        "age": 49,
+        "pageRank": 0.14039125431530494,
+        "numRelatives": 0.36363636363636365,
+        "allegiances": [
+            233,
+            3
+        ],
+        "books": [
+            16,
+            6,
+            12,
+            11
+        ],
+        "culture": 6,
+        "house": 219,
+        "locations": [
+            58,
+            24,
+            34,
+            75,
+            41,
+            9
+        ],
+        "titles": [
+            297,
+            57,
+            275,
+            281,
+            98,
+            308
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Daeron I Targaryen",
+        "male": true,
+        "birth": 143,
+        "death": 161,
+        "age": 18,
+        "pageRank": 0.11507479861910241,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [],
+        "books": [],
+        "culture": -1,
+        "house": 219,
+        "locations": [
+            34,
+            75
+        ],
+        "titles": [],
+        "houseRegion": 2
+    },
+    {
+        "name": "Daeron II Targaryen",
+        "male": true,
+        "birth": 153,
+        "death": 209,
+        "age": 56,
+        "pageRank": 0.1565017261219793,
+        "numRelatives": 0.3181818181818182,
+        "allegiances": [],
+        "books": [],
+        "culture": -1,
+        "house": 219,
+        "locations": [
+            34
+        ],
+        "titles": [],
+        "houseRegion": 2
+    },
+    {
+        "name": "Daeron Targaryen (son of Viserys I)",
+        "male": true,
+        "birth": 114,
+        "death": 130,
+        "age": 16,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [
+            233,
+            20
+        ],
+        "books": [
+            16,
+            12,
+            11
+        ],
+        "culture": 6,
+        "house": 219,
+        "locations": [
+            57,
+            34,
+            77,
+            1
+        ],
+        "titles": [
+            297,
+            321
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Daeron Targaryen (son of Maekar I)",
+        "male": true,
+        "birth": 190,
+        "death": 221,
+        "age": 31,
+        "pageRank": 0,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [
+            233
+        ],
+        "books": [
+            16,
+            9,
+            14,
+            10,
+            0,
+            2
+        ],
+        "culture": 6,
+        "house": 219,
+        "locations": [
+            6
+        ],
+        "titles": [
+            300,
+            302
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Dalbridge",
+        "male": true,
+        "birth": 254,
+        "death": 299,
+        "age": 45,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [
+            279
+        ],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 260,
+        "locations": [
+            63,
+            17,
+            75
+        ],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Damon Lannister (lord)",
+        "male": true,
+        "birth": 179,
+        "death": 210,
+        "age": 31,
+        "pageRank": 0,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [
+            144
+        ],
+        "books": [
+            16,
+            9,
+            10
+        ],
+        "culture": 41,
+        "house": 137,
+        "locations": [
+            49
+        ],
+        "titles": [
+            169,
+            322,
+            345
+        ],
+        "houseRegion": 27
+    },
+    {
+        "name": "Del",
+        "male": true,
+        "birth": 283,
+        "death": 299,
+        "age": 16,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            4,
+            2
+        ],
+        "culture": 14,
+        "house": -1,
+        "locations": [
+            4,
+            51
+        ],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Domeric Bolton",
+        "male": true,
+        "birth": 273,
+        "death": 297,
+        "age": 24,
+        "pageRank": 0.02991944764096663,
+        "numRelatives": 0,
+        "allegiances": [
+            45
+        ],
+        "books": [
+            0,
+            2,
+            1
+        ],
+        "culture": 24,
+        "house": 39,
+        "locations": [
+            12,
+            0,
+            54
+        ],
+        "titles": [],
+        "houseRegion": 8
+    },
+    {
+        "name": "Donal Noye",
+        "male": true,
+        "birth": 252,
+        "death": 300,
+        "age": 48,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [
+            31,
+            279
+        ],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 25,
+        "locations": [
+            4,
+            43,
+            75
+        ],
+        "titles": [],
+        "houseRegion": 13
+    },
+    {
+        "name": "Donella Hornwood",
+        "male": false,
+        "birth": 249,
+        "death": 299,
+        "age": 50,
+        "pageRank": 0,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [
+            158,
+            135,
+            45
+        ],
+        "books": [
+            0,
+            1
+        ],
+        "culture": 24,
+        "house": 149,
+        "locations": [
+            11,
+            12,
+            81,
+            29
+        ],
+        "titles": [
+            129
+        ],
+        "houseRegion": 8
+    },
+    {
+        "name": "Dontos Hollard",
+        "male": false,
+        "birth": 261,
+        "death": 300,
+        "age": 39,
+        "pageRank": 0.040851553509781355,
+        "numRelatives": 0,
+        "allegiances": [
+            134
+        ],
+        "books": [
+            3,
+            0,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 128,
+        "locations": [
+            13,
+            34,
+            28
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Doreah",
+        "male": false,
+        "birth": 279,
+        "death": 299,
+        "age": 20,
+        "pageRank": 0.10759493670886076,
+        "numRelatives": 0,
+        "allegiances": [
+            233
+        ],
+        "books": [
+            3,
+            0,
+            1
+        ],
+        "culture": 18,
+        "house": 219,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 2
+    },
+    {
+        "name": "Drogo",
+        "male": true,
+        "birth": 267,
+        "death": 299,
+        "age": 32,
+        "pageRank": 0.2140391254315305,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            2,
+            1,
+            15
+        ],
+        "culture": 11,
+        "house": -1,
+        "locations": [],
+        "titles": [
+            92,
+            91
+        ],
+        "houseRegion": -1
+    },
+    {
+        "name": "Duncan Targaryen",
+        "male": true,
+        "birth": 220,
+        "death": 259,
+        "age": 39,
+        "pageRank": 0.07882623705408516,
+        "numRelatives": 0.045454545454545456,
+        "allegiances": [
+            233
+        ],
+        "books": [
+            16,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 219,
+        "locations": [
+            46,
+            34
+        ],
+        "titles": [
+            301
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Eddard Stark",
+        "male": true,
+        "birth": 263,
+        "death": 299,
+        "age": 36,
+        "pageRank": 0.6513233601841196,
+        "numRelatives": 0.3181818181818182,
+        "allegiances": [
+            222
+        ],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            2,
+            1,
+            15
+        ],
+        "culture": 24,
+        "house": 209,
+        "locations": [
+            78,
+            66,
+            24,
+            34,
+            4,
+            11,
+            12,
+            81,
+            74,
+            0,
+            42,
+            75,
+            15,
+            21,
+            50,
+            56,
+            9
+        ],
+        "titles": [
+            247,
+            340,
+            81,
+            308,
+            254
+        ],
+        "houseRegion": 8
+    },
+    {
+        "name": "Edwyle Stark",
+        "male": true,
+        "birth": 226,
+        "death": 262,
+        "age": 36,
+        "pageRank": 0,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [
+            222
+        ],
+        "books": [
+            16,
+            0
+        ],
+        "culture": 24,
+        "house": 209,
+        "locations": [
+            81
+        ],
+        "titles": [
+            247,
+            340
+        ],
+        "houseRegion": 8
+    },
+    {
+        "name": "Elaena Targaryen",
+        "male": false,
+        "birth": 150,
+        "death": 220,
+        "age": 70,
+        "pageRank": 0.07825086306098965,
+        "numRelatives": 0.45454545454545453,
+        "allegiances": [
+            233,
+            192,
+            190,
+            159
+        ],
+        "books": [
+            16,
+            4,
+            2,
+            1
+        ],
+        "culture": 6,
+        "house": 219,
+        "locations": [
+            75
+        ],
+        "titles": [
+            306
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Elia Martell",
+        "male": false,
+        "birth": 256,
+        "death": 283,
+        "age": 27,
+        "pageRank": 0.1565017261219793,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [
+            162,
+            233
+        ],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            2,
+            1,
+            15
+        ],
+        "culture": 10,
+        "house": 153,
+        "locations": [
+            34,
+            81,
+            28,
+            75,
+            6
+        ],
+        "titles": [
+            306
+        ],
+        "houseRegion": 3
+    },
+    {
+        "name": "Eon Hunter",
+        "male": true,
+        "birth": 220,
+        "death": 300,
+        "age": 80,
+        "pageRank": 0.006329113924050633,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [
+            137
+        ],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 39,
+        "house": 131,
+        "locations": [
+            38,
+            15
+        ],
+        "titles": [
+            201
+        ],
+        "houseRegion": 19
+    },
+    {
+        "name": "Falyse Stokeworth",
+        "male": false,
+        "birth": 265,
+        "death": 300,
+        "age": 35,
+        "pageRank": 0.01668584579976985,
+        "numRelatives": 0.045454545454545456,
+        "allegiances": [
+            223,
+            58
+        ],
+        "books": [
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 6,
+        "house": 210,
+        "locations": [
+            34,
+            28
+        ],
+        "titles": [
+            113
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Gared",
+        "male": true,
+        "birth": 241,
+        "death": 298,
+        "age": 57,
+        "pageRank": 0.07537399309551208,
+        "numRelatives": 0,
+        "allegiances": [
+            280
+        ],
+        "books": [
+            3,
+            0
+        ],
+        "culture": -1,
+        "house": 261,
+        "locations": [
+            7,
+            81
+        ],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Gerion Lannister",
+        "male": true,
+        "birth": 255,
+        "death": 291,
+        "age": 36,
+        "pageRank": 0,
+        "numRelatives": 0.045454545454545456,
+        "allegiances": [
+            144
+        ],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 41,
+        "house": 137,
+        "locations": [
+            24,
+            56
+        ],
+        "titles": [],
+        "houseRegion": 27
+    },
+    {
+        "name": "Gerold Lannister",
+        "male": true,
+        "birth": 206,
+        "death": 244,
+        "age": 38,
+        "pageRank": 0.012082853855005753,
+        "numRelatives": 0.2727272727272727,
+        "allegiances": [
+            144
+        ],
+        "books": [
+            16,
+            14,
+            4
+        ],
+        "culture": 41,
+        "house": 137,
+        "locations": [],
+        "titles": [
+            316,
+            169,
+            322,
+            345
+        ],
+        "houseRegion": 27
+    },
+    {
+        "name": "Gregor Clegane",
+        "male": true,
+        "birth": 265,
+        "death": 300,
+        "age": 35,
+        "pageRank": 0.3291139240506329,
+        "numRelatives": 0.045454545454545456,
+        "allegiances": [
+            68,
+            144
+        ],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1,
+            15
+        ],
+        "culture": 41,
+        "house": 61,
+        "locations": [
+            13,
+            34,
+            28,
+            56,
+            68,
+            9,
+            61
+        ],
+        "titles": [
+            321,
+            103
+        ],
+        "houseRegion": 27
+    },
+    {
+        "name": "Guyard Morrigen",
+        "male": true,
+        "birth": 278,
+        "death": 299,
+        "age": 21,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [
+            169,
+            286
+        ],
+        "books": [
+            0,
+            1
+        ],
+        "culture": -1,
+        "house": 160,
+        "locations": [
+            34,
+            1
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": 13
+    },
+    {
+        "name": "Gwayne Hightower",
+        "male": true,
+        "birth": 88,
+        "death": 130,
+        "age": 42,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [
+            132,
+            9,
+            20
+        ],
+        "books": [
+            6,
+            12,
+            11
+        ],
+        "culture": 30,
+        "house": 126,
+        "locations": [
+            34
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": 9
+    },
+    {
+        "name": "Harwin Strong",
+        "male": true,
+        "birth": 90,
+        "death": 120,
+        "age": 30,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [
+            226,
+            9,
+            233,
+            3
+        ],
+        "books": [
+            16,
+            6,
+            12,
+            11
+        ],
+        "culture": 31,
+        "house": 213,
+        "locations": [
+            34
+        ],
+        "titles": [
+            321,
+            11
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Hazzea",
+        "male": false,
+        "birth": 295,
+        "death": 300,
+        "age": 5,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            1
+        ],
+        "culture": 15,
+        "house": -1,
+        "locations": [],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Helaena Targaryen",
+        "male": false,
+        "birth": 109,
+        "death": 130,
+        "age": 21,
+        "pageRank": 0.08630609896432681,
+        "numRelatives": 0.18181818181818182,
+        "allegiances": [
+            233,
+            20
+        ],
+        "books": [
+            16,
+            6,
+            12,
+            11
+        ],
+        "culture": 6,
+        "house": 219,
+        "locations": [
+            57,
+            34,
+            28,
+            75
+        ],
+        "titles": [
+            306,
+            310
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Holly",
+        "male": true,
+        "birth": 283,
+        "death": 300,
+        "age": 17,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            1
+        ],
+        "culture": 14,
+        "house": -1,
+        "locations": [
+            81
+        ],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Hoster Tully",
+        "male": true,
+        "birth": 238,
+        "death": 299,
+        "age": 61,
+        "pageRank": 0.119102416570771,
+        "numRelatives": 0.2727272727272727,
+        "allegiances": [
+            240
+        ],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 31,
+        "house": 225,
+        "locations": [
+            34,
+            81,
+            75,
+            15,
+            56,
+            9
+        ],
+        "titles": [
+            251,
+            207
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Jaehaera Targaryen",
+        "male": false,
+        "birth": 123,
+        "death": 133,
+        "age": 10,
+        "pageRank": 0.07652474108170311,
+        "numRelatives": 0.045454545454545456,
+        "allegiances": [
+            233,
+            20
+        ],
+        "books": [
+            16,
+            6,
+            12,
+            11
+        ],
+        "culture": 6,
+        "house": 219,
+        "locations": [
+            34,
+            28,
+            75
+        ],
+        "titles": [
+            306,
+            310
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Jaehaerys I Targaryen",
+        "male": true,
+        "birth": 34,
+        "death": 103,
+        "age": 69,
+        "pageRank": 0.14441887226697353,
+        "numRelatives": 0.7272727272727273,
+        "allegiances": [],
+        "books": [],
+        "culture": -1,
+        "house": 219,
+        "locations": [
+            78,
+            34,
+            45,
+            4,
+            81,
+            75,
+            41,
+            56,
+            6
+        ],
+        "titles": [],
+        "houseRegion": 2
+    },
+    {
+        "name": "Jaehaerys Targaryen (son of Aegon II)",
+        "male": true,
+        "birth": 123,
+        "death": 129,
+        "age": 6,
+        "pageRank": 0.07767548906789414,
+        "numRelatives": 0,
+        "allegiances": [
+            233,
+            20
+        ],
+        "books": [
+            16,
+            6,
+            12,
+            11
+        ],
+        "culture": 6,
+        "house": 219,
+        "locations": [
+            34,
+            75
+        ],
+        "titles": [
+            297
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Jaehaerys II Targaryen",
+        "male": true,
+        "birth": 225,
+        "death": 262,
+        "age": 37,
+        "pageRank": 0,
+        "numRelatives": 0.22727272727272727,
+        "allegiances": [],
+        "books": [],
+        "culture": -1,
+        "house": 219,
+        "locations": [
+            46,
+            34,
+            56,
+            26
+        ],
+        "titles": [],
+        "houseRegion": 2
+    },
+    {
+        "name": "Janos Slynt",
+        "male": true,
+        "birth": 278,
+        "death": 300,
+        "age": 22,
+        "pageRank": 0.11104718066743383,
+        "numRelatives": 0.18181818181818182,
+        "allegiances": [
+            9,
+            218,
+            279
+        ],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 6,
+        "house": 8,
+        "locations": [
+            24,
+            34,
+            19,
+            4,
+            75,
+            50,
+            9
+        ],
+        "titles": [
+            27,
+            57,
+            192
+        ],
+        "houseRegion": -1
+    },
+    {
+        "name": "Jared Frey",
+        "male": true,
+        "birth": 248,
+        "death": 300,
+        "age": 52,
+        "pageRank": 0,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [
+            105
+        ],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 98,
+        "locations": [
+            78,
+            66,
+            34,
+            81,
+            0,
+            41
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Jason Lannister",
+        "male": true,
+        "birth": 89,
+        "death": 130,
+        "age": 41,
+        "pageRank": 0.006904487917146145,
+        "numRelatives": 0.2727272727272727,
+        "allegiances": [
+            144,
+            20
+        ],
+        "books": [
+            16,
+            7,
+            12,
+            11
+        ],
+        "culture": 41,
+        "house": 137,
+        "locations": [],
+        "titles": [
+            321,
+            169,
+            322,
+            345
+        ],
+        "houseRegion": 27
+    },
+    {
+        "name": "Jeor Mormont",
+        "male": true,
+        "birth": 230,
+        "death": 299,
+        "age": 69,
+        "pageRank": 0.24568469505178367,
+        "numRelatives": 0.045454545454545456,
+        "allegiances": [
+            168,
+            279
+        ],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 24,
+        "house": 159,
+        "locations": [
+            4,
+            17,
+            7,
+            81
+        ],
+        "titles": [
+            160,
+            154
+        ],
+        "houseRegion": 8
+    },
+    {
+        "name": "Jeyne Arryn",
+        "male": false,
+        "birth": 94,
+        "death": 134,
+        "age": 40,
+        "pageRank": 0.0005753739930955121,
+        "numRelatives": 0,
+        "allegiances": [
+            26,
+            3
+        ],
+        "books": [
+            16,
+            12,
+            11,
+            6
+        ],
+        "culture": 39,
+        "house": 21,
+        "locations": [
+            58,
+            13,
+            34,
+            3,
+            15,
+            54,
+            21
+        ],
+        "titles": [
+            140,
+            68,
+            338,
+            147
+        ],
+        "houseRegion": 24
+    },
+    {
+        "name": "Jeyne Westerling (wife of Maegor I)",
+        "male": false,
+        "birth": 27,
+        "death": 47,
+        "age": 20,
+        "pageRank": 0,
+        "numRelatives": 0.18181818181818182,
+        "allegiances": [
+            260,
+            232,
+            233
+        ],
+        "books": [
+            16,
+            6,
+            13,
+            4
+        ],
+        "culture": 41,
+        "house": 244,
+        "locations": [
+            34,
+            75
+        ],
+        "titles": [
+            137,
+            310
+        ],
+        "houseRegion": 27
+    },
+    {
+        "name": "Joanna Lannister",
+        "male": false,
+        "birth": 244,
+        "death": 273,
+        "age": 29,
+        "pageRank": 0.09666283084004602,
+        "numRelatives": 0.18181818181818182,
+        "allegiances": [
+            144
+        ],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 41,
+        "house": 137,
+        "locations": [
+            34,
+            56,
+            6
+        ],
+        "titles": [
+            119
+        ],
+        "houseRegion": 27
+    },
+    {
+        "name": "Joffrey Baratheon",
+        "male": true,
+        "birth": 286,
+        "death": 300,
+        "age": 14,
+        "pageRank": 0.5552359033371692,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [],
+        "books": [],
+        "culture": -1,
+        "house": 27,
+        "locations": [
+            24,
+            34,
+            81,
+            56,
+            9
+        ],
+        "titles": [],
+        "houseRegion": 2
+    },
+    {
+        "name": "Joffrey Lonmouth",
+        "male": true,
+        "birth": 99,
+        "death": 114,
+        "age": 15,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [
+            150
+        ],
+        "books": [
+            16,
+            12
+        ],
+        "culture": 34,
+        "house": 141,
+        "locations": [
+            34
+        ],
+        "titles": [
+            321
+        ],
+        "houseRegion": 13
+    },
+    {
+        "name": "Jon Arryn",
+        "male": true,
+        "birth": 218,
+        "death": 298,
+        "age": 80,
+        "pageRank": 0.2048331415420023,
+        "numRelatives": 0.2727272727272727,
+        "allegiances": [
+            26
+        ],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            2,
+            1,
+            15
+        ],
+        "culture": 39,
+        "house": 21,
+        "locations": [
+            24,
+            34,
+            81,
+            75,
+            15,
+            21,
+            56,
+            9
+        ],
+        "titles": [
+            226,
+            68,
+            338,
+            81,
+            89,
+            321
+        ],
+        "houseRegion": 24
+    },
+    {
+        "name": "Jon Bulwer",
+        "male": true,
+        "birth": 278,
+        "death": 299,
+        "age": 21,
+        "pageRank": 0,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [
+            55
+        ],
+        "books": [
+            4,
+            2
+        ],
+        "culture": 30,
+        "house": 48,
+        "locations": [],
+        "titles": [
+            163
+        ],
+        "houseRegion": 17
+    },
+    {
+        "name": "Jonnel Stark",
+        "male": true,
+        "birth": 136,
+        "death": 209,
+        "age": 73,
+        "pageRank": 0,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [
+            222
+        ],
+        "books": [
+            16,
+            0
+        ],
+        "culture": 24,
+        "house": 209,
+        "locations": [
+            81
+        ],
+        "titles": [
+            247,
+            340
+        ],
+        "houseRegion": 8
+    },
+    {
+        "name": "Jory Cassel",
+        "male": true,
+        "birth": 273,
+        "death": 298,
+        "age": 25,
+        "pageRank": 0.07825086306098965,
+        "numRelatives": 0,
+        "allegiances": [
+            62,
+            222
+        ],
+        "books": [
+            3,
+            0,
+            4,
+            1
+        ],
+        "culture": 24,
+        "house": 55,
+        "locations": [
+            34,
+            81,
+            75,
+            56
+        ],
+        "titles": [
+            22
+        ],
+        "houseRegion": 8
+    },
+    {
+        "name": "Kaeth",
+        "male": true,
+        "birth": 175,
+        "death": 257,
+        "age": 82,
+        "pageRank": 0.0034522439585730723,
+        "numRelatives": 0,
+        "allegiances": [
+            293
+        ],
+        "books": [
+            16,
+            4,
+            2
+        ],
+        "culture": -1,
+        "house": 267,
+        "locations": [
+            24,
+            34,
+            75,
+            9
+        ],
+        "titles": [
+            78
+        ],
+        "houseRegion": -1
+    },
+    {
+        "name": "Kevan Lannister",
+        "male": true,
+        "birth": 244,
+        "death": 300,
+        "age": 56,
+        "pageRank": 0.17894131185270426,
+        "numRelatives": 0.22727272727272727,
+        "allegiances": [
+            144
+        ],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 41,
+        "house": 137,
+        "locations": [
+            78,
+            47,
+            24,
+            34,
+            75,
+            56,
+            9
+        ],
+        "titles": [
+            321,
+            281,
+            254,
+            308
+        ],
+        "houseRegion": 27
+    },
+    {
+        "name": "Khrazz",
+        "male": true,
+        "birth": 277,
+        "death": 300,
+        "age": 23,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [
+            180
+        ],
+        "books": [
+            1
+        ],
+        "culture": 15,
+        "house": 170,
+        "locations": [],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Kyra",
+        "male": true,
+        "birth": 280,
+        "death": 300,
+        "age": 20,
+        "pageRank": 0.007479861910241657,
+        "numRelatives": 0,
+        "allegiances": [
+            222
+        ],
+        "books": [
+            3,
+            0,
+            2,
+            1
+        ],
+        "culture": -1,
+        "house": 209,
+        "locations": [
+            12,
+            81
+        ],
+        "titles": [],
+        "houseRegion": 8
+    },
+    {
+        "name": "Laena Velaryon",
+        "male": false,
+        "birth": 93,
+        "death": 120,
+        "age": 27,
+        "pageRank": 0,
+        "numRelatives": 0.13636363636363635,
+        "allegiances": [
+            252,
+            233,
+            3
+        ],
+        "books": [
+            16,
+            6,
+            12,
+            11
+        ],
+        "culture": 6,
+        "house": 236,
+        "locations": [],
+        "titles": [],
+        "houseRegion": 0
+    },
+    {
+        "name": "Laenor Velaryon",
+        "male": true,
+        "birth": 94,
+        "death": 120,
+        "age": 26,
+        "pageRank": 0.0379746835443038,
+        "numRelatives": 0.2727272727272727,
+        "allegiances": [
+            252,
+            233
+        ],
+        "books": [
+            16,
+            6,
+            12,
+            11
+        ],
+        "culture": 6,
+        "house": 236,
+        "locations": [
+            34
+        ],
+        "titles": [
+            321,
+            298
+        ],
+        "houseRegion": 0
+    },
+    {
+        "name": "Lyanna Stark",
+        "male": false,
+        "birth": 266,
+        "death": 283,
+        "age": 17,
+        "pageRank": 0.21518987341772153,
+        "numRelatives": 0,
+        "allegiances": [
+            222
+        ],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 24,
+        "house": 209,
+        "locations": [
+            34,
+            81,
+            75,
+            15,
+            56
+        ],
+        "titles": [],
+        "houseRegion": 8
+    },
+    {
+        "name": "Lyman Beesbury",
+        "male": true,
+        "birth": 49,
+        "death": 129,
+        "age": 80,
+        "pageRank": 0.011507479861910242,
+        "numRelatives": 0,
+        "allegiances": [
+            34,
+            3
+        ],
+        "books": [
+            16,
+            6,
+            11
+        ],
+        "culture": 30,
+        "house": 28,
+        "locations": [
+            24,
+            34,
+            28,
+            75,
+            9
+        ],
+        "titles": [
+            196,
+            275,
+            258
+        ],
+        "houseRegion": 9
+    },
+    {
+        "name": "Lyman Darry",
+        "male": false,
+        "birth": 290,
+        "death": 299,
+        "age": 9,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [
+            84
+        ],
+        "books": [
+            3,
+            0
+        ],
+        "culture": 31,
+        "house": 77,
+        "locations": [
+            56,
+            9
+        ],
+        "titles": [
+            175
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Lyonel Strong",
+        "male": true,
+        "birth": 77,
+        "death": 120,
+        "age": 43,
+        "pageRank": 0,
+        "numRelatives": 0.3181818181818182,
+        "allegiances": [
+            226
+        ],
+        "books": [
+            16,
+            6,
+            12
+        ],
+        "culture": 31,
+        "house": 213,
+        "locations": [
+            24,
+            75,
+            9
+        ],
+        "titles": [
+            192,
+            281,
+            81
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Lysa Arryn",
+        "male": false,
+        "birth": 266,
+        "death": 300,
+        "age": 34,
+        "pageRank": 0.15362485615650173,
+        "numRelatives": 0.18181818181818182,
+        "allegiances": [
+            240,
+            26,
+            28
+        ],
+        "books": [
+            16,
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 31,
+        "house": 225,
+        "locations": [
+            34,
+            81,
+            15,
+            21,
+            62,
+            56
+        ],
+        "titles": [
+            140,
+            148
+        ],
+        "houseRegion": 11
+    },
+    {
+        "name": "Maegor I Targaryen",
+        "male": true,
+        "birth": 12,
+        "death": 48,
+        "age": 36,
+        "pageRank": 0.006904487917146145,
+        "numRelatives": 0.45454545454545453,
+        "allegiances": [],
+        "books": [],
+        "culture": -1,
+        "house": 219,
+        "locations": [
+            24,
+            34,
+            39,
+            28,
+            75,
+            15,
+            9,
+            6
+        ],
+        "titles": [],
+        "houseRegion": 2
+    },
+    {
+        "name": "Maelor Targaryen",
+        "male": true,
+        "birth": 127,
+        "death": 130,
+        "age": 3,
+        "pageRank": 0.0759493670886076,
+        "numRelatives": 0,
+        "allegiances": [
+            233,
+            20
+        ],
+        "books": [
+            16,
+            6,
+            12,
+            11
+        ],
+        "culture": 6,
+        "house": 219,
+        "locations": [
+            34,
+            1,
+            75
+        ],
+        "titles": [
+            297
+        ],
+        "houseRegion": 2
+    },
+    {
+        "name": "Marillion",
+        "male": true,
+        "birth": 279,
+        "death": 300,
+        "age": 21,
+        "pageRank": 0.02531645569620253,
+        "numRelatives": 0,
+        "allegiances": [],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            15
+        ],
+        "culture": -1,
+        "house": -1,
+        "locations": [
+            46,
+            34,
+            15
+        ],
+        "titles": [],
+        "houseRegion": -1
+    },
+    {
+        "name": "Maron Greyjoy",
+        "male": true,
+        "birth": 269,
+        "death": 289,
+        "age": 20,
+        "pageRank": 0.04430379746835443,
+        "numRelatives": 0,
+        "allegiances": [
+            118
+        ],
+        "books": [
+            3,
+            0,
+            4,
+            2,
+            1
+        ],
+        "culture": 16,
+        "house": 112,
+        "locations": [
+            50
+        ],
+        "titles": [],
+        "houseRegion": 4
+    },
+    {
+        "name": "Matarys Targaryen",
+        "male": true,
+        "birth": 184,
+        "death": 209,
+        "age": 25,
+        "pageRank": 0,
+        "numRelatives": 0,
+        "allegiances": [
+            233
+        ],
+        "books": [
+            16,
+            9,
+            14,
+            10
+        ],
+        "culture": -1,
+        "house": 219,
+        "locations": [
+            34
+        ],
+        "titles": [
+            297
+        ],
+        "houseRegion": 2
+    }
+]

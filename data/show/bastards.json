@@ -1,1 +1,227 @@
-[]
+[
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cb4",
+        "name": "Bastardy"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cb5",
+        "name": "Legitimization"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cb6",
+        "name": "Joffrey Baratheon"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cb7",
+        "name": "Myrcella Baratheon"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cb8",
+        "name": "Orys Baratheon"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cb9",
+        "name": "Tommen Baratheon"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cba",
+        "name": "Barra"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cbb",
+        "name": "Daemon I Blackfyre"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cbc",
+        "name": "Ramsay Bolton"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cbd",
+        "name": "Brandon Snow"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cbe",
+        "name": "Craster"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cbf",
+        "name": "Dragonseeds"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cc0",
+        "name": "Dickon Flowers"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cc1",
+        "name": "Jafer Flowers"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cc2",
+        "name": "Sera Durwell"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cc3",
+        "name": "Gendry"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cc4",
+        "name": "Great Bastards"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cc5",
+        "name": "Donnel Hill"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cc6",
+        "name": "Robin Hill"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cc7",
+        "name": "Hugh Hammer"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cc8",
+        "name": "Nettles"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cc9",
+        "name": "Cotter Pyke"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cca",
+        "name": "Aegor Rivers"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239ccb",
+        "name": "Brynden Rivers"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239ccc",
+        "name": "Ryger Rivers"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239ccd",
+        "name": "Walder Rivers"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cce",
+        "name": "Sand Snakes"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239ccf",
+        "name": "Daemon Sand"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cd0",
+        "name": "Dorea Sand"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cd1",
+        "name": "Elia Sand"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cd2",
+        "name": "Ellaria Sand"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cd3",
+        "name": "Loreza Sand"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cd4",
+        "name": "Nymeria Sand"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cd5",
+        "name": "Obara Sand"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cd6",
+        "name": "Obella Sand"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cd7",
+        "name": "Sarella Sand"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cd8",
+        "name": "Tyene Sand"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cd9",
+        "name": "Shiera Seastar"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cda",
+        "name": "Elsera Snow"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cdb",
+        "name": "Josera Snow"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cdc",
+        "name": "Samwell Stone"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cdd",
+        "name": "Theron"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cde",
+        "name": "Ulf the White"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239cdf",
+        "name": "Addam Velaryon"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca3703f24696b1d51239ce0",
+        "name": "Marston Waters"
+    }
+]

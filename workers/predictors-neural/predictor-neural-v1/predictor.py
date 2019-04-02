@@ -44,5 +44,5 @@ else:
   model = load_model(os.path.join(dirnameMain, 'models/got-predictor-model.h5'))
   predictionsAge = np.argmax(model.predict(dataPredict), 1)
 
-  predictionsRelativeToCurrent = list(map(lambda x: int(x[0]["dateOfBirth"] + x[1] - GOT_CURRENT_YEAR), list(zip(charsPredict, predictionsAge))))
+  predictionsRelativeToCurrent = list(map(lambda x: int(x[0]["birth"] + x[1] - GOT_CURRENT_YEAR_BOOK), list(zip(charsPredict, predictionsAge))))
   writeJSON("predictions", dict(zip(map(lambda x: x["name"], charsPredict), predictionsRelativeToCurrent)))

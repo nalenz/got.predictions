@@ -3,23 +3,25 @@ const config = require('../common/config');
 
 (async () => {
   // attributes for data
-  const dataScalarAttrs = ['male', 'numRelatives'];
+  const dataScalarAttrs = ['male', 'pageRank', 'numRelatives'];
   const dataVectorAttrs = ['age', 'allegiances', 'appearances', 'cultures', 'titles'];
 
-  // read data and determine ranges for all attributes
+  // read formatted data
   const [charsTrain, charsPredict] = await Promise.all([
     utils.loadFormatterShowMLData('chars-to-train'),
     utils.loadFormatterShowMLData('chars-to-predict'),
   ]);
 
-  // create final data and labels
+  // create final data and labels, note that training data is shuffled to improve validation later
   const johv = new utils.JoinedOneHotVector(charsTrain.concat(charsPredict), dataScalarAttrs, dataVectorAttrs);
-  const [dataTrain, labelsTrain] = johv.createMultipleUnfolded(charsTrain, 'age', (char, currAge) => [char.age >= currAge ? 1.0 : 0.0]);
+  let [dataTrain, labelsTrain] = utils.shuffleTwoArrays(
+    johv.createMultipleUnfolded(charsTrain, 'age', (char, currAge) => [char.age >= currAge ? 1.0 : 0.0]),
+  );
   const dataPredict = johv.createMultipleUnfoldedOnlyData(
     charsPredict,
     'age',
-    { min: config.GOT_CURRENT_YEAR, max: 320 },
-    (char, currYear, ageRange) => utils.clamp(currYear - char.dateOfBirth, ageRange),
+    { min: config.GOT_CURRENT_YEAR_SHOW, max: 320 },
+    (char, currYear, ageRange) => utils.clamp(currYear - char.birth, ageRange),
   );
 
   // write data and labels to output file

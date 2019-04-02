@@ -25,24 +25,24 @@ labelsTrain = readFormattedBinaryBookMLFile("v2-labels-train")
 
 
 
-if False:
+if True:
   # build the model
   model = Sequential()
   model.add(Dense(500, activation='relu'))
-  model.add(Dropout(0.7))
+  model.add(Dropout(0.8))
   model.add(Dense(250, activation='relu'))
-  model.add(Dropout(0.7))
+  model.add(Dropout(0.8))
   model.add(Dense(100, activation='relu'))
-  model.add(Dropout(0.7))
+  model.add(Dropout(0.8))
   model.add(Dense(1, activation='sigmoid'))
   model.compile(optimizer='rmsprop', loss='binary_crossentropy', metrics=['accuracy'])
 
   # train the model
-  model.fit(dataTrain, labelsTrain, epochs=50, batch_size=32)
+  model.fit(dataTrain, labelsTrain, epochs=7, batch_size=32, validation_split=0.2)
   model.save(os.path.join(dirnameMain, 'models/got-predictor-model.h5'))
 
 else:
   # predict ages for other characters
   model = load_model(os.path.join(dirnameMain, 'models/got-predictor-model.h5'))
   predictionsPLOD = np.array(np.array_split(model.predict(dataPredict).flatten(), len(charsPredict))).tolist()
-  writeJSON("predictions", dict(zip(map(lambda x: x["name"], charsPredict), predictionsPLOD)))
+  writeJSON("predictions", dict(zip(map(lambda x: x["name"], charsPredict), predictionsPLOD)), True)
