@@ -11,6 +11,9 @@
 const utils = require('../common/utils');
 const config = require('../common/config');
 const fs = require('fs-extra');
+const path = require('path');
+
+const outfile = path.resolve(__dirname, "training_show_characters.json");
 
 const LOCATION_VISITED_THRESHOLD = 50; //min. amount of people need to visit a location before it's used
 const HOUSE_THRESHOLD = 5; //min. amount of people in this house before it's used
@@ -60,9 +63,9 @@ function collectHouses(filteredChars) {
         house_counter += 1;
 	  }
 	}
-	if(house_counter >= HOUSE_THRESHOLD && h.includes("House")) { //why is the Night's Watch considered a house anyway?
+	  if(house_counter >= HOUSE_THRESHOLD && h.includes("House")) { //why is the Night's Watch considered a house anyway?
       houses.push(h);
-	}
+	  }
   }
   
   return houses;
@@ -264,8 +267,8 @@ async function genTrainingData (callback) {
 	  processTitles(ch, ref_ch); // process titles data
 	  processSpouses(ch, ref_ch); // process spouses data
     processLovers(ch, ref_ch);
-    processSiblings(ch, ref_ch);
-    processParent(ch, ref_ch, characters);
+    //processSiblings(ch, ref_ch); //not influential
+    //processParent(ch, ref_ch, characters); //not influential
     processPagerank(ch, ref_ch, maxRank);
 	  
     // push the reformatted character and move on to the next one
@@ -275,11 +278,14 @@ async function genTrainingData (callback) {
   // output ready
   // Wanted some more readable JSON here :)
   let readableJSON = JSON.stringify(training_chars, null, 2);
-  fs.writeFile('ref_chs.json', readableJSON, (err) => {});
+  fs.writeFile(outfile, readableJSON, (err) => {
+    if(err) throw err;
+    callback();
+  });
   
-  //call the callback to signal async completion
-  callback();
 }
 
+exports.formatShowData = genTrainingData;
+
 //call the function
-genTrainingData(function () {console.log("Formatting complete!")});
+genTrainingData(() => {console.log("Formatting show characters complete!");});
