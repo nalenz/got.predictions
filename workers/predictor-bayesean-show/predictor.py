@@ -56,8 +56,8 @@ with pm.Model() as model:
   mu = pm.Deterministic('mu', exposure*lambda_) #this is also a matrix (risk = 0 if character already dead, otherwise same as lambda_)
   obs = pm.Poisson('obs', mu, observed=death) 
   
-n_samples = 1000 #both should be 1000, 100 for quick testing
-n_tune = 1000
+n_samples = 100 #both should be 1000, 100 for quick testing
+n_tune = 100
 acceptance_probability = 0.9
 num_chains = 2
 #now, sample the model
