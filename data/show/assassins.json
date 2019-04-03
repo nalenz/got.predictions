@@ -1,1 +1,237 @@
-[]
+[
+    {
+        "__v": 0,
+        "_id": "5ca4d4e33e3b37061bde0f02",
+        "assassin": null,
+        "id": "5ca4d4e33e3b37061bde0f02",
+        "slug": "Assassin"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca4d4e33e3b37061bde0f03",
+        "assassin": null,
+        "id": "5ca4d4e33e3b37061bde0f03",
+        "slug": "Catspaw_assassin"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca4d4e33e3b37061bde0f04",
+        "assassin": null,
+        "id": "5ca4d4e33e3b37061bde0f04",
+        "slug": "Drummer"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca4d4e33e3b37061bde0f05",
+        "assassin": null,
+        "id": "5ca4d4e33e3b37061bde0f05",
+        "slug": "Faceless_Men"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca4d4e33e3b37061bde0f06",
+        "assassin": null,
+        "id": "5ca4d4e33e3b37061bde0f06",
+        "slug": "Jaqen_H%27ghar"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca4d4e33e3b37061bde0f07",
+        "assassin": {
+            "__v": 0,
+            "_id": "5ca35cd587aa7609cb01a520",
+            "actor": "Noah Taylor",
+            "age": {
+                "age": 50,
+                "name": "Locke"
+            },
+            "alive": false,
+            "allegiances": [
+                "House Bolton",
+                "Night's Watch"
+            ],
+            "appearances": [
+                "Valar Dohaeris",
+                "Dark Wings, Dark Words",
+                "Walk of Punishment",
+                "And Now His Watch Is Ended",
+                "Kissed by Fire",
+                "The Climb",
+                "The Bear and the Maiden Fair",
+                "Second Sons",
+                "The Rains of Castamere",
+                "Mhysa",
+                "Two Swords",
+                "The Lion and the Rose",
+                "Breaker of Chains",
+                "Oathkeeper",
+                "First of His Name"
+            ],
+            "createdAt": "2019-04-02T13:00:05.629Z",
+            "cultures": [],
+            "death": 301,
+            "first_seen": "\"Dark Wings, Dark Words\"",
+            "gender": "male",
+            "house": "House Bolton",
+            "id": "5ca35cd587aa7609cb01a520",
+            "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/c/cf/Locke_Staffel_4.jpg/revision/latest?cb=20170905200142",
+            "longevity": [],
+            "longevityB": [],
+            "longevityC": [],
+            "lovers": [],
+            "name": "Locke",
+            "nicknames": [],
+            "origin": "",
+            "pagerank": {
+                "rank": 143,
+                "title": "Locke"
+            },
+            "plod": 0,
+            "plodB": 0,
+            "plodC": 0,
+            "religions": [],
+            "seasons": [],
+            "siblings": [],
+            "slug": "Locke",
+            "spouse": "",
+            "titles": [
+                "Castellan",
+                "Harrenhal"
+            ],
+            "updatedAt": "2019-04-02T13:00:05.629Z"
+        },
+        "id": "5ca4d4e33e3b37061bde0f07",
+        "slug": "Locke"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca4d4e33e3b37061bde0f08",
+        "assassin": null,
+        "id": "5ca4d4e33e3b37061bde0f08",
+        "slug": "Mandon_Moore"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca4d4e33e3b37061bde0f09",
+        "assassin": {
+            "__v": 0,
+            "_id": "5ca35cd587aa7609cb01a5ca",
+            "actor": "Ed Skrein",
+            "age": {
+                "age": 36,
+                "name": "Daario Naharis"
+            },
+            "alive": true,
+            "allegiances": [
+                "Second Sons",
+                "House Targaryen"
+            ],
+            "appearances": [
+                "Valar Dohaeris",
+                "Dark Wings, Dark Words",
+                "Walk of Punishment",
+                "And Now His Watch Is Ended",
+                "Kissed by Fire",
+                "The Climb",
+                "The Bear and the Maiden Fair",
+                "Second Sons",
+                "The Rains of Castamere",
+                "Mhysa",
+                "Two Swords",
+                "The Lion and the Rose",
+                "Breaker of Chains",
+                "Oathkeeper",
+                "First of His Name",
+                "The Laws of Gods and Men",
+                "Mockingbird",
+                "The Mountain and the Viper",
+                "The Watchers on the Wall",
+                "The Children",
+                "The Wars To Come",
+                "The House of Black and White",
+                "High Sparrow",
+                "Sons of the Harpy",
+                "Kill the Boy",
+                "Unbowed, Unbent, Unbroken",
+                "The Gift",
+                "Hardhome",
+                "The Dance of Dragons",
+                "Mother\u2019s Mercy",
+                "The Red Woman",
+                "Home",
+                "Oathbreaker",
+                "Book of the Stranger",
+                "The Door",
+                "Blood of My Blood",
+                "The Broken Man",
+                "No One",
+                "Battle of the Bastards",
+                "The Winds of Winter"
+            ],
+            "createdAt": "2019-04-02T13:00:05.718Z",
+            "cultures": [],
+            "first_seen": "\"Second Sons\"",
+            "gender": "male",
+            "house": "Second Sons",
+            "id": "5ca35cd587aa7609cb01a5ca",
+            "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/d/d8/Daario-s6e4.jpg/revision/latest/scale-to-width-down/323?cb=20160512195958",
+            "longevity": [],
+            "longevityB": [],
+            "longevityC": [],
+            "lovers": [
+                "Daenerys Targaryen"
+            ],
+            "name": "Daario Naharis",
+            "nicknames": [],
+            "origin": "Tyrosh",
+            "pagerank": {
+                "rank": 314,
+                "title": "Daario_Naharis"
+            },
+            "plod": 0,
+            "plodB": 0,
+            "plodC": 0,
+            "religions": [],
+            "seasons": [],
+            "siblings": [],
+            "slug": "Daario_Naharis",
+            "spouse": "",
+            "titles": [
+                "Regent",
+                "Slaver's Bay",
+                "Second Sons"
+            ],
+            "updatedAt": "2019-04-02T13:00:05.718Z"
+        },
+        "id": "5ca4d4e33e3b37061bde0f09",
+        "slug": "Daario_Naharis"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca4d4e33e3b37061bde0f0a",
+        "assassin": null,
+        "id": "5ca4d4e33e3b37061bde0f0a",
+        "slug": "Karl_Tanner"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca4d4e33e3b37061bde0f0b",
+        "assassin": null,
+        "id": "5ca4d4e33e3b37061bde0f0b",
+        "slug": "Unidentified_Warlock"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca4d4e33e3b37061bde0f0c",
+        "assassin": null,
+        "id": "5ca4d4e33e3b37061bde0f0c",
+        "slug": "Waif"
+    },
+    {
+        "__v": 0,
+        "_id": "5ca4d4e33e3b37061bde0f0d",
+        "assassin": null,
+        "id": "5ca4d4e33e3b37061bde0f0d",
+        "slug": "Wineseller"
+    }
+]
