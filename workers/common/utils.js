@@ -41,6 +41,20 @@ function loadFormatterShowMLData(name) {
 }
 
 /**
+ * Loads the JSON file of the book predictions.
+ */
+function loadPredictionsBook() {
+  return fs.readJSON(path.join(__dirname, '../predictors-neural/predictor-neural-v2/output/predictions.json'));
+}
+
+/**
+ * Loads the JSON file of the show predictions.
+ */
+function loadPredictionsShow() {
+  return fs.readJSON(path.join(__dirname, '../predictors-neural/predictor-neural-show-v1/output/predictions.json'));
+}
+
+/**
  * Writes some generic data to the `output` directory, relative to the main script's path.
  * Returns the written data unmodified.
  * @param {string} name - The name of the output file, without extension.
@@ -332,6 +346,8 @@ module.exports = {
   loadShowData,
   loadFormatterMLData,
   loadFormatterShowMLData,
+  loadPredictionsBook,
+  loadPredictionsShow,
   writeOutputData,
   writeOutputDataBinary,
   sanitizeString,
