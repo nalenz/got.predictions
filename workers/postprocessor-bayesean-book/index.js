@@ -12,13 +12,12 @@ function reformatOutput(predictionObject, callback) {
   let onlyAlive = {};
   onlyAlive.attributes = predictionObject.attributes;
   onlyAlive.betaExp = predictionObject.betaExp;
-  onlyAlive.characters = [];
+  onlyAlive.characters = {};
   
   for(let c of predictionObject.characters) {
     if(c.alive == false) continue;
     
     let newChar = {};
-    newChar.name = c.name;
     newChar.age = c.age;
     newChar.predictedSurvivalAge = c.predictedSurvivalAge;
     newChar.confIntervalLower = c.confIntervalLower;
@@ -26,7 +25,7 @@ function reformatOutput(predictionObject, callback) {
     newChar.confIntervalConfidence = c.confIntervalConfidence;
     newChar.survivalFunctionMean = c.survivalFunctionMean;
     
-    onlyAlive.characters.push(newChar);
+    onlyAlive.characters[c.name] = newChar;
   }
   
   //onlyAlive is now ready, write it to a JSON
