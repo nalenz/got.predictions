@@ -97,7 +97,7 @@ predictions = {} #we'll write this dict to a JSON
 #predictions["priorHazard"] = trace['lambda0'].mean(axis=0).astype(float).tolist()
 predictions["attributes"] = colNames
 beta = trace['beta'] # make a mean of all rows in the entire trace, transform the column matrix into a (single-) row matrix and get the row out
-predictions["betaExp"] = np.exp(beta).astype(float).tolist()
+#predictions["betaExp"] = np.exp(beta).astype(float).tolist()
 predictions["meanBetaExp"] = np.exp(beta.mean(axis=0)).astype(float).tolist()
 predictions["characters"] = []
 #now add the survial function for every character
@@ -107,11 +107,11 @@ for i in range(0, num_characters):
   ch["alive"] = False if df["isDead"][i] > 0 else True
   ch["age"] = df["age"].astype(float)[i]
   survFn= survivalParams(df_num[i, :]).astype(float) #take the i-th row of df_num for the character's parameters
-  ch["predictedSurvivalAge"] = fitAge_greater_equal(survFn, 0.5).astype(float).tolist()
+  #ch["predictedSurvivalAge"] = fitAge_greater_equal(survFn, 0.5).astype(float).tolist()
   confidence = 0.8
-  ch["confIntervalLower"] = fitAge_greater_equal(survFn, confidence).astype(float).tolist()
-  ch["confIntervalHigher"] = fitAge_greater_equal(survFn, 1-confidence).astype(float).tolist()
-  ch["confIntervalConfidence"] = confidence
+  #ch["confIntervalLower"] = fitAge_greater_equal(survFn, confidence).astype(float).tolist()
+  #ch["confIntervalHigher"] = fitAge_greater_equal(survFn, 1-confidence).astype(float).tolist()
+  #ch["confIntervalConfidence"] = confidence
   ch["survivalFunctionMean"] = survFn.mean(axis=0).tolist()
   predictions["characters"].append(ch)
   
