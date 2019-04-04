@@ -129,7 +129,9 @@ function sanitizeString(s) {
     .replace(/(&apos;|\u2019)/g, "'")
     .replace(/\[[0-9]+\]/g, '')
     .replace(/^"/g, '')
-    .replace(/"$/g, '');
+    .replace(/"$/g, '')
+    .replace(/^'/g, '')
+    .replace(/'$/g, '');
 }
 
 /**
@@ -152,6 +154,7 @@ function sanitizedCmp(a, b) {
  * to return an array of values itself.
  */
 function createSetFromAttrFunc(arr, fn) {
+  if (typeof arr.map !== 'function') console.log(arr);
   return [
     ...new Set(
       []
@@ -289,6 +292,7 @@ class JoinedOneHotVector {
   constructor(baseData, scalarAttrs, vectorAttrs) {
     this.scalarAttrs = scalarAttrs;
     this.ranges = this.calculateRanges(baseData, vectorAttrs);
+    console.log(this.ranges);
     this.vectorAttrs = vectorAttrs.filter(a => this.ranges[a].span !== -Infinity);
     this.applyConfig(this.scalarAttrs, this.vectorAttrs);
   }

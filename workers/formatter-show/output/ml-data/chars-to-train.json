@@ -47,7 +47,7 @@
         "numRelatives": 0.45454545454545453,
         "allegiances": [
             60,
-            67
+            68
         ],
         "appearances": [
             70,
@@ -201,8 +201,8 @@
         "numRelatives": 0.36363636363636365,
         "allegiances": [
             60,
-            111,
-            89
+            112,
+            90
         ],
         "appearances": [
             70,
@@ -298,6 +298,70 @@
         ],
         "cultures": [],
         "titles": []
+    },
+    {
+        "name": "Roose Bolton",
+        "male": true,
+        "age": 43,
+        "birth": 260,
+        "death": 303,
+        "pageRank": 0.2928653624856157,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [
+            30,
+            60
+        ],
+        "appearances": [
+            51,
+            50,
+            69,
+            18,
+            43,
+            52,
+            1,
+            54,
+            7,
+            67,
+            66,
+            12,
+            68,
+            2,
+            24,
+            38,
+            35,
+            32,
+            56,
+            26,
+            64,
+            48,
+            10,
+            31,
+            17,
+            47,
+            27,
+            49,
+            61,
+            37,
+            60,
+            45,
+            20,
+            33,
+            23,
+            65,
+            44,
+            19,
+            39,
+            28,
+            57,
+            21
+        ],
+        "cultures": [],
+        "titles": [
+            64,
+            70,
+            71,
+            113
+        ]
     },
     {
         "name": "Tywin Lannister",
@@ -443,7 +507,7 @@
         "pageRank": 0.13060989643268126,
         "numRelatives": 0.45454545454545453,
         "allegiances": [
-            105,
+            106,
             16,
             44
         ],
@@ -680,6 +744,112 @@
         ]
     },
     {
+        "name": "Renly Baratheon",
+        "male": true,
+        "age": 22,
+        "birth": 277,
+        "death": 299,
+        "pageRank": 0.29861910241657075,
+        "numRelatives": 0.5454545454545454,
+        "allegiances": [
+            26
+        ],
+        "appearances": [
+            70,
+            46,
+            25,
+            11,
+            63,
+            0,
+            71,
+            53,
+            4,
+            15,
+            51,
+            50,
+            69,
+            18,
+            43
+        ],
+        "cultures": [],
+        "titles": [
+            35,
+            68,
+            91,
+            61,
+            73,
+            82,
+            98
+        ]
+    },
+    {
+        "name": "Stannis Baratheon",
+        "male": true,
+        "age": 38,
+        "birth": 264,
+        "death": 302,
+        "pageRank": 0.5788262370540852,
+        "numRelatives": 0.5454545454545454,
+        "allegiances": [
+            27,
+            29
+        ],
+        "appearances": [
+            51,
+            50,
+            69,
+            18,
+            43,
+            52,
+            1,
+            54,
+            7,
+            67,
+            66,
+            12,
+            68,
+            2,
+            24,
+            38,
+            35,
+            32,
+            56,
+            26,
+            64,
+            48,
+            10,
+            31,
+            17,
+            47,
+            27,
+            49,
+            61,
+            37,
+            60,
+            45,
+            20,
+            33,
+            23,
+            65,
+            44,
+            19,
+            39,
+            28
+        ],
+        "cultures": [],
+        "titles": [
+            35,
+            68,
+            91,
+            52,
+            42,
+            61,
+            73,
+            83,
+            98
+        ]
+    },
+    {
         "name": "Shireen Baratheon",
         "male": false,
         "age": 15,
@@ -735,9 +905,9 @@
         "pageRank": 0.03164556962025317,
         "numRelatives": 0,
         "allegiances": [
-            85,
-            81,
-            82
+            86,
+            82,
+            83
         ],
         "appearances": [
             51
@@ -756,7 +926,7 @@
         "allegiances": [
             25,
             24,
-            67
+            68
         ],
         "appearances": [
             70,
@@ -784,6 +954,32 @@
         ]
     },
     {
+        "name": "Vardis Egen",
+        "male": true,
+        "age": 49,
+        "birth": 249,
+        "death": 298,
+        "pageRank": 0.03222094361334868,
+        "numRelatives": 0,
+        "allegiances": [
+            24,
+            35
+        ],
+        "appearances": [
+            70,
+            46,
+            25,
+            11,
+            63,
+            0
+        ],
+        "cultures": [],
+        "titles": [
+            102,
+            3
+        ]
+    },
+    {
         "name": "Mace Tyrell",
         "male": true,
         "age": 47,
@@ -792,7 +988,7 @@
         "pageRank": 0.18814729574223246,
         "numRelatives": 0.2727272727272727,
         "allegiances": [
-            68
+            69
         ],
         "appearances": [
             64,
@@ -849,12 +1045,12 @@
         "pageRank": 0.23014959723820483,
         "numRelatives": 0.45454545454545453,
         "allegiances": [
-            105,
+            106,
             16,
-            68,
+            69,
             26,
-            80,
-            96
+            81,
+            97
         ],
         "appearances": [
             70,
@@ -933,7 +1129,7 @@
         "pageRank": 0.38837744533947066,
         "numRelatives": 0.36363636363636365,
         "allegiances": [
-            68,
+            69,
             28,
             29
         ],
@@ -1080,7 +1276,7 @@
         "pageRank": 0.13636363636363635,
         "numRelatives": 0.09090909090909091,
         "allegiances": [
-            67
+            68
         ],
         "appearances": [
             66,
@@ -1120,7 +1316,7 @@
         "numRelatives": 0.09090909090909091,
         "allegiances": [
             37,
-            67
+            68
         ],
         "appearances": [
             70,
@@ -1194,6 +1390,184 @@
         ]
     },
     {
+        "name": "Trystane Martell",
+        "male": true,
+        "age": 16,
+        "birth": 287,
+        "death": 303,
+        "pageRank": 0.09838895281933256,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [
+            49
+        ],
+        "appearances": [
+            60,
+            45,
+            20,
+            33,
+            23,
+            65,
+            44,
+            19,
+            39,
+            28,
+            57
+        ],
+        "cultures": [],
+        "titles": [
+            87
+        ]
+    },
+    {
+        "name": "Oberyn Martell",
+        "male": true,
+        "age": 44,
+        "birth": 257,
+        "death": 301,
+        "pageRank": 0.2813578826237054,
+        "numRelatives": 0.36363636363636365,
+        "allegiances": [
+            49,
+            109,
+            101
+        ],
+        "appearances": [
+            64,
+            48,
+            10,
+            31,
+            17,
+            47,
+            27,
+            49
+        ],
+        "cultures": [],
+        "titles": [
+            87
+        ]
+    },
+    {
+        "name": "Obara Sand",
+        "male": false,
+        "age": 33,
+        "birth": 271,
+        "death": 304,
+        "pageRank": 0.09205983889528194,
+        "numRelatives": 0.7272727272727273,
+        "allegiances": [
+            99,
+            14,
+            49
+        ],
+        "appearances": [
+            60,
+            45,
+            20,
+            33,
+            23,
+            65,
+            44,
+            19,
+            39,
+            28,
+            57,
+            21,
+            30,
+            9,
+            40,
+            8,
+            36,
+            29,
+            5,
+            62,
+            13,
+            34
+        ],
+        "cultures": [],
+        "titles": []
+    },
+    {
+        "name": "Nymeria Sand",
+        "male": false,
+        "age": 30,
+        "birth": 274,
+        "death": 304,
+        "pageRank": 0.09263521288837745,
+        "numRelatives": 0.7272727272727273,
+        "allegiances": [
+            99,
+            14,
+            49
+        ],
+        "appearances": [
+            60,
+            45,
+            20,
+            33,
+            23,
+            65,
+            44,
+            19,
+            39,
+            28,
+            57,
+            21,
+            30,
+            9,
+            40,
+            8,
+            36,
+            29,
+            5,
+            62,
+            13,
+            34
+        ],
+        "cultures": [],
+        "titles": []
+    },
+    {
+        "name": "Tyene Sand",
+        "male": false,
+        "age": 28,
+        "birth": 276,
+        "death": 304,
+        "pageRank": 0.1093210586881473,
+        "numRelatives": 0.8181818181818182,
+        "allegiances": [
+            99,
+            14,
+            49
+        ],
+        "appearances": [
+            60,
+            45,
+            20,
+            33,
+            23,
+            65,
+            44,
+            19,
+            39,
+            28,
+            57,
+            21,
+            30,
+            9,
+            40,
+            8,
+            36,
+            29,
+            5,
+            62,
+            13,
+            34,
+            55
+        ],
+        "cultures": [],
+        "titles": []
+    },
+    {
         "name": "Areo Hotah",
         "male": true,
         "age": 46,
@@ -1231,7 +1605,7 @@
         "pageRank": 0.11795166858457998,
         "numRelatives": 0.18181818181818182,
         "allegiances": [
-            113
+            114
         ],
         "appearances": [
             70,
@@ -1279,6 +1653,101 @@
         "titles": []
     },
     {
+        "name": "Petyr Baelish",
+        "male": true,
+        "age": 36,
+        "birth": 268,
+        "death": 304,
+        "pageRank": 0.4482163406214039,
+        "numRelatives": 0.18181818181818182,
+        "allegiances": [
+            25,
+            60,
+            24,
+            28,
+            68,
+            118
+        ],
+        "appearances": [
+            70,
+            46,
+            25,
+            11,
+            63,
+            0,
+            71,
+            53,
+            4,
+            15,
+            51,
+            50,
+            69,
+            18,
+            43,
+            52,
+            1,
+            54,
+            7,
+            67,
+            66,
+            12,
+            68,
+            2,
+            24,
+            38,
+            35,
+            32,
+            56,
+            26,
+            64,
+            48,
+            10,
+            31,
+            17,
+            47,
+            27,
+            49,
+            61,
+            37,
+            60,
+            45,
+            20,
+            33,
+            23,
+            65,
+            44,
+            19,
+            39,
+            28,
+            57,
+            21,
+            30,
+            9,
+            40,
+            8,
+            36,
+            29,
+            5,
+            62,
+            13,
+            34,
+            55,
+            59,
+            14,
+            6,
+            42
+        ],
+        "cultures": [],
+        "titles": [
+            76,
+            109,
+            53,
+            81,
+            98,
+            25
+        ]
+    },
+    {
         "name": "Pycelle",
         "male": true,
         "age": 72,
@@ -1287,7 +1756,7 @@
         "pageRank": 0.2002301495972382,
         "numRelatives": 0,
         "allegiances": [
-            85,
+            86,
             28,
             62
         ],
@@ -1367,12 +1836,12 @@
         "pageRank": 0.29344073647871116,
         "numRelatives": 0,
         "allegiances": [
-            80,
+            81,
             8,
-            80,
+            81,
             0,
-            97,
-            75,
+            98,
+            76,
             58
         ],
         "appearances": [
@@ -1427,7 +1896,7 @@
         "numRelatives": 0,
         "allegiances": [
             59,
-            89,
+            90,
             28
         ],
         "appearances": [
@@ -1512,7 +1981,7 @@
         "pageRank": 0.24568469505178367,
         "numRelatives": 0.09090909090909091,
         "allegiances": [
-            89,
+            90,
             50
         ],
         "appearances": [
@@ -1556,8 +2025,8 @@
         "pageRank": 0.17548906789413118,
         "numRelatives": 0,
         "allegiances": [
-            89,
-            64,
+            90,
+            65,
             62
         ],
         "appearances": [
@@ -1613,7 +2082,7 @@
         "pageRank": 0.14039125431530494,
         "numRelatives": 0,
         "allegiances": [
-            89
+            90
         ],
         "appearances": [
             70,
@@ -1660,6 +2129,51 @@
         "titles": []
     },
     {
+        "name": "Ygritte",
+        "male": true,
+        "age": 21,
+        "birth": 280,
+        "death": 301,
+        "pageRank": 0.13060989643268126,
+        "numRelatives": 0.09090909090909091,
+        "allegiances": [
+            18
+        ],
+        "appearances": [
+            51,
+            50,
+            69,
+            18,
+            43,
+            52,
+            1,
+            54,
+            7,
+            67,
+            66,
+            12,
+            68,
+            2,
+            24,
+            38,
+            35,
+            32,
+            56,
+            26,
+            64,
+            48,
+            10,
+            31,
+            17,
+            47,
+            27,
+            49,
+            61
+        ],
+        "cultures": [],
+        "titles": []
+    },
+    {
         "name": "Irri",
         "male": false,
         "age": 16,
@@ -1668,7 +2182,7 @@
         "pageRank": 0.09263521288837745,
         "numRelatives": 0,
         "allegiances": [
-            78,
+            79,
             11,
             62
         ],
@@ -1702,8 +2216,8 @@
         "pageRank": 0.10759493670886076,
         "numRelatives": 0.09090909090909091,
         "allegiances": [
-            121,
-            78,
+            122,
+            79,
             11,
             62
         ],
@@ -1757,6 +2271,34 @@
             68,
             91,
             87
+        ]
+    },
+    {
+        "name": "Mirri Maz Duur",
+        "male": false,
+        "age": 41,
+        "birth": 257,
+        "death": 298,
+        "pageRank": 0.04430379746835443,
+        "numRelatives": 0,
+        "allegiances": [],
+        "appearances": [
+            70,
+            46,
+            25,
+            11,
+            63,
+            0,
+            71,
+            53,
+            4,
+            15
+        ],
+        "cultures": [],
+        "titles": [
+            16,
+            19,
+            78
         ]
     }
 ]

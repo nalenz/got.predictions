@@ -25,7 +25,7 @@ const config = require('../common/config');
   );
 
   // write data and labels to output file
-  await utils.writeOutputDataBinary('v2-data-train', dataTrain, true);
+  await utils.writeOutputDataBinary('v2-data-train', dataTrain);
   await utils.writeOutputDataBinary('v2-data-predict', dataPredict, true);
   await utils.writeOutputDataBinary('v2-labels-train', labelsTrain, true);
 })();
