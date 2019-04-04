@@ -33,7 +33,7 @@ function reformatOutput(predictionObject, callback) {
   let json = JSON.stringify(onlyAlive, function(key, val) {
     if(val.toPrecision) return +val.toPrecision(3);
     else return val;
-  });
+  }, 2);
   
   fs.writeFile(outfile, json, function(err) { //'../outputs-bayesean/processedOutputBook.json'
     if(err) throw err;
