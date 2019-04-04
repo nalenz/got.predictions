@@ -34,7 +34,7 @@ function isSuitableChar(character) {
     return false;
   } else if(character.birth == undefined || character.birth == null) {
     return false; // character's date of birth is missing
-  } else if (character.alive && config.GOT_CURRENT_YEAR - character.birth > AGE_THRESHOLD) {
+  } else if (character.alive && config.GOT_CURRENT_YEAR_BOOK - character.birth > AGE_THRESHOLD) {
     return false; // character has no date of death, but is apparently over AGE_THRESHOLD years old
   } else if(character.death < character.birth) {
     return false;
@@ -271,9 +271,9 @@ function processLocations(srcChar, destChar, locations, locMap) {
 
 function processParents(srcChar, destChar, characters) {
   //first: Is srcChar somebody's parent?
-  destChar.numChildren = 0;
+  destChar.hasChildren = 0;
   if(srcChar.children != null && srcChar.children != undefined && srcChar.children.length > 0) {
-    destChar.numChildren = srcChar.children.length; //found children!
+    destChar.hasChildren = 1;
   }
 }
 
@@ -332,7 +332,7 @@ async function genTrainingData (callback) {
 	  //processLocations(ch, ref_ch, locations, locMap); // process location data
     processParents(ch, ref_ch, characters_unfiltered);
     processHeir(ch, ref_ch, characters_unfiltered);
-    processRank(ch, ref_ch, maxRank);
+    //processRank(ch, ref_ch, maxRank);
     //TODO books the character was in
     //TODO consider dead parents/heirs/spouses somehow
 	  

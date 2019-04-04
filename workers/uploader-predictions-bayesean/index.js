@@ -13,12 +13,12 @@ async function updatePredictions(callback) {
   let bookAttrs = bookPred.attributes;
   let bookMeanBetaExp = bookPred.meanBetaExp;
   let bookCoefficients = {};
-  for (int i=0; i<bookAttrs.length; i++) {
+  for (let i=0; i<bookAttrs.length; i++) {
     bookCoefficients[bookAttrs[i]] = bookMeanBetaExp[i];
   }
   
   //upload book coefficients
-  console.log(bookCoefficients);
+  //console.log(bookCoefficients);
   //TODO
   
   //book predictions
@@ -55,12 +55,12 @@ async function updatePredictions(callback) {
   let showAttrs = showPred.attributes;
   let showMeanBetaExp = showPred.meanBetaExp;
   let showCoefficients = {};
-  for (int i=0; i<showAttrs.length; i++) {
+  for (let i=0; i<showAttrs.length; i++) {
     showCoefficients[showAttrs[i]] = showMeanBetaExp[i];
   }
   
   //upload show coefficients
-  console.log(showCoefficients);
+  //console.log(showCoefficients);
   //TODO
   
   //show predictions

@@ -1,6 +1,6 @@
 [
   {
-    "name": "Eddard_Stark",
+    "name": "Eddard Stark",
     "isDead": 1,
     "livedTo": 0,
     "male": 1,
@@ -21,7 +21,7 @@
     "isMajor": 1
   },
   {
-    "name": "Catelyn_Stark",
+    "name": "Catelyn Stark",
     "isDead": 1,
     "livedTo": 2,
     "male": 0,
@@ -42,7 +42,7 @@
     "isMajor": 1
   },
   {
-    "name": "Robb_Stark",
+    "name": "Robb Stark",
     "isDead": 1,
     "livedTo": 2,
     "male": 1,
@@ -63,9 +63,9 @@
     "isMajor": 1
   },
   {
-    "name": "Sansa_Stark",
+    "name": "Sansa Stark",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 1,
     "House Baratheon of King's Landing": 0,
@@ -84,9 +84,9 @@
     "isMajor": 1
   },
   {
-    "name": "Arya_Stark",
+    "name": "Arya Stark",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 1,
     "House Baratheon of King's Landing": 0,
@@ -105,9 +105,9 @@
     "isMajor": 1
   },
   {
-    "name": "Bran_Stark",
+    "name": "Bran Stark",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 1,
     "House Baratheon of King's Landing": 0,
@@ -126,7 +126,7 @@
     "isMajor": 1
   },
   {
-    "name": "Rickon_Stark",
+    "name": "Rickon Stark",
     "isDead": 1,
     "livedTo": 5,
     "male": 1,
@@ -147,9 +147,9 @@
     "isMajor": 0
   },
   {
-    "name": "Jon_Snow",
+    "name": "Jon Snow",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 1,
     "House Baratheon of King's Landing": 0,
@@ -168,7 +168,7 @@
     "isMajor": 1
   },
   {
-    "name": "Benjen_Stark",
+    "name": "Benjen Stark",
     "isDead": 1,
     "livedTo": 6,
     "male": 1,
@@ -189,9 +189,9 @@
     "isMajor": 0
   },
   {
-    "name": "Theon_Greyjoy",
+    "name": "Theon Greyjoy",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 1,
     "House Baratheon of King's Landing": 0,
@@ -210,7 +210,7 @@
     "isMajor": 1
   },
   {
-    "name": "Rodrik_Cassel",
+    "name": "Rodrik Cassel",
     "isDead": 1,
     "livedTo": 1,
     "male": 1,
@@ -231,7 +231,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jory_Cassel",
+    "name": "Jory Cassel",
     "isDead": 1,
     "livedTo": 0,
     "male": 1,
@@ -294,7 +294,7 @@
     "isMajor": 0
   },
   {
-    "name": "Old_Nan",
+    "name": "Old Nan",
     "isDead": 1,
     "livedTo": 0,
     "male": 0,
@@ -357,9 +357,9 @@
     "isMajor": 0
   },
   {
-    "name": "Jon_Umber_(Smalljon)",
+    "name": "Smalljon Umber",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -378,9 +378,9 @@
     "isMajor": 0
   },
   {
-    "name": "Ned_Umber",
+    "name": "Ned Umber",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 1,
     "House Baratheon of King's Landing": 0,
@@ -399,7 +399,7 @@
     "isMajor": 0
   },
   {
-    "name": "Harald_Karstark",
+    "name": "Harald Karstark",
     "isDead": 1,
     "livedTo": 5,
     "male": 1,
@@ -420,9 +420,9 @@
     "isMajor": 0
   },
   {
-    "name": "Alys_Karstark",
+    "name": "Alys Karstark",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 1,
     "House Baratheon of King's Landing": 0,
@@ -441,9 +441,9 @@
     "isMajor": 0
   },
   {
-    "name": "Lyanna_Mormont",
+    "name": "Lyanna Mormont",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 1,
     "House Baratheon of King's Landing": 0,
@@ -462,9 +462,9 @@
     "isMajor": 0
   },
   {
-    "name": "Robett_Glover",
+    "name": "Robett Glover",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 1,
     "House Baratheon of King's Landing": 0,
@@ -483,9 +483,9 @@
     "isMajor": 0
   },
   {
-    "name": "Cley_Cerwyn",
+    "name": "Cley Cerwyn",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 1,
     "House Baratheon of King's Landing": 0,
@@ -504,9 +504,9 @@
     "isMajor": 0
   },
   {
-    "name": "Wyman_Manderly",
+    "name": "Wyman Manderly",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 1,
     "House Baratheon of King's Landing": 0,
@@ -525,7 +525,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jojen_Reed",
+    "name": "Jojen Reed",
     "isDead": 1,
     "livedTo": 3,
     "male": 1,
@@ -546,9 +546,9 @@
     "isMajor": 0
   },
   {
-    "name": "Meera_Reed",
+    "name": "Meera Reed",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 1,
     "House Baratheon of King's Landing": 0,
@@ -567,7 +567,7 @@
     "isMajor": 0
   },
   {
-    "name": "Roose_Bolton",
+    "name": "Roose Bolton",
     "isDead": 1,
     "livedTo": 5,
     "male": 1,
@@ -588,9 +588,9 @@
     "isMajor": 0
   },
   {
-    "name": "Ramsay_Snow",
+    "name": "Ramsay Snow",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -653,7 +653,7 @@
   {
     "name": "Wolkan",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -674,7 +674,7 @@
   {
     "name": "Steelshanks",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -693,7 +693,7 @@
     "isMajor": 0
   },
   {
-    "name": "Tywin_Lannister",
+    "name": "Tywin Lannister",
     "isDead": 1,
     "livedTo": 3,
     "male": 1,
@@ -714,9 +714,9 @@
     "isMajor": 1
   },
   {
-    "name": "Cersei_Lannister",
+    "name": "Cersei Lannister",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 1,
@@ -735,9 +735,9 @@
     "isMajor": 1
   },
   {
-    "name": "Jaime_Lannister",
+    "name": "Jaime Lannister",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -756,9 +756,9 @@
     "isMajor": 1
   },
   {
-    "name": "Tyrion_Lannister",
+    "name": "Tyrion Lannister",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -777,7 +777,7 @@
     "isMajor": 1
   },
   {
-    "name": "Kevan_Lannister",
+    "name": "Kevan Lannister",
     "isDead": 1,
     "livedTo": 5,
     "male": 1,
@@ -798,7 +798,7 @@
     "isMajor": 0
   },
   {
-    "name": "Lancel_Lannister",
+    "name": "Lancel Lannister",
     "isDead": 1,
     "livedTo": 5,
     "male": 1,
@@ -819,7 +819,7 @@
     "isMajor": 0
   },
   {
-    "name": "Alton_Lannister",
+    "name": "Alton Lannister",
     "isDead": 1,
     "livedTo": 1,
     "male": 1,
@@ -840,9 +840,9 @@
     "isMajor": 0
   },
   {
-    "name": "Podrick_Payne",
+    "name": "Podrick Payne",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 1,
     "House Baratheon of King's Landing": 0,
@@ -861,7 +861,7 @@
     "isMajor": 0
   },
   {
-    "name": "Amory_Lorch",
+    "name": "Amory Lorch",
     "isDead": 1,
     "livedTo": 1,
     "male": 1,
@@ -882,9 +882,9 @@
     "isMajor": 0
   },
   {
-    "name": "Sandor_Clegane",
+    "name": "Sandor Clegane",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 1,
@@ -903,9 +903,9 @@
     "isMajor": 0
   },
   {
-    "name": "Gregor_Clegane",
+    "name": "Gregor Clegane",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -926,7 +926,7 @@
   {
     "name": "Tickler",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -966,7 +966,7 @@
     "isMajor": 0
   },
   {
-    "name": "Robert_Baratheon",
+    "name": "Robert Baratheon",
     "isDead": 1,
     "livedTo": 0,
     "male": 1,
@@ -987,7 +987,7 @@
     "isMajor": 1
   },
   {
-    "name": "Joffrey_Baratheon",
+    "name": "Joffrey Baratheon",
     "isDead": 1,
     "livedTo": 3,
     "male": 1,
@@ -1008,7 +1008,7 @@
     "isMajor": 1
   },
   {
-    "name": "Myrcella_Baratheon",
+    "name": "Myrcella Baratheon",
     "isDead": 1,
     "livedTo": 4,
     "male": 0,
@@ -1029,7 +1029,7 @@
     "isMajor": 0
   },
   {
-    "name": "Tommen_Baratheon",
+    "name": "Tommen Baratheon",
     "isDead": 1,
     "livedTo": 5,
     "male": 1,
@@ -1050,7 +1050,7 @@
     "isMajor": 0
   },
   {
-    "name": "Renly_Baratheon",
+    "name": "Renly Baratheon",
     "isDead": 1,
     "livedTo": 1,
     "male": 1,
@@ -1071,7 +1071,7 @@
     "isMajor": 0
   },
   {
-    "name": "Stannis_Baratheon",
+    "name": "Stannis Baratheon",
     "isDead": 1,
     "livedTo": 4,
     "male": 1,
@@ -1092,7 +1092,7 @@
     "isMajor": 1
   },
   {
-    "name": "Selyse_Baratheon",
+    "name": "Selyse Baratheon",
     "isDead": 1,
     "livedTo": 4,
     "male": 0,
@@ -1113,7 +1113,7 @@
     "isMajor": 0
   },
   {
-    "name": "Shireen_Baratheon",
+    "name": "Shireen Baratheon",
     "isDead": 1,
     "livedTo": 4,
     "male": 0,
@@ -1136,7 +1136,7 @@
   {
     "name": "Melisandre",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -1155,9 +1155,9 @@
     "isMajor": 0
   },
   {
-    "name": "Davos_Seaworth",
+    "name": "Davos Seaworth",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 1,
     "House Baratheon of King's Landing": 0,
@@ -1176,7 +1176,7 @@
     "isMajor": 0
   },
   {
-    "name": "Matthos_Seaworth",
+    "name": "Matthos Seaworth",
     "isDead": 1,
     "livedTo": 1,
     "male": 1,
@@ -1218,9 +1218,9 @@
     "isMajor": 0
   },
   {
-    "name": "Salladhor_Saan",
+    "name": "Salladhor Saan",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -1241,7 +1241,7 @@
   {
     "name": "Brienne",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -1260,7 +1260,7 @@
     "isMajor": 0
   },
   {
-    "name": "Lysa_Arryn",
+    "name": "Lysa Arryn",
     "isDead": 1,
     "livedTo": 3,
     "male": 0,
@@ -1281,9 +1281,9 @@
     "isMajor": 0
   },
   {
-    "name": "Robin_Arryn",
+    "name": "Robin Arryn",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 1,
     "House Baratheon of King's Landing": 0,
@@ -1302,7 +1302,7 @@
     "isMajor": 0
   },
   {
-    "name": "Vardis_Egen",
+    "name": "Vardis Egen",
     "isDead": 1,
     "livedTo": 0,
     "male": 1,
@@ -1325,7 +1325,7 @@
   {
     "name": "Mord",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -1365,9 +1365,9 @@
     "isMajor": 0
   },
   {
-    "name": "Yohn_Royce",
+    "name": "Yohn Royce",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 1,
     "House Baratheon of King's Landing": 0,
@@ -1386,9 +1386,9 @@
     "isMajor": 0
   },
   {
-    "name": "Anya_Waynwood",
+    "name": "Anya Waynwood",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -1407,9 +1407,9 @@
     "isMajor": 0
   },
   {
-    "name": "Vance_Corbray",
+    "name": "Vance Corbray",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -1428,9 +1428,9 @@
     "isMajor": 0
   },
   {
-    "name": "Donnel_Waynwood",
+    "name": "Donnel Waynwood",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -1449,7 +1449,7 @@
     "isMajor": 0
   },
   {
-    "name": "Mace_Tyrell",
+    "name": "Mace Tyrell",
     "isDead": 1,
     "livedTo": 5,
     "male": 1,
@@ -1470,7 +1470,7 @@
     "isMajor": 0
   },
   {
-    "name": "Loras_Tyrell",
+    "name": "Loras Tyrell",
     "isDead": 1,
     "livedTo": 5,
     "male": 1,
@@ -1491,7 +1491,7 @@
     "isMajor": 0
   },
   {
-    "name": "Margaery_Tyrell",
+    "name": "Margaery Tyrell",
     "isDead": 1,
     "livedTo": 5,
     "male": 0,
@@ -1512,9 +1512,9 @@
     "isMajor": 1
   },
   {
-    "name": "Olenna_Redwyne",
+    "name": "Olenna Redwyne",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -1533,7 +1533,7 @@
     "isMajor": 0
   },
   {
-    "name": "Randyll_Tarly",
+    "name": "Randyll Tarly",
     "isDead": 1,
     "livedTo": 6,
     "male": 1,
@@ -1554,9 +1554,9 @@
     "isMajor": 0
   },
   {
-    "name": "Melessa_Tarly",
+    "name": "Melessa Tarly",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -1575,9 +1575,9 @@
     "isMajor": 0
   },
   {
-    "name": "Samwell_Tarly",
+    "name": "Samwell Tarly",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -1596,7 +1596,7 @@
     "isMajor": 1
   },
   {
-    "name": "Dickon_Tarly",
+    "name": "Dickon Tarly",
     "isDead": 1,
     "livedTo": 6,
     "male": 1,
@@ -1617,9 +1617,9 @@
     "isMajor": 0
   },
   {
-    "name": "Talla_Tarly",
+    "name": "Talla Tarly",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -1638,7 +1638,7 @@
     "isMajor": 0
   },
   {
-    "name": "Balon_Greyjoy",
+    "name": "Balon Greyjoy",
     "isDead": 1,
     "livedTo": 5,
     "male": 1,
@@ -1659,9 +1659,9 @@
     "isMajor": 0
   },
   {
-    "name": "Yara_Greyjoy",
+    "name": "Yara Greyjoy",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -1680,9 +1680,9 @@
     "isMajor": 0
   },
   {
-    "name": "Euron_Greyjoy",
+    "name": "Euron Greyjoy",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -1701,9 +1701,9 @@
     "isMajor": 0
   },
   {
-    "name": "Aeron_Greyjoy",
+    "name": "Aeron Greyjoy",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -1764,7 +1764,7 @@
     "isMajor": 0
   },
   {
-    "name": "Ralf_Kenning",
+    "name": "Ralf Kenning",
     "isDead": 1,
     "livedTo": 3,
     "male": 1,
@@ -1785,9 +1785,9 @@
     "isMajor": 0
   },
   {
-    "name": "Edmure_Tully",
+    "name": "Edmure Tully",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 1,
     "House Baratheon of King's Landing": 0,
@@ -1806,7 +1806,7 @@
     "isMajor": 0
   },
   {
-    "name": "Brynden_Tully",
+    "name": "Brynden Tully",
     "isDead": 1,
     "livedTo": 5,
     "male": 1,
@@ -1827,7 +1827,7 @@
     "isMajor": 0
   },
   {
-    "name": "Walder_Frey",
+    "name": "Walder Frey",
     "isDead": 1,
     "livedTo": 5,
     "male": 1,
@@ -1848,9 +1848,9 @@
     "isMajor": 0
   },
   {
-    "name": "Joyeuse_Erenford",
+    "name": "Joyeuse Erenford",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -1869,9 +1869,9 @@
     "isMajor": 0
   },
   {
-    "name": "Walder_Frey_(Black_Walder)",
+    "name": "\"Black Walder\" Frey",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -1890,7 +1890,7 @@
     "isMajor": 0
   },
   {
-    "name": "Lothar_Frey",
+    "name": "\"Lame Lothar\" Frey",
     "isDead": 1,
     "livedTo": 5,
     "male": 1,
@@ -1911,9 +1911,9 @@
     "isMajor": 0
   },
   {
-    "name": "Roslin_Frey",
+    "name": "Roslin Frey",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -1932,9 +1932,9 @@
     "isMajor": 0
   },
   {
-    "name": "Fat_Walda_Frey",
+    "name": "Fat Walda Frey",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -1953,9 +1953,9 @@
     "isMajor": 0
   },
   {
-    "name": "Kitty_Frey",
+    "name": "Kitty Frey",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -1974,7 +1974,7 @@
     "isMajor": 0
   },
   {
-    "name": "Doran_Martell",
+    "name": "Doran Martell",
     "isDead": 1,
     "livedTo": 5,
     "male": 1,
@@ -1995,7 +1995,7 @@
     "isMajor": 0
   },
   {
-    "name": "Trystane_Martell",
+    "name": "Trystane Martell",
     "isDead": 1,
     "livedTo": 5,
     "male": 1,
@@ -2016,7 +2016,7 @@
     "isMajor": 0
   },
   {
-    "name": "Oberyn_Martell",
+    "name": "Oberyn Martell",
     "isDead": 1,
     "livedTo": 3,
     "male": 1,
@@ -2037,9 +2037,9 @@
     "isMajor": 0
   },
   {
-    "name": "Ellaria_Sand",
+    "name": "Ellaria Sand",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -2058,7 +2058,7 @@
     "isMajor": 0
   },
   {
-    "name": "Obara_Sand",
+    "name": "Obara Sand",
     "isDead": 1,
     "livedTo": 6,
     "male": 0,
@@ -2079,7 +2079,7 @@
     "isMajor": 0
   },
   {
-    "name": "Nymeria_Sand",
+    "name": "Nymeria Sand",
     "isDead": 1,
     "livedTo": 6,
     "male": 0,
@@ -2100,7 +2100,7 @@
     "isMajor": 0
   },
   {
-    "name": "Tyene_Sand",
+    "name": "Tyene Sand",
     "isDead": 1,
     "livedTo": 6,
     "male": 0,
@@ -2121,7 +2121,7 @@
     "isMajor": 0
   },
   {
-    "name": "Areo_Hotah",
+    "name": "Areo Hotah",
     "isDead": 1,
     "livedTo": 5,
     "male": 1,
@@ -2165,7 +2165,7 @@
   {
     "name": "Bronn",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -2186,7 +2186,7 @@
   {
     "name": "Marillion",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -2228,7 +2228,7 @@
   {
     "name": "Shagga",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -2247,9 +2247,9 @@
     "isMajor": 0
   },
   {
-    "name": "Talisa_Maegyr",
+    "name": "Talisa Maegyr",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -2268,7 +2268,7 @@
     "isMajor": 0
   },
   {
-    "name": "Thoros",
+    "name": "Thoros of Myr",
     "isDead": 1,
     "livedTo": 6,
     "male": 1,
@@ -2291,7 +2291,7 @@
   {
     "name": "Anguy",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -2312,7 +2312,7 @@
   {
     "name": "Qyburn",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 1,
@@ -2352,9 +2352,9 @@
     "isMajor": 0
   },
   {
-    "name": "Lem_Lemoncloak",
+    "name": "Lem Lemoncloak",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -2373,7 +2373,7 @@
     "isMajor": 0
   },
   {
-    "name": "Petyr_Baelish",
+    "name": "Petyr Baelish",
     "isDead": 1,
     "livedTo": 6,
     "male": 1,
@@ -2417,7 +2417,7 @@
   {
     "name": "Varys",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 1,
@@ -2436,7 +2436,7 @@
     "isMajor": 1
   },
   {
-    "name": "High_Sparrow",
+    "name": "High Sparrow",
     "isDead": 1,
     "livedTo": 5,
     "male": 1,
@@ -2457,7 +2457,7 @@
     "isMajor": 0
   },
   {
-    "name": "Barristan_Selmy",
+    "name": "Barristan Selmy",
     "isDead": 1,
     "livedTo": 4,
     "male": 1,
@@ -2478,7 +2478,7 @@
     "isMajor": 0
   },
   {
-    "name": "Meryn_Trant",
+    "name": "Meryn Trant",
     "isDead": 1,
     "livedTo": 4,
     "male": 1,
@@ -2499,9 +2499,9 @@
     "isMajor": 0
   },
   {
-    "name": "Ilyn_Payne",
+    "name": "Ilyn Payne",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 1,
@@ -2520,7 +2520,7 @@
     "isMajor": 0
   },
   {
-    "name": "Janos_Slynt",
+    "name": "Janos Slynt",
     "isDead": 1,
     "livedTo": 4,
     "male": 1,
@@ -2541,9 +2541,9 @@
     "isMajor": 0
   },
   {
-    "name": "Syrio_Forel",
+    "name": "Syrio Forel",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 1,
     "House Baratheon of King's Landing": 0,
@@ -2562,9 +2562,9 @@
     "isMajor": 0
   },
   {
-    "name": "Tobho_Mott",
+    "name": "Tobho Mott",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -2585,7 +2585,7 @@
   {
     "name": "Gendry",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 1,
     "House Baratheon of King's Landing": 0,
@@ -2606,7 +2606,7 @@
   {
     "name": "Olyvar",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -2627,7 +2627,7 @@
   {
     "name": "Armeca",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -2648,7 +2648,7 @@
   {
     "name": "Marei",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -2667,9 +2667,9 @@
     "isMajor": 0
   },
   {
-    "name": "Lollys_Stokeworth",
+    "name": "Lollys Stokeworth",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -2688,9 +2688,9 @@
     "isMajor": 0
   },
   {
-    "name": "Lommy_Greenhands",
+    "name": "Lommy Greenhands",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -2709,9 +2709,9 @@
     "isMajor": 0
   },
   {
-    "name": "Hot_Pie",
+    "name": "Hot Pie",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -2772,9 +2772,9 @@
     "isMajor": 0
   },
   {
-    "name": "Jaqen_H'ghar",
+    "name": "Jaqen H'ghar",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -2795,7 +2795,7 @@
   {
     "name": "Hallyne",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -2816,7 +2816,7 @@
   {
     "name": "Unella",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -2835,7 +2835,7 @@
     "isMajor": 0
   },
   {
-    "name": "Dontos_Hollard",
+    "name": "Dontos Hollard",
     "isDead": 1,
     "livedTo": 3,
     "male": 1,
@@ -2858,7 +2858,7 @@
   {
     "name": "Bernadette",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -2879,7 +2879,7 @@
   {
     "name": "Archmaester",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -2898,7 +2898,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jeor_Mormont",
+    "name": "Jeor Mormont",
     "isDead": 1,
     "livedTo": 2,
     "male": 1,
@@ -2919,7 +2919,7 @@
     "isMajor": 0
   },
   {
-    "name": "Alliser_Thorne",
+    "name": "Alliser Thorne",
     "isDead": 1,
     "livedTo": 5,
     "male": 1,
@@ -2961,7 +2961,7 @@
     "isMajor": 0
   },
   {
-    "name": "Bowen_Marsh",
+    "name": "Bowen Marsh",
     "isDead": 1,
     "livedTo": 5,
     "male": 1,
@@ -2982,7 +2982,7 @@
     "isMajor": 0
   },
   {
-    "name": "Othell_Yarwyck",
+    "name": "Othell Yarwyck",
     "isDead": 1,
     "livedTo": 5,
     "male": 1,
@@ -3087,9 +3087,9 @@
     "isMajor": 0
   },
   {
-    "name": "Eddison_Tollett",
+    "name": "Eddison Tollett",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -3108,9 +3108,9 @@
     "isMajor": 0
   },
   {
-    "name": "Qhorin_Halfhand",
+    "name": "Qhorin Halfhand",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -3129,9 +3129,9 @@
     "isMajor": 0
   },
   {
-    "name": "Denys_Mallister",
+    "name": "Denys Mallister",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -3152,7 +3152,7 @@
   {
     "name": "Karl",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -3236,7 +3236,7 @@
   {
     "name": "Gilly",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -3276,7 +3276,7 @@
     "isMajor": 0
   },
   {
-    "name": "Lord_of_Bones",
+    "name": "Lord of Bones",
     "isDead": 1,
     "livedTo": 4,
     "male": 1,
@@ -3318,9 +3318,9 @@
     "isMajor": 0
   },
   {
-    "name": "Tormund_Giantsbane",
+    "name": "Tormund Giantsbane",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -3339,7 +3339,7 @@
     "isMajor": 0
   },
   {
-    "name": "Mance_Rayder",
+    "name": "Mance Rayder",
     "isDead": 1,
     "livedTo": 4,
     "male": 1,
@@ -3381,7 +3381,7 @@
     "isMajor": 0
   },
   {
-    "name": "Mag_Mar_Tun_Doh_Weg",
+    "name": "Mag Mar Tun Doh Weg",
     "isDead": 1,
     "livedTo": 3,
     "male": 1,
@@ -3402,7 +3402,7 @@
     "isMajor": 0
   },
   {
-    "name": "Three-Eyed_Raven",
+    "name": "Three-Eyed Raven",
     "isDead": 1,
     "livedTo": 5,
     "male": 1,
@@ -3444,7 +3444,7 @@
     "isMajor": 0
   },
   {
-    "name": "Wun_Weg_Wun_Dar_Wun",
+    "name": "Wun Weg Wun Dar Wun",
     "isDead": 1,
     "livedTo": 5,
     "male": 1,
@@ -3467,7 +3467,7 @@
   {
     "name": "Karsi",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -3507,9 +3507,9 @@
     "isMajor": 0
   },
   {
-    "name": "Dim_Dalba",
+    "name": "Dim Dalba",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -3528,9 +3528,9 @@
     "isMajor": 0
   },
   {
-    "name": "Khal_Drogo",
+    "name": "Khal Drogo",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -3593,7 +3593,7 @@
   {
     "name": "Kovarro",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -3696,9 +3696,9 @@
     "isMajor": 0
   },
   {
-    "name": "High_Priestess_of_the_Dosh_Khaleen",
+    "name": "High Priestess of the Dosh Khaleen",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -3719,7 +3719,7 @@
   {
     "name": "Ornela",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -3740,7 +3740,7 @@
   {
     "name": "Qhono",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -3759,7 +3759,7 @@
     "isMajor": 0
   },
   {
-    "name": "Viserys_Targaryen",
+    "name": "Viserys Targaryen",
     "isDead": 1,
     "livedTo": 0,
     "male": 1,
@@ -3780,9 +3780,9 @@
     "isMajor": 0
   },
   {
-    "name": "Daenerys_Targaryen",
+    "name": "Daenerys Targaryen",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -3801,9 +3801,9 @@
     "isMajor": 1
   },
   {
-    "name": "Jorah_Mormont",
+    "name": "Jorah Mormont",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 1,
     "House Baratheon of King's Landing": 0,
@@ -3822,9 +3822,9 @@
     "isMajor": 1
   },
   {
-    "name": "Illyrio_Mopatis",
+    "name": "Illyrio Mopatis",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -3843,7 +3843,7 @@
     "isMajor": 0
   },
   {
-    "name": "Mirri_Maz_Duur",
+    "name": "Mirri Maz Duur",
     "isDead": 1,
     "livedTo": 0,
     "male": 0,
@@ -3864,9 +3864,9 @@
     "isMajor": 0
   },
   {
-    "name": "Tycho_Nestoris",
+    "name": "Tycho Nestoris",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -3885,9 +3885,9 @@
     "isMajor": 0
   },
   {
-    "name": "Ternesio_Terys",
+    "name": "Ternesio Terys",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -3906,9 +3906,9 @@
     "isMajor": 0
   },
   {
-    "name": "The_Waif",
+    "name": "The Waif",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -3929,7 +3929,7 @@
   {
     "name": "Izembaro",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -3948,7 +3948,7 @@
     "isMajor": 0
   },
   {
-    "name": "Lady_Crane",
+    "name": "Lady Crane",
     "isDead": 1,
     "livedTo": 5,
     "male": 0,
@@ -3969,7 +3969,7 @@
     "isMajor": 0
   },
   {
-    "name": "Xaro_Xhoan_Daxos",
+    "name": "Xaro Xhoan Daxos",
     "isDead": 1,
     "livedTo": 1,
     "male": 1,
@@ -3990,7 +3990,7 @@
     "isMajor": 0
   },
   {
-    "name": "Pyat_Pree",
+    "name": "Pyat Pree",
     "isDead": 1,
     "livedTo": 1,
     "male": 1,
@@ -4013,7 +4013,7 @@
   {
     "name": "Quaithe",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -4032,7 +4032,7 @@
     "isMajor": 0
   },
   {
-    "name": "Spice_King",
+    "name": "Spice King",
     "isDead": 1,
     "livedTo": 1,
     "male": 1,
@@ -4055,7 +4055,7 @@
   {
     "name": "Missandei",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -4074,9 +4074,9 @@
     "isMajor": 0
   },
   {
-    "name": "Grey_Worm",
+    "name": "Grey Worm",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -4095,7 +4095,7 @@
     "isMajor": 0
   },
   {
-    "name": "Kraznys_mo_Nakloz",
+    "name": "Kraznys mo Nakloz",
     "isDead": 1,
     "livedTo": 2,
     "male": 1,
@@ -4116,7 +4116,7 @@
     "isMajor": 0
   },
   {
-    "name": "Greizhen_mo_Ullhor",
+    "name": "Greizhen mo Ullhor",
     "isDead": 1,
     "livedTo": 2,
     "male": 1,
@@ -4137,7 +4137,7 @@
     "isMajor": 0
   },
   {
-    "name": "Razdal_mo_Eraz",
+    "name": "Razdal mo Eraz",
     "isDead": 1,
     "livedTo": 5,
     "male": 1,
@@ -4158,9 +4158,9 @@
     "isMajor": 0
   },
   {
-    "name": "Daario_Naharis",
+    "name": "Daario Naharis",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -4200,7 +4200,7 @@
     "isMajor": 0
   },
   {
-    "name": "Prendahl_na_Ghezn",
+    "name": "Prendahl na Ghezn",
     "isDead": 1,
     "livedTo": 2,
     "male": 1,
@@ -4221,7 +4221,7 @@
     "isMajor": 0
   },
   {
-    "name": "Hizdahr_zo_Loraq",
+    "name": "Hizdahr zo Loraq",
     "isDead": 1,
     "livedTo": 4,
     "male": 1,
@@ -4265,7 +4265,7 @@
   {
     "name": "Malko",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -4284,9 +4284,9 @@
     "isMajor": 0
   },
   {
-    "name": "Yezzan_zo_Qaggaz",
+    "name": "Yezzan zo Qaggaz",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -4307,7 +4307,7 @@
   {
     "name": "Vala",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -4328,7 +4328,7 @@
   {
     "name": "Zanrush",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -4349,7 +4349,7 @@
   {
     "name": "Kinvara",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 1,
     "House Stark": 0,
     "House Baratheon of King's Landing": 0,
@@ -4368,9 +4368,9 @@
     "isMajor": 0
   },
   {
-    "name": "Brienne_of_Tarth",
+    "name": "Brienne of Tarth",
     "isDead": 0,
-    "livedTo": null,
+    "livedTo": 6,
     "male": 0,
     "House Stark": 1,
     "House Baratheon of King's Landing": 0,

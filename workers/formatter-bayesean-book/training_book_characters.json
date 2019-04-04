@@ -1,6 +1,6 @@
 [
   {
-    "name": "Addam_Osgrey",
+    "name": "Addam Osgrey",
     "isDead": 1,
     "age": 13,
     "male": 1,
@@ -14,12 +14,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Addam_Velaryon",
+    "name": "Addam Velaryon",
     "isDead": 1,
     "age": 16,
     "male": 1,
@@ -33,12 +32,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Aegon_Blackfyre",
+    "name": "Aegon Blackfyre",
     "isDead": 1,
     "age": 12,
     "male": 1,
@@ -52,12 +50,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Aegon_Frey_(son_of_Stevron)",
+    "name": "Aegon Frey (son of Stevron)",
     "isDead": 1,
     "age": 50,
     "male": 1,
@@ -71,12 +68,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Aegon_Frey_(son_of_Aenys)",
+    "name": "Aegon Frey (son of Aenys)",
     "isDead": 0,
     "age": 47,
     "male": 1,
@@ -90,12 +86,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Aegon_I_Targaryen",
+    "name": "Aegon I Targaryen",
     "isDead": 1,
     "age": 64,
     "male": 1,
@@ -109,12 +104,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Aegon_II_Targaryen",
+    "name": "Aegon II Targaryen",
     "isDead": 1,
     "age": 24,
     "male": 1,
@@ -128,12 +122,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 6,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Aegon_III_Targaryen",
+    "name": "Aegon III Targaryen",
     "isDead": 1,
     "age": 37,
     "male": 1,
@@ -147,12 +140,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 5,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Aegon_IV_Targaryen",
+    "name": "Aegon IV Targaryen",
     "isDead": 1,
     "age": 49,
     "male": 1,
@@ -166,12 +158,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 19,
-    "isHeir": 1,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 1
   },
   {
-    "name": "Aegon_V_Targaryen",
+    "name": "Aegon V Targaryen",
     "isDead": 1,
     "age": 59,
     "male": 1,
@@ -185,12 +176,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 5,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Aegon_Targaryen_(son_of_Rhaegar)",
+    "name": "Aegon Targaryen (son of Rhaegar)",
     "isDead": 1,
     "age": 2,
     "male": 1,
@@ -204,12 +194,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Aegon_Targaryen_(son_of_Aenys_I)",
+    "name": "Aegon Targaryen (son of Aenys I)",
     "isDead": 1,
     "age": 17,
     "male": 1,
@@ -223,12 +212,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Aegon_Targaryen_(son_of_Baelon)",
+    "name": "Aegon Targaryen (son of Baelon)",
     "isDead": 1,
     "age": 1,
     "male": 1,
@@ -242,12 +230,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Aegon_Targaryen_(son_of_Jaehaerys_I)",
+    "name": "Aegon Targaryen (son of Jaehaerys I)",
     "isDead": 1,
     "age": 0,
     "male": 1,
@@ -261,12 +248,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Aegor_Rivers",
+    "name": "Aegor Rivers",
     "isDead": 1,
     "age": 69,
     "male": 1,
@@ -280,12 +266,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Aemma_Arryn",
+    "name": "Aemma Arryn",
     "isDead": 1,
     "age": 23,
     "male": 0,
@@ -299,12 +284,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Aemon_Blackfyre",
+    "name": "Aemon Blackfyre",
     "isDead": 1,
     "age": 12,
     "male": 1,
@@ -318,12 +302,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Aemond_Targaryen",
+    "name": "Aemond Targaryen",
     "isDead": 1,
     "age": 20,
     "male": 1,
@@ -337,12 +320,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Aenys_Frey",
+    "name": "Aenys Frey",
     "isDead": 1,
     "age": 60,
     "male": 1,
@@ -356,12 +338,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Aenys_I_Targaryen",
+    "name": "Aenys I Targaryen",
     "isDead": 1,
     "age": 35,
     "male": 1,
@@ -375,12 +356,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 6,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Aerion_Targaryen",
+    "name": "Aerion Targaryen",
     "isDead": 1,
     "age": 41,
     "male": 1,
@@ -394,12 +374,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Aeron_Greyjoy",
+    "name": "Aeron Greyjoy",
     "isDead": 0,
     "age": 31,
     "male": 1,
@@ -413,12 +392,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Aerys_I_Targaryen",
+    "name": "Aerys I Targaryen",
     "isDead": 1,
     "age": 49,
     "male": 1,
@@ -432,12 +410,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Aerys_II_Targaryen",
+    "name": "Aerys II Targaryen",
     "isDead": 1,
     "age": 39,
     "male": 1,
@@ -451,9 +428,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 8,
-    "isHeir": 1,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 1
   },
   {
     "name": "Alayaya",
@@ -470,12 +446,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Alerie_Hightower",
+    "name": "Alerie Hightower",
     "isDead": 0,
     "age": 43,
     "male": 0,
@@ -489,12 +464,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 4,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Alesander_Frey",
+    "name": "Alesander Frey",
     "isDead": 0,
     "age": 35,
     "male": 0,
@@ -508,12 +482,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Alester_Norcross",
+    "name": "Alester Norcross",
     "isDead": 0,
     "age": 10,
     "male": 1,
@@ -527,12 +500,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Alicent_Hightower",
+    "name": "Alicent Hightower",
     "isDead": 1,
     "age": 45,
     "male": 0,
@@ -546,12 +518,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 4,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Alla_Tyrell",
+    "name": "Alla Tyrell",
     "isDead": 0,
     "age": 14,
     "male": 0,
@@ -565,12 +536,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Alliser_Thorne",
+    "name": "Alliser Thorne",
     "isDead": 0,
     "age": 53,
     "male": 1,
@@ -584,12 +554,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Alyn_Cockshaw",
+    "name": "Alyn Cockshaw",
     "isDead": 1,
     "age": 16,
     "male": 1,
@@ -603,12 +572,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Alyn_Frey",
+    "name": "Alyn Frey",
     "isDead": 0,
     "age": 5,
     "male": 1,
@@ -622,12 +590,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Alyn_Haigh",
+    "name": "Alyn Haigh",
     "isDead": 0,
     "age": 44,
     "male": 1,
@@ -641,12 +608,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Alyn_Velaryon",
+    "name": "Alyn Velaryon",
     "isDead": 1,
     "age": 56,
     "male": 1,
@@ -660,12 +626,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 4,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Alys_Arryn",
+    "name": "Alys Arryn",
     "isDead": 0,
     "age": 82,
     "male": 0,
@@ -679,12 +644,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Alys_Karstark",
+    "name": "Alys Karstark",
     "isDead": 0,
     "age": 16,
     "male": 0,
@@ -698,12 +662,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Alysane_Mormont",
+    "name": "Alysane Mormont",
     "isDead": 0,
     "age": 27,
     "male": 0,
@@ -717,12 +680,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Alysanne_Bulwer",
+    "name": "Alysanne Bulwer",
     "isDead": 0,
     "age": 9,
     "male": 0,
@@ -736,12 +698,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Alysanne_Osgrey",
+    "name": "Alysanne Osgrey",
     "isDead": 1,
     "age": 21,
     "male": 0,
@@ -755,12 +716,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Alysanne_Targaryen",
+    "name": "Alysanne Targaryen",
     "isDead": 1,
     "age": 64,
     "male": 0,
@@ -774,12 +734,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 13,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Alyssa_Blackwood",
+    "name": "Alyssa Blackwood",
     "isDead": 1,
     "age": 16,
     "male": 0,
@@ -793,12 +752,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 5,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Alyx_Frey",
+    "name": "Alyx Frey",
     "isDead": 0,
     "age": 18,
     "male": 0,
@@ -812,12 +770,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Amarei_Crakehall",
+    "name": "Amarei Crakehall",
     "isDead": 1,
     "age": 19,
     "male": 0,
@@ -831,31 +788,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 7,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Ambrose_Butterwell",
-    "isDead": 0,
-    "age": 139,
-    "male": 1,
-    "House Stark": 0,
-    "House Lannister": 0,
-    "House Targaryen": 1,
-    "House Martell": 0,
-    "House Greyjoy": 0,
-    "House Frey": 0,
-    "Northmen": 0,
-    "Dornishmen": 0,
-    "hasTitles": 1,
-    "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
-  },
-  {
-    "name": "Amerei_Frey",
+    "name": "Amerei Frey",
     "isDead": 0,
     "age": 18,
     "male": 0,
@@ -869,12 +806,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Andros_Brax",
+    "name": "Andros Brax",
     "isDead": 1,
     "age": 36,
     "male": 1,
@@ -888,12 +824,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Androw_Frey",
+    "name": "Androw Frey",
     "isDead": 0,
     "age": 5,
     "male": 1,
@@ -907,12 +842,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Ardrian_Celtigar",
+    "name": "Ardrian Celtigar",
     "isDead": 0,
     "age": 71,
     "male": 1,
@@ -926,12 +860,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Areo_Hotah",
+    "name": "Areo Hotah",
     "isDead": 0,
     "age": 43,
     "male": 1,
@@ -945,12 +878,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Arianne_Martell",
+    "name": "Arianne Martell",
     "isDead": 0,
     "age": 24,
     "male": 0,
@@ -964,12 +896,11 @@
     "Dornishmen": 1,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Arlan_of_Pennytree",
+    "name": "Arlan of Pennytree",
     "isDead": 1,
     "age": 60,
     "male": 1,
@@ -983,12 +914,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Arthor_Karstark",
+    "name": "Arthor Karstark",
     "isDead": 0,
     "age": 51,
     "male": 1,
@@ -1002,12 +932,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Arthur_Dayne",
+    "name": "Arthur Dayne",
     "isDead": 1,
     "age": 23,
     "male": 1,
@@ -1021,12 +950,11 @@
     "Dornishmen": 1,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Arwood_Frey",
+    "name": "Arwood Frey",
     "isDead": 0,
     "age": 37,
     "male": 1,
@@ -1040,12 +968,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 4,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Arwyn_Frey",
+    "name": "Arwyn Frey",
     "isDead": 0,
     "age": 15,
     "male": 0,
@@ -1059,12 +986,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Arya_Stark",
+    "name": "Arya Stark",
     "isDead": 0,
     "age": 11,
     "male": 0,
@@ -1078,12 +1004,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Asha_Greyjoy",
+    "name": "Asha Greyjoy",
     "isDead": 0,
     "age": 25,
     "male": 0,
@@ -1097,12 +1022,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Ashara_Dayne",
+    "name": "Ashara Dayne",
     "isDead": 1,
     "age": 23,
     "male": 0,
@@ -1116,12 +1040,11 @@
     "Dornishmen": 1,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Aurane_Waters",
+    "name": "Aurane Waters",
     "isDead": 0,
     "age": 23,
     "male": 1,
@@ -1135,31 +1058,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Baela_Targaryen",
-    "isDead": 0,
-    "age": 184,
-    "male": 0,
-    "House Stark": 0,
-    "House Lannister": 0,
-    "House Targaryen": 1,
-    "House Martell": 0,
-    "House Greyjoy": 0,
-    "House Frey": 0,
-    "Northmen": 0,
-    "Dornishmen": 0,
-    "hasTitles": 1,
-    "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
-  },
-  {
-    "name": "Baelon_Targaryen_(son_of_Viserys_I)",
+    "name": "Baelon Targaryen (son of Viserys I)",
     "isDead": 1,
     "age": 0,
     "male": 1,
@@ -1173,12 +1076,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Baelor_I_Targaryen",
+    "name": "Baelor I Targaryen",
     "isDead": 1,
     "age": 27,
     "male": 1,
@@ -1192,12 +1094,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 1,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 1
   },
   {
-    "name": "Baelor_Targaryen_(son_of_Daeron_II)",
+    "name": "Baelor Targaryen (son of Daeron II)",
     "isDead": 1,
     "age": 39,
     "male": 1,
@@ -1211,12 +1112,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Balon_Greyjoy",
+    "name": "Balon Greyjoy",
     "isDead": 1,
     "age": 44,
     "male": 1,
@@ -1230,28 +1130,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 4,
-    "isHeir": 0,
-    "isMajor": 0
-  },
-  {
-    "name": "Barba_Bracken",
-    "isDead": 0,
-    "age": 145,
-    "male": 0,
-    "House Stark": 0,
-    "House Lannister": 0,
-    "House Targaryen": 0,
-    "House Martell": 0,
-    "House Greyjoy": 0,
-    "House Frey": 0,
-    "Northmen": 0,
-    "Dornishmen": 0,
-    "hasTitles": 1,
-    "isMarried": 0,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
     "name": "Barra",
@@ -1268,12 +1148,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Barristan_Selmy",
+    "name": "Barristan Selmy",
     "isDead": 0,
     "age": 64,
     "male": 1,
@@ -1287,12 +1166,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Barthogan_Stark",
+    "name": "Barthogan Stark",
     "isDead": 1,
     "age": 70,
     "male": 1,
@@ -1306,9 +1184,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Beck",
@@ -1325,9 +1202,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Bella",
@@ -1344,9 +1220,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Ben",
@@ -1363,12 +1238,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Benfred_Tallhart",
+    "name": "Benfred Tallhart",
     "isDead": 1,
     "age": 20,
     "male": 1,
@@ -1382,12 +1256,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Benfrey_Frey",
+    "name": "Benfrey Frey",
     "isDead": 1,
     "age": 28,
     "male": 1,
@@ -1401,12 +1274,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Benjen_Stark",
+    "name": "Benjen Stark",
     "isDead": 0,
     "age": 33,
     "male": 1,
@@ -1420,12 +1292,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Beren_Tallhart",
+    "name": "Beren Tallhart",
     "isDead": 0,
     "age": 11,
     "male": 1,
@@ -1439,12 +1310,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Beric_Dondarrion",
+    "name": "Beric Dondarrion",
     "isDead": 1,
     "age": 23,
     "male": 1,
@@ -1458,12 +1328,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Beron_Stark",
+    "name": "Beron Stark",
     "isDead": 1,
     "age": 72,
     "male": 1,
@@ -1477,12 +1346,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 7,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Beth_Cassel",
+    "name": "Beth Cassel",
     "isDead": 0,
     "age": 11,
     "male": 0,
@@ -1496,12 +1364,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Bethany_Bracken",
+    "name": "Bethany Bracken",
     "isDead": 1,
     "age": 22,
     "male": 0,
@@ -1515,12 +1382,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Bethany_Rosby",
+    "name": "Bethany Rosby",
     "isDead": 1,
     "age": 17,
     "male": 0,
@@ -1534,9 +1400,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 5,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
     "name": "Boy",
@@ -1553,12 +1418,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Bradamar_Frey",
+    "name": "Bradamar Frey",
     "isDead": 0,
     "age": 11,
     "male": 1,
@@ -1572,12 +1436,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Brandon_Stark",
+    "name": "Brandon Stark",
     "isDead": 1,
     "age": 20,
     "male": 1,
@@ -1591,12 +1454,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Brandon_Stark_(son_of_Cregan)",
+    "name": "Brandon Stark (son of Cregan)",
     "isDead": 1,
     "age": 72,
     "male": 1,
@@ -1610,12 +1472,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 4,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Bran_Stark",
+    "name": "Bran Stark",
     "isDead": 0,
     "age": 10,
     "male": 1,
@@ -1629,12 +1490,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Brandon_Tallhart",
+    "name": "Brandon Tallhart",
     "isDead": 0,
     "age": 16,
     "male": 1,
@@ -1648,9 +1508,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Bronn",
@@ -1667,12 +1526,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Bryan_Frey",
+    "name": "Bryan Frey",
     "isDead": 0,
     "age": 19,
     "male": 1,
@@ -1686,12 +1544,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Bryce_Caron",
+    "name": "Bryce Caron",
     "isDead": 1,
     "age": 23,
     "male": 1,
@@ -1705,9 +1562,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Bryen",
@@ -1724,12 +1580,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Brynden_Rivers",
+    "name": "Brynden Rivers",
     "isDead": 1,
     "age": 77,
     "male": 1,
@@ -1743,12 +1598,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Brynden_Tully",
+    "name": "Brynden Tully",
     "isDead": 0,
     "age": 57,
     "male": 1,
@@ -1762,12 +1616,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Catelyn_Stark",
+    "name": "Catelyn Stark",
     "isDead": 1,
     "age": 35,
     "male": 0,
@@ -1781,12 +1634,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 5,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Cersei_Frey",
+    "name": "Cersei Frey",
     "isDead": 0,
     "age": 8,
     "male": 0,
@@ -1800,12 +1652,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Cersei_Lannister",
+    "name": "Cersei Lannister",
     "isDead": 0,
     "age": 34,
     "male": 0,
@@ -1819,9 +1670,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
     "name": "Clement",
@@ -1838,12 +1688,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Cleos_Frey",
+    "name": "Cleos Frey",
     "isDead": 1,
     "age": 41,
     "male": 1,
@@ -1857,12 +1706,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Cley_Cerwyn",
+    "name": "Cley Cerwyn",
     "isDead": 1,
     "age": 15,
     "male": 1,
@@ -1876,9 +1724,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Clydas",
@@ -1895,12 +1742,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Colmar_Frey",
+    "name": "Colmar Frey",
     "isDead": 0,
     "age": 12,
     "male": 1,
@@ -1914,12 +1760,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Corlys_Velaryon",
+    "name": "Corlys Velaryon",
     "isDead": 1,
     "age": 79,
     "male": 1,
@@ -1933,12 +1778,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 4,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Cregan_Karstark",
+    "name": "Cregan Karstark",
     "isDead": 0,
     "age": 51,
     "male": 1,
@@ -1952,12 +1796,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Cregan_Stark",
+    "name": "Cregan Stark",
     "isDead": 1,
     "age": 101,
     "male": 1,
@@ -1971,12 +1814,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 10,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Creighton_Longbough",
+    "name": "Creighton Longbough",
     "isDead": 0,
     "age": 60,
     "male": 1,
@@ -1990,9 +1832,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Cressen",
@@ -2009,12 +1850,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Criston_Cole",
+    "name": "Criston Cole",
     "isDead": 1,
     "age": 48,
     "male": 1,
@@ -2028,12 +1868,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Cynthea_Frey",
+    "name": "Cynthea Frey",
     "isDead": 0,
     "age": 10,
     "male": 0,
@@ -2047,12 +1886,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Cyrenna_Swann",
+    "name": "Cyrenna Swann",
     "isDead": 1,
     "age": 13,
     "male": 1,
@@ -2066,12 +1904,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Dacey_Mormont",
+    "name": "Dacey Mormont",
     "isDead": 1,
     "age": 47,
     "male": 0,
@@ -2085,12 +1922,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Daella_Targaryen_(daughter_of_Jaehaerys_I)",
+    "name": "Daella Targaryen (daughter of Jaehaerys I)",
     "isDead": 1,
     "age": 18,
     "male": 0,
@@ -2104,31 +1940,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Daella_Targaryen_(daughter_of_Maekar_I)",
-    "isDead": 0,
-    "age": 101,
-    "male": 1,
-    "House Stark": 0,
-    "House Lannister": 0,
-    "House Targaryen": 1,
-    "House Martell": 0,
-    "House Greyjoy": 0,
-    "House Frey": 0,
-    "Northmen": 0,
-    "Dornishmen": 0,
-    "hasTitles": 1,
-    "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
-  },
-  {
-    "name": "Daemon_I_Blackfyre",
+    "name": "Daemon I Blackfyre",
     "isDead": 1,
     "age": 26,
     "male": 1,
@@ -2142,12 +1958,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 8,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Daemon_II_Blackfyre",
+    "name": "Daemon II Blackfyre",
     "isDead": 1,
     "age": 23,
     "male": 1,
@@ -2161,12 +1976,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Daemon_Sand",
+    "name": "Daemon Sand",
     "isDead": 0,
     "age": 25,
     "male": 1,
@@ -2180,12 +1994,11 @@
     "Dornishmen": 1,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Daemon_Targaryen",
+    "name": "Daemon Targaryen",
     "isDead": 1,
     "age": 49,
     "male": 1,
@@ -2199,50 +2012,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 5,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Daena_Targaryen",
-    "isDead": 0,
-    "age": 155,
-    "male": 0,
-    "House Stark": 0,
-    "House Lannister": 0,
-    "House Targaryen": 1,
-    "House Martell": 0,
-    "House Greyjoy": 0,
-    "House Frey": 0,
-    "Northmen": 0,
-    "Dornishmen": 0,
-    "hasTitles": 1,
-    "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
-  },
-  {
-    "name": "Daenerys_Targaryen_(daughter_of_Aegon_IV)",
-    "isDead": 0,
-    "age": 128,
-    "male": 0,
-    "House Stark": 0,
-    "House Lannister": 0,
-    "House Targaryen": 1,
-    "House Martell": 1,
-    "House Greyjoy": 0,
-    "House Frey": 0,
-    "Northmen": 0,
-    "Dornishmen": 0,
-    "hasTitles": 1,
-    "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
-  },
-  {
-    "name": "Daenerys_Targaryen",
+    "name": "Daenerys Targaryen",
     "isDead": 0,
     "age": 16,
     "male": 0,
@@ -2256,12 +2030,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Daeron_I_Targaryen",
+    "name": "Daeron I Targaryen",
     "isDead": 1,
     "age": 18,
     "male": 1,
@@ -2275,12 +2048,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Daeron_II_Targaryen",
+    "name": "Daeron II Targaryen",
     "isDead": 1,
     "age": 56,
     "male": 1,
@@ -2294,12 +2066,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 4,
-    "isHeir": 1,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 1
   },
   {
-    "name": "Daeron_Targaryen_(son_of_Viserys_I)",
+    "name": "Daeron Targaryen (son of Viserys I)",
     "isDead": 1,
     "age": 16,
     "male": 1,
@@ -2313,12 +2084,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Daeron_Targaryen_(son_of_Maekar_I)",
+    "name": "Daeron Targaryen (son of Maekar I)",
     "isDead": 1,
     "age": 31,
     "male": 1,
@@ -2332,9 +2102,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
     "name": "Dalbridge",
@@ -2351,12 +2120,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Damion_Lannister",
+    "name": "Damion Lannister",
     "isDead": 0,
     "age": 43,
     "male": 1,
@@ -2370,12 +2138,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Damon_Lannister_(lord)",
+    "name": "Damon Lannister (lord)",
     "isDead": 1,
     "age": 31,
     "male": 1,
@@ -2389,12 +2156,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Damon_Lannister_(son_of_Jason)",
+    "name": "Damon Lannister (son of Jason)",
     "isDead": 0,
     "age": 56,
     "male": 1,
@@ -2408,12 +2174,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Damon_Vypren",
+    "name": "Damon Vypren",
     "isDead": 0,
     "age": 16,
     "male": 0,
@@ -2427,12 +2192,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Danwell_Frey",
+    "name": "Danwell Frey",
     "isDead": 0,
     "age": 48,
     "male": 1,
@@ -2446,12 +2210,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Daven_Lannister",
+    "name": "Daven Lannister",
     "isDead": 0,
     "age": 27,
     "male": 1,
@@ -2465,12 +2228,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Davos_Seaworth",
+    "name": "Davos Seaworth",
     "isDead": 0,
     "age": 40,
     "male": 1,
@@ -2484,9 +2246,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 7,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
     "name": "Del",
@@ -2503,12 +2264,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Della_Frey",
+    "name": "Della Frey",
     "isDead": 0,
     "age": 4,
     "male": 0,
@@ -2522,12 +2282,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Delonne_Allyrion",
+    "name": "Delonne Allyrion",
     "isDead": 0,
     "age": 50,
     "male": 0,
@@ -2541,12 +2300,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Denyo_Terys",
+    "name": "Denyo Terys",
     "isDead": 0,
     "age": 13,
     "male": 1,
@@ -2560,12 +2318,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Denys_Mallister",
+    "name": "Denys Mallister",
     "isDead": 0,
     "age": 55,
     "male": 1,
@@ -2579,12 +2336,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Desmond_Grell",
+    "name": "Desmond Grell",
     "isDead": 0,
     "age": 63,
     "male": 1,
@@ -2598,12 +2354,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Devan_Seaworth",
+    "name": "Devan Seaworth",
     "isDead": 0,
     "age": 13,
     "male": 1,
@@ -2617,12 +2372,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Dickon_Frey",
+    "name": "Dickon Frey",
     "isDead": 0,
     "age": 6,
     "male": 1,
@@ -2636,12 +2390,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Dickon_Tarly",
+    "name": "Dickon Tarly",
     "isDead": 0,
     "age": 13,
     "male": 1,
@@ -2655,12 +2408,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Domeric_Bolton",
+    "name": "Domeric Bolton",
     "isDead": 1,
     "age": 24,
     "male": 1,
@@ -2674,12 +2426,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Donal_Noye",
+    "name": "Donal Noye",
     "isDead": 1,
     "age": 48,
     "male": 1,
@@ -2693,12 +2444,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Donel_Greyjoy",
+    "name": "Donel Greyjoy",
     "isDead": 0,
     "age": 45,
     "male": 1,
@@ -2712,12 +2462,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Donella_Hornwood",
+    "name": "Donella Hornwood",
     "isDead": 1,
     "age": 50,
     "male": 0,
@@ -2731,12 +2480,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Donnel_Haigh",
+    "name": "Donnel Haigh",
     "isDead": 0,
     "age": 45,
     "male": 1,
@@ -2750,12 +2498,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Donnel_Waynwood",
+    "name": "Donnel Waynwood",
     "isDead": 0,
     "age": 23,
     "male": 1,
@@ -2769,12 +2516,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Dontos_Hollard",
+    "name": "Dontos Hollard",
     "isDead": 1,
     "age": 39,
     "male": 0,
@@ -2788,12 +2534,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Doran_Martell",
+    "name": "Doran Martell",
     "isDead": 0,
     "age": 53,
     "male": 1,
@@ -2807,12 +2552,11 @@
     "Dornishmen": 1,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Dorea_Sand",
+    "name": "Dorea Sand",
     "isDead": 0,
     "age": 9,
     "male": 0,
@@ -2826,9 +2570,8 @@
     "Dornishmen": 1,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Doreah",
@@ -2845,9 +2588,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Drogo",
@@ -2864,12 +2606,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Duncan_Targaryen",
+    "name": "Duncan Targaryen",
     "isDead": 1,
     "age": 39,
     "male": 1,
@@ -2883,12 +2624,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Dunstan_Drumm",
+    "name": "Dunstan Drumm",
     "isDead": 0,
     "age": 88,
     "male": 1,
@@ -2902,12 +2642,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Duram_Bar_Emmon",
+    "name": "Duram Bar Emmon",
     "isDead": 0,
     "age": 16,
     "male": 1,
@@ -2921,12 +2660,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Eddara_Tallhart",
+    "name": "Eddara Tallhart",
     "isDead": 0,
     "age": 11,
     "male": 1,
@@ -2940,12 +2678,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Eddard_Stark",
+    "name": "Eddard Stark",
     "isDead": 1,
     "age": 36,
     "male": 1,
@@ -2959,12 +2696,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 6,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Edmure_Tully",
+    "name": "Edmure Tully",
     "isDead": 0,
     "age": 33,
     "male": 1,
@@ -2978,12 +2714,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Edric_Dayne",
+    "name": "Edric Dayne",
     "isDead": 0,
     "age": 13,
     "male": 1,
@@ -2997,12 +2732,11 @@
     "Dornishmen": 1,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Edric_Storm",
+    "name": "Edric Storm",
     "isDead": 0,
     "age": 13,
     "male": 1,
@@ -3016,12 +2750,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Edwyle_Stark",
+    "name": "Edwyle Stark",
     "isDead": 1,
     "age": 36,
     "male": 1,
@@ -3035,12 +2768,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Edwyn_Frey",
+    "name": "Edwyn Frey",
     "isDead": 0,
     "age": 41,
     "male": 1,
@@ -3054,12 +2786,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Elaena_Targaryen",
+    "name": "Elaena Targaryen",
     "isDead": 1,
     "age": 70,
     "male": 0,
@@ -3073,12 +2804,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 7,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Elder_Brother_(Quiet_Isle)",
+    "name": "Elder Brother (Quiet Isle)",
     "isDead": 0,
     "age": 45,
     "male": 1,
@@ -3092,12 +2822,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Eldon_Estermont",
+    "name": "Eldon Estermont",
     "isDead": 0,
     "age": 72,
     "male": 1,
@@ -3111,12 +2840,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Eleanor_Mooton",
+    "name": "Eleanor Mooton",
     "isDead": 0,
     "age": 14,
     "male": 1,
@@ -3130,12 +2858,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Eleyna_Westerling",
+    "name": "Eleyna Westerling",
     "isDead": 0,
     "age": 13,
     "male": 0,
@@ -3149,12 +2876,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Elia_Sand",
+    "name": "Elia Sand",
     "isDead": 0,
     "age": 15,
     "male": 0,
@@ -3168,12 +2894,11 @@
     "Dornishmen": 1,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Elia_Martell",
+    "name": "Elia Martell",
     "isDead": 1,
     "age": 27,
     "male": 0,
@@ -3187,12 +2912,11 @@
     "Dornishmen": 1,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Elinor_Tyrell",
+    "name": "Elinor Tyrell",
     "isDead": 0,
     "age": 14,
     "male": 0,
@@ -3206,12 +2930,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Elmar_Frey",
+    "name": "Elmar Frey",
     "isDead": 0,
     "age": 10,
     "male": 1,
@@ -3225,12 +2948,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Elwood_Meadows",
+    "name": "Elwood Meadows",
     "isDead": 0,
     "age": 22,
     "male": 1,
@@ -3244,12 +2966,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Elyana_Vypren",
+    "name": "Elyana Vypren",
     "isDead": 0,
     "age": 36,
     "male": 0,
@@ -3263,12 +2984,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Emberlei_Frey",
+    "name": "Emberlei Frey",
     "isDead": 0,
     "age": 4,
     "male": 0,
@@ -3282,9 +3002,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Emma",
@@ -3301,12 +3020,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Emmon_Frey",
+    "name": "Emmon Frey",
     "isDead": 0,
     "age": 63,
     "male": 1,
@@ -3320,12 +3038,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 4,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Eon_Hunter",
+    "name": "Eon Hunter",
     "isDead": 1,
     "age": 80,
     "male": 1,
@@ -3339,12 +3056,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Erena_Glover",
+    "name": "Erena Glover",
     "isDead": 0,
     "age": 3,
     "male": 0,
@@ -3358,12 +3074,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Erik_Ironmaker",
+    "name": "Erik Ironmaker",
     "isDead": 0,
     "age": 89,
     "male": 1,
@@ -3377,12 +3092,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Ermesande_Hayford",
+    "name": "Ermesande Hayford",
     "isDead": 0,
     "age": 2,
     "male": 0,
@@ -3396,12 +3110,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Euron_Greyjoy",
+    "name": "Euron Greyjoy",
     "isDead": 0,
     "age": 44,
     "male": 1,
@@ -3415,31 +3128,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Falena_Stokeworth",
-    "isDead": 0,
-    "age": 175,
-    "male": 0,
-    "House Stark": 0,
-    "House Lannister": 0,
-    "House Targaryen": 0,
-    "House Martell": 0,
-    "House Greyjoy": 0,
-    "House Frey": 0,
-    "Northmen": 0,
-    "Dornishmen": 0,
-    "hasTitles": 0,
-    "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
-  },
-  {
-    "name": "Falia_Flowers",
+    "name": "Falia Flowers",
     "isDead": 0,
     "age": 19,
     "male": 1,
@@ -3453,12 +3146,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Falyse_Stokeworth",
+    "name": "Falyse Stokeworth",
     "isDead": 1,
     "age": 35,
     "male": 0,
@@ -3472,12 +3164,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Flement_Brax",
+    "name": "Flement Brax",
     "isDead": 0,
     "age": 23,
     "male": 1,
@@ -3491,12 +3182,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Galazza_Galare",
+    "name": "Galazza Galare",
     "isDead": 0,
     "age": 83,
     "male": 0,
@@ -3510,9 +3200,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Gared",
@@ -3529,12 +3218,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Garlan_Tyrell",
+    "name": "Garlan Tyrell",
     "isDead": 0,
     "age": 23,
     "male": 1,
@@ -3548,12 +3236,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Gawen_Glover",
+    "name": "Gawen Glover",
     "isDead": 0,
     "age": 5,
     "male": 1,
@@ -3567,28 +3254,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
-  },
-  {
-    "name": "Gawen_Swann",
-    "isDead": 0,
-    "age": 148,
-    "male": 1,
-    "House Stark": 0,
-    "House Lannister": 0,
-    "House Targaryen": 0,
-    "House Martell": 0,
-    "House Greyjoy": 0,
-    "House Frey": 0,
-    "Northmen": 0,
-    "Dornishmen": 0,
-    "hasTitles": 1,
-    "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Gendry",
@@ -3605,12 +3272,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Genna_Lannister",
+    "name": "Genna Lannister",
     "isDead": 0,
     "age": 55,
     "male": 0,
@@ -3624,12 +3290,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 4,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Gerion_Lannister",
+    "name": "Gerion Lannister",
     "isDead": 1,
     "age": 36,
     "male": 1,
@@ -3643,12 +3308,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Gerold_Dayne",
+    "name": "Gerold Dayne",
     "isDead": 0,
     "age": 30,
     "male": 1,
@@ -3662,12 +3326,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Gerold_Lannister",
+    "name": "Gerold Lannister",
     "isDead": 1,
     "age": 38,
     "male": 1,
@@ -3681,12 +3344,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 4,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Gerris_Drinkwater",
+    "name": "Gerris Drinkwater",
     "isDead": 0,
     "age": 25,
     "male": 1,
@@ -3700,9 +3362,8 @@
     "Dornishmen": 1,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Gilly",
@@ -3719,12 +3380,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Gilwood_Hunter",
+    "name": "Gilwood Hunter",
     "isDead": 0,
     "age": 50,
     "male": 1,
@@ -3738,31 +3398,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Glendon_Flowers",
-    "isDead": 0,
-    "age": 104,
-    "male": 1,
-    "House Stark": 0,
-    "House Lannister": 0,
-    "House Targaryen": 0,
-    "House Martell": 0,
-    "House Greyjoy": 0,
-    "House Frey": 0,
-    "Northmen": 0,
-    "Dornishmen": 0,
-    "hasTitles": 1,
-    "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
-  },
-  {
-    "name": "Gormond_Goodbrother",
+    "name": "Gormond Goodbrother",
     "isDead": 0,
     "age": 18,
     "male": 1,
@@ -3776,12 +3416,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Gran_Goodbrother",
+    "name": "Gran Goodbrother",
     "isDead": 0,
     "age": 18,
     "male": 1,
@@ -3795,12 +3434,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Gregor_Clegane",
+    "name": "Gregor Clegane",
     "isDead": 1,
     "age": 35,
     "male": 1,
@@ -3814,9 +3452,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Grenn",
@@ -3833,12 +3470,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Greydon_Goodbrother",
+    "name": "Greydon Goodbrother",
     "isDead": 0,
     "age": 18,
     "male": 1,
@@ -3852,12 +3488,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Gulian_Swann",
+    "name": "Gulian Swann",
     "isDead": 0,
     "age": 41,
     "male": 1,
@@ -3871,12 +3506,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Gunthor_Hightower",
+    "name": "Gunthor Hightower",
     "isDead": 0,
     "age": 29,
     "male": 1,
@@ -3890,12 +3524,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Guyard_Morrigen",
+    "name": "Guyard Morrigen",
     "isDead": 1,
     "age": 21,
     "male": 1,
@@ -3909,12 +3542,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Gwayne_Hightower",
+    "name": "Gwayne Hightower",
     "isDead": 1,
     "age": 42,
     "male": 1,
@@ -3928,12 +3560,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Gwin_Goodbrother",
+    "name": "Gwin Goodbrother",
     "isDead": 0,
     "age": 18,
     "male": 0,
@@ -3947,12 +3578,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Gysella_Goodbrother",
+    "name": "Gysella Goodbrother",
     "isDead": 0,
     "age": 18,
     "male": 0,
@@ -3966,9 +3596,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Halder",
@@ -3985,12 +3614,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Harlon_Greyjoy",
+    "name": "Harlon Greyjoy",
     "isDead": 0,
     "age": 47,
     "male": 1,
@@ -4004,12 +3632,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Harrold_Hardyng",
+    "name": "Harrold Hardyng",
     "isDead": 0,
     "age": 19,
     "male": 1,
@@ -4023,9 +3650,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
     "name": "Harwin",
@@ -4042,12 +3668,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Harwin_Strong",
+    "name": "Harwin Strong",
     "isDead": 1,
     "age": 30,
     "male": 1,
@@ -4061,12 +3686,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Harys_Haigh",
+    "name": "Harys Haigh",
     "isDead": 0,
     "age": 46,
     "male": 1,
@@ -4080,9 +3704,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
     "name": "Hazzea",
@@ -4099,12 +3722,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Helaena_Targaryen",
+    "name": "Helaena Targaryen",
     "isDead": 1,
     "age": 21,
     "male": 0,
@@ -4118,28 +3740,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
-  },
-  {
-    "name": "Helicent_Uffering",
-    "isDead": 0,
-    "age": 129,
-    "male": 1,
-    "House Stark": 0,
-    "House Lannister": 0,
-    "House Targaryen": 0,
-    "House Martell": 0,
-    "House Greyjoy": 0,
-    "House Frey": 0,
-    "Northmen": 0,
-    "Dornishmen": 0,
-    "hasTitles": 0,
-    "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
     "name": "Holly",
@@ -4156,12 +3758,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Hosteen_Frey",
+    "name": "Hosteen Frey",
     "isDead": 0,
     "age": 51,
     "male": 1,
@@ -4175,12 +3776,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Hoster_Frey",
+    "name": "Hoster Frey",
     "isDead": 0,
     "age": 13,
     "male": 1,
@@ -4194,12 +3794,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Hoster_Tully",
+    "name": "Hoster Tully",
     "isDead": 1,
     "age": 61,
     "male": 1,
@@ -4213,12 +3812,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 5,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Hother_Umber",
+    "name": "Hother Umber",
     "isDead": 0,
     "age": 59,
     "male": 1,
@@ -4232,12 +3830,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Howland_Reed",
+    "name": "Howland Reed",
     "isDead": 0,
     "age": 40,
     "male": 1,
@@ -4251,12 +3848,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Humfrey_Wagstaff",
+    "name": "Humfrey Wagstaff",
     "isDead": 0,
     "age": 68,
     "male": 0,
@@ -4270,9 +3866,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Illifer",
@@ -4289,9 +3884,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Irri",
@@ -4308,12 +3902,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Jaehaera_Targaryen",
+    "name": "Jaehaera Targaryen",
     "isDead": 1,
     "age": 10,
     "male": 0,
@@ -4327,12 +3920,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Jaehaerys_I_Targaryen",
+    "name": "Jaehaerys I Targaryen",
     "isDead": 1,
     "age": 69,
     "male": 1,
@@ -4346,12 +3938,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 13,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Jaehaerys_Targaryen_(son_of_Aegon_II)",
+    "name": "Jaehaerys Targaryen (son of Aegon II)",
     "isDead": 1,
     "age": 6,
     "male": 1,
@@ -4365,12 +3956,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Jaehaerys_II_Targaryen",
+    "name": "Jaehaerys II Targaryen",
     "isDead": 1,
     "age": 37,
     "male": 1,
@@ -4384,12 +3974,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Jaime_Frey",
+    "name": "Jaime Frey",
     "isDead": 0,
     "age": 1,
     "male": 1,
@@ -4403,12 +3992,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Jaime_Lannister",
+    "name": "Jaime Lannister",
     "isDead": 0,
     "age": 34,
     "male": 1,
@@ -4422,12 +4010,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Jammos_Frey",
+    "name": "Jammos Frey",
     "isDead": 0,
     "age": 34,
     "male": 1,
@@ -4441,12 +4028,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Janei_Lannister",
+    "name": "Janei Lannister",
     "isDead": 0,
     "age": 4,
     "male": 0,
@@ -4460,12 +4046,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Janos_Slynt",
+    "name": "Janos Slynt",
     "isDead": 1,
     "age": 22,
     "male": 1,
@@ -4479,12 +4064,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 4,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Jared_Frey",
+    "name": "Jared Frey",
     "isDead": 1,
     "age": 52,
     "male": 1,
@@ -4498,12 +4082,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Jason_Lannister",
+    "name": "Jason Lannister",
     "isDead": 1,
     "age": 41,
     "male": 1,
@@ -4517,12 +4100,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 5,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Jeor_Mormont",
+    "name": "Jeor Mormont",
     "isDead": 1,
     "age": 69,
     "male": 1,
@@ -4536,12 +4118,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Jeyne_Arryn",
+    "name": "Jeyne Arryn",
     "isDead": 1,
     "age": 40,
     "male": 0,
@@ -4555,12 +4136,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Jeyne_Goodbrook",
+    "name": "Jeyne Goodbrook",
     "isDead": 0,
     "age": 7,
     "male": 0,
@@ -4574,12 +4154,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Jeyne_Heddle",
+    "name": "Jeyne Heddle",
     "isDead": 0,
     "age": 19,
     "male": 0,
@@ -4593,31 +4172,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Jeyne_Lothston",
-    "isDead": 0,
-    "age": 136,
-    "male": 0,
-    "House Stark": 0,
-    "House Lannister": 0,
-    "House Targaryen": 0,
-    "House Martell": 0,
-    "House Greyjoy": 0,
-    "House Frey": 0,
-    "Northmen": 0,
-    "Dornishmen": 0,
-    "hasTitles": 1,
-    "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
-  },
-  {
-    "name": "Jeyne_Poole",
+    "name": "Jeyne Poole",
     "isDead": 0,
     "age": 14,
     "male": 0,
@@ -4631,31 +4190,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Jeyne_Waters",
-    "isDead": 0,
-    "age": 129,
-    "male": 1,
-    "House Stark": 0,
-    "House Lannister": 0,
-    "House Targaryen": 0,
-    "House Martell": 0,
-    "House Greyjoy": 0,
-    "House Frey": 0,
-    "Northmen": 0,
-    "Dornishmen": 0,
-    "hasTitles": 0,
-    "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
-  },
-  {
-    "name": "Jeyne_Westerling_(wife_of_Maegor_I)",
+    "name": "Jeyne Westerling (wife of Maegor I)",
     "isDead": 1,
     "age": 20,
     "male": 0,
@@ -4669,12 +4208,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Jeyne_Westerling",
+    "name": "Jeyne Westerling",
     "isDead": 0,
     "age": 17,
     "male": 0,
@@ -4688,9 +4226,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Jhiqui",
@@ -4707,9 +4244,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Jhogo",
@@ -4726,12 +4262,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Joanna_Lannister",
+    "name": "Joanna Lannister",
     "isDead": 1,
     "age": 29,
     "male": 0,
@@ -4745,12 +4280,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Joffrey_Baratheon",
+    "name": "Joffrey Baratheon",
     "isDead": 1,
     "age": 14,
     "male": 1,
@@ -4764,31 +4298,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Joffrey_Caswell",
-    "isDead": 0,
-    "age": 109,
-    "male": 1,
-    "House Stark": 0,
-    "House Lannister": 0,
-    "House Targaryen": 0,
-    "House Martell": 0,
-    "House Greyjoy": 0,
-    "House Frey": 0,
-    "Northmen": 0,
-    "Dornishmen": 0,
-    "hasTitles": 1,
-    "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
-  },
-  {
-    "name": "Joffrey_Lonmouth",
+    "name": "Joffrey Lonmouth",
     "isDead": 1,
     "age": 15,
     "male": 1,
@@ -4802,12 +4316,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Jojen_Reed",
+    "name": "Jojen Reed",
     "isDead": 0,
     "age": 14,
     "male": 1,
@@ -4821,12 +4334,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Jon_Arryn",
+    "name": "Jon Arryn",
     "isDead": 1,
     "age": 80,
     "male": 1,
@@ -4840,12 +4352,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Jon_Brax",
+    "name": "Jon Brax",
     "isDead": 0,
     "age": 4,
     "male": 0,
@@ -4859,12 +4370,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Jon_Bulwer",
+    "name": "Jon Bulwer",
     "isDead": 1,
     "age": 21,
     "male": 1,
@@ -4878,12 +4388,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Jon_Connington",
+    "name": "Jon Connington",
     "isDead": 0,
     "age": 40,
     "male": 1,
@@ -4897,12 +4406,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Jon_Snow",
+    "name": "Jon Snow",
     "isDead": 0,
     "age": 17,
     "male": 1,
@@ -4916,31 +4424,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Jon_Waters",
-    "isDead": 0,
-    "age": 129,
-    "male": 1,
-    "House Stark": 0,
-    "House Lannister": 0,
-    "House Targaryen": 0,
-    "House Martell": 0,
-    "House Greyjoy": 0,
-    "House Frey": 0,
-    "Northmen": 0,
-    "Dornishmen": 0,
-    "hasTitles": 1,
-    "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
-  },
-  {
-    "name": "Jonelle_Cerwyn",
+    "name": "Jonelle Cerwyn",
     "isDead": 0,
     "age": 33,
     "male": 0,
@@ -4954,12 +4442,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Jonnel_Stark",
+    "name": "Jonnel Stark",
     "isDead": 1,
     "age": 73,
     "male": 1,
@@ -4973,12 +4460,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Jonos_Frey",
+    "name": "Jonos Frey",
     "isDead": 0,
     "age": 9,
     "male": 0,
@@ -4992,12 +4478,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Jorah_Mormont",
+    "name": "Jorah Mormont",
     "isDead": 0,
     "age": 46,
     "male": 1,
@@ -5011,12 +4496,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Jorelle_Mormont",
+    "name": "Jorelle Mormont",
     "isDead": 0,
     "age": 22,
     "male": 0,
@@ -5030,12 +4514,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Jory_Cassel",
+    "name": "Jory Cassel",
     "isDead": 1,
     "age": 25,
     "male": 1,
@@ -5049,12 +4532,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Josmyn_Peckledon",
+    "name": "Josmyn Peckledon",
     "isDead": 0,
     "age": 16,
     "male": 1,
@@ -5068,12 +4550,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Joy_Hill",
+    "name": "Joy Hill",
     "isDead": 0,
     "age": 12,
     "male": 0,
@@ -5087,12 +4568,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Joyeuse_Erenford",
+    "name": "Joyeuse Erenford",
     "isDead": 0,
     "age": 18,
     "male": 1,
@@ -5106,9 +4586,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
     "name": "Kaeth",
@@ -5125,12 +4604,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Kedge_Whiteye",
+    "name": "Kedge Whiteye",
     "isDead": 0,
     "age": 49,
     "male": 1,
@@ -5144,12 +4622,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Kevan_Lannister",
+    "name": "Kevan Lannister",
     "isDead": 1,
     "age": 56,
     "male": 1,
@@ -5163,9 +4640,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 4,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
     "name": "Khrazz",
@@ -5182,9 +4658,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Kyra",
@@ -5201,12 +4676,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Kyra_Frey",
+    "name": "Kyra Frey",
     "isDead": 0,
     "age": 38,
     "male": 0,
@@ -5220,12 +4694,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Laena_Velaryon",
+    "name": "Laena Velaryon",
     "isDead": 1,
     "age": 27,
     "male": 0,
@@ -5239,12 +4712,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Laenor_Velaryon",
+    "name": "Laenor Velaryon",
     "isDead": 1,
     "age": 26,
     "male": 1,
@@ -5258,12 +4730,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 5,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Lancel_Lannister",
+    "name": "Lancel Lannister",
     "isDead": 0,
     "age": 18,
     "male": 1,
@@ -5277,12 +4748,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Lanna_(Happy_Port)",
+    "name": "Lanna (Happy Port)",
     "isDead": 0,
     "age": 15,
     "male": 0,
@@ -5296,12 +4766,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Lanna_Lannister",
+    "name": "Lanna Lannister",
     "isDead": 0,
     "age": 29,
     "male": 0,
@@ -5315,12 +4784,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Larence_Snow",
+    "name": "Larence Snow",
     "isDead": 0,
     "age": 14,
     "male": 1,
@@ -5334,9 +4802,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Layna",
@@ -5353,12 +4820,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Leana_Frey",
+    "name": "Leana Frey",
     "isDead": 0,
     "age": 1,
     "male": 0,
@@ -5372,9 +4838,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Leathers",
@@ -5391,31 +4856,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Lem_(Standfast)",
-    "isDead": 0,
-    "age": 139,
-    "male": 1,
-    "House Stark": 0,
-    "House Lannister": 0,
-    "House Targaryen": 0,
-    "House Martell": 0,
-    "House Greyjoy": 0,
-    "House Frey": 0,
-    "Northmen": 0,
-    "Dornishmen": 0,
-    "hasTitles": 0,
-    "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
-  },
-  {
-    "name": "Lollys_Stokeworth",
+    "name": "Lollys Stokeworth",
     "isDead": 0,
     "age": 35,
     "male": 0,
@@ -5429,12 +4874,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Loras_Tyrell",
+    "name": "Loras Tyrell",
     "isDead": 0,
     "age": 18,
     "male": 1,
@@ -5448,9 +4892,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Lorcas",
@@ -5467,12 +4910,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Loreza_Sand",
+    "name": "Loreza Sand",
     "isDead": 0,
     "age": 7,
     "male": 0,
@@ -5486,12 +4928,11 @@
     "Dornishmen": 1,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Lothar_Frey",
+    "name": "Lothar Frey",
     "isDead": 0,
     "age": 36,
     "male": 1,
@@ -5505,12 +4946,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 4,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Luceon_Frey",
+    "name": "Luceon Frey",
     "isDead": 0,
     "age": 51,
     "male": 1,
@@ -5524,12 +4964,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Lucion_Lannister",
+    "name": "Lucion Lannister",
     "isDead": 0,
     "age": 30,
     "male": 0,
@@ -5543,12 +4982,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Lucos_Chyttering",
+    "name": "Lucos Chyttering",
     "isDead": 0,
     "age": 17,
     "male": 1,
@@ -5562,12 +5000,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Lyanna_Mormont",
+    "name": "Lyanna Mormont",
     "isDead": 0,
     "age": 10,
     "male": 0,
@@ -5581,12 +5018,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Lyanna_Stark",
+    "name": "Lyanna Stark",
     "isDead": 1,
     "age": 17,
     "male": 0,
@@ -5600,12 +5036,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Lyman_Beesbury",
+    "name": "Lyman Beesbury",
     "isDead": 1,
     "age": 80,
     "male": 1,
@@ -5619,12 +5054,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Lyman_Darry",
+    "name": "Lyman Darry",
     "isDead": 1,
     "age": 9,
     "male": 0,
@@ -5638,12 +5072,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Lynesse_Hightower",
+    "name": "Lynesse Hightower",
     "isDead": 0,
     "age": 28,
     "male": 1,
@@ -5657,12 +5090,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Lyonel_Corbray",
+    "name": "Lyonel Corbray",
     "isDead": 0,
     "age": 40,
     "male": 1,
@@ -5676,12 +5108,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Lyonel_Frey",
+    "name": "Lyonel Frey",
     "isDead": 0,
     "age": 41,
     "male": 0,
@@ -5695,12 +5126,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Lyonel_Strong",
+    "name": "Lyonel Strong",
     "isDead": 1,
     "age": 43,
     "male": 1,
@@ -5714,12 +5144,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 4,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Lyra_Mormont",
+    "name": "Lyra Mormont",
     "isDead": 0,
     "age": 23,
     "male": 0,
@@ -5733,12 +5162,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Lysa_Arryn",
+    "name": "Lysa Arryn",
     "isDead": 1,
     "age": 34,
     "male": 0,
@@ -5752,12 +5180,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Lythene_Frey",
+    "name": "Lythene Frey",
     "isDead": 0,
     "age": 49,
     "male": 0,
@@ -5771,12 +5198,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Mace_Tyrell",
+    "name": "Mace Tyrell",
     "isDead": 0,
     "age": 44,
     "male": 1,
@@ -5790,12 +5216,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 4,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Maege_Mormont",
+    "name": "Maege Mormont",
     "isDead": 0,
     "age": 61,
     "male": 0,
@@ -5809,12 +5234,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 5,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Maegelle_Frey",
+    "name": "Maegelle Frey",
     "isDead": 0,
     "age": 51,
     "male": 0,
@@ -5828,12 +5252,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Maegor_I_Targaryen",
+    "name": "Maegor I Targaryen",
     "isDead": 1,
     "age": 36,
     "male": 1,
@@ -5847,12 +5270,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Maelor_Targaryen",
+    "name": "Maelor Targaryen",
     "isDead": 1,
     "age": 3,
     "male": 1,
@@ -5866,12 +5288,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Malwyn_Frey",
+    "name": "Malwyn Frey",
     "isDead": 0,
     "age": 16,
     "male": 1,
@@ -5885,9 +5306,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Marei",
@@ -5904,12 +5324,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Margaery_Tyrell",
+    "name": "Margaery Tyrell",
     "isDead": 0,
     "age": 17,
     "male": 0,
@@ -5923,12 +5342,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Marianne_Vance",
+    "name": "Marianne Vance",
     "isDead": 0,
     "age": 38,
     "male": 0,
@@ -5942,9 +5360,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Marillion",
@@ -5961,12 +5378,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Marissa_Frey",
+    "name": "Marissa Frey",
     "isDead": 0,
     "age": 14,
     "male": 0,
@@ -5980,12 +5396,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Maron_Greyjoy",
+    "name": "Maron Greyjoy",
     "isDead": 1,
     "age": 20,
     "male": 1,
@@ -5999,12 +5414,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Maron_Volmark",
+    "name": "Maron Volmark",
     "isDead": 0,
     "age": 17,
     "male": 1,
@@ -6018,12 +5432,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Matarys_Targaryen",
+    "name": "Matarys Targaryen",
     "isDead": 1,
     "age": 25,
     "male": 1,
@@ -6037,12 +5450,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Martyn_Lannister",
+    "name": "Martyn Lannister",
     "isDead": 0,
     "age": 15,
     "male": 1,
@@ -6056,12 +5468,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Mathis_Frey",
+    "name": "Mathis Frey",
     "isDead": 0,
     "age": 6,
     "male": 0,
@@ -6075,12 +5486,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Meera_Reed",
+    "name": "Meera Reed",
     "isDead": 0,
     "age": 17,
     "male": 0,
@@ -6094,28 +5504,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
-  },
-  {
-    "name": "Melissa_Blackwood",
-    "isDead": 0,
-    "age": 144,
-    "male": 0,
-    "House Stark": 0,
-    "House Lannister": 0,
-    "House Targaryen": 0,
-    "House Martell": 0,
-    "House Greyjoy": 0,
-    "House Frey": 0,
-    "Northmen": 0,
-    "Dornishmen": 0,
-    "hasTitles": 1,
-    "isMarried": 0,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Meribald",
@@ -6132,12 +5522,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Mors_Umber",
+    "name": "Mors Umber",
     "isDead": 0,
     "age": 65,
     "male": 1,
@@ -6151,9 +5540,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
     "name": "Mycah",
@@ -6170,12 +5558,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Naerys_Targaryen",
+    "name": "Naerys Targaryen",
     "isDead": 1,
     "age": 41,
     "male": 0,
@@ -6189,31 +5576,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 4,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Nettles",
-    "isDead": 0,
-    "age": 187,
-    "male": 0,
-    "House Stark": 0,
-    "House Lannister": 0,
-    "House Targaryen": 0,
-    "House Martell": 0,
-    "House Greyjoy": 0,
-    "House Frey": 0,
-    "Northmen": 0,
-    "Dornishmen": 0,
-    "hasTitles": 0,
-    "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
-  },
-  {
-    "name": "Osmund_Frey",
+    "name": "Osmund Frey",
     "isDead": 0,
     "age": 3,
     "male": 0,
@@ -6227,12 +5594,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Ottyn_Wythers",
+    "name": "Ottyn Wythers",
     "isDead": 1,
     "age": 69,
     "male": 1,
@@ -6246,12 +5612,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Patrek_Vance",
+    "name": "Patrek Vance",
     "isDead": 0,
     "age": 36,
     "male": 0,
@@ -6265,12 +5630,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Perra_Frey",
+    "name": "Perra Frey",
     "isDead": 0,
     "age": 6,
     "male": 0,
@@ -6284,12 +5648,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Quentyn_Martell",
+    "name": "Quentyn Martell",
     "isDead": 1,
     "age": 19,
     "male": 1,
@@ -6303,12 +5666,11 @@
     "Dornishmen": 1,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Rhaegar_Frey",
+    "name": "Rhaegar Frey",
     "isDead": 1,
     "age": 31,
     "male": 1,
@@ -6322,12 +5684,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Rhaelle_Targaryen",
+    "name": "Rhaelle Targaryen",
     "isDead": 1,
     "age": 17,
     "male": 0,
@@ -6341,12 +5702,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Rhaenys_Targaryen_(daughter_of_Rhaegar)",
+    "name": "Rhaenys Targaryen (daughter of Rhaegar)",
     "isDead": 1,
     "age": 3,
     "male": 0,
@@ -6360,12 +5720,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Robar_Royce",
+    "name": "Robar Royce",
     "isDead": 1,
     "age": 22,
     "male": 1,
@@ -6379,12 +5738,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Robert_Frey_(son_of_Raymund)",
+    "name": "Robert Frey (son of Raymund)",
     "isDead": 0,
     "age": 17,
     "male": 1,
@@ -6398,12 +5756,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Robin_Greyjoy",
+    "name": "Robin Greyjoy",
     "isDead": 0,
     "age": 31,
     "male": 1,
@@ -6417,12 +5774,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Robin_Ryger",
+    "name": "Robin Ryger",
     "isDead": 0,
     "age": 63,
     "male": 1,
@@ -6436,12 +5792,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Rodrik_Greyjoy",
+    "name": "Rodrik Greyjoy",
     "isDead": 1,
     "age": 21,
     "male": 1,
@@ -6455,12 +5810,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Rodwell_Stark",
+    "name": "Rodwell Stark",
     "isDead": 1,
     "age": 59,
     "male": 1,
@@ -6474,12 +5828,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Roose_Bolton",
+    "name": "Roose Bolton",
     "isDead": 0,
     "age": 40,
     "male": 1,
@@ -6493,12 +5846,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Ryman_Frey",
+    "name": "Ryman Frey",
     "isDead": 1,
     "age": 54,
     "male": 1,
@@ -6512,12 +5864,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Samwell_Tarly",
+    "name": "Samwell Tarly",
     "isDead": 0,
     "age": 17,
     "male": 1,
@@ -6531,9 +5882,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Shae",
@@ -6550,12 +5900,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Shireen_Baratheon",
+    "name": "Shireen Baratheon",
     "isDead": 0,
     "age": 11,
     "male": 0,
@@ -6569,9 +5918,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 1,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 1
   },
   {
     "name": "Stonesnake",
@@ -6588,12 +5936,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Taena_of_Myr",
+    "name": "Taena of Myr",
     "isDead": 0,
     "age": 24,
     "male": 0,
@@ -6607,9 +5954,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
     "name": "Timett",
@@ -6626,9 +5972,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Tomard",
@@ -6645,12 +5990,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Tyene_Sand",
+    "name": "Tyene Sand",
     "isDead": 0,
     "age": 24,
     "male": 0,
@@ -6664,12 +6008,11 @@
     "Dornishmen": 1,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Tyrion_Lannister",
+    "name": "Tyrion Lannister",
     "isDead": 0,
     "age": 27,
     "male": 1,
@@ -6683,12 +6026,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Tywin_Frey_(son_of_Raymund)",
+    "name": "Tywin Frey (son of Raymund)",
     "isDead": 0,
     "age": 1,
     "male": 1,
@@ -6702,12 +6044,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Vayon_Poole",
+    "name": "Vayon Poole",
     "isDead": 1,
     "age": 24,
     "male": 1,
@@ -6721,12 +6062,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Victarion_Greyjoy",
+    "name": "Victarion Greyjoy",
     "isDead": 0,
     "age": 43,
     "male": 1,
@@ -6740,12 +6080,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Viserys_Targaryen",
+    "name": "Viserys Targaryen",
     "isDead": 1,
     "age": 22,
     "male": 1,
@@ -6759,12 +6098,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Walda_Frey_(daughter_of_Walton)",
+    "name": "Walda Frey (daughter of Walton)",
     "isDead": 0,
     "age": 20,
     "male": 0,
@@ -6778,12 +6116,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Walder_Brax",
+    "name": "Walder Brax",
     "isDead": 0,
     "age": 7,
     "male": 0,
@@ -6797,12 +6134,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Walder_Frey",
+    "name": "Walder Frey",
     "isDead": 0,
     "age": 92,
     "male": 1,
@@ -6816,12 +6152,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 38,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Wendel_Manderly",
+    "name": "Wendel Manderly",
     "isDead": 1,
     "age": 46,
     "male": 1,
@@ -6835,12 +6170,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Whalen_Frey",
+    "name": "Whalen Frey",
     "isDead": 0,
     "age": 33,
     "male": 1,
@@ -6854,12 +6188,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Willem_Frey",
+    "name": "Willem Frey",
     "isDead": 0,
     "age": 11,
     "male": 0,
@@ -6873,12 +6206,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Zachery_Frey",
+    "name": "Zachery Frey",
     "isDead": 0,
     "age": 13,
     "male": 1,
@@ -6892,12 +6224,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Merrett_Frey",
+    "name": "Merrett Frey",
     "isDead": 1,
     "age": 38,
     "male": 1,
@@ -6911,12 +6242,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 6,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Mirri_Maz_Duur",
+    "name": "Mirri Maz Duur",
     "isDead": 1,
     "age": 42,
     "male": 0,
@@ -6930,12 +6260,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Moreo_Tumitis",
+    "name": "Moreo Tumitis",
     "isDead": 0,
     "age": 32,
     "male": 1,
@@ -6949,12 +6278,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Olyvar_Frey",
+    "name": "Olyvar Frey",
     "isDead": 0,
     "age": 19,
     "male": 1,
@@ -6968,12 +6296,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Perriane_Frey",
+    "name": "Perriane Frey",
     "isDead": 0,
     "age": 59,
     "male": 0,
@@ -6987,12 +6314,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Petyr_Baelish",
+    "name": "Petyr Baelish",
     "isDead": 0,
     "age": 32,
     "male": 1,
@@ -7006,9 +6332,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Pylos",
@@ -7025,12 +6350,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Quenton_Greyjoy",
+    "name": "Quenton Greyjoy",
     "isDead": 0,
     "age": 46,
     "male": 1,
@@ -7044,9 +6368,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Quort",
@@ -7063,12 +6386,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Ramsay_Snow",
+    "name": "Ramsay Snow",
     "isDead": 0,
     "age": 18,
     "male": 1,
@@ -7082,12 +6404,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Rhaegar_Targaryen",
+    "name": "Rhaegar Targaryen",
     "isDead": 1,
     "age": 24,
     "male": 1,
@@ -7101,31 +6422,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Rhaena_Targaryen_(daughter_of_Daemon)",
-    "isDead": 0,
-    "age": 184,
-    "male": 1,
-    "House Stark": 0,
-    "House Lannister": 0,
-    "House Targaryen": 1,
-    "House Martell": 0,
-    "House Greyjoy": 0,
-    "House Frey": 0,
-    "Northmen": 0,
-    "Dornishmen": 0,
-    "hasTitles": 1,
-    "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
-  },
-  {
-    "name": "Rickard_Wylde",
+    "name": "Rickard Wylde",
     "isDead": 0,
     "age": 5,
     "male": 0,
@@ -7139,12 +6440,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Robert_Brax",
+    "name": "Robert Brax",
     "isDead": 1,
     "age": 23,
     "male": 1,
@@ -7158,12 +6458,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Rohanne_Webber",
+    "name": "Rohanne Webber",
     "isDead": 1,
     "age": 45,
     "male": 0,
@@ -7177,12 +6476,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 6,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Rollam_Westerling",
+    "name": "Rollam Westerling",
     "isDead": 0,
     "age": 10,
     "male": 1,
@@ -7196,9 +6494,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Rosey",
@@ -7215,12 +6512,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Saera_Targaryen",
+    "name": "Saera Targaryen",
     "isDead": 1,
     "age": 34,
     "male": 0,
@@ -7234,12 +6530,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Sandor_Clegane",
+    "name": "Sandor Clegane",
     "isDead": 1,
     "age": 30,
     "male": 1,
@@ -7253,12 +6548,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Sarra_Frey",
+    "name": "Sarra Frey",
     "isDead": 0,
     "age": 15,
     "male": 0,
@@ -7272,12 +6566,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Shirei_Frey",
+    "name": "Shirei Frey",
     "isDead": 0,
     "age": 8,
     "male": 0,
@@ -7291,12 +6584,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Stannis_Baratheon",
+    "name": "Stannis Baratheon",
     "isDead": 0,
     "age": 36,
     "male": 1,
@@ -7310,12 +6602,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Steffon_Seaworth",
+    "name": "Steffon Seaworth",
     "isDead": 0,
     "age": 7,
     "male": 1,
@@ -7329,12 +6620,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Stevron_Frey",
+    "name": "Stevron Frey",
     "isDead": 1,
     "age": 66,
     "male": 1,
@@ -7348,12 +6638,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 4,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Tygett_Lannister",
+    "name": "Tygett Lannister",
     "isDead": 1,
     "age": 35,
     "male": 1,
@@ -7367,12 +6656,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Tyrion_Tanner",
+    "name": "Tyrion Tanner",
     "isDead": 0,
     "age": 0,
     "male": 1,
@@ -7386,12 +6674,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Tytos_Brax",
+    "name": "Tytos Brax",
     "isDead": 0,
     "age": 25,
     "male": 1,
@@ -7405,12 +6692,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Tywin_Lannister",
+    "name": "Tywin Lannister",
     "isDead": 1,
     "age": 58,
     "male": 1,
@@ -7424,12 +6710,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Utherydes_Wayn",
+    "name": "Utherydes Wayn",
     "isDead": 0,
     "age": 63,
     "male": 0,
@@ -7443,12 +6728,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Vardis_Egen",
+    "name": "Vardis Egen",
     "isDead": 1,
     "age": 49,
     "male": 1,
@@ -7462,12 +6746,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Victor_Tyrell",
+    "name": "Victor Tyrell",
     "isDead": 1,
     "age": 21,
     "male": 1,
@@ -7481,12 +6764,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Viserys_I_Targaryen",
+    "name": "Viserys I Targaryen",
     "isDead": 1,
     "age": 52,
     "male": 1,
@@ -7500,12 +6782,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 8,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Walda_Frey_(daughter_of_Merrett)",
+    "name": "Walda Frey (daughter of Merrett)",
     "isDead": 0,
     "age": 17,
     "male": 0,
@@ -7519,12 +6800,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Walder_Frey_(son_of_Jammos)",
+    "name": "Walder Frey (son of Jammos)",
     "isDead": 0,
     "age": 9,
     "male": 1,
@@ -7538,12 +6818,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Walder_Goodbrook",
+    "name": "Walder Goodbrook",
     "isDead": 0,
     "age": 10,
     "male": 1,
@@ -7557,12 +6836,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Willem_Lannister",
+    "name": "Willem Lannister",
     "isDead": 1,
     "age": 14,
     "male": 1,
@@ -7576,31 +6854,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Willow_(daughter_of_Aegon_IV)",
-    "isDead": 0,
-    "age": 143,
-    "male": 0,
-    "House Stark": 0,
-    "House Lannister": 0,
-    "House Targaryen": 0,
-    "House Martell": 0,
-    "House Greyjoy": 0,
-    "House Frey": 0,
-    "Northmen": 0,
-    "Dornishmen": 0,
-    "hasTitles": 1,
-    "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
-  },
-  {
-    "name": "Wylis_Manderly",
+    "name": "Wylis Manderly",
     "isDead": 0,
     "age": 48,
     "male": 1,
@@ -7614,12 +6872,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Wynafryd_Manderly",
+    "name": "Wynafryd Manderly",
     "isDead": 0,
     "age": 20,
     "male": 0,
@@ -7633,12 +6890,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Zia_Frey",
+    "name": "Zia Frey",
     "isDead": 0,
     "age": 15,
     "male": 0,
@@ -7652,12 +6908,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Melara_Hetherspoon",
+    "name": "Melara Hetherspoon",
     "isDead": 1,
     "age": 12,
     "male": 1,
@@ -7671,9 +6926,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Monster",
@@ -7690,12 +6944,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Morya_Frey",
+    "name": "Morya Frey",
     "isDead": 0,
     "age": 32,
     "male": 0,
@@ -7709,12 +6962,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Myranda_Royce",
+    "name": "Myranda Royce",
     "isDead": 0,
     "age": 21,
     "male": 0,
@@ -7728,12 +6980,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Obella_Sand",
+    "name": "Obella Sand",
     "isDead": 0,
     "age": 13,
     "male": 0,
@@ -7747,12 +6998,11 @@
     "Dornishmen": 1,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Perwyn_Frey",
+    "name": "Perwyn Frey",
     "isDead": 0,
     "age": 31,
     "male": 1,
@@ -7766,12 +7016,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Otto_Hightower",
+    "name": "Otto Hightower",
     "isDead": 1,
     "age": 55,
     "male": 1,
@@ -7785,9 +7034,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
     "name": "Penny",
@@ -7804,31 +7052,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Pate_(Standfast)",
-    "isDead": 0,
-    "age": 139,
-    "male": 1,
-    "House Stark": 0,
-    "House Lannister": 0,
-    "House Targaryen": 0,
-    "House Martell": 0,
-    "House Greyjoy": 0,
-    "House Frey": 0,
-    "Northmen": 0,
-    "Dornishmen": 0,
-    "hasTitles": 0,
-    "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
-  },
-  {
-    "name": "Renly_Baratheon",
+    "name": "Renly Baratheon",
     "isDead": 1,
     "age": 22,
     "male": 1,
@@ -7842,9 +7070,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Roone",
@@ -7861,12 +7088,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Rickard_Stark",
+    "name": "Rickard Stark",
     "isDead": 1,
     "age": 52,
     "male": 1,
@@ -7880,12 +7106,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 4,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Robert_Arryn",
+    "name": "Robert Arryn",
     "isDead": 0,
     "age": 8,
     "male": 1,
@@ -7899,12 +7124,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Shiera_Seastar",
+    "name": "Shiera Seastar",
     "isDead": 1,
     "age": 33,
     "male": 0,
@@ -7918,12 +7142,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Ryon_Allyrion",
+    "name": "Ryon Allyrion",
     "isDead": 0,
     "age": 37,
     "male": 1,
@@ -7937,9 +7160,8 @@
     "Dornishmen": 1,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
     "name": "Satin",
@@ -7956,12 +7178,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Sansa_Stark",
+    "name": "Sansa Stark",
     "isDead": 0,
     "age": 14,
     "male": 0,
@@ -7975,12 +7196,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Tytos_Lannister",
+    "name": "Tytos Lannister",
     "isDead": 1,
     "age": 47,
     "male": 1,
@@ -7994,12 +7214,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 5,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Tom_of_Sevenstreams",
+    "name": "Tom of Sevenstreams",
     "isDead": 0,
     "age": 60,
     "male": 1,
@@ -8013,12 +7232,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Walda_Rivers",
+    "name": "Walda Rivers",
     "isDead": 0,
     "age": 6,
     "male": 0,
@@ -8032,12 +7250,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Tybolt_Lannister",
+    "name": "Tybolt Lannister",
     "isDead": 1,
     "age": 16,
     "male": 1,
@@ -8051,9 +7268,8 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
     "name": "Tysha",
@@ -8070,31 +7286,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Uthor_Underleaf",
-    "isDead": 0,
-    "age": 119,
-    "male": 1,
-    "House Stark": 0,
-    "House Lannister": 0,
-    "House Targaryen": 0,
-    "House Martell": 0,
-    "House Greyjoy": 0,
-    "House Frey": 0,
-    "Northmen": 0,
-    "Dornishmen": 0,
-    "hasTitles": 1,
-    "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
-  },
-  {
-    "name": "Walder_Frey_(son_of_Merrett)",
+    "name": "Walder Frey (son of Merrett)",
     "isDead": 1,
     "age": 9,
     "male": 1,
@@ -8108,12 +7304,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Walda_Frey_(daughter_of_Edwyn)",
+    "name": "Walda Frey (daughter of Edwyn)",
     "isDead": 0,
     "age": 10,
     "male": 0,
@@ -8127,12 +7322,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Willas_Tyrell",
+    "name": "Willas Tyrell",
     "isDead": 0,
     "age": 30,
     "male": 1,
@@ -8146,12 +7340,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Wylla_Manderly",
+    "name": "Wylla Manderly",
     "isDead": 0,
     "age": 16,
     "male": 0,
@@ -8165,12 +7358,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Medgar_Tully",
+    "name": "Medgar Tully",
     "isDead": 1,
     "age": 21,
     "male": 1,
@@ -8184,12 +7376,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Megga_Tyrell",
+    "name": "Megga Tyrell",
     "isDead": 0,
     "age": 14,
     "male": 0,
@@ -8203,9 +7394,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Missandei",
@@ -8222,9 +7412,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Mushroom",
@@ -8241,12 +7430,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Mylenda_Caron",
+    "name": "Mylenda Caron",
     "isDead": 0,
     "age": 35,
     "male": 1,
@@ -8260,12 +7448,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Obara_Sand",
+    "name": "Obara Sand",
     "isDead": 0,
     "age": 29,
     "male": 0,
@@ -8279,12 +7466,11 @@
     "Dornishmen": 1,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Podrick_Payne",
+    "name": "Podrick Payne",
     "isDead": 0,
     "age": 14,
     "male": 1,
@@ -8298,12 +7484,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Petyr_Frey",
+    "name": "Petyr Frey",
     "isDead": 1,
     "age": 19,
     "male": 1,
@@ -8317,9 +7502,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
     "name": "Qyburn",
@@ -8336,12 +7520,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Robert_Brax_(son_of_Flement)",
+    "name": "Robert Brax (son of Flement)",
     "isDead": 0,
     "age": 10,
     "male": 1,
@@ -8355,12 +7538,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Rhaegel_Targaryen",
+    "name": "Rhaegel Targaryen",
     "isDead": 1,
     "age": 42,
     "male": 1,
@@ -8374,12 +7556,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Robb_Stark",
+    "name": "Robb Stark",
     "isDead": 1,
     "age": 16,
     "male": 1,
@@ -8393,31 +7574,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Rhaena_Targaryen_(daughter_of_Aegon_III)",
-    "isDead": 0,
-    "age": 153,
-    "male": 0,
-    "House Stark": 0,
-    "House Lannister": 0,
-    "House Targaryen": 1,
-    "House Martell": 0,
-    "House Greyjoy": 0,
-    "House Frey": 0,
-    "Northmen": 0,
-    "Dornishmen": 0,
-    "hasTitles": 1,
-    "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
-  },
-  {
-    "name": "Roslin_Frey",
+    "name": "Roslin Frey",
     "isDead": 0,
     "age": 18,
     "male": 1,
@@ -8431,12 +7592,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Rickon_Stark",
+    "name": "Rickon Stark",
     "isDead": 0,
     "age": 5,
     "male": 1,
@@ -8450,12 +7610,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Sandor_Frey",
+    "name": "Sandor Frey",
     "isDead": 0,
     "age": 13,
     "male": 0,
@@ -8469,12 +7628,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Serra_Frey",
+    "name": "Serra Frey",
     "isDead": 0,
     "age": 15,
     "male": 0,
@@ -8488,12 +7646,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Selwyn_Tarth",
+    "name": "Selwyn Tarth",
     "isDead": 0,
     "age": 55,
     "male": 1,
@@ -8507,12 +7664,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 4,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Ronnet_Connington",
+    "name": "Ronnet Connington",
     "isDead": 0,
     "age": 26,
     "male": 1,
@@ -8526,12 +7682,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Symond_Frey",
+    "name": "Symond Frey",
     "isDead": 1,
     "age": 48,
     "male": 1,
@@ -8545,12 +7700,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Stannis_Seaworth",
+    "name": "Stannis Seaworth",
     "isDead": 0,
     "age": 11,
     "male": 1,
@@ -8564,12 +7718,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Steffon_Baratheon",
+    "name": "Steffon Baratheon",
     "isDead": 1,
     "age": 32,
     "male": 1,
@@ -8583,12 +7736,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Trystane_Martell",
+    "name": "Trystane Martell",
     "isDead": 0,
     "age": 13,
     "male": 1,
@@ -8602,12 +7754,11 @@
     "Dornishmen": 1,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Theon_Greyjoy",
+    "name": "Theon Greyjoy",
     "isDead": 0,
     "age": 22,
     "male": 1,
@@ -8621,12 +7772,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Tybolt_Hetherspoon",
+    "name": "Tybolt Hetherspoon",
     "isDead": 0,
     "age": 48,
     "male": 1,
@@ -8640,12 +7790,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Tysane_Frey",
+    "name": "Tysane Frey",
     "isDead": 0,
     "age": 8,
     "male": 0,
@@ -8659,12 +7808,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Tommen_Baratheon",
+    "name": "Tommen Baratheon",
     "isDead": 0,
     "age": 9,
     "male": 1,
@@ -8678,9 +7826,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 1,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 1
   },
   {
     "name": "Waif",
@@ -8697,12 +7844,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Walder_Frey_(son_of_Ryman)",
+    "name": "Walder Frey (son of Ryman)",
     "isDead": 0,
     "age": 40,
     "male": 1,
@@ -8716,12 +7862,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Wallace_Waynwood",
+    "name": "Wallace Waynwood",
     "isDead": 0,
     "age": 22,
     "male": 1,
@@ -8735,12 +7880,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Tytos_Frey",
+    "name": "Tytos Frey",
     "isDead": 1,
     "age": 38,
     "male": 1,
@@ -8754,12 +7898,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Tyland_Lannister",
+    "name": "Tyland Lannister",
     "isDead": 1,
     "age": 44,
     "male": 1,
@@ -8773,12 +7916,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Urrigon_Greyjoy",
+    "name": "Urrigon Greyjoy",
     "isDead": 1,
     "age": 15,
     "male": 1,
@@ -8792,12 +7934,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Waymar_Royce",
+    "name": "Waymar Royce",
     "isDead": 1,
     "age": 19,
     "male": 1,
@@ -8811,12 +7952,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Walda_Frey_(daughter_of_Rhaegar)",
+    "name": "Walda Frey (daughter of Rhaegar)",
     "isDead": 0,
     "age": 12,
     "male": 0,
@@ -8830,12 +7970,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Viserys_II_Targaryen",
+    "name": "Viserys II Targaryen",
     "isDead": 1,
     "age": 50,
     "male": 1,
@@ -8849,12 +7988,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Waltyr_Frey",
+    "name": "Waltyr Frey",
     "isDead": 0,
     "age": 11,
     "male": 1,
@@ -8868,12 +8006,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Wynton_Stout",
+    "name": "Wynton Stout",
     "isDead": 0,
     "age": 81,
     "male": 1,
@@ -8887,12 +8024,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Walder_Haigh",
+    "name": "Walder Haigh",
     "isDead": 0,
     "age": 6,
     "male": 0,
@@ -8906,12 +8042,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Willamen_Frey",
+    "name": "Willamen Frey",
     "isDead": 0,
     "age": 28,
     "male": 1,
@@ -8925,12 +8060,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Young_Henly",
+    "name": "Young Henly",
     "isDead": 1,
     "age": 59,
     "male": 1,
@@ -8944,12 +8078,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Merianne_Frey",
+    "name": "Merianne Frey",
     "isDead": 0,
     "age": 12,
     "male": 0,
@@ -8963,12 +8096,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Myrcella_Baratheon",
+    "name": "Myrcella Baratheon",
     "isDead": 0,
     "age": 10,
     "male": 0,
@@ -8982,12 +8114,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 1,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 1
   },
   {
-    "name": "Monterys_Velaryon",
+    "name": "Monterys Velaryon",
     "isDead": 0,
     "age": 7,
     "male": 1,
@@ -9001,12 +8132,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Mors_Martell_(brother_of_Doran)",
+    "name": "Mors Martell (brother of Doran)",
     "isDead": 1,
     "age": 0,
     "male": 1,
@@ -9020,12 +8150,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Old_Henly",
+    "name": "Old Henly",
     "isDead": 1,
     "age": 79,
     "male": 1,
@@ -9039,12 +8168,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Oberyn_Martell",
+    "name": "Oberyn Martell",
     "isDead": 1,
     "age": 43,
     "male": 1,
@@ -9058,12 +8186,11 @@
     "Dornishmen": 1,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 8,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Mya_Stone",
+    "name": "Mya Stone",
     "isDead": 0,
     "age": 21,
     "male": 0,
@@ -9077,12 +8204,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Nymeria_Sand",
+    "name": "Nymeria Sand",
     "isDead": 0,
     "age": 26,
     "male": 0,
@@ -9096,9 +8222,8 @@
     "Dornishmen": 1,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Pycelle",
@@ -9115,12 +8240,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Renly_Norcross",
+    "name": "Renly Norcross",
     "isDead": 0,
     "age": 4,
     "male": 1,
@@ -9134,12 +8258,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Raymund_Frey",
+    "name": "Raymund Frey",
     "isDead": 0,
     "age": 36,
     "male": 1,
@@ -9153,12 +8276,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 7,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Rhae_Targaryen",
+    "name": "Rhae Targaryen",
     "isDead": 0,
     "age": 99,
     "male": 0,
@@ -9172,12 +8294,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Rhaenys_Targaryen_(daughter_of_Aemon)",
+    "name": "Rhaenys Targaryen (daughter of Aemon)",
     "isDead": 1,
     "age": 55,
     "male": 0,
@@ -9191,12 +8312,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Rhaella_Targaryen",
+    "name": "Rhaella Targaryen",
     "isDead": 1,
     "age": 39,
     "male": 1,
@@ -9210,12 +8330,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 8,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Ryella_Frey",
+    "name": "Ryella Frey",
     "isDead": 0,
     "age": 6,
     "male": 0,
@@ -9229,12 +8348,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Sarella_Sand",
+    "name": "Sarella Sand",
     "isDead": 0,
     "age": 20,
     "male": 0,
@@ -9248,12 +8366,11 @@
     "Dornishmen": 1,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Stafford_Lannister",
+    "name": "Stafford Lannister",
     "isDead": 1,
     "age": 54,
     "male": 1,
@@ -9267,12 +8384,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Steffon_Frey",
+    "name": "Steffon Frey",
     "isDead": 0,
     "age": 37,
     "male": 0,
@@ -9286,12 +8402,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Sylva_Santagar",
+    "name": "Sylva Santagar",
     "isDead": 0,
     "age": 24,
     "male": 0,
@@ -9305,12 +8420,11 @@
     "Dornishmen": 1,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Tyrek_Lannister",
+    "name": "Tyrek Lannister",
     "isDead": 1,
     "age": 13,
     "male": 1,
@@ -9324,12 +8438,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Valarr_Targaryen",
+    "name": "Valarr Targaryen",
     "isDead": 1,
     "age": 26,
     "male": 1,
@@ -9343,12 +8456,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Tion_Frey",
+    "name": "Tion Frey",
     "isDead": 1,
     "age": 20,
     "male": 1,
@@ -9362,12 +8474,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Walder_Vance",
+    "name": "Walder Vance",
     "isDead": 0,
     "age": 37,
     "male": 1,
@@ -9381,12 +8492,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Tywin_Frey",
+    "name": "Tywin Frey",
     "isDead": 0,
     "age": 13,
     "male": 1,
@@ -9400,31 +8510,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Viserys_Plumm",
-    "isDead": 0,
-    "age": 124,
-    "male": 0,
-    "House Stark": 0,
-    "House Lannister": 0,
-    "House Targaryen": 0,
-    "House Martell": 0,
-    "House Greyjoy": 0,
-    "House Frey": 0,
-    "Northmen": 0,
-    "Dornishmen": 0,
-    "hasTitles": 1,
-    "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
-  },
-  {
-    "name": "Tyta_Frey",
+    "name": "Tyta Frey",
     "isDead": 0,
     "age": 31,
     "male": 0,
@@ -9438,12 +8528,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Walder_Frey_(son_of_Emmon)",
+    "name": "Walder Frey (son of Emmon)",
     "isDead": 0,
     "age": 15,
     "male": 1,
@@ -9457,12 +8546,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Wyman_Manderly",
+    "name": "Wyman Manderly",
     "isDead": 0,
     "age": 61,
     "male": 1,
@@ -9476,12 +8564,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 0,
-    "numChildren": 2,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Victaria_Tyrell",
+    "name": "Victaria Tyrell",
     "isDead": 0,
     "age": 22,
     "male": 0,
@@ -9495,12 +8582,11 @@
     "Dornishmen": 0,
     "hasTitles": 1,
     "isMarried": 1,
-    "numChildren": 1,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
-    "name": "Wex_Pyke",
+    "name": "Wex Pyke",
     "isDead": 0,
     "age": 14,
     "male": 1,
@@ -9514,12 +8600,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Walda_Frey_(daughter_of_Lothar)",
+    "name": "Walda Frey (daughter of Lothar)",
     "isDead": 0,
     "age": 6,
     "male": 0,
@@ -9533,12 +8618,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Walda_Rivers_(daughter_of_Aemon)",
+    "name": "Walda Rivers (daughter of Aemon)",
     "isDead": 0,
     "age": 5,
     "male": 0,
@@ -9552,12 +8636,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Walton_Frey",
+    "name": "Walton Frey",
     "isDead": 0,
     "age": 51,
     "male": 1,
@@ -9571,9 +8654,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 1,
-    "numChildren": 3,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 1,
+    "isHeir": 0
   },
   {
     "name": "Weasel",
@@ -9590,12 +8672,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Wendel_Frey",
+    "name": "Wendel Frey",
     "isDead": 0,
     "age": 14,
     "male": 1,
@@ -9609,12 +8690,11 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
-    "name": "Willow_Heddle",
+    "name": "Willow Heddle",
     "isDead": 0,
     "age": 11,
     "male": 0,
@@ -9628,9 +8708,8 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   },
   {
     "name": "Ygritte",
@@ -9647,8 +8726,7 @@
     "Dornishmen": 0,
     "hasTitles": 0,
     "isMarried": 0,
-    "numChildren": 0,
-    "isHeir": 0,
-    "isMajor": 0
+    "hasChildren": 0,
+    "isHeir": 0
   }
 ]

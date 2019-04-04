@@ -113,12 +113,12 @@ for i in range(0, num_characters):
   ch["livedTo"] = df["livedTo"].astype(float)[i]
   survFn= survivalParams(df_num[i, :]).astype(float) #take the i-th row of df_num for the character's parameters
   fitAge50 = fitAge_greater_equal(survFn, 0.5).astype(float)
-  ch["predictedSurvivalAge"] = fitAge50.tolist()
+  #ch["predictedSurvivalAge"] = fitAge50.tolist()
   #ch["likelihoodSeason8"] = (np.sum(np.greater_equal(fitAge50, 8).astype(float)))/(n_samples*num_chains)
   confidence = 0.8
-  ch["confIntervalLower"] = fitAge_greater_equal(survFn, confidence).astype(float).tolist()
-  ch["confIntervalHigher"] = fitAge_greater_equal(survFn, 1-confidence).astype(float).tolist()
-  ch["confIntervalConfidence"] = confidence
+  #ch["confIntervalLower"] = fitAge_greater_equal(survFn, confidence).astype(float).tolist()
+  #ch["confIntervalHigher"] = fitAge_greater_equal(survFn, 1-confidence).astype(float).tolist()
+  #ch["confIntervalConfidence"] = confidence
   ch["survivalFunctionMean"] = survFn.mean(axis=0).tolist()
   predictions["characters"].append(ch)
   

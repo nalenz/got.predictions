@@ -19,10 +19,10 @@ function reformatOutput(predictionObject, callback) {
     
     let newChar = {};
     newChar.age = c.age;
-    newChar.predictedSurvivalAge = c.predictedSurvivalAge;
-    newChar.confIntervalLower = c.confIntervalLower;
-    newChar.confIntervalHigher = c.confIntervalHigher;
-    newChar.confIntervalConfidence = c.confIntervalConfidence;
+    //newChar.predictedSurvivalAge = c.predictedSurvivalAge;
+    //newChar.confIntervalLower = c.confIntervalLower;
+    //newChar.confIntervalHigher = c.confIntervalHigher;
+    //newChar.confIntervalConfidence = c.confIntervalConfidence;
     newChar.survivalFunctionMean = c.survivalFunctionMean;
     
     onlyAlive.characters[c.name] = newChar;

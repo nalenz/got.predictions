@@ -126,7 +126,7 @@ function processAge(srcChar, destChar) {
     destChar.livedTo = srcChar.death - config.GOT_SHOW_BEGIN;
   } else {
     // alive => lives on to the CURRENT_YEAR
-    destChar.livedTo = config.GOT_CURRENT_YEAR - config.GOT_SHOW_BEGIN;
+    destChar.livedTo = config.GOT_CURRENT_YEAR_SHOW - config.GOT_SHOW_BEGIN;
   }
 }
 
