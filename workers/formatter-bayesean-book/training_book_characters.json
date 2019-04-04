@@ -1,6 +1,6 @@
 [
   {
-    "name": "Addam Osgrey",
+    "name": "Addam_Osgrey",
     "isDead": 1,
     "age": 13,
     "male": 1,
@@ -19,7 +19,7 @@
     "isMajor": 0
   },
   {
-    "name": "Addam Velaryon",
+    "name": "Addam_Velaryon",
     "isDead": 1,
     "age": 16,
     "male": 1,
@@ -38,7 +38,7 @@
     "isMajor": 0
   },
   {
-    "name": "Aegon Blackfyre",
+    "name": "Aegon_Blackfyre",
     "isDead": 1,
     "age": 12,
     "male": 1,
@@ -57,7 +57,7 @@
     "isMajor": 0
   },
   {
-    "name": "Aegon Frey (son of Stevron)",
+    "name": "Aegon_Frey_(son_of_Stevron)",
     "isDead": 1,
     "age": 50,
     "male": 1,
@@ -76,7 +76,7 @@
     "isMajor": 0
   },
   {
-    "name": "Aegon Frey (son of Aenys)",
+    "name": "Aegon_Frey_(son_of_Aenys)",
     "isDead": 0,
     "age": 47,
     "male": 1,
@@ -95,7 +95,7 @@
     "isMajor": 0
   },
   {
-    "name": "Aegon I Targaryen",
+    "name": "Aegon_I_Targaryen",
     "isDead": 1,
     "age": 64,
     "male": 1,
@@ -114,7 +114,7 @@
     "isMajor": 0
   },
   {
-    "name": "Aegon II Targaryen",
+    "name": "Aegon_II_Targaryen",
     "isDead": 1,
     "age": 24,
     "male": 1,
@@ -133,7 +133,7 @@
     "isMajor": 0
   },
   {
-    "name": "Aegon III Targaryen",
+    "name": "Aegon_III_Targaryen",
     "isDead": 1,
     "age": 37,
     "male": 1,
@@ -152,7 +152,7 @@
     "isMajor": 0
   },
   {
-    "name": "Aegon IV Targaryen",
+    "name": "Aegon_IV_Targaryen",
     "isDead": 1,
     "age": 49,
     "male": 1,
@@ -171,7 +171,7 @@
     "isMajor": 0
   },
   {
-    "name": "Aegon V Targaryen",
+    "name": "Aegon_V_Targaryen",
     "isDead": 1,
     "age": 59,
     "male": 1,
@@ -190,7 +190,7 @@
     "isMajor": 0
   },
   {
-    "name": "Aegon Targaryen (son of Rhaegar)",
+    "name": "Aegon_Targaryen_(son_of_Rhaegar)",
     "isDead": 1,
     "age": 2,
     "male": 1,
@@ -209,7 +209,7 @@
     "isMajor": 0
   },
   {
-    "name": "Aegon Targaryen (son of Aenys I)",
+    "name": "Aegon_Targaryen_(son_of_Aenys_I)",
     "isDead": 1,
     "age": 17,
     "male": 1,
@@ -228,7 +228,7 @@
     "isMajor": 0
   },
   {
-    "name": "Aegon Targaryen (son of Baelon)",
+    "name": "Aegon_Targaryen_(son_of_Baelon)",
     "isDead": 1,
     "age": 1,
     "male": 1,
@@ -247,7 +247,7 @@
     "isMajor": 0
   },
   {
-    "name": "Aegon Targaryen (son of Jaehaerys I)",
+    "name": "Aegon_Targaryen_(son_of_Jaehaerys_I)",
     "isDead": 1,
     "age": 0,
     "male": 1,
@@ -266,7 +266,7 @@
     "isMajor": 0
   },
   {
-    "name": "Aegor Rivers",
+    "name": "Aegor_Rivers",
     "isDead": 1,
     "age": 69,
     "male": 1,
@@ -285,7 +285,7 @@
     "isMajor": 0
   },
   {
-    "name": "Aemma Arryn",
+    "name": "Aemma_Arryn",
     "isDead": 1,
     "age": 23,
     "male": 0,
@@ -304,7 +304,7 @@
     "isMajor": 0
   },
   {
-    "name": "Aemon Blackfyre",
+    "name": "Aemon_Blackfyre",
     "isDead": 1,
     "age": 12,
     "male": 1,
@@ -323,7 +323,7 @@
     "isMajor": 0
   },
   {
-    "name": "Aemond Targaryen",
+    "name": "Aemond_Targaryen",
     "isDead": 1,
     "age": 20,
     "male": 1,
@@ -342,7 +342,7 @@
     "isMajor": 0
   },
   {
-    "name": "Aenys Frey",
+    "name": "Aenys_Frey",
     "isDead": 1,
     "age": 60,
     "male": 1,
@@ -361,7 +361,7 @@
     "isMajor": 0
   },
   {
-    "name": "Aenys I Targaryen",
+    "name": "Aenys_I_Targaryen",
     "isDead": 1,
     "age": 35,
     "male": 1,
@@ -380,7 +380,7 @@
     "isMajor": 0
   },
   {
-    "name": "Aerion Targaryen",
+    "name": "Aerion_Targaryen",
     "isDead": 1,
     "age": 41,
     "male": 1,
@@ -399,7 +399,7 @@
     "isMajor": 0
   },
   {
-    "name": "Aeron Greyjoy",
+    "name": "Aeron_Greyjoy",
     "isDead": 0,
     "age": 31,
     "male": 1,
@@ -418,7 +418,7 @@
     "isMajor": 0
   },
   {
-    "name": "Aerys I Targaryen",
+    "name": "Aerys_I_Targaryen",
     "isDead": 1,
     "age": 49,
     "male": 1,
@@ -437,7 +437,7 @@
     "isMajor": 0
   },
   {
-    "name": "Aerys II Targaryen",
+    "name": "Aerys_II_Targaryen",
     "isDead": 1,
     "age": 39,
     "male": 1,
@@ -475,7 +475,7 @@
     "isMajor": 0
   },
   {
-    "name": "Alerie Hightower",
+    "name": "Alerie_Hightower",
     "isDead": 0,
     "age": 43,
     "male": 0,
@@ -494,7 +494,7 @@
     "isMajor": 0
   },
   {
-    "name": "Alesander Frey",
+    "name": "Alesander_Frey",
     "isDead": 0,
     "age": 35,
     "male": 0,
@@ -513,7 +513,7 @@
     "isMajor": 0
   },
   {
-    "name": "Alester Norcross",
+    "name": "Alester_Norcross",
     "isDead": 0,
     "age": 10,
     "male": 1,
@@ -532,7 +532,7 @@
     "isMajor": 0
   },
   {
-    "name": "Alicent Hightower",
+    "name": "Alicent_Hightower",
     "isDead": 1,
     "age": 45,
     "male": 0,
@@ -551,7 +551,7 @@
     "isMajor": 0
   },
   {
-    "name": "Alla Tyrell",
+    "name": "Alla_Tyrell",
     "isDead": 0,
     "age": 14,
     "male": 0,
@@ -570,7 +570,7 @@
     "isMajor": 0
   },
   {
-    "name": "Alliser Thorne",
+    "name": "Alliser_Thorne",
     "isDead": 0,
     "age": 53,
     "male": 1,
@@ -589,7 +589,7 @@
     "isMajor": 0
   },
   {
-    "name": "Alyn Cockshaw",
+    "name": "Alyn_Cockshaw",
     "isDead": 1,
     "age": 16,
     "male": 1,
@@ -608,7 +608,7 @@
     "isMajor": 0
   },
   {
-    "name": "Alyn Frey",
+    "name": "Alyn_Frey",
     "isDead": 0,
     "age": 5,
     "male": 1,
@@ -627,7 +627,7 @@
     "isMajor": 0
   },
   {
-    "name": "Alyn Haigh",
+    "name": "Alyn_Haigh",
     "isDead": 0,
     "age": 44,
     "male": 1,
@@ -646,7 +646,7 @@
     "isMajor": 0
   },
   {
-    "name": "Alyn Velaryon",
+    "name": "Alyn_Velaryon",
     "isDead": 1,
     "age": 56,
     "male": 1,
@@ -665,7 +665,7 @@
     "isMajor": 0
   },
   {
-    "name": "Alys Arryn",
+    "name": "Alys_Arryn",
     "isDead": 0,
     "age": 82,
     "male": 0,
@@ -684,7 +684,7 @@
     "isMajor": 0
   },
   {
-    "name": "Alys Karstark",
+    "name": "Alys_Karstark",
     "isDead": 0,
     "age": 16,
     "male": 0,
@@ -703,7 +703,7 @@
     "isMajor": 0
   },
   {
-    "name": "Alysane Mormont",
+    "name": "Alysane_Mormont",
     "isDead": 0,
     "age": 27,
     "male": 0,
@@ -722,7 +722,7 @@
     "isMajor": 0
   },
   {
-    "name": "Alysanne Bulwer",
+    "name": "Alysanne_Bulwer",
     "isDead": 0,
     "age": 9,
     "male": 0,
@@ -741,7 +741,7 @@
     "isMajor": 0
   },
   {
-    "name": "Alysanne Osgrey",
+    "name": "Alysanne_Osgrey",
     "isDead": 1,
     "age": 21,
     "male": 0,
@@ -760,7 +760,7 @@
     "isMajor": 0
   },
   {
-    "name": "Alysanne Targaryen",
+    "name": "Alysanne_Targaryen",
     "isDead": 1,
     "age": 64,
     "male": 0,
@@ -779,7 +779,7 @@
     "isMajor": 0
   },
   {
-    "name": "Alyssa Blackwood",
+    "name": "Alyssa_Blackwood",
     "isDead": 1,
     "age": 16,
     "male": 0,
@@ -798,7 +798,7 @@
     "isMajor": 0
   },
   {
-    "name": "Alyx Frey",
+    "name": "Alyx_Frey",
     "isDead": 0,
     "age": 18,
     "male": 0,
@@ -817,7 +817,7 @@
     "isMajor": 0
   },
   {
-    "name": "Amarei Crakehall",
+    "name": "Amarei_Crakehall",
     "isDead": 1,
     "age": 19,
     "male": 0,
@@ -836,7 +836,7 @@
     "isMajor": 0
   },
   {
-    "name": "Ambrose Butterwell",
+    "name": "Ambrose_Butterwell",
     "isDead": 0,
     "age": 139,
     "male": 1,
@@ -855,7 +855,7 @@
     "isMajor": 0
   },
   {
-    "name": "Amerei Frey",
+    "name": "Amerei_Frey",
     "isDead": 0,
     "age": 18,
     "male": 0,
@@ -874,7 +874,7 @@
     "isMajor": 0
   },
   {
-    "name": "Andros Brax",
+    "name": "Andros_Brax",
     "isDead": 1,
     "age": 36,
     "male": 1,
@@ -893,7 +893,7 @@
     "isMajor": 0
   },
   {
-    "name": "Androw Frey",
+    "name": "Androw_Frey",
     "isDead": 0,
     "age": 5,
     "male": 1,
@@ -912,7 +912,7 @@
     "isMajor": 0
   },
   {
-    "name": "Ardrian Celtigar",
+    "name": "Ardrian_Celtigar",
     "isDead": 0,
     "age": 71,
     "male": 1,
@@ -931,7 +931,7 @@
     "isMajor": 0
   },
   {
-    "name": "Areo Hotah",
+    "name": "Areo_Hotah",
     "isDead": 0,
     "age": 43,
     "male": 1,
@@ -950,7 +950,7 @@
     "isMajor": 0
   },
   {
-    "name": "Arianne Martell",
+    "name": "Arianne_Martell",
     "isDead": 0,
     "age": 24,
     "male": 0,
@@ -969,7 +969,7 @@
     "isMajor": 0
   },
   {
-    "name": "Arlan of Pennytree",
+    "name": "Arlan_of_Pennytree",
     "isDead": 1,
     "age": 60,
     "male": 1,
@@ -988,7 +988,7 @@
     "isMajor": 0
   },
   {
-    "name": "Arthor Karstark",
+    "name": "Arthor_Karstark",
     "isDead": 0,
     "age": 51,
     "male": 1,
@@ -1007,7 +1007,7 @@
     "isMajor": 0
   },
   {
-    "name": "Arthur Dayne",
+    "name": "Arthur_Dayne",
     "isDead": 1,
     "age": 23,
     "male": 1,
@@ -1026,7 +1026,7 @@
     "isMajor": 0
   },
   {
-    "name": "Arwood Frey",
+    "name": "Arwood_Frey",
     "isDead": 0,
     "age": 37,
     "male": 1,
@@ -1045,7 +1045,7 @@
     "isMajor": 0
   },
   {
-    "name": "Arwyn Frey",
+    "name": "Arwyn_Frey",
     "isDead": 0,
     "age": 15,
     "male": 0,
@@ -1064,7 +1064,7 @@
     "isMajor": 0
   },
   {
-    "name": "Arya Stark",
+    "name": "Arya_Stark",
     "isDead": 0,
     "age": 11,
     "male": 0,
@@ -1083,7 +1083,7 @@
     "isMajor": 0
   },
   {
-    "name": "Asha Greyjoy",
+    "name": "Asha_Greyjoy",
     "isDead": 0,
     "age": 25,
     "male": 0,
@@ -1102,7 +1102,7 @@
     "isMajor": 0
   },
   {
-    "name": "Ashara Dayne",
+    "name": "Ashara_Dayne",
     "isDead": 1,
     "age": 23,
     "male": 0,
@@ -1121,7 +1121,7 @@
     "isMajor": 0
   },
   {
-    "name": "Aurane Waters",
+    "name": "Aurane_Waters",
     "isDead": 0,
     "age": 23,
     "male": 1,
@@ -1140,7 +1140,7 @@
     "isMajor": 0
   },
   {
-    "name": "Baela Targaryen",
+    "name": "Baela_Targaryen",
     "isDead": 0,
     "age": 184,
     "male": 0,
@@ -1159,7 +1159,7 @@
     "isMajor": 0
   },
   {
-    "name": "Baelon Targaryen (son of Viserys I)",
+    "name": "Baelon_Targaryen_(son_of_Viserys_I)",
     "isDead": 1,
     "age": 0,
     "male": 1,
@@ -1178,7 +1178,7 @@
     "isMajor": 0
   },
   {
-    "name": "Baelor I Targaryen",
+    "name": "Baelor_I_Targaryen",
     "isDead": 1,
     "age": 27,
     "male": 1,
@@ -1197,7 +1197,7 @@
     "isMajor": 0
   },
   {
-    "name": "Baelor Targaryen (son of Daeron II)",
+    "name": "Baelor_Targaryen_(son_of_Daeron_II)",
     "isDead": 1,
     "age": 39,
     "male": 1,
@@ -1216,7 +1216,7 @@
     "isMajor": 0
   },
   {
-    "name": "Balon Greyjoy",
+    "name": "Balon_Greyjoy",
     "isDead": 1,
     "age": 44,
     "male": 1,
@@ -1235,7 +1235,7 @@
     "isMajor": 0
   },
   {
-    "name": "Barba Bracken",
+    "name": "Barba_Bracken",
     "isDead": 0,
     "age": 145,
     "male": 0,
@@ -1273,7 +1273,7 @@
     "isMajor": 0
   },
   {
-    "name": "Barristan Selmy",
+    "name": "Barristan_Selmy",
     "isDead": 0,
     "age": 64,
     "male": 1,
@@ -1292,7 +1292,7 @@
     "isMajor": 0
   },
   {
-    "name": "Barthogan Stark",
+    "name": "Barthogan_Stark",
     "isDead": 1,
     "age": 70,
     "male": 1,
@@ -1368,7 +1368,7 @@
     "isMajor": 0
   },
   {
-    "name": "Benfred Tallhart",
+    "name": "Benfred_Tallhart",
     "isDead": 1,
     "age": 20,
     "male": 1,
@@ -1387,7 +1387,7 @@
     "isMajor": 0
   },
   {
-    "name": "Benfrey Frey",
+    "name": "Benfrey_Frey",
     "isDead": 1,
     "age": 28,
     "male": 1,
@@ -1406,7 +1406,7 @@
     "isMajor": 0
   },
   {
-    "name": "Benjen Stark",
+    "name": "Benjen_Stark",
     "isDead": 0,
     "age": 33,
     "male": 1,
@@ -1425,7 +1425,7 @@
     "isMajor": 0
   },
   {
-    "name": "Beren Tallhart",
+    "name": "Beren_Tallhart",
     "isDead": 0,
     "age": 11,
     "male": 1,
@@ -1444,7 +1444,7 @@
     "isMajor": 0
   },
   {
-    "name": "Beric Dondarrion",
+    "name": "Beric_Dondarrion",
     "isDead": 1,
     "age": 23,
     "male": 1,
@@ -1463,7 +1463,7 @@
     "isMajor": 0
   },
   {
-    "name": "Beron Stark",
+    "name": "Beron_Stark",
     "isDead": 1,
     "age": 72,
     "male": 1,
@@ -1482,7 +1482,7 @@
     "isMajor": 0
   },
   {
-    "name": "Beth Cassel",
+    "name": "Beth_Cassel",
     "isDead": 0,
     "age": 11,
     "male": 0,
@@ -1501,7 +1501,7 @@
     "isMajor": 0
   },
   {
-    "name": "Bethany Bracken",
+    "name": "Bethany_Bracken",
     "isDead": 1,
     "age": 22,
     "male": 0,
@@ -1520,7 +1520,7 @@
     "isMajor": 0
   },
   {
-    "name": "Bethany Rosby",
+    "name": "Bethany_Rosby",
     "isDead": 1,
     "age": 17,
     "male": 0,
@@ -1558,7 +1558,7 @@
     "isMajor": 0
   },
   {
-    "name": "Bradamar Frey",
+    "name": "Bradamar_Frey",
     "isDead": 0,
     "age": 11,
     "male": 1,
@@ -1577,7 +1577,7 @@
     "isMajor": 0
   },
   {
-    "name": "Brandon Stark",
+    "name": "Brandon_Stark",
     "isDead": 1,
     "age": 20,
     "male": 1,
@@ -1596,7 +1596,7 @@
     "isMajor": 0
   },
   {
-    "name": "Brandon Stark (son of Cregan)",
+    "name": "Brandon_Stark_(son_of_Cregan)",
     "isDead": 1,
     "age": 72,
     "male": 1,
@@ -1615,7 +1615,7 @@
     "isMajor": 0
   },
   {
-    "name": "Bran Stark",
+    "name": "Bran_Stark",
     "isDead": 0,
     "age": 10,
     "male": 1,
@@ -1634,7 +1634,7 @@
     "isMajor": 0
   },
   {
-    "name": "Brandon Tallhart",
+    "name": "Brandon_Tallhart",
     "isDead": 0,
     "age": 16,
     "male": 1,
@@ -1672,7 +1672,7 @@
     "isMajor": 0
   },
   {
-    "name": "Bryan Frey",
+    "name": "Bryan_Frey",
     "isDead": 0,
     "age": 19,
     "male": 1,
@@ -1691,7 +1691,7 @@
     "isMajor": 0
   },
   {
-    "name": "Bryce Caron",
+    "name": "Bryce_Caron",
     "isDead": 1,
     "age": 23,
     "male": 1,
@@ -1729,7 +1729,7 @@
     "isMajor": 0
   },
   {
-    "name": "Brynden Rivers",
+    "name": "Brynden_Rivers",
     "isDead": 1,
     "age": 77,
     "male": 1,
@@ -1748,7 +1748,7 @@
     "isMajor": 0
   },
   {
-    "name": "Brynden Tully",
+    "name": "Brynden_Tully",
     "isDead": 0,
     "age": 57,
     "male": 1,
@@ -1767,7 +1767,7 @@
     "isMajor": 0
   },
   {
-    "name": "Catelyn Stark",
+    "name": "Catelyn_Stark",
     "isDead": 1,
     "age": 35,
     "male": 0,
@@ -1786,7 +1786,7 @@
     "isMajor": 0
   },
   {
-    "name": "Cersei Frey",
+    "name": "Cersei_Frey",
     "isDead": 0,
     "age": 8,
     "male": 0,
@@ -1805,7 +1805,7 @@
     "isMajor": 0
   },
   {
-    "name": "Cersei Lannister",
+    "name": "Cersei_Lannister",
     "isDead": 0,
     "age": 34,
     "male": 0,
@@ -1843,7 +1843,7 @@
     "isMajor": 0
   },
   {
-    "name": "Cleos Frey",
+    "name": "Cleos_Frey",
     "isDead": 1,
     "age": 41,
     "male": 1,
@@ -1862,7 +1862,7 @@
     "isMajor": 0
   },
   {
-    "name": "Cley Cerwyn",
+    "name": "Cley_Cerwyn",
     "isDead": 1,
     "age": 15,
     "male": 1,
@@ -1900,7 +1900,7 @@
     "isMajor": 0
   },
   {
-    "name": "Colmar Frey",
+    "name": "Colmar_Frey",
     "isDead": 0,
     "age": 12,
     "male": 1,
@@ -1919,7 +1919,7 @@
     "isMajor": 0
   },
   {
-    "name": "Corlys Velaryon",
+    "name": "Corlys_Velaryon",
     "isDead": 1,
     "age": 79,
     "male": 1,
@@ -1938,7 +1938,7 @@
     "isMajor": 0
   },
   {
-    "name": "Cregan Karstark",
+    "name": "Cregan_Karstark",
     "isDead": 0,
     "age": 51,
     "male": 1,
@@ -1957,7 +1957,7 @@
     "isMajor": 0
   },
   {
-    "name": "Cregan Stark",
+    "name": "Cregan_Stark",
     "isDead": 1,
     "age": 101,
     "male": 1,
@@ -1976,7 +1976,7 @@
     "isMajor": 0
   },
   {
-    "name": "Creighton Longbough",
+    "name": "Creighton_Longbough",
     "isDead": 0,
     "age": 60,
     "male": 1,
@@ -2014,7 +2014,7 @@
     "isMajor": 0
   },
   {
-    "name": "Criston Cole",
+    "name": "Criston_Cole",
     "isDead": 1,
     "age": 48,
     "male": 1,
@@ -2033,7 +2033,7 @@
     "isMajor": 0
   },
   {
-    "name": "Cynthea Frey",
+    "name": "Cynthea_Frey",
     "isDead": 0,
     "age": 10,
     "male": 0,
@@ -2052,7 +2052,7 @@
     "isMajor": 0
   },
   {
-    "name": "Cyrenna Swann",
+    "name": "Cyrenna_Swann",
     "isDead": 1,
     "age": 13,
     "male": 1,
@@ -2071,7 +2071,7 @@
     "isMajor": 0
   },
   {
-    "name": "Dacey Mormont",
+    "name": "Dacey_Mormont",
     "isDead": 1,
     "age": 47,
     "male": 0,
@@ -2090,7 +2090,7 @@
     "isMajor": 0
   },
   {
-    "name": "Daella Targaryen (daughter of Jaehaerys I)",
+    "name": "Daella_Targaryen_(daughter_of_Jaehaerys_I)",
     "isDead": 1,
     "age": 18,
     "male": 0,
@@ -2109,7 +2109,7 @@
     "isMajor": 0
   },
   {
-    "name": "Daella Targaryen (daughter of Maekar I)",
+    "name": "Daella_Targaryen_(daughter_of_Maekar_I)",
     "isDead": 0,
     "age": 101,
     "male": 1,
@@ -2128,7 +2128,7 @@
     "isMajor": 0
   },
   {
-    "name": "Daemon I Blackfyre",
+    "name": "Daemon_I_Blackfyre",
     "isDead": 1,
     "age": 26,
     "male": 1,
@@ -2147,7 +2147,7 @@
     "isMajor": 0
   },
   {
-    "name": "Daemon II Blackfyre",
+    "name": "Daemon_II_Blackfyre",
     "isDead": 1,
     "age": 23,
     "male": 1,
@@ -2166,7 +2166,7 @@
     "isMajor": 0
   },
   {
-    "name": "Daemon Sand",
+    "name": "Daemon_Sand",
     "isDead": 0,
     "age": 25,
     "male": 1,
@@ -2185,7 +2185,7 @@
     "isMajor": 0
   },
   {
-    "name": "Daemon Targaryen",
+    "name": "Daemon_Targaryen",
     "isDead": 1,
     "age": 49,
     "male": 1,
@@ -2204,7 +2204,7 @@
     "isMajor": 0
   },
   {
-    "name": "Daena Targaryen",
+    "name": "Daena_Targaryen",
     "isDead": 0,
     "age": 155,
     "male": 0,
@@ -2223,7 +2223,7 @@
     "isMajor": 0
   },
   {
-    "name": "Daenerys Targaryen (daughter of Aegon IV)",
+    "name": "Daenerys_Targaryen_(daughter_of_Aegon_IV)",
     "isDead": 0,
     "age": 128,
     "male": 0,
@@ -2242,7 +2242,7 @@
     "isMajor": 0
   },
   {
-    "name": "Daenerys Targaryen",
+    "name": "Daenerys_Targaryen",
     "isDead": 0,
     "age": 16,
     "male": 0,
@@ -2261,7 +2261,7 @@
     "isMajor": 0
   },
   {
-    "name": "Daeron I Targaryen",
+    "name": "Daeron_I_Targaryen",
     "isDead": 1,
     "age": 18,
     "male": 1,
@@ -2280,7 +2280,7 @@
     "isMajor": 0
   },
   {
-    "name": "Daeron II Targaryen",
+    "name": "Daeron_II_Targaryen",
     "isDead": 1,
     "age": 56,
     "male": 1,
@@ -2299,7 +2299,7 @@
     "isMajor": 0
   },
   {
-    "name": "Daeron Targaryen (son of Viserys I)",
+    "name": "Daeron_Targaryen_(son_of_Viserys_I)",
     "isDead": 1,
     "age": 16,
     "male": 1,
@@ -2318,7 +2318,7 @@
     "isMajor": 0
   },
   {
-    "name": "Daeron Targaryen (son of Maekar I)",
+    "name": "Daeron_Targaryen_(son_of_Maekar_I)",
     "isDead": 1,
     "age": 31,
     "male": 1,
@@ -2356,7 +2356,7 @@
     "isMajor": 0
   },
   {
-    "name": "Damion Lannister",
+    "name": "Damion_Lannister",
     "isDead": 0,
     "age": 43,
     "male": 1,
@@ -2375,7 +2375,7 @@
     "isMajor": 0
   },
   {
-    "name": "Damon Lannister (lord)",
+    "name": "Damon_Lannister_(lord)",
     "isDead": 1,
     "age": 31,
     "male": 1,
@@ -2394,7 +2394,7 @@
     "isMajor": 0
   },
   {
-    "name": "Damon Lannister (son of Jason)",
+    "name": "Damon_Lannister_(son_of_Jason)",
     "isDead": 0,
     "age": 56,
     "male": 1,
@@ -2413,7 +2413,7 @@
     "isMajor": 0
   },
   {
-    "name": "Damon Vypren",
+    "name": "Damon_Vypren",
     "isDead": 0,
     "age": 16,
     "male": 0,
@@ -2432,7 +2432,7 @@
     "isMajor": 0
   },
   {
-    "name": "Danwell Frey",
+    "name": "Danwell_Frey",
     "isDead": 0,
     "age": 48,
     "male": 1,
@@ -2451,7 +2451,7 @@
     "isMajor": 0
   },
   {
-    "name": "Daven Lannister",
+    "name": "Daven_Lannister",
     "isDead": 0,
     "age": 27,
     "male": 1,
@@ -2470,7 +2470,7 @@
     "isMajor": 0
   },
   {
-    "name": "Davos Seaworth",
+    "name": "Davos_Seaworth",
     "isDead": 0,
     "age": 40,
     "male": 1,
@@ -2508,7 +2508,7 @@
     "isMajor": 0
   },
   {
-    "name": "Della Frey",
+    "name": "Della_Frey",
     "isDead": 0,
     "age": 4,
     "male": 0,
@@ -2527,7 +2527,7 @@
     "isMajor": 0
   },
   {
-    "name": "Delonne Allyrion",
+    "name": "Delonne_Allyrion",
     "isDead": 0,
     "age": 50,
     "male": 0,
@@ -2546,7 +2546,7 @@
     "isMajor": 0
   },
   {
-    "name": "Denyo Terys",
+    "name": "Denyo_Terys",
     "isDead": 0,
     "age": 13,
     "male": 1,
@@ -2565,7 +2565,7 @@
     "isMajor": 0
   },
   {
-    "name": "Denys Mallister",
+    "name": "Denys_Mallister",
     "isDead": 0,
     "age": 55,
     "male": 1,
@@ -2584,7 +2584,7 @@
     "isMajor": 0
   },
   {
-    "name": "Desmond Grell",
+    "name": "Desmond_Grell",
     "isDead": 0,
     "age": 63,
     "male": 1,
@@ -2603,7 +2603,7 @@
     "isMajor": 0
   },
   {
-    "name": "Devan Seaworth",
+    "name": "Devan_Seaworth",
     "isDead": 0,
     "age": 13,
     "male": 1,
@@ -2622,7 +2622,7 @@
     "isMajor": 0
   },
   {
-    "name": "Dickon Frey",
+    "name": "Dickon_Frey",
     "isDead": 0,
     "age": 6,
     "male": 1,
@@ -2641,7 +2641,7 @@
     "isMajor": 0
   },
   {
-    "name": "Dickon Tarly",
+    "name": "Dickon_Tarly",
     "isDead": 0,
     "age": 13,
     "male": 1,
@@ -2660,7 +2660,7 @@
     "isMajor": 0
   },
   {
-    "name": "Domeric Bolton",
+    "name": "Domeric_Bolton",
     "isDead": 1,
     "age": 24,
     "male": 1,
@@ -2679,7 +2679,7 @@
     "isMajor": 0
   },
   {
-    "name": "Donal Noye",
+    "name": "Donal_Noye",
     "isDead": 1,
     "age": 48,
     "male": 1,
@@ -2698,7 +2698,7 @@
     "isMajor": 0
   },
   {
-    "name": "Donel Greyjoy",
+    "name": "Donel_Greyjoy",
     "isDead": 0,
     "age": 45,
     "male": 1,
@@ -2717,7 +2717,7 @@
     "isMajor": 0
   },
   {
-    "name": "Donella Hornwood",
+    "name": "Donella_Hornwood",
     "isDead": 1,
     "age": 50,
     "male": 0,
@@ -2736,7 +2736,7 @@
     "isMajor": 0
   },
   {
-    "name": "Donnel Haigh",
+    "name": "Donnel_Haigh",
     "isDead": 0,
     "age": 45,
     "male": 1,
@@ -2755,7 +2755,7 @@
     "isMajor": 0
   },
   {
-    "name": "Donnel Waynwood",
+    "name": "Donnel_Waynwood",
     "isDead": 0,
     "age": 23,
     "male": 1,
@@ -2774,7 +2774,7 @@
     "isMajor": 0
   },
   {
-    "name": "Dontos Hollard",
+    "name": "Dontos_Hollard",
     "isDead": 1,
     "age": 39,
     "male": 0,
@@ -2793,7 +2793,7 @@
     "isMajor": 0
   },
   {
-    "name": "Doran Martell",
+    "name": "Doran_Martell",
     "isDead": 0,
     "age": 53,
     "male": 1,
@@ -2812,7 +2812,7 @@
     "isMajor": 0
   },
   {
-    "name": "Dorea Sand",
+    "name": "Dorea_Sand",
     "isDead": 0,
     "age": 9,
     "male": 0,
@@ -2869,7 +2869,7 @@
     "isMajor": 0
   },
   {
-    "name": "Duncan Targaryen",
+    "name": "Duncan_Targaryen",
     "isDead": 1,
     "age": 39,
     "male": 1,
@@ -2888,7 +2888,7 @@
     "isMajor": 0
   },
   {
-    "name": "Dunstan Drumm",
+    "name": "Dunstan_Drumm",
     "isDead": 0,
     "age": 88,
     "male": 1,
@@ -2907,7 +2907,7 @@
     "isMajor": 0
   },
   {
-    "name": "Duram Bar Emmon",
+    "name": "Duram_Bar_Emmon",
     "isDead": 0,
     "age": 16,
     "male": 1,
@@ -2926,7 +2926,7 @@
     "isMajor": 0
   },
   {
-    "name": "Eddara Tallhart",
+    "name": "Eddara_Tallhart",
     "isDead": 0,
     "age": 11,
     "male": 1,
@@ -2945,7 +2945,7 @@
     "isMajor": 0
   },
   {
-    "name": "Eddard Stark",
+    "name": "Eddard_Stark",
     "isDead": 1,
     "age": 36,
     "male": 1,
@@ -2964,7 +2964,7 @@
     "isMajor": 0
   },
   {
-    "name": "Edmure Tully",
+    "name": "Edmure_Tully",
     "isDead": 0,
     "age": 33,
     "male": 1,
@@ -2983,7 +2983,7 @@
     "isMajor": 0
   },
   {
-    "name": "Edric Dayne",
+    "name": "Edric_Dayne",
     "isDead": 0,
     "age": 13,
     "male": 1,
@@ -3002,7 +3002,7 @@
     "isMajor": 0
   },
   {
-    "name": "Edric Storm",
+    "name": "Edric_Storm",
     "isDead": 0,
     "age": 13,
     "male": 1,
@@ -3021,7 +3021,7 @@
     "isMajor": 0
   },
   {
-    "name": "Edwyle Stark",
+    "name": "Edwyle_Stark",
     "isDead": 1,
     "age": 36,
     "male": 1,
@@ -3040,7 +3040,7 @@
     "isMajor": 0
   },
   {
-    "name": "Edwyn Frey",
+    "name": "Edwyn_Frey",
     "isDead": 0,
     "age": 41,
     "male": 1,
@@ -3059,7 +3059,7 @@
     "isMajor": 0
   },
   {
-    "name": "Elaena Targaryen",
+    "name": "Elaena_Targaryen",
     "isDead": 1,
     "age": 70,
     "male": 0,
@@ -3078,7 +3078,7 @@
     "isMajor": 0
   },
   {
-    "name": "Elder Brother (Quiet Isle)",
+    "name": "Elder_Brother_(Quiet_Isle)",
     "isDead": 0,
     "age": 45,
     "male": 1,
@@ -3097,7 +3097,7 @@
     "isMajor": 0
   },
   {
-    "name": "Eldon Estermont",
+    "name": "Eldon_Estermont",
     "isDead": 0,
     "age": 72,
     "male": 1,
@@ -3116,7 +3116,7 @@
     "isMajor": 0
   },
   {
-    "name": "Eleanor Mooton",
+    "name": "Eleanor_Mooton",
     "isDead": 0,
     "age": 14,
     "male": 1,
@@ -3135,7 +3135,7 @@
     "isMajor": 0
   },
   {
-    "name": "Eleyna Westerling",
+    "name": "Eleyna_Westerling",
     "isDead": 0,
     "age": 13,
     "male": 0,
@@ -3154,7 +3154,7 @@
     "isMajor": 0
   },
   {
-    "name": "Elia Sand",
+    "name": "Elia_Sand",
     "isDead": 0,
     "age": 15,
     "male": 0,
@@ -3173,7 +3173,7 @@
     "isMajor": 0
   },
   {
-    "name": "Elia Martell",
+    "name": "Elia_Martell",
     "isDead": 1,
     "age": 27,
     "male": 0,
@@ -3192,7 +3192,7 @@
     "isMajor": 0
   },
   {
-    "name": "Elinor Tyrell",
+    "name": "Elinor_Tyrell",
     "isDead": 0,
     "age": 14,
     "male": 0,
@@ -3211,7 +3211,7 @@
     "isMajor": 0
   },
   {
-    "name": "Elmar Frey",
+    "name": "Elmar_Frey",
     "isDead": 0,
     "age": 10,
     "male": 1,
@@ -3230,7 +3230,7 @@
     "isMajor": 0
   },
   {
-    "name": "Elwood Meadows",
+    "name": "Elwood_Meadows",
     "isDead": 0,
     "age": 22,
     "male": 1,
@@ -3249,7 +3249,7 @@
     "isMajor": 0
   },
   {
-    "name": "Elyana Vypren",
+    "name": "Elyana_Vypren",
     "isDead": 0,
     "age": 36,
     "male": 0,
@@ -3268,7 +3268,7 @@
     "isMajor": 0
   },
   {
-    "name": "Emberlei Frey",
+    "name": "Emberlei_Frey",
     "isDead": 0,
     "age": 4,
     "male": 0,
@@ -3306,7 +3306,7 @@
     "isMajor": 0
   },
   {
-    "name": "Emmon Frey",
+    "name": "Emmon_Frey",
     "isDead": 0,
     "age": 63,
     "male": 1,
@@ -3325,7 +3325,7 @@
     "isMajor": 0
   },
   {
-    "name": "Eon Hunter",
+    "name": "Eon_Hunter",
     "isDead": 1,
     "age": 80,
     "male": 1,
@@ -3344,7 +3344,7 @@
     "isMajor": 0
   },
   {
-    "name": "Erena Glover",
+    "name": "Erena_Glover",
     "isDead": 0,
     "age": 3,
     "male": 0,
@@ -3363,7 +3363,7 @@
     "isMajor": 0
   },
   {
-    "name": "Erik Ironmaker",
+    "name": "Erik_Ironmaker",
     "isDead": 0,
     "age": 89,
     "male": 1,
@@ -3382,7 +3382,7 @@
     "isMajor": 0
   },
   {
-    "name": "Ermesande Hayford",
+    "name": "Ermesande_Hayford",
     "isDead": 0,
     "age": 2,
     "male": 0,
@@ -3401,7 +3401,7 @@
     "isMajor": 0
   },
   {
-    "name": "Euron Greyjoy",
+    "name": "Euron_Greyjoy",
     "isDead": 0,
     "age": 44,
     "male": 1,
@@ -3420,7 +3420,7 @@
     "isMajor": 0
   },
   {
-    "name": "Falena Stokeworth",
+    "name": "Falena_Stokeworth",
     "isDead": 0,
     "age": 175,
     "male": 0,
@@ -3439,7 +3439,7 @@
     "isMajor": 0
   },
   {
-    "name": "Falia Flowers",
+    "name": "Falia_Flowers",
     "isDead": 0,
     "age": 19,
     "male": 1,
@@ -3458,7 +3458,7 @@
     "isMajor": 0
   },
   {
-    "name": "Falyse Stokeworth",
+    "name": "Falyse_Stokeworth",
     "isDead": 1,
     "age": 35,
     "male": 0,
@@ -3477,7 +3477,7 @@
     "isMajor": 0
   },
   {
-    "name": "Flement Brax",
+    "name": "Flement_Brax",
     "isDead": 0,
     "age": 23,
     "male": 1,
@@ -3496,7 +3496,7 @@
     "isMajor": 0
   },
   {
-    "name": "Galazza Galare",
+    "name": "Galazza_Galare",
     "isDead": 0,
     "age": 83,
     "male": 0,
@@ -3534,7 +3534,7 @@
     "isMajor": 0
   },
   {
-    "name": "Garlan Tyrell",
+    "name": "Garlan_Tyrell",
     "isDead": 0,
     "age": 23,
     "male": 1,
@@ -3553,7 +3553,7 @@
     "isMajor": 0
   },
   {
-    "name": "Gawen Glover",
+    "name": "Gawen_Glover",
     "isDead": 0,
     "age": 5,
     "male": 1,
@@ -3572,7 +3572,7 @@
     "isMajor": 0
   },
   {
-    "name": "Gawen Swann",
+    "name": "Gawen_Swann",
     "isDead": 0,
     "age": 148,
     "male": 1,
@@ -3610,7 +3610,7 @@
     "isMajor": 0
   },
   {
-    "name": "Genna Lannister",
+    "name": "Genna_Lannister",
     "isDead": 0,
     "age": 55,
     "male": 0,
@@ -3629,7 +3629,7 @@
     "isMajor": 0
   },
   {
-    "name": "Gerion Lannister",
+    "name": "Gerion_Lannister",
     "isDead": 1,
     "age": 36,
     "male": 1,
@@ -3648,7 +3648,7 @@
     "isMajor": 0
   },
   {
-    "name": "Gerold Dayne",
+    "name": "Gerold_Dayne",
     "isDead": 0,
     "age": 30,
     "male": 1,
@@ -3667,7 +3667,7 @@
     "isMajor": 0
   },
   {
-    "name": "Gerold Lannister",
+    "name": "Gerold_Lannister",
     "isDead": 1,
     "age": 38,
     "male": 1,
@@ -3686,7 +3686,7 @@
     "isMajor": 0
   },
   {
-    "name": "Gerris Drinkwater",
+    "name": "Gerris_Drinkwater",
     "isDead": 0,
     "age": 25,
     "male": 1,
@@ -3724,7 +3724,7 @@
     "isMajor": 0
   },
   {
-    "name": "Gilwood Hunter",
+    "name": "Gilwood_Hunter",
     "isDead": 0,
     "age": 50,
     "male": 1,
@@ -3743,7 +3743,7 @@
     "isMajor": 0
   },
   {
-    "name": "Glendon Flowers",
+    "name": "Glendon_Flowers",
     "isDead": 0,
     "age": 104,
     "male": 1,
@@ -3762,7 +3762,7 @@
     "isMajor": 0
   },
   {
-    "name": "Gormond Goodbrother",
+    "name": "Gormond_Goodbrother",
     "isDead": 0,
     "age": 18,
     "male": 1,
@@ -3781,7 +3781,7 @@
     "isMajor": 0
   },
   {
-    "name": "Gran Goodbrother",
+    "name": "Gran_Goodbrother",
     "isDead": 0,
     "age": 18,
     "male": 1,
@@ -3800,7 +3800,7 @@
     "isMajor": 0
   },
   {
-    "name": "Gregor Clegane",
+    "name": "Gregor_Clegane",
     "isDead": 1,
     "age": 35,
     "male": 1,
@@ -3838,7 +3838,7 @@
     "isMajor": 0
   },
   {
-    "name": "Greydon Goodbrother",
+    "name": "Greydon_Goodbrother",
     "isDead": 0,
     "age": 18,
     "male": 1,
@@ -3857,7 +3857,7 @@
     "isMajor": 0
   },
   {
-    "name": "Gulian Swann",
+    "name": "Gulian_Swann",
     "isDead": 0,
     "age": 41,
     "male": 1,
@@ -3876,7 +3876,7 @@
     "isMajor": 0
   },
   {
-    "name": "Gunthor Hightower",
+    "name": "Gunthor_Hightower",
     "isDead": 0,
     "age": 29,
     "male": 1,
@@ -3895,7 +3895,7 @@
     "isMajor": 0
   },
   {
-    "name": "Guyard Morrigen",
+    "name": "Guyard_Morrigen",
     "isDead": 1,
     "age": 21,
     "male": 1,
@@ -3914,7 +3914,7 @@
     "isMajor": 0
   },
   {
-    "name": "Gwayne Hightower",
+    "name": "Gwayne_Hightower",
     "isDead": 1,
     "age": 42,
     "male": 1,
@@ -3933,7 +3933,7 @@
     "isMajor": 0
   },
   {
-    "name": "Gwin Goodbrother",
+    "name": "Gwin_Goodbrother",
     "isDead": 0,
     "age": 18,
     "male": 0,
@@ -3952,7 +3952,7 @@
     "isMajor": 0
   },
   {
-    "name": "Gysella Goodbrother",
+    "name": "Gysella_Goodbrother",
     "isDead": 0,
     "age": 18,
     "male": 0,
@@ -3990,7 +3990,7 @@
     "isMajor": 0
   },
   {
-    "name": "Harlon Greyjoy",
+    "name": "Harlon_Greyjoy",
     "isDead": 0,
     "age": 47,
     "male": 1,
@@ -4009,7 +4009,7 @@
     "isMajor": 0
   },
   {
-    "name": "Harrold Hardyng",
+    "name": "Harrold_Hardyng",
     "isDead": 0,
     "age": 19,
     "male": 1,
@@ -4047,7 +4047,7 @@
     "isMajor": 0
   },
   {
-    "name": "Harwin Strong",
+    "name": "Harwin_Strong",
     "isDead": 1,
     "age": 30,
     "male": 1,
@@ -4066,7 +4066,7 @@
     "isMajor": 0
   },
   {
-    "name": "Harys Haigh",
+    "name": "Harys_Haigh",
     "isDead": 0,
     "age": 46,
     "male": 1,
@@ -4104,7 +4104,7 @@
     "isMajor": 0
   },
   {
-    "name": "Helaena Targaryen",
+    "name": "Helaena_Targaryen",
     "isDead": 1,
     "age": 21,
     "male": 0,
@@ -4123,7 +4123,7 @@
     "isMajor": 0
   },
   {
-    "name": "Helicent Uffering",
+    "name": "Helicent_Uffering",
     "isDead": 0,
     "age": 129,
     "male": 1,
@@ -4161,7 +4161,7 @@
     "isMajor": 0
   },
   {
-    "name": "Hosteen Frey",
+    "name": "Hosteen_Frey",
     "isDead": 0,
     "age": 51,
     "male": 1,
@@ -4180,7 +4180,7 @@
     "isMajor": 0
   },
   {
-    "name": "Hoster Frey",
+    "name": "Hoster_Frey",
     "isDead": 0,
     "age": 13,
     "male": 1,
@@ -4199,7 +4199,7 @@
     "isMajor": 0
   },
   {
-    "name": "Hoster Tully",
+    "name": "Hoster_Tully",
     "isDead": 1,
     "age": 61,
     "male": 1,
@@ -4218,7 +4218,7 @@
     "isMajor": 0
   },
   {
-    "name": "Hother Umber",
+    "name": "Hother_Umber",
     "isDead": 0,
     "age": 59,
     "male": 1,
@@ -4237,7 +4237,7 @@
     "isMajor": 0
   },
   {
-    "name": "Howland Reed",
+    "name": "Howland_Reed",
     "isDead": 0,
     "age": 40,
     "male": 1,
@@ -4256,7 +4256,7 @@
     "isMajor": 0
   },
   {
-    "name": "Humfrey Wagstaff",
+    "name": "Humfrey_Wagstaff",
     "isDead": 0,
     "age": 68,
     "male": 0,
@@ -4313,7 +4313,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jaehaera Targaryen",
+    "name": "Jaehaera_Targaryen",
     "isDead": 1,
     "age": 10,
     "male": 0,
@@ -4332,7 +4332,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jaehaerys I Targaryen",
+    "name": "Jaehaerys_I_Targaryen",
     "isDead": 1,
     "age": 69,
     "male": 1,
@@ -4351,7 +4351,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jaehaerys Targaryen (son of Aegon II)",
+    "name": "Jaehaerys_Targaryen_(son_of_Aegon_II)",
     "isDead": 1,
     "age": 6,
     "male": 1,
@@ -4370,7 +4370,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jaehaerys II Targaryen",
+    "name": "Jaehaerys_II_Targaryen",
     "isDead": 1,
     "age": 37,
     "male": 1,
@@ -4389,7 +4389,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jaime Frey",
+    "name": "Jaime_Frey",
     "isDead": 0,
     "age": 1,
     "male": 1,
@@ -4408,7 +4408,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jaime Lannister",
+    "name": "Jaime_Lannister",
     "isDead": 0,
     "age": 34,
     "male": 1,
@@ -4427,7 +4427,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jammos Frey",
+    "name": "Jammos_Frey",
     "isDead": 0,
     "age": 34,
     "male": 1,
@@ -4446,7 +4446,7 @@
     "isMajor": 0
   },
   {
-    "name": "Janei Lannister",
+    "name": "Janei_Lannister",
     "isDead": 0,
     "age": 4,
     "male": 0,
@@ -4465,7 +4465,7 @@
     "isMajor": 0
   },
   {
-    "name": "Janos Slynt",
+    "name": "Janos_Slynt",
     "isDead": 1,
     "age": 22,
     "male": 1,
@@ -4484,7 +4484,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jared Frey",
+    "name": "Jared_Frey",
     "isDead": 1,
     "age": 52,
     "male": 1,
@@ -4503,7 +4503,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jason Lannister",
+    "name": "Jason_Lannister",
     "isDead": 1,
     "age": 41,
     "male": 1,
@@ -4522,7 +4522,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jeor Mormont",
+    "name": "Jeor_Mormont",
     "isDead": 1,
     "age": 69,
     "male": 1,
@@ -4541,7 +4541,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jeyne Arryn",
+    "name": "Jeyne_Arryn",
     "isDead": 1,
     "age": 40,
     "male": 0,
@@ -4560,7 +4560,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jeyne Goodbrook",
+    "name": "Jeyne_Goodbrook",
     "isDead": 0,
     "age": 7,
     "male": 0,
@@ -4579,7 +4579,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jeyne Heddle",
+    "name": "Jeyne_Heddle",
     "isDead": 0,
     "age": 19,
     "male": 0,
@@ -4598,7 +4598,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jeyne Lothston",
+    "name": "Jeyne_Lothston",
     "isDead": 0,
     "age": 136,
     "male": 0,
@@ -4617,7 +4617,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jeyne Poole",
+    "name": "Jeyne_Poole",
     "isDead": 0,
     "age": 14,
     "male": 0,
@@ -4636,7 +4636,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jeyne Waters",
+    "name": "Jeyne_Waters",
     "isDead": 0,
     "age": 129,
     "male": 1,
@@ -4655,7 +4655,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jeyne Westerling (wife of Maegor I)",
+    "name": "Jeyne_Westerling_(wife_of_Maegor_I)",
     "isDead": 1,
     "age": 20,
     "male": 0,
@@ -4674,7 +4674,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jeyne Westerling",
+    "name": "Jeyne_Westerling",
     "isDead": 0,
     "age": 17,
     "male": 0,
@@ -4731,7 +4731,7 @@
     "isMajor": 0
   },
   {
-    "name": "Joanna Lannister",
+    "name": "Joanna_Lannister",
     "isDead": 1,
     "age": 29,
     "male": 0,
@@ -4750,7 +4750,7 @@
     "isMajor": 0
   },
   {
-    "name": "Joffrey Baratheon",
+    "name": "Joffrey_Baratheon",
     "isDead": 1,
     "age": 14,
     "male": 1,
@@ -4769,7 +4769,7 @@
     "isMajor": 0
   },
   {
-    "name": "Joffrey Caswell",
+    "name": "Joffrey_Caswell",
     "isDead": 0,
     "age": 109,
     "male": 1,
@@ -4788,7 +4788,7 @@
     "isMajor": 0
   },
   {
-    "name": "Joffrey Lonmouth",
+    "name": "Joffrey_Lonmouth",
     "isDead": 1,
     "age": 15,
     "male": 1,
@@ -4807,7 +4807,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jojen Reed",
+    "name": "Jojen_Reed",
     "isDead": 0,
     "age": 14,
     "male": 1,
@@ -4826,7 +4826,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jon Arryn",
+    "name": "Jon_Arryn",
     "isDead": 1,
     "age": 80,
     "male": 1,
@@ -4845,7 +4845,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jon Brax",
+    "name": "Jon_Brax",
     "isDead": 0,
     "age": 4,
     "male": 0,
@@ -4864,7 +4864,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jon Bulwer",
+    "name": "Jon_Bulwer",
     "isDead": 1,
     "age": 21,
     "male": 1,
@@ -4883,7 +4883,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jon Connington",
+    "name": "Jon_Connington",
     "isDead": 0,
     "age": 40,
     "male": 1,
@@ -4902,7 +4902,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jon Snow",
+    "name": "Jon_Snow",
     "isDead": 0,
     "age": 17,
     "male": 1,
@@ -4921,7 +4921,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jon Waters",
+    "name": "Jon_Waters",
     "isDead": 0,
     "age": 129,
     "male": 1,
@@ -4940,7 +4940,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jonelle Cerwyn",
+    "name": "Jonelle_Cerwyn",
     "isDead": 0,
     "age": 33,
     "male": 0,
@@ -4959,7 +4959,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jonnel Stark",
+    "name": "Jonnel_Stark",
     "isDead": 1,
     "age": 73,
     "male": 1,
@@ -4978,7 +4978,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jonos Frey",
+    "name": "Jonos_Frey",
     "isDead": 0,
     "age": 9,
     "male": 0,
@@ -4997,7 +4997,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jorah Mormont",
+    "name": "Jorah_Mormont",
     "isDead": 0,
     "age": 46,
     "male": 1,
@@ -5016,7 +5016,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jorelle Mormont",
+    "name": "Jorelle_Mormont",
     "isDead": 0,
     "age": 22,
     "male": 0,
@@ -5035,7 +5035,7 @@
     "isMajor": 0
   },
   {
-    "name": "Jory Cassel",
+    "name": "Jory_Cassel",
     "isDead": 1,
     "age": 25,
     "male": 1,
@@ -5054,7 +5054,7 @@
     "isMajor": 0
   },
   {
-    "name": "Josmyn Peckledon",
+    "name": "Josmyn_Peckledon",
     "isDead": 0,
     "age": 16,
     "male": 1,
@@ -5073,7 +5073,7 @@
     "isMajor": 0
   },
   {
-    "name": "Joy Hill",
+    "name": "Joy_Hill",
     "isDead": 0,
     "age": 12,
     "male": 0,
@@ -5092,7 +5092,7 @@
     "isMajor": 0
   },
   {
-    "name": "Joyeuse Erenford",
+    "name": "Joyeuse_Erenford",
     "isDead": 0,
     "age": 18,
     "male": 1,
@@ -5130,7 +5130,7 @@
     "isMajor": 0
   },
   {
-    "name": "Kedge Whiteye",
+    "name": "Kedge_Whiteye",
     "isDead": 0,
     "age": 49,
     "male": 1,
@@ -5149,7 +5149,7 @@
     "isMajor": 0
   },
   {
-    "name": "Kevan Lannister",
+    "name": "Kevan_Lannister",
     "isDead": 1,
     "age": 56,
     "male": 1,
@@ -5206,7 +5206,7 @@
     "isMajor": 0
   },
   {
-    "name": "Kyra Frey",
+    "name": "Kyra_Frey",
     "isDead": 0,
     "age": 38,
     "male": 0,
@@ -5225,7 +5225,7 @@
     "isMajor": 0
   },
   {
-    "name": "Laena Velaryon",
+    "name": "Laena_Velaryon",
     "isDead": 1,
     "age": 27,
     "male": 0,
@@ -5244,7 +5244,7 @@
     "isMajor": 0
   },
   {
-    "name": "Laenor Velaryon",
+    "name": "Laenor_Velaryon",
     "isDead": 1,
     "age": 26,
     "male": 1,
@@ -5263,7 +5263,7 @@
     "isMajor": 0
   },
   {
-    "name": "Lancel Lannister",
+    "name": "Lancel_Lannister",
     "isDead": 0,
     "age": 18,
     "male": 1,
@@ -5282,7 +5282,7 @@
     "isMajor": 0
   },
   {
-    "name": "Lanna (Happy Port)",
+    "name": "Lanna_(Happy_Port)",
     "isDead": 0,
     "age": 15,
     "male": 0,
@@ -5301,7 +5301,7 @@
     "isMajor": 0
   },
   {
-    "name": "Lanna Lannister",
+    "name": "Lanna_Lannister",
     "isDead": 0,
     "age": 29,
     "male": 0,
@@ -5320,7 +5320,7 @@
     "isMajor": 0
   },
   {
-    "name": "Larence Snow",
+    "name": "Larence_Snow",
     "isDead": 0,
     "age": 14,
     "male": 1,
@@ -5358,7 +5358,7 @@
     "isMajor": 0
   },
   {
-    "name": "Leana Frey",
+    "name": "Leana_Frey",
     "isDead": 0,
     "age": 1,
     "male": 0,
@@ -5396,7 +5396,7 @@
     "isMajor": 0
   },
   {
-    "name": "Lem (Standfast)",
+    "name": "Lem_(Standfast)",
     "isDead": 0,
     "age": 139,
     "male": 1,
@@ -5415,7 +5415,7 @@
     "isMajor": 0
   },
   {
-    "name": "Lollys Stokeworth",
+    "name": "Lollys_Stokeworth",
     "isDead": 0,
     "age": 35,
     "male": 0,
@@ -5434,7 +5434,7 @@
     "isMajor": 0
   },
   {
-    "name": "Loras Tyrell",
+    "name": "Loras_Tyrell",
     "isDead": 0,
     "age": 18,
     "male": 1,
@@ -5472,7 +5472,7 @@
     "isMajor": 0
   },
   {
-    "name": "Loreza Sand",
+    "name": "Loreza_Sand",
     "isDead": 0,
     "age": 7,
     "male": 0,
@@ -5491,7 +5491,7 @@
     "isMajor": 0
   },
   {
-    "name": "Lothar Frey",
+    "name": "Lothar_Frey",
     "isDead": 0,
     "age": 36,
     "male": 1,
@@ -5510,7 +5510,7 @@
     "isMajor": 0
   },
   {
-    "name": "Luceon Frey",
+    "name": "Luceon_Frey",
     "isDead": 0,
     "age": 51,
     "male": 1,
@@ -5529,7 +5529,7 @@
     "isMajor": 0
   },
   {
-    "name": "Lucion Lannister",
+    "name": "Lucion_Lannister",
     "isDead": 0,
     "age": 30,
     "male": 0,
@@ -5548,7 +5548,7 @@
     "isMajor": 0
   },
   {
-    "name": "Lucos Chyttering",
+    "name": "Lucos_Chyttering",
     "isDead": 0,
     "age": 17,
     "male": 1,
@@ -5567,7 +5567,7 @@
     "isMajor": 0
   },
   {
-    "name": "Lyanna Mormont",
+    "name": "Lyanna_Mormont",
     "isDead": 0,
     "age": 10,
     "male": 0,
@@ -5586,7 +5586,7 @@
     "isMajor": 0
   },
   {
-    "name": "Lyanna Stark",
+    "name": "Lyanna_Stark",
     "isDead": 1,
     "age": 17,
     "male": 0,
@@ -5605,7 +5605,7 @@
     "isMajor": 0
   },
   {
-    "name": "Lyman Beesbury",
+    "name": "Lyman_Beesbury",
     "isDead": 1,
     "age": 80,
     "male": 1,
@@ -5624,7 +5624,7 @@
     "isMajor": 0
   },
   {
-    "name": "Lyman Darry",
+    "name": "Lyman_Darry",
     "isDead": 1,
     "age": 9,
     "male": 0,
@@ -5643,7 +5643,7 @@
     "isMajor": 0
   },
   {
-    "name": "Lynesse Hightower",
+    "name": "Lynesse_Hightower",
     "isDead": 0,
     "age": 28,
     "male": 1,
@@ -5662,7 +5662,7 @@
     "isMajor": 0
   },
   {
-    "name": "Lyonel Corbray",
+    "name": "Lyonel_Corbray",
     "isDead": 0,
     "age": 40,
     "male": 1,
@@ -5681,7 +5681,7 @@
     "isMajor": 0
   },
   {
-    "name": "Lyonel Frey",
+    "name": "Lyonel_Frey",
     "isDead": 0,
     "age": 41,
     "male": 0,
@@ -5700,7 +5700,7 @@
     "isMajor": 0
   },
   {
-    "name": "Lyonel Strong",
+    "name": "Lyonel_Strong",
     "isDead": 1,
     "age": 43,
     "male": 1,
@@ -5719,7 +5719,7 @@
     "isMajor": 0
   },
   {
-    "name": "Lyra Mormont",
+    "name": "Lyra_Mormont",
     "isDead": 0,
     "age": 23,
     "male": 0,
@@ -5738,7 +5738,7 @@
     "isMajor": 0
   },
   {
-    "name": "Lysa Arryn",
+    "name": "Lysa_Arryn",
     "isDead": 1,
     "age": 34,
     "male": 0,
@@ -5757,7 +5757,7 @@
     "isMajor": 0
   },
   {
-    "name": "Lythene Frey",
+    "name": "Lythene_Frey",
     "isDead": 0,
     "age": 49,
     "male": 0,
@@ -5776,7 +5776,7 @@
     "isMajor": 0
   },
   {
-    "name": "Mace Tyrell",
+    "name": "Mace_Tyrell",
     "isDead": 0,
     "age": 44,
     "male": 1,
@@ -5795,7 +5795,7 @@
     "isMajor": 0
   },
   {
-    "name": "Maege Mormont",
+    "name": "Maege_Mormont",
     "isDead": 0,
     "age": 61,
     "male": 0,
@@ -5814,7 +5814,7 @@
     "isMajor": 0
   },
   {
-    "name": "Maegelle Frey",
+    "name": "Maegelle_Frey",
     "isDead": 0,
     "age": 51,
     "male": 0,
@@ -5833,7 +5833,7 @@
     "isMajor": 0
   },
   {
-    "name": "Maegor I Targaryen",
+    "name": "Maegor_I_Targaryen",
     "isDead": 1,
     "age": 36,
     "male": 1,
@@ -5852,7 +5852,7 @@
     "isMajor": 0
   },
   {
-    "name": "Maelor Targaryen",
+    "name": "Maelor_Targaryen",
     "isDead": 1,
     "age": 3,
     "male": 1,
@@ -5871,7 +5871,7 @@
     "isMajor": 0
   },
   {
-    "name": "Malwyn Frey",
+    "name": "Malwyn_Frey",
     "isDead": 0,
     "age": 16,
     "male": 1,
@@ -5909,7 +5909,7 @@
     "isMajor": 0
   },
   {
-    "name": "Margaery Tyrell",
+    "name": "Margaery_Tyrell",
     "isDead": 0,
     "age": 17,
     "male": 0,
@@ -5928,7 +5928,7 @@
     "isMajor": 0
   },
   {
-    "name": "Marianne Vance",
+    "name": "Marianne_Vance",
     "isDead": 0,
     "age": 38,
     "male": 0,
@@ -5966,7 +5966,7 @@
     "isMajor": 0
   },
   {
-    "name": "Marissa Frey",
+    "name": "Marissa_Frey",
     "isDead": 0,
     "age": 14,
     "male": 0,
@@ -5985,7 +5985,7 @@
     "isMajor": 0
   },
   {
-    "name": "Maron Greyjoy",
+    "name": "Maron_Greyjoy",
     "isDead": 1,
     "age": 20,
     "male": 1,
@@ -6004,7 +6004,7 @@
     "isMajor": 0
   },
   {
-    "name": "Maron Volmark",
+    "name": "Maron_Volmark",
     "isDead": 0,
     "age": 17,
     "male": 1,
@@ -6023,7 +6023,7 @@
     "isMajor": 0
   },
   {
-    "name": "Matarys Targaryen",
+    "name": "Matarys_Targaryen",
     "isDead": 1,
     "age": 25,
     "male": 1,
@@ -6042,7 +6042,7 @@
     "isMajor": 0
   },
   {
-    "name": "Martyn Lannister",
+    "name": "Martyn_Lannister",
     "isDead": 0,
     "age": 15,
     "male": 1,
@@ -6061,7 +6061,7 @@
     "isMajor": 0
   },
   {
-    "name": "Mathis Frey",
+    "name": "Mathis_Frey",
     "isDead": 0,
     "age": 6,
     "male": 0,
@@ -6080,7 +6080,7 @@
     "isMajor": 0
   },
   {
-    "name": "Meera Reed",
+    "name": "Meera_Reed",
     "isDead": 0,
     "age": 17,
     "male": 0,
@@ -6099,7 +6099,7 @@
     "isMajor": 0
   },
   {
-    "name": "Melissa Blackwood",
+    "name": "Melissa_Blackwood",
     "isDead": 0,
     "age": 144,
     "male": 0,
@@ -6137,7 +6137,7 @@
     "isMajor": 0
   },
   {
-    "name": "Mors Umber",
+    "name": "Mors_Umber",
     "isDead": 0,
     "age": 65,
     "male": 1,
@@ -6175,7 +6175,7 @@
     "isMajor": 0
   },
   {
-    "name": "Naerys Targaryen",
+    "name": "Naerys_Targaryen",
     "isDead": 1,
     "age": 41,
     "male": 0,
@@ -6213,7 +6213,7 @@
     "isMajor": 0
   },
   {
-    "name": "Osmund Frey",
+    "name": "Osmund_Frey",
     "isDead": 0,
     "age": 3,
     "male": 0,
@@ -6232,7 +6232,7 @@
     "isMajor": 0
   },
   {
-    "name": "Ottyn Wythers",
+    "name": "Ottyn_Wythers",
     "isDead": 1,
     "age": 69,
     "male": 1,
@@ -6251,7 +6251,7 @@
     "isMajor": 0
   },
   {
-    "name": "Patrek Vance",
+    "name": "Patrek_Vance",
     "isDead": 0,
     "age": 36,
     "male": 0,
@@ -6270,7 +6270,7 @@
     "isMajor": 0
   },
   {
-    "name": "Perra Frey",
+    "name": "Perra_Frey",
     "isDead": 0,
     "age": 6,
     "male": 0,
@@ -6289,7 +6289,7 @@
     "isMajor": 0
   },
   {
-    "name": "Quentyn Martell",
+    "name": "Quentyn_Martell",
     "isDead": 1,
     "age": 19,
     "male": 1,
@@ -6308,7 +6308,7 @@
     "isMajor": 0
   },
   {
-    "name": "Rhaegar Frey",
+    "name": "Rhaegar_Frey",
     "isDead": 1,
     "age": 31,
     "male": 1,
@@ -6327,7 +6327,7 @@
     "isMajor": 0
   },
   {
-    "name": "Rhaelle Targaryen",
+    "name": "Rhaelle_Targaryen",
     "isDead": 1,
     "age": 17,
     "male": 0,
@@ -6346,7 +6346,7 @@
     "isMajor": 0
   },
   {
-    "name": "Rhaenys Targaryen (daughter of Rhaegar)",
+    "name": "Rhaenys_Targaryen_(daughter_of_Rhaegar)",
     "isDead": 1,
     "age": 3,
     "male": 0,
@@ -6365,7 +6365,7 @@
     "isMajor": 0
   },
   {
-    "name": "Robar Royce",
+    "name": "Robar_Royce",
     "isDead": 1,
     "age": 22,
     "male": 1,
@@ -6384,7 +6384,7 @@
     "isMajor": 0
   },
   {
-    "name": "Robert Frey (son of Raymund)",
+    "name": "Robert_Frey_(son_of_Raymund)",
     "isDead": 0,
     "age": 17,
     "male": 1,
@@ -6403,7 +6403,7 @@
     "isMajor": 0
   },
   {
-    "name": "Robin Greyjoy",
+    "name": "Robin_Greyjoy",
     "isDead": 0,
     "age": 31,
     "male": 1,
@@ -6422,7 +6422,7 @@
     "isMajor": 0
   },
   {
-    "name": "Robin Ryger",
+    "name": "Robin_Ryger",
     "isDead": 0,
     "age": 63,
     "male": 1,
@@ -6441,7 +6441,7 @@
     "isMajor": 0
   },
   {
-    "name": "Rodrik Greyjoy",
+    "name": "Rodrik_Greyjoy",
     "isDead": 1,
     "age": 21,
     "male": 1,
@@ -6460,7 +6460,7 @@
     "isMajor": 0
   },
   {
-    "name": "Rodwell Stark",
+    "name": "Rodwell_Stark",
     "isDead": 1,
     "age": 59,
     "male": 1,
@@ -6479,7 +6479,7 @@
     "isMajor": 0
   },
   {
-    "name": "Roose Bolton",
+    "name": "Roose_Bolton",
     "isDead": 0,
     "age": 40,
     "male": 1,
@@ -6498,7 +6498,7 @@
     "isMajor": 0
   },
   {
-    "name": "Ryman Frey",
+    "name": "Ryman_Frey",
     "isDead": 1,
     "age": 54,
     "male": 1,
@@ -6517,7 +6517,7 @@
     "isMajor": 0
   },
   {
-    "name": "Samwell Tarly",
+    "name": "Samwell_Tarly",
     "isDead": 0,
     "age": 17,
     "male": 1,
@@ -6555,7 +6555,7 @@
     "isMajor": 0
   },
   {
-    "name": "Shireen Baratheon",
+    "name": "Shireen_Baratheon",
     "isDead": 0,
     "age": 11,
     "male": 0,
@@ -6593,7 +6593,7 @@
     "isMajor": 0
   },
   {
-    "name": "Taena of Myr",
+    "name": "Taena_of_Myr",
     "isDead": 0,
     "age": 24,
     "male": 0,
@@ -6650,7 +6650,7 @@
     "isMajor": 0
   },
   {
-    "name": "Tyene Sand",
+    "name": "Tyene_Sand",
     "isDead": 0,
     "age": 24,
     "male": 0,
@@ -6669,7 +6669,7 @@
     "isMajor": 0
   },
   {
-    "name": "Tyrion Lannister",
+    "name": "Tyrion_Lannister",
     "isDead": 0,
     "age": 27,
     "male": 1,
@@ -6688,7 +6688,7 @@
     "isMajor": 0
   },
   {
-    "name": "Tywin Frey (son of Raymund)",
+    "name": "Tywin_Frey_(son_of_Raymund)",
     "isDead": 0,
     "age": 1,
     "male": 1,
@@ -6707,7 +6707,7 @@
     "isMajor": 0
   },
   {
-    "name": "Vayon Poole",
+    "name": "Vayon_Poole",
     "isDead": 1,
     "age": 24,
     "male": 1,
@@ -6726,7 +6726,7 @@
     "isMajor": 0
   },
   {
-    "name": "Victarion Greyjoy",
+    "name": "Victarion_Greyjoy",
     "isDead": 0,
     "age": 43,
     "male": 1,
@@ -6745,7 +6745,7 @@
     "isMajor": 0
   },
   {
-    "name": "Viserys Targaryen",
+    "name": "Viserys_Targaryen",
     "isDead": 1,
     "age": 22,
     "male": 1,
@@ -6764,7 +6764,7 @@
     "isMajor": 0
   },
   {
-    "name": "Walda Frey (daughter of Walton)",
+    "name": "Walda_Frey_(daughter_of_Walton)",
     "isDead": 0,
     "age": 20,
     "male": 0,
@@ -6783,7 +6783,7 @@
     "isMajor": 0
   },
   {
-    "name": "Walder Brax",
+    "name": "Walder_Brax",
     "isDead": 0,
     "age": 7,
     "male": 0,
@@ -6802,7 +6802,7 @@
     "isMajor": 0
   },
   {
-    "name": "Walder Frey",
+    "name": "Walder_Frey",
     "isDead": 0,
     "age": 92,
     "male": 1,
@@ -6821,7 +6821,7 @@
     "isMajor": 0
   },
   {
-    "name": "Wendel Manderly",
+    "name": "Wendel_Manderly",
     "isDead": 1,
     "age": 46,
     "male": 1,
@@ -6840,7 +6840,7 @@
     "isMajor": 0
   },
   {
-    "name": "Whalen Frey",
+    "name": "Whalen_Frey",
     "isDead": 0,
     "age": 33,
     "male": 1,
@@ -6859,7 +6859,7 @@
     "isMajor": 0
   },
   {
-    "name": "Willem Frey",
+    "name": "Willem_Frey",
     "isDead": 0,
     "age": 11,
     "male": 0,
@@ -6878,7 +6878,7 @@
     "isMajor": 0
   },
   {
-    "name": "Zachery Frey",
+    "name": "Zachery_Frey",
     "isDead": 0,
     "age": 13,
     "male": 1,
@@ -6897,7 +6897,7 @@
     "isMajor": 0
   },
   {
-    "name": "Merrett Frey",
+    "name": "Merrett_Frey",
     "isDead": 1,
     "age": 38,
     "male": 1,
@@ -6916,7 +6916,7 @@
     "isMajor": 0
   },
   {
-    "name": "Mirri Maz Duur",
+    "name": "Mirri_Maz_Duur",
     "isDead": 1,
     "age": 42,
     "male": 0,
@@ -6935,7 +6935,7 @@
     "isMajor": 0
   },
   {
-    "name": "Moreo Tumitis",
+    "name": "Moreo_Tumitis",
     "isDead": 0,
     "age": 32,
     "male": 1,
@@ -6954,7 +6954,7 @@
     "isMajor": 0
   },
   {
-    "name": "Olyvar Frey",
+    "name": "Olyvar_Frey",
     "isDead": 0,
     "age": 19,
     "male": 1,
@@ -6973,7 +6973,7 @@
     "isMajor": 0
   },
   {
-    "name": "Perriane Frey",
+    "name": "Perriane_Frey",
     "isDead": 0,
     "age": 59,
     "male": 0,
@@ -6992,7 +6992,7 @@
     "isMajor": 0
   },
   {
-    "name": "Petyr Baelish",
+    "name": "Petyr_Baelish",
     "isDead": 0,
     "age": 32,
     "male": 1,
@@ -7030,7 +7030,7 @@
     "isMajor": 0
   },
   {
-    "name": "Quenton Greyjoy",
+    "name": "Quenton_Greyjoy",
     "isDead": 0,
     "age": 46,
     "male": 1,
@@ -7068,7 +7068,7 @@
     "isMajor": 0
   },
   {
-    "name": "Ramsay Snow",
+    "name": "Ramsay_Snow",
     "isDead": 0,
     "age": 18,
     "male": 1,
@@ -7087,7 +7087,7 @@
     "isMajor": 0
   },
   {
-    "name": "Rhaegar Targaryen",
+    "name": "Rhaegar_Targaryen",
     "isDead": 1,
     "age": 24,
     "male": 1,
@@ -7106,7 +7106,7 @@
     "isMajor": 0
   },
   {
-    "name": "Rhaena Targaryen (daughter of Daemon)",
+    "name": "Rhaena_Targaryen_(daughter_of_Daemon)",
     "isDead": 0,
     "age": 184,
     "male": 1,
@@ -7125,7 +7125,7 @@
     "isMajor": 0
   },
   {
-    "name": "Rickard Wylde",
+    "name": "Rickard_Wylde",
     "isDead": 0,
     "age": 5,
     "male": 0,
@@ -7144,7 +7144,7 @@
     "isMajor": 0
   },
   {
-    "name": "Robert Brax",
+    "name": "Robert_Brax",
     "isDead": 1,
     "age": 23,
     "male": 1,
@@ -7163,7 +7163,7 @@
     "isMajor": 0
   },
   {
-    "name": "Rohanne Webber",
+    "name": "Rohanne_Webber",
     "isDead": 1,
     "age": 45,
     "male": 0,
@@ -7182,7 +7182,7 @@
     "isMajor": 0
   },
   {
-    "name": "Rollam Westerling",
+    "name": "Rollam_Westerling",
     "isDead": 0,
     "age": 10,
     "male": 1,
@@ -7220,7 +7220,7 @@
     "isMajor": 0
   },
   {
-    "name": "Saera Targaryen",
+    "name": "Saera_Targaryen",
     "isDead": 1,
     "age": 34,
     "male": 0,
@@ -7239,7 +7239,7 @@
     "isMajor": 0
   },
   {
-    "name": "Sandor Clegane",
+    "name": "Sandor_Clegane",
     "isDead": 1,
     "age": 30,
     "male": 1,
@@ -7258,7 +7258,7 @@
     "isMajor": 0
   },
   {
-    "name": "Sarra Frey",
+    "name": "Sarra_Frey",
     "isDead": 0,
     "age": 15,
     "male": 0,
@@ -7277,7 +7277,7 @@
     "isMajor": 0
   },
   {
-    "name": "Shirei Frey",
+    "name": "Shirei_Frey",
     "isDead": 0,
     "age": 8,
     "male": 0,
@@ -7296,7 +7296,7 @@
     "isMajor": 0
   },
   {
-    "name": "Stannis Baratheon",
+    "name": "Stannis_Baratheon",
     "isDead": 0,
     "age": 36,
     "male": 1,
@@ -7315,7 +7315,7 @@
     "isMajor": 0
   },
   {
-    "name": "Steffon Seaworth",
+    "name": "Steffon_Seaworth",
     "isDead": 0,
     "age": 7,
     "male": 1,
@@ -7334,7 +7334,7 @@
     "isMajor": 0
   },
   {
-    "name": "Stevron Frey",
+    "name": "Stevron_Frey",
     "isDead": 1,
     "age": 66,
     "male": 1,
@@ -7353,7 +7353,7 @@
     "isMajor": 0
   },
   {
-    "name": "Tygett Lannister",
+    "name": "Tygett_Lannister",
     "isDead": 1,
     "age": 35,
     "male": 1,
@@ -7372,7 +7372,7 @@
     "isMajor": 0
   },
   {
-    "name": "Tyrion Tanner",
+    "name": "Tyrion_Tanner",
     "isDead": 0,
     "age": 0,
     "male": 1,
@@ -7391,7 +7391,7 @@
     "isMajor": 0
   },
   {
-    "name": "Tytos Brax",
+    "name": "Tytos_Brax",
     "isDead": 0,
     "age": 25,
     "male": 1,
@@ -7410,7 +7410,7 @@
     "isMajor": 0
   },
   {
-    "name": "Tywin Lannister",
+    "name": "Tywin_Lannister",
     "isDead": 1,
     "age": 58,
     "male": 1,
@@ -7429,7 +7429,7 @@
     "isMajor": 0
   },
   {
-    "name": "Utherydes Wayn",
+    "name": "Utherydes_Wayn",
     "isDead": 0,
     "age": 63,
     "male": 0,
@@ -7448,7 +7448,7 @@
     "isMajor": 0
   },
   {
-    "name": "Vardis Egen",
+    "name": "Vardis_Egen",
     "isDead": 1,
     "age": 49,
     "male": 1,
@@ -7467,7 +7467,7 @@
     "isMajor": 0
   },
   {
-    "name": "Victor Tyrell",
+    "name": "Victor_Tyrell",
     "isDead": 1,
     "age": 21,
     "male": 1,
@@ -7486,7 +7486,7 @@
     "isMajor": 0
   },
   {
-    "name": "Viserys I Targaryen",
+    "name": "Viserys_I_Targaryen",
     "isDead": 1,
     "age": 52,
     "male": 1,
@@ -7505,7 +7505,7 @@
     "isMajor": 0
   },
   {
-    "name": "Walda Frey (daughter of Merrett)",
+    "name": "Walda_Frey_(daughter_of_Merrett)",
     "isDead": 0,
     "age": 17,
     "male": 0,
@@ -7524,7 +7524,7 @@
     "isMajor": 0
   },
   {
-    "name": "Walder Frey (son of Jammos)",
+    "name": "Walder_Frey_(son_of_Jammos)",
     "isDead": 0,
     "age": 9,
     "male": 1,
@@ -7543,7 +7543,7 @@
     "isMajor": 0
   },
   {
-    "name": "Walder Goodbrook",
+    "name": "Walder_Goodbrook",
     "isDead": 0,
     "age": 10,
     "male": 1,
@@ -7562,7 +7562,7 @@
     "isMajor": 0
   },
   {
-    "name": "Willem Lannister",
+    "name": "Willem_Lannister",
     "isDead": 1,
     "age": 14,
     "male": 1,
@@ -7581,7 +7581,7 @@
     "isMajor": 0
   },
   {
-    "name": "Willow (daughter of Aegon IV)",
+    "name": "Willow_(daughter_of_Aegon_IV)",
     "isDead": 0,
     "age": 143,
     "male": 0,
@@ -7600,7 +7600,7 @@
     "isMajor": 0
   },
   {
-    "name": "Wylis Manderly",
+    "name": "Wylis_Manderly",
     "isDead": 0,
     "age": 48,
     "male": 1,
@@ -7619,7 +7619,7 @@
     "isMajor": 0
   },
   {
-    "name": "Wynafryd Manderly",
+    "name": "Wynafryd_Manderly",
     "isDead": 0,
     "age": 20,
     "male": 0,
@@ -7638,7 +7638,7 @@
     "isMajor": 0
   },
   {
-    "name": "Zia Frey",
+    "name": "Zia_Frey",
     "isDead": 0,
     "age": 15,
     "male": 0,
@@ -7657,7 +7657,7 @@
     "isMajor": 0
   },
   {
-    "name": "Melara Hetherspoon",
+    "name": "Melara_Hetherspoon",
     "isDead": 1,
     "age": 12,
     "male": 1,
@@ -7695,7 +7695,7 @@
     "isMajor": 0
   },
   {
-    "name": "Morya Frey",
+    "name": "Morya_Frey",
     "isDead": 0,
     "age": 32,
     "male": 0,
@@ -7714,7 +7714,7 @@
     "isMajor": 0
   },
   {
-    "name": "Myranda Royce",
+    "name": "Myranda_Royce",
     "isDead": 0,
     "age": 21,
     "male": 0,
@@ -7733,7 +7733,7 @@
     "isMajor": 0
   },
   {
-    "name": "Obella Sand",
+    "name": "Obella_Sand",
     "isDead": 0,
     "age": 13,
     "male": 0,
@@ -7752,7 +7752,7 @@
     "isMajor": 0
   },
   {
-    "name": "Perwyn Frey",
+    "name": "Perwyn_Frey",
     "isDead": 0,
     "age": 31,
     "male": 1,
@@ -7771,7 +7771,7 @@
     "isMajor": 0
   },
   {
-    "name": "Otto Hightower",
+    "name": "Otto_Hightower",
     "isDead": 1,
     "age": 55,
     "male": 1,
@@ -7809,7 +7809,7 @@
     "isMajor": 0
   },
   {
-    "name": "Pate (Standfast)",
+    "name": "Pate_(Standfast)",
     "isDead": 0,
     "age": 139,
     "male": 1,
@@ -7828,7 +7828,7 @@
     "isMajor": 0
   },
   {
-    "name": "Renly Baratheon",
+    "name": "Renly_Baratheon",
     "isDead": 1,
     "age": 22,
     "male": 1,
@@ -7866,7 +7866,7 @@
     "isMajor": 0
   },
   {
-    "name": "Rickard Stark",
+    "name": "Rickard_Stark",
     "isDead": 1,
     "age": 52,
     "male": 1,
@@ -7885,7 +7885,7 @@
     "isMajor": 0
   },
   {
-    "name": "Robert Arryn",
+    "name": "Robert_Arryn",
     "isDead": 0,
     "age": 8,
     "male": 1,
@@ -7904,7 +7904,7 @@
     "isMajor": 0
   },
   {
-    "name": "Shiera Seastar",
+    "name": "Shiera_Seastar",
     "isDead": 1,
     "age": 33,
     "male": 0,
@@ -7923,7 +7923,7 @@
     "isMajor": 0
   },
   {
-    "name": "Ryon Allyrion",
+    "name": "Ryon_Allyrion",
     "isDead": 0,
     "age": 37,
     "male": 1,
@@ -7961,7 +7961,7 @@
     "isMajor": 0
   },
   {
-    "name": "Sansa Stark",
+    "name": "Sansa_Stark",
     "isDead": 0,
     "age": 14,
     "male": 0,
@@ -7980,7 +7980,7 @@
     "isMajor": 0
   },
   {
-    "name": "Tytos Lannister",
+    "name": "Tytos_Lannister",
     "isDead": 1,
     "age": 47,
     "male": 1,
@@ -7999,7 +7999,7 @@
     "isMajor": 0
   },
   {
-    "name": "Tom of Sevenstreams",
+    "name": "Tom_of_Sevenstreams",
     "isDead": 0,
     "age": 60,
     "male": 1,
@@ -8018,7 +8018,7 @@
     "isMajor": 0
   },
   {
-    "name": "Walda Rivers",
+    "name": "Walda_Rivers",
     "isDead": 0,
     "age": 6,
     "male": 0,
@@ -8037,7 +8037,7 @@
     "isMajor": 0
   },
   {
-    "name": "Tybolt Lannister",
+    "name": "Tybolt_Lannister",
     "isDead": 1,
     "age": 16,
     "male": 1,
@@ -8075,7 +8075,7 @@
     "isMajor": 0
   },
   {
-    "name": "Uthor Underleaf",
+    "name": "Uthor_Underleaf",
     "isDead": 0,
     "age": 119,
     "male": 1,
@@ -8094,7 +8094,7 @@
     "isMajor": 0
   },
   {
-    "name": "Walder Frey (son of Merrett)",
+    "name": "Walder_Frey_(son_of_Merrett)",
     "isDead": 1,
     "age": 9,
     "male": 1,
@@ -8113,7 +8113,7 @@
     "isMajor": 0
   },
   {
-    "name": "Walda Frey (daughter of Edwyn)",
+    "name": "Walda_Frey_(daughter_of_Edwyn)",
     "isDead": 0,
     "age": 10,
     "male": 0,
@@ -8132,7 +8132,7 @@
     "isMajor": 0
   },
   {
-    "name": "Willas Tyrell",
+    "name": "Willas_Tyrell",
     "isDead": 0,
     "age": 30,
     "male": 1,
@@ -8151,7 +8151,7 @@
     "isMajor": 0
   },
   {
-    "name": "Wylla Manderly",
+    "name": "Wylla_Manderly",
     "isDead": 0,
     "age": 16,
     "male": 0,
@@ -8170,7 +8170,7 @@
     "isMajor": 0
   },
   {
-    "name": "Medgar Tully",
+    "name": "Medgar_Tully",
     "isDead": 1,
     "age": 21,
     "male": 1,
@@ -8189,7 +8189,7 @@
     "isMajor": 0
   },
   {
-    "name": "Megga Tyrell",
+    "name": "Megga_Tyrell",
     "isDead": 0,
     "age": 14,
     "male": 0,
@@ -8246,7 +8246,7 @@
     "isMajor": 0
   },
   {
-    "name": "Mylenda Caron",
+    "name": "Mylenda_Caron",
     "isDead": 0,
     "age": 35,
     "male": 1,
@@ -8265,7 +8265,7 @@
     "isMajor": 0
   },
   {
-    "name": "Obara Sand",
+    "name": "Obara_Sand",
     "isDead": 0,
     "age": 29,
     "male": 0,
@@ -8284,7 +8284,7 @@
     "isMajor": 0
   },
   {
-    "name": "Podrick Payne",
+    "name": "Podrick_Payne",
     "isDead": 0,
     "age": 14,
     "male": 1,
@@ -8303,7 +8303,7 @@
     "isMajor": 0
   },
   {
-    "name": "Petyr Frey",
+    "name": "Petyr_Frey",
     "isDead": 1,
     "age": 19,
     "male": 1,
@@ -8341,7 +8341,7 @@
     "isMajor": 0
   },
   {
-    "name": "Robert Brax (son of Flement)",
+    "name": "Robert_Brax_(son_of_Flement)",
     "isDead": 0,
     "age": 10,
     "male": 1,
@@ -8360,7 +8360,7 @@
     "isMajor": 0
   },
   {
-    "name": "Rhaegel Targaryen",
+    "name": "Rhaegel_Targaryen",
     "isDead": 1,
     "age": 42,
     "male": 1,
@@ -8379,7 +8379,7 @@
     "isMajor": 0
   },
   {
-    "name": "Robb Stark",
+    "name": "Robb_Stark",
     "isDead": 1,
     "age": 16,
     "male": 1,
@@ -8398,7 +8398,7 @@
     "isMajor": 0
   },
   {
-    "name": "Rhaena Targaryen (daughter of Aegon III)",
+    "name": "Rhaena_Targaryen_(daughter_of_Aegon_III)",
     "isDead": 0,
     "age": 153,
     "male": 0,
@@ -8417,7 +8417,7 @@
     "isMajor": 0
   },
   {
-    "name": "Roslin Frey",
+    "name": "Roslin_Frey",
     "isDead": 0,
     "age": 18,
     "male": 1,
@@ -8436,7 +8436,7 @@
     "isMajor": 0
   },
   {
-    "name": "Rickon Stark",
+    "name": "Rickon_Stark",
     "isDead": 0,
     "age": 5,
     "male": 1,
@@ -8455,7 +8455,7 @@
     "isMajor": 0
   },
   {
-    "name": "Sandor Frey",
+    "name": "Sandor_Frey",
     "isDead": 0,
     "age": 13,
     "male": 0,
@@ -8474,7 +8474,7 @@
     "isMajor": 0
   },
   {
-    "name": "Serra Frey",
+    "name": "Serra_Frey",
     "isDead": 0,
     "age": 15,
     "male": 0,
@@ -8493,7 +8493,7 @@
     "isMajor": 0
   },
   {
-    "name": "Selwyn Tarth",
+    "name": "Selwyn_Tarth",
     "isDead": 0,
     "age": 55,
     "male": 1,
@@ -8512,7 +8512,7 @@
     "isMajor": 0
   },
   {
-    "name": "Ronnet Connington",
+    "name": "Ronnet_Connington",
     "isDead": 0,
     "age": 26,
     "male": 1,
@@ -8531,7 +8531,7 @@
     "isMajor": 0
   },
   {
-    "name": "Symond Frey",
+    "name": "Symond_Frey",
     "isDead": 1,
     "age": 48,
     "male": 1,
@@ -8550,7 +8550,7 @@
     "isMajor": 0
   },
   {
-    "name": "Stannis Seaworth",
+    "name": "Stannis_Seaworth",
     "isDead": 0,
     "age": 11,
     "male": 1,
@@ -8569,7 +8569,7 @@
     "isMajor": 0
   },
   {
-    "name": "Steffon Baratheon",
+    "name": "Steffon_Baratheon",
     "isDead": 1,
     "age": 32,
     "male": 1,
@@ -8588,7 +8588,7 @@
     "isMajor": 0
   },
   {
-    "name": "Trystane Martell",
+    "name": "Trystane_Martell",
     "isDead": 0,
     "age": 13,
     "male": 1,
@@ -8607,7 +8607,7 @@
     "isMajor": 0
   },
   {
-    "name": "Theon Greyjoy",
+    "name": "Theon_Greyjoy",
     "isDead": 0,
     "age": 22,
     "male": 1,
@@ -8626,7 +8626,7 @@
     "isMajor": 0
   },
   {
-    "name": "Tybolt Hetherspoon",
+    "name": "Tybolt_Hetherspoon",
     "isDead": 0,
     "age": 48,
     "male": 1,
@@ -8645,7 +8645,7 @@
     "isMajor": 0
   },
   {
-    "name": "Tysane Frey",
+    "name": "Tysane_Frey",
     "isDead": 0,
     "age": 8,
     "male": 0,
@@ -8664,7 +8664,7 @@
     "isMajor": 0
   },
   {
-    "name": "Tommen Baratheon",
+    "name": "Tommen_Baratheon",
     "isDead": 0,
     "age": 9,
     "male": 1,
@@ -8702,7 +8702,7 @@
     "isMajor": 0
   },
   {
-    "name": "Walder Frey (son of Ryman)",
+    "name": "Walder_Frey_(son_of_Ryman)",
     "isDead": 0,
     "age": 40,
     "male": 1,
@@ -8721,7 +8721,7 @@
     "isMajor": 0
   },
   {
-    "name": "Wallace Waynwood",
+    "name": "Wallace_Waynwood",
     "isDead": 0,
     "age": 22,
     "male": 1,
@@ -8740,7 +8740,7 @@
     "isMajor": 0
   },
   {
-    "name": "Tytos Frey",
+    "name": "Tytos_Frey",
     "isDead": 1,
     "age": 38,
     "male": 1,
@@ -8759,7 +8759,7 @@
     "isMajor": 0
   },
   {
-    "name": "Tyland Lannister",
+    "name": "Tyland_Lannister",
     "isDead": 1,
     "age": 44,
     "male": 1,
@@ -8778,7 +8778,7 @@
     "isMajor": 0
   },
   {
-    "name": "Urrigon Greyjoy",
+    "name": "Urrigon_Greyjoy",
     "isDead": 1,
     "age": 15,
     "male": 1,
@@ -8797,7 +8797,7 @@
     "isMajor": 0
   },
   {
-    "name": "Waymar Royce",
+    "name": "Waymar_Royce",
     "isDead": 1,
     "age": 19,
     "male": 1,
@@ -8816,7 +8816,7 @@
     "isMajor": 0
   },
   {
-    "name": "Walda Frey (daughter of Rhaegar)",
+    "name": "Walda_Frey_(daughter_of_Rhaegar)",
     "isDead": 0,
     "age": 12,
     "male": 0,
@@ -8835,7 +8835,7 @@
     "isMajor": 0
   },
   {
-    "name": "Viserys II Targaryen",
+    "name": "Viserys_II_Targaryen",
     "isDead": 1,
     "age": 50,
     "male": 1,
@@ -8854,7 +8854,7 @@
     "isMajor": 0
   },
   {
-    "name": "Waltyr Frey",
+    "name": "Waltyr_Frey",
     "isDead": 0,
     "age": 11,
     "male": 1,
@@ -8873,7 +8873,7 @@
     "isMajor": 0
   },
   {
-    "name": "Wynton Stout",
+    "name": "Wynton_Stout",
     "isDead": 0,
     "age": 81,
     "male": 1,
@@ -8892,7 +8892,7 @@
     "isMajor": 0
   },
   {
-    "name": "Walder Haigh",
+    "name": "Walder_Haigh",
     "isDead": 0,
     "age": 6,
     "male": 0,
@@ -8911,7 +8911,7 @@
     "isMajor": 0
   },
   {
-    "name": "Willamen Frey",
+    "name": "Willamen_Frey",
     "isDead": 0,
     "age": 28,
     "male": 1,
@@ -8930,7 +8930,7 @@
     "isMajor": 0
   },
   {
-    "name": "Young Henly",
+    "name": "Young_Henly",
     "isDead": 1,
     "age": 59,
     "male": 1,
@@ -8949,7 +8949,7 @@
     "isMajor": 0
   },
   {
-    "name": "Merianne Frey",
+    "name": "Merianne_Frey",
     "isDead": 0,
     "age": 12,
     "male": 0,
@@ -8968,7 +8968,7 @@
     "isMajor": 0
   },
   {
-    "name": "Myrcella Baratheon",
+    "name": "Myrcella_Baratheon",
     "isDead": 0,
     "age": 10,
     "male": 0,
@@ -8987,7 +8987,7 @@
     "isMajor": 0
   },
   {
-    "name": "Monterys Velaryon",
+    "name": "Monterys_Velaryon",
     "isDead": 0,
     "age": 7,
     "male": 1,
@@ -9006,7 +9006,7 @@
     "isMajor": 0
   },
   {
-    "name": "Mors Martell (brother of Doran)",
+    "name": "Mors_Martell_(brother_of_Doran)",
     "isDead": 1,
     "age": 0,
     "male": 1,
@@ -9025,7 +9025,7 @@
     "isMajor": 0
   },
   {
-    "name": "Old Henly",
+    "name": "Old_Henly",
     "isDead": 1,
     "age": 79,
     "male": 1,
@@ -9044,7 +9044,7 @@
     "isMajor": 0
   },
   {
-    "name": "Oberyn Martell",
+    "name": "Oberyn_Martell",
     "isDead": 1,
     "age": 43,
     "male": 1,
@@ -9063,7 +9063,7 @@
     "isMajor": 0
   },
   {
-    "name": "Mya Stone",
+    "name": "Mya_Stone",
     "isDead": 0,
     "age": 21,
     "male": 0,
@@ -9082,7 +9082,7 @@
     "isMajor": 0
   },
   {
-    "name": "Nymeria Sand",
+    "name": "Nymeria_Sand",
     "isDead": 0,
     "age": 26,
     "male": 0,
@@ -9120,7 +9120,7 @@
     "isMajor": 0
   },
   {
-    "name": "Renly Norcross",
+    "name": "Renly_Norcross",
     "isDead": 0,
     "age": 4,
     "male": 1,
@@ -9139,7 +9139,7 @@
     "isMajor": 0
   },
   {
-    "name": "Raymund Frey",
+    "name": "Raymund_Frey",
     "isDead": 0,
     "age": 36,
     "male": 1,
@@ -9158,7 +9158,7 @@
     "isMajor": 0
   },
   {
-    "name": "Rhae Targaryen",
+    "name": "Rhae_Targaryen",
     "isDead": 0,
     "age": 99,
     "male": 0,
@@ -9177,7 +9177,7 @@
     "isMajor": 0
   },
   {
-    "name": "Rhaenys Targaryen (daughter of Aemon)",
+    "name": "Rhaenys_Targaryen_(daughter_of_Aemon)",
     "isDead": 1,
     "age": 55,
     "male": 0,
@@ -9196,7 +9196,7 @@
     "isMajor": 0
   },
   {
-    "name": "Rhaella Targaryen",
+    "name": "Rhaella_Targaryen",
     "isDead": 1,
     "age": 39,
     "male": 1,
@@ -9215,7 +9215,7 @@
     "isMajor": 0
   },
   {
-    "name": "Ryella Frey",
+    "name": "Ryella_Frey",
     "isDead": 0,
     "age": 6,
     "male": 0,
@@ -9234,7 +9234,7 @@
     "isMajor": 0
   },
   {
-    "name": "Sarella Sand",
+    "name": "Sarella_Sand",
     "isDead": 0,
     "age": 20,
     "male": 0,
@@ -9253,7 +9253,7 @@
     "isMajor": 0
   },
   {
-    "name": "Stafford Lannister",
+    "name": "Stafford_Lannister",
     "isDead": 1,
     "age": 54,
     "male": 1,
@@ -9272,7 +9272,7 @@
     "isMajor": 0
   },
   {
-    "name": "Steffon Frey",
+    "name": "Steffon_Frey",
     "isDead": 0,
     "age": 37,
     "male": 0,
@@ -9291,7 +9291,7 @@
     "isMajor": 0
   },
   {
-    "name": "Sylva Santagar",
+    "name": "Sylva_Santagar",
     "isDead": 0,
     "age": 24,
     "male": 0,
@@ -9310,7 +9310,7 @@
     "isMajor": 0
   },
   {
-    "name": "Tyrek Lannister",
+    "name": "Tyrek_Lannister",
     "isDead": 1,
     "age": 13,
     "male": 1,
@@ -9329,7 +9329,7 @@
     "isMajor": 0
   },
   {
-    "name": "Valarr Targaryen",
+    "name": "Valarr_Targaryen",
     "isDead": 1,
     "age": 26,
     "male": 1,
@@ -9348,7 +9348,7 @@
     "isMajor": 0
   },
   {
-    "name": "Tion Frey",
+    "name": "Tion_Frey",
     "isDead": 1,
     "age": 20,
     "male": 1,
@@ -9367,7 +9367,7 @@
     "isMajor": 0
   },
   {
-    "name": "Walder Vance",
+    "name": "Walder_Vance",
     "isDead": 0,
     "age": 37,
     "male": 1,
@@ -9386,7 +9386,7 @@
     "isMajor": 0
   },
   {
-    "name": "Tywin Frey",
+    "name": "Tywin_Frey",
     "isDead": 0,
     "age": 13,
     "male": 1,
@@ -9405,7 +9405,7 @@
     "isMajor": 0
   },
   {
-    "name": "Viserys Plumm",
+    "name": "Viserys_Plumm",
     "isDead": 0,
     "age": 124,
     "male": 0,
@@ -9424,7 +9424,7 @@
     "isMajor": 0
   },
   {
-    "name": "Tyta Frey",
+    "name": "Tyta_Frey",
     "isDead": 0,
     "age": 31,
     "male": 0,
@@ -9443,7 +9443,7 @@
     "isMajor": 0
   },
   {
-    "name": "Walder Frey (son of Emmon)",
+    "name": "Walder_Frey_(son_of_Emmon)",
     "isDead": 0,
     "age": 15,
     "male": 1,
@@ -9462,7 +9462,7 @@
     "isMajor": 0
   },
   {
-    "name": "Wyman Manderly",
+    "name": "Wyman_Manderly",
     "isDead": 0,
     "age": 61,
     "male": 1,
@@ -9481,7 +9481,7 @@
     "isMajor": 0
   },
   {
-    "name": "Victaria Tyrell",
+    "name": "Victaria_Tyrell",
     "isDead": 0,
     "age": 22,
     "male": 0,
@@ -9500,7 +9500,7 @@
     "isMajor": 0
   },
   {
-    "name": "Wex Pyke",
+    "name": "Wex_Pyke",
     "isDead": 0,
     "age": 14,
     "male": 1,
@@ -9519,7 +9519,7 @@
     "isMajor": 0
   },
   {
-    "name": "Walda Frey (daughter of Lothar)",
+    "name": "Walda_Frey_(daughter_of_Lothar)",
     "isDead": 0,
     "age": 6,
     "male": 0,
@@ -9538,7 +9538,7 @@
     "isMajor": 0
   },
   {
-    "name": "Walda Rivers (daughter of Aemon)",
+    "name": "Walda_Rivers_(daughter_of_Aemon)",
     "isDead": 0,
     "age": 5,
     "male": 0,
@@ -9557,7 +9557,7 @@
     "isMajor": 0
   },
   {
-    "name": "Walton Frey",
+    "name": "Walton_Frey",
     "isDead": 0,
     "age": 51,
     "male": 1,
@@ -9595,7 +9595,7 @@
     "isMajor": 0
   },
   {
-    "name": "Wendel Frey",
+    "name": "Wendel_Frey",
     "isDead": 0,
     "age": 14,
     "male": 1,
@@ -9614,7 +9614,7 @@
     "isMajor": 0
   },
   {
-    "name": "Willow Heddle",
+    "name": "Willow_Heddle",
     "isDead": 0,
     "age": 11,
     "male": 0,
