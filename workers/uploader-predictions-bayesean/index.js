@@ -9,6 +9,18 @@ async function updatePredictions(callback) {
   ]);
   const updater = await new utils.APIUpdater().init();
   
+  //book coefficients
+  let bookAttrs = bookPred.attributes;
+  let bookMeanBetaExp = bookPred.meanBetaExp;
+  let bookCoefficients = {};
+  for (int i=0; i<bookAttrs.length; i++) {
+    bookCoefficients[bookAttrs[i]] = bookMeanBetaExp[i];
+  }
+  
+  //upload book coefficients
+  console.log(bookCoefficients);
+  //TODO
+  
   //book predictions
   for (let name in bookPred.characters) {
     //find date of birth
@@ -38,6 +50,18 @@ async function updatePredictions(callback) {
     //update predictions online
     console.log(await updater.updatePLODLongevity('book', name, plod, survFnStart, survFn));
   }
+  
+  //show coefficients
+  let showAttrs = showPred.attributes;
+  let showMeanBetaExp = showPred.meanBetaExp;
+  let showCoefficients = {};
+  for (int i=0; i<showAttrs.length; i++) {
+    showCoefficients[showAttrs[i]] = showMeanBetaExp[i];
+  }
+  
+  //upload show coefficients
+  console.log(showCoefficients);
+  //TODO
   
   //show predictions
   for (let name in showPred.characters) {

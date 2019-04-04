@@ -101,8 +101,9 @@ def fitAge_greater_equal_last(survFn, greaterThan):
 predictions = {} #we'll write this dict to a JSON
 #predictions["priorHazard"] = trace['lambda0'].astype(float).tolist()
 predictions["attributes"] = colNames
-mean_beta = trace['beta'] # make a mean of all rows in the entire trace, transform the column matrix into a (single-) row matrix and get the row out
-predictions["betaExp"] = np.exp(mean_beta).astype(float).tolist()
+beta = trace['beta'] # make a mean of all rows in the entire trace, transform the column matrix into a (single-) row matrix and get the row out
+predictions["betaExp"] = np.exp(beta).astype(float).tolist()
+predictions["meanBetaExp"] = np.exp(beta.mean(axis=0)).astype(float).tolist()
 predictions["characters"] = []
 #now add the survial function for every character
 for i in range(0, num_characters):

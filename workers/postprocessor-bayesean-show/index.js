@@ -11,7 +11,7 @@ function reformatOutput(predictionObject, callback) {
   //onlyAlive will store alive, filtered characters
   let onlyAlive = {};
   onlyAlive.attributes = predictionObject.attributes;
-  onlyAlive.betaExp = predictionObject.betaExp;
+  onlyAlive.meanBetaExp = predictionObject.meanBetaExp;
   onlyAlive.characters = {};
   
   for(let c of predictionObject.characters) {
