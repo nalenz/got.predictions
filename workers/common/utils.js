@@ -49,11 +49,19 @@ function loadPredictionsBook() {
   return fs.readJSON(path.join(__dirname, '../predictors-neural/predictor-neural-v2/output/predictions.json'));
 }
 
+function loadBayeseanPredictionsBook() {
+  return fs.readJSON(path.join(__dirname, '../postprocessor-bayesean-book/book_predictions.json'));
+}
+
 /**
  * Loads the JSON file of the show predictions.
  */
 function loadPredictionsShow() {
   return fs.readJSON(path.join(__dirname, '../predictors-neural/predictor-neural-show-v1/output/predictions.json'));
+}
+
+function loadBayeseanPredictionsShow() {
+  return fs.readJSON(path.join(__dirname, '../postprocessor-bayesean-show/show_predictions.json'));
 }
 
 /**

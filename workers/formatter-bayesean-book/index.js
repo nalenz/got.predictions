@@ -24,15 +24,19 @@ const AGE_THRESHOLD = 100; //alive characters above this age are considered to b
 //COLLECTOR FUNCTIONS (will collect data from the data-mined model)
 
 function isAlive(character) {
-  return character.dateOfDeath == null || character.dateOfDeath == undefined;
+  return character.alive;
 }
 
 function isSuitableChar(character) {
-  if(character.dateOfBirth == undefined || character.dateOfBirth == null) {
+  if(character.alive == undefined || character.alive == null) {
+    return false;
+  } else if(character.alive == false && (character.death == null || character.death == undefined)) {
+    return false;
+  } else if(character.birth == undefined || character.birth == null) {
     return false; // character's date of birth is missing
-  } else if ((character.dateOfDeath == null || character.dateOfDeath == undefined) && config.GOT_CURRENT_YEAR - character.dateOfBirth > AGE_THRESHOLD) {
+  } else if (character.alive && config.GOT_CURRENT_YEAR - character.birth > AGE_THRESHOLD) {
     return false; // character has no date of death, but is apparently over AGE_THRESHOLD years old
-  } else if(character.dateOfDeath < character.dateOfBirth) {
+  } else if(character.death < character.birth) {
     return false;
   }
   return true;
@@ -43,7 +47,7 @@ function filterChars(unfilteredChars) {
   for(let ch of unfilteredChars) {
     if(isSuitableChar(ch)) {
       characters.push(ch);
-	}
+    }
   }
   return characters;
 }
@@ -51,13 +55,13 @@ function filterChars(unfilteredChars) {
 function collectLocations(charLocations, filteredChars, locMap) {
   let locations_all = []; //all locations we might have flags for
   for (let c_l of charLocations) {
-	// now check if any new locations will come to the locations array
-	for (let loc of c_l.locations) {
-	  if (locations_all.includes (loc) == false) {
-		//new location is not contained in the array, add it
-		locations_all.push(loc);
-	  }
-	}
+    // now check if any new locations will come to the locations array
+    for (let loc of c_l.locations) {
+      if (locations_all.includes (loc) == false) {
+        //new location is not contained in the array, add it
+        locations_all.push(loc);
+      }
+    }
   }
   
   // now, filter locations that have had at least LOCATION_VISITED_THRESHOLD
@@ -65,15 +69,15 @@ function collectLocations(charLocations, filteredChars, locMap) {
   let locations = [];
   for(let l of locations_all) {
     loc_counter = 0;
-	for(let c of filteredChars) {
-	  visited = locMap.get(c.name);
+    for(let c of filteredChars) {
+      visited = locMap.get(c.name);
       if(visited != undefined && visited.includes(l)) {
-		loc_counter += 1;
-	  }
-	}
-	if(loc_counter >= LOCATION_VISITED_THRESHOLD) {
-	  locations.push(l);
-	}
+        loc_counter += 1;
+      }
+    }
+    if(loc_counter >= LOCATION_VISITED_THRESHOLD) {
+      locations.push(l);
+    }
   }
   
   return locations;
@@ -98,7 +102,7 @@ function collectHouses(unfilteredHouses, filteredChars) {
     for(let ch of filteredChars) {
       if(ch.house == h.name) {
         house_counter += 1;
-	  }
+      }
 	  }
 	  if(house_counter >= HOUSE_THRESHOLD) {
         houses.push(h);
@@ -116,11 +120,11 @@ function collectCultures(unfilteredCultures, filteredChars) {
     for(let ch of filteredChars) {
       if(ch.culture == c.name) {
         culture_counter += 1;
-	  }
-	}
-	if(culture_counter >= CULTURES_THRESHOLD) {
-      cultures.push(c);
-	}
+      }
+    }
+    if(culture_counter >= CULTURES_THRESHOLD) {
+        cultures.push(c);
+    }
   }
   
   return cultures;
@@ -130,8 +134,8 @@ function getMaxRank(characters) {
   //max pageRank from all characters
   let max = 0;
   for(let ch of characters) {
-    if(ch.pageRank > max) {
-      max = ch.pageRank;
+  if(ch.pageRank != null && ch.pagerank != undefined && ch.pageRank.rank > max) {
+      max = ch.pageRank.rank;
     }
   }
   return max;
@@ -146,23 +150,23 @@ function processAge(srcChar, destChar) {
   if (!isAlive(srcChar)) {
     // there is a date of death => is dead
     destChar.isDead = 1;
-    destChar.age = srcChar.dateOfDeath - srcChar.dateOfBirth;
+    destChar.age = srcChar.death - srcChar.birth;
   } else {
-    // there is no date of death => lives on to the CURRENT_YEAR
+    // lives on to the CURRENT_YEAR
     destChar.isDead = 0;
-    destChar.age = config.GOT_CURRENT_YEAR - srcChar.dateOfBirth;
+    destChar.age = config.GOT_CURRENT_YEAR_BOOK - srcChar.birth;
   }
 }
 
 function processGender(srcChar, destChar) {
   // "male" flag = 1 if male
-  if (srcChar.male !== undefined && srcChar.male !== null) {
-	if (srcChar.male) {
-	  destChar.male = 1;
-	}
-	else {
-	  destChar.male = 0;
-	}
+  if (srcChar.gender !== undefined && srcChar.gender !== null) {
+    if (srcChar.gender == "male") {
+      destChar.male = 1;
+    }
+    else {
+      destChar.male = 0;
+    }
   }
   else { //No gender?
     destChar.male = 0;
@@ -172,6 +176,7 @@ function processGender(srcChar, destChar) {
 function processHouses(srcChar, destChar, houses) {
   // for each suitable house, add a flag = 1 if the character is in that house
   for (let h of houses) {
+    if (h.name == null || h.name == undefined) continue;
     if (srcChar.house === h.name) {
       // character IS in this house
       destChar[h.name] = 1;
@@ -183,9 +188,11 @@ function processHouses(srcChar, destChar, houses) {
   
   // also set the house flag to = 1 if the character has pledged allegiance to it
   if (srcChar.allegiance !== null && srcChar.allegiance !== undefined) {
-	for (let h of srcChar.allegiance) {
-	  destChar[h.name] = 1;
-	}
+    for (let h of srcChar.allegiance) {
+      if (destChar[h] == 0 || destChar[h] == 1) {
+        destChar[h] = 1;
+      }
+    }
   }
 }
 
@@ -211,7 +218,7 @@ function processTitles(srcChar, destChar) {
 function processSpouses(srcChar, destChar, characters) {
   // is the character married?
   // TODO cover the case where somebody else has srcChar as a spouse, but not vice versa
-  if (srcChar["spouse"] != undefined && srcChar["spouse"].length > 0) {
+  if (srcChar["spouse"] != undefined && srcChar["spouse"] != null && srcChar["spouse"].length > 0) {
     destChar.isMarried = 1;
     //destChar.hasDeadSpouse = 0;
     //determine whether character has a dead spouse
@@ -264,12 +271,9 @@ function processLocations(srcChar, destChar, locations, locMap) {
 
 function processParents(srcChar, destChar, characters) {
   //first: Is srcChar somebody's parent?
-  destChar.isParent = 0;
-  for(let ch of characters) {
-    if(ch.mother == srcChar.name || ch.father == srcChar.name) {
-      destChar.isParent = 1; //found a child!
-      break;
-    }
+  destChar.numChildren = 0;
+  if(srcChar.children != null && srcChar.children != undefined && srcChar.children.length > 0) {
+    destChar.numChildren = srcChar.children.length; //found children!
   }
 }
 
@@ -285,7 +289,7 @@ function processHeir(srcChar, destChar, characters) {
 }
 
 function processRank(srcChar, destChar, maxRank) {
-  if(srcChar.pageRank > (0.5 * maxRank)) { //this check is similar to the 2016 project
+  if(srcChar.pageRank != null && srcChar.pageRank != undefined && srcChar.pageRank.rank > (0.5 * maxRank)) { //this check is similar to the 2016 project
     destChar.isMajor = 1;
   } else {
     destChar.isMajor = 0;
@@ -300,12 +304,12 @@ async function genTrainingData (callback) {
     utils.loadBookData('characters'),
     utils.loadBookData('houses'),
     utils.loadBookData('cultures'),
-	utils.loadBookData('character_locations'),
+    utils.loadBookData('characterLocations'),
   ]);
   
   let characters = filterChars(characters_unfiltered); // filter out unsuitable characters
-  //let locMap = genLocationMap(character_locations); // generate a character-to-locations map
-  //let locations = collectLocations(character_locations, characters, locMap); // collect locations and filter them
+  let locMap = genLocationMap(character_locations); // generate a character-to-locations map
+  let locations = collectLocations(character_locations, characters, locMap); // collect locations and filter them
   let houses = collectHouses(houses_unfiltered, characters); // collect houses and filter them
   let cultures = collectCultures(cultures_unfiltered, characters); // collect cultures and filter them
   let maxRank = getMaxRank(characters); //max pageRank can determine who is a major character
