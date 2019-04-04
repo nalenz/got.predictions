@@ -259,7 +259,7 @@ async function genTrainingData (callback) {
     // this will be the reformatted character
     let ref_ch = {};
       
-	  ref_ch.name = ch.slug; // copy the name
+	  ref_ch.name = ch.name; // copy the name
 	  processAge(ch, ref_ch); // process age-related data
 	  processGender(ch, ref_ch); // process gender data
 	  processHouses(ch, ref_ch, houses); // process house data
