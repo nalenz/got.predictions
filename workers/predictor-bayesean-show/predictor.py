@@ -70,7 +70,7 @@ with model:
 beta = trace['beta'] #rows = samples, columns = coefficients
 lambda0 = trace['lambda0'] #rows = samples, single column = base risk per episode
 
-num_slices = 8 #since lambda0 is the same for all slices, this indicates how far into the future the model must look
+num_slices = 50 #since lambda0 is the same for all slices, this indicates how far into the future the model must look
 
 def get_dotprodfactors(params): #get the hazard multipliers (not yet exponentiated) for each sample of the trace, depending on the parameters
   return trace['beta'].dot(np.atleast_2d(params).transpose()) #mutliple dot products => matrix multiplication
