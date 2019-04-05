@@ -4,7 +4,7 @@
         "male": true,
         "birth": 253,
         "age": 47,
-        "pageRank": null,
+        "pageRank": 0.008703618873110398,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -26,7 +26,7 @@
         "male": true,
         "birth": 269,
         "age": 31,
-        "pageRank": null,
+        "pageRank": 0.12505726065048098,
         "numRelatives": 0,
         "allegiances": [
             152
@@ -60,7 +60,7 @@
         "male": false,
         "birth": 282,
         "age": 18,
-        "pageRank": null,
+        "pageRank": 0.015116811726981219,
         "numRelatives": 0,
         "allegiances": [
             9
@@ -84,7 +84,7 @@
         "male": false,
         "birth": 257,
         "age": 43,
-        "pageRank": null,
+        "pageRank": 0.03939532753092075,
         "numRelatives": 0.10869565217391304,
         "allegiances": [
             169,
@@ -112,7 +112,7 @@
         "male": false,
         "birth": 265,
         "age": 35,
-        "pageRank": null,
+        "pageRank": 0.0233623453962437,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -136,7 +136,7 @@
         "male": true,
         "birth": 290,
         "age": 10,
-        "pageRank": null,
+        "pageRank": 0.013284470911589555,
         "numRelatives": 0,
         "allegiances": [
             229
@@ -157,7 +157,7 @@
         "male": false,
         "birth": 286,
         "age": 14,
-        "pageRank": null,
+        "pageRank": 0.025194686211635363,
         "numRelatives": 0,
         "allegiances": [
             318
@@ -178,7 +178,7 @@
         "male": true,
         "birth": 247,
         "age": 53,
-        "pageRank": null,
+        "pageRank": 0.05955107650022904,
         "numRelatives": 0,
         "allegiances": [
             311,
@@ -208,7 +208,7 @@
         "male": true,
         "birth": 295,
         "age": 5,
-        "pageRank": null,
+        "pageRank": 0.021988089784699953,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -232,7 +232,7 @@
         "male": true,
         "birth": 256,
         "age": 44,
-        "pageRank": null,
+        "pageRank": 0.013742556115437472,
         "numRelatives": 0,
         "allegiances": [
             154
@@ -253,7 +253,7 @@
         "male": false,
         "birth": 218,
         "age": 82,
-        "pageRank": null,
+        "pageRank": 0.016491067338524967,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             34,
@@ -273,7 +273,7 @@
         "male": false,
         "birth": 284,
         "age": 16,
-        "pageRank": null,
+        "pageRank": 0.04489234997709574,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             183,
@@ -302,7 +302,7 @@
         "male": false,
         "birth": 273,
         "age": 27,
-        "pageRank": null,
+        "pageRank": 0.02015574896930829,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             223
@@ -327,7 +327,7 @@
         "male": false,
         "birth": 291,
         "age": 9,
-        "pageRank": null,
+        "pageRank": 0.026110856619331196,
         "numRelatives": 0,
         "allegiances": [
             72
@@ -352,7 +352,7 @@
         "male": false,
         "birth": 282,
         "age": 18,
-        "pageRank": null,
+        "pageRank": 0.021071919377004124,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -376,7 +376,7 @@
         "male": false,
         "birth": 282,
         "age": 18,
-        "pageRank": null,
+        "pageRank": 0.0554283096655978,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             136,
@@ -404,7 +404,7 @@
         "male": true,
         "birth": 295,
         "age": 5,
-        "pageRank": null,
+        "pageRank": 0.02153000458085204,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -428,7 +428,7 @@
         "male": true,
         "birth": 229,
         "age": 71,
-        "pageRank": null,
+        "pageRank": 0.009161704076958314,
         "numRelatives": 0,
         "allegiances": [
             81
@@ -452,7 +452,7 @@
         "male": true,
         "birth": 257,
         "age": 43,
-        "pageRank": null,
+        "pageRank": 0.07466788822721027,
         "numRelatives": 0,
         "allegiances": [
             213
@@ -480,7 +480,7 @@
         "male": false,
         "birth": 276,
         "age": 24,
-        "pageRank": null,
+        "pageRank": 0.17315620705451215,
         "numRelatives": 0,
         "allegiances": [
             213
@@ -511,7 +511,7 @@
         "male": true,
         "birth": 249,
         "age": 51,
-        "pageRank": null,
+        "pageRank": 0.009161704076958314,
         "numRelatives": 0,
         "allegiances": [
             183
@@ -533,7 +533,7 @@
         "male": true,
         "birth": 263,
         "age": 37,
-        "pageRank": null,
+        "pageRank": 0.029317453046266605,
         "numRelatives": 0.10869565217391304,
         "allegiances": [
             136
@@ -560,7 +560,7 @@
         "male": false,
         "birth": 285,
         "age": 15,
-        "pageRank": null,
+        "pageRank": 0.007787448465414567,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -582,7 +582,7 @@
         "male": false,
         "birth": 289,
         "age": 11,
-        "pageRank": null,
+        "pageRank": 0.6037562986715529,
         "numRelatives": 0,
         "allegiances": [
             290,
@@ -627,7 +627,7 @@
         "male": false,
         "birth": 275,
         "age": 25,
-        "pageRank": null,
+        "pageRank": 0.2217132386623912,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             152,
@@ -663,7 +663,7 @@
         "male": true,
         "birth": 277,
         "age": 23,
-        "pageRank": null,
+        "pageRank": 0.08795235913879981,
         "numRelatives": 0,
         "allegiances": [
             329
@@ -694,7 +694,7 @@
         "male": true,
         "birth": 236,
         "age": 64,
-        "pageRank": null,
+        "pageRank": 0.407695831424645,
         "numRelatives": 0,
         "allegiances": [
             279,
@@ -736,7 +736,7 @@
         "male": true,
         "birth": 299,
         "age": 1,
-        "pageRank": null,
+        "pageRank": 0.0004580852038479157,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
@@ -755,7 +755,7 @@
         "male": false,
         "birth": 283,
         "age": 17,
-        "pageRank": null,
+        "pageRank": 0.017407237746220796,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
@@ -773,7 +773,7 @@
         "male": true,
         "birth": 293,
         "age": 7,
-        "pageRank": null,
+        "pageRank": 0.001374255611543747,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
@@ -790,7 +790,7 @@
         "male": true,
         "birth": 267,
         "age": 33,
-        "pageRank": null,
+        "pageRank": 0.08612001832340815,
         "numRelatives": 0,
         "allegiances": [
             290,
@@ -823,7 +823,7 @@
         "male": true,
         "birth": 289,
         "age": 11,
-        "pageRank": null,
+        "pageRank": 0.013742556115437472,
         "numRelatives": 0,
         "allegiances": [
             303
@@ -848,7 +848,7 @@
         "male": false,
         "birth": 289,
         "age": 11,
-        "pageRank": null,
+        "pageRank": 0.014658726523133303,
         "numRelatives": 0,
         "allegiances": [
             79
@@ -874,7 +874,7 @@
         "male": true,
         "birth": 282,
         "age": 18,
-        "pageRank": null,
+        "pageRank": 0.002748511223087494,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
@@ -894,7 +894,7 @@
         "male": true,
         "birth": 289,
         "age": 11,
-        "pageRank": null,
+        "pageRank": 0.022904260192395786,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -918,7 +918,7 @@
         "male": true,
         "birth": 290,
         "age": 10,
-        "pageRank": null,
+        "pageRank": 0.42968392120934495,
         "numRelatives": 0,
         "allegiances": [
             290
@@ -953,7 +953,7 @@
         "male": true,
         "birth": 284,
         "age": 16,
-        "pageRank": null,
+        "pageRank": 0.011452130096197893,
         "numRelatives": 0,
         "allegiances": [
             303
@@ -978,7 +978,7 @@
         "male": true,
         "birth": 264,
         "age": 36,
-        "pageRank": null,
+        "pageRank": 0.10765002290426019,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             187,
@@ -1012,7 +1012,7 @@
         "male": true,
         "birth": 281,
         "age": 19,
-        "pageRank": null,
+        "pageRank": 0.015574896930829134,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -1033,7 +1033,7 @@
         "male": true,
         "birth": 220,
         "age": 80,
-        "pageRank": null,
+        "pageRank": 0.002748511223087494,
         "numRelatives": 0,
         "allegiances": [
             37
@@ -1052,7 +1052,7 @@
         "male": true,
         "birth": 243,
         "age": 57,
-        "pageRank": null,
+        "pageRank": 0.10306917086578103,
         "numRelatives": 0,
         "allegiances": [
             316,
@@ -1089,7 +1089,7 @@
         "male": false,
         "birth": 292,
         "age": 8,
-        "pageRank": null,
+        "pageRank": 0.021071919377004124,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -1113,7 +1113,7 @@
         "male": false,
         "birth": 266,
         "age": 34,
-        "pageRank": null,
+        "pageRank": 0.7324782409528172,
         "numRelatives": 0.08695652173913043,
         "allegiances": [
             187,
@@ -1152,7 +1152,7 @@
         "male": true,
         "birth": 251,
         "age": 49,
-        "pageRank": null,
+        "pageRank": 0.004122766834631242,
         "numRelatives": 0,
         "allegiances": [
             20
@@ -1176,7 +1176,7 @@
         "male": true,
         "birth": 240,
         "age": 60,
-        "pageRank": null,
+        "pageRank": 0.015574896930829134,
         "numRelatives": 0,
         "allegiances": [
             367
@@ -1205,7 +1205,7 @@
         "male": true,
         "birth": 288,
         "age": 12,
-        "pageRank": null,
+        "pageRank": 0.008245533669262483,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -1227,7 +1227,7 @@
         "male": true,
         "birth": 249,
         "age": 51,
-        "pageRank": null,
+        "pageRank": 0.016491067338524967,
         "numRelatives": 0,
         "allegiances": [
             183
@@ -1251,7 +1251,7 @@
         "male": true,
         "birth": 240,
         "age": 60,
-        "pageRank": null,
+        "pageRank": 0.00961978928080623,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
@@ -1272,7 +1272,7 @@
         "male": false,
         "birth": 290,
         "age": 10,
-        "pageRank": null,
+        "pageRank": 0.026110856619331196,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -1296,7 +1296,7 @@
         "male": true,
         "birth": 275,
         "age": 25,
-        "pageRank": null,
+        "pageRank": 0.01923957856161246,
         "numRelatives": 0,
         "allegiances": [
             31
@@ -1323,7 +1323,7 @@
         "male": false,
         "birth": 284,
         "age": 16,
-        "pageRank": null,
+        "pageRank": 0.7810352725606963,
         "numRelatives": 0.06521739130434782,
         "allegiances": [],
         "books": [],
@@ -1342,7 +1342,7 @@
         "male": true,
         "birth": 257,
         "age": 43,
-        "pageRank": null,
+        "pageRank": 0.01694915254237288,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             187
@@ -1369,7 +1369,7 @@
         "male": true,
         "birth": 244,
         "age": 56,
-        "pageRank": null,
+        "pageRank": 0.013284470911589555,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             187
@@ -1390,7 +1390,7 @@
         "male": false,
         "birth": 284,
         "age": 16,
-        "pageRank": null,
+        "pageRank": 0.02565277141548328,
         "numRelatives": 0,
         "allegiances": [
             332
@@ -1415,7 +1415,7 @@
         "male": true,
         "birth": 252,
         "age": 48,
-        "pageRank": null,
+        "pageRank": 0.03344021988089785,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             136
@@ -1445,7 +1445,7 @@
         "male": true,
         "birth": 273,
         "age": 27,
-        "pageRank": null,
+        "pageRank": 0.04764086120018323,
         "numRelatives": 0,
         "allegiances": [
             187
@@ -1476,7 +1476,7 @@
         "male": true,
         "birth": 260,
         "age": 40,
-        "pageRank": null,
+        "pageRank": 0.3032524049473202,
         "numRelatives": 0.17391304347826086,
         "allegiances": [
             278,
@@ -1515,7 +1515,7 @@
         "male": false,
         "birth": 296,
         "age": 4,
-        "pageRank": null,
+        "pageRank": 0.009161704076958314,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -1536,7 +1536,7 @@
         "male": false,
         "birth": 250,
         "age": 50,
-        "pageRank": null,
+        "pageRank": 0.005038937242327073,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             31
@@ -1559,7 +1559,7 @@
         "male": true,
         "birth": 287,
         "age": 13,
-        "pageRank": null,
+        "pageRank": 0.0036646816307833257,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
@@ -1578,7 +1578,7 @@
         "male": true,
         "birth": 245,
         "age": 55,
-        "pageRank": null,
+        "pageRank": 0.03160787906550618,
         "numRelatives": 0,
         "allegiances": [
             208,
@@ -1613,7 +1613,7 @@
         "male": true,
         "birth": 237,
         "age": 63,
-        "pageRank": null,
+        "pageRank": 0.016491067338524967,
         "numRelatives": 0,
         "allegiances": [
             151,
@@ -1645,7 +1645,7 @@
         "male": true,
         "birth": 287,
         "age": 13,
-        "pageRank": null,
+        "pageRank": 0.02153000458085204,
         "numRelatives": 0,
         "allegiances": [
             278,
@@ -1670,7 +1670,7 @@
         "male": true,
         "birth": 294,
         "age": 6,
-        "pageRank": null,
+        "pageRank": 0.015116811726981219,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -1691,7 +1691,7 @@
         "male": true,
         "birth": 287,
         "age": 13,
-        "pageRank": null,
+        "pageRank": 0.0233623453962437,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             306
@@ -1714,7 +1714,7 @@
         "male": true,
         "birth": 255,
         "age": 45,
-        "pageRank": null,
+        "pageRank": 0.010077874484654145,
         "numRelatives": 0,
         "allegiances": [
             152
@@ -1733,7 +1733,7 @@
         "male": true,
         "birth": 255,
         "age": 45,
-        "pageRank": null,
+        "pageRank": 0.017865322950068714,
         "numRelatives": 0,
         "allegiances": [
             154
@@ -1758,7 +1758,7 @@
         "male": true,
         "birth": 277,
         "age": 23,
-        "pageRank": null,
+        "pageRank": 0.01282638570774164,
         "numRelatives": 0,
         "allegiances": [
             336
@@ -1788,7 +1788,7 @@
         "male": true,
         "birth": 247,
         "age": 53,
-        "pageRank": null,
+        "pageRank": 0.16765918460833715,
         "numRelatives": 0.08695652173913043,
         "allegiances": [
             232
@@ -1820,7 +1820,7 @@
         "male": false,
         "birth": 291,
         "age": 9,
-        "pageRank": null,
+        "pageRank": 0.021071919377004124,
         "numRelatives": 0,
         "allegiances": [
             213
@@ -1844,7 +1844,7 @@
         "male": true,
         "birth": 212,
         "age": 88,
-        "pageRank": null,
+        "pageRank": 0.017865322950068714,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             112
@@ -1872,7 +1872,7 @@
         "male": true,
         "birth": 284,
         "age": 16,
-        "pageRank": null,
+        "pageRank": 0.005038937242327073,
         "numRelatives": 0,
         "allegiances": [
             43
@@ -1897,7 +1897,7 @@
         "male": true,
         "birth": 289,
         "age": 11,
-        "pageRank": null,
+        "pageRank": 0.008703618873110398,
         "numRelatives": 0,
         "allegiances": [
             303
@@ -1924,7 +1924,7 @@
         "male": true,
         "birth": 267,
         "age": 33,
-        "pageRank": null,
+        "pageRank": 0.1690334402198809,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             316
@@ -1959,7 +1959,7 @@
         "male": true,
         "birth": 287,
         "age": 13,
-        "pageRank": null,
+        "pageRank": 0.022904260192395786,
         "numRelatives": 0,
         "allegiances": [
             107,
@@ -1987,7 +1987,7 @@
         "male": true,
         "birth": 287,
         "age": 13,
-        "pageRank": null,
+        "pageRank": 0.06459001374255612,
         "numRelatives": 0,
         "allegiances": [
             44
@@ -2013,7 +2013,7 @@
         "male": true,
         "birth": 259,
         "age": 41,
-        "pageRank": null,
+        "pageRank": 0.03756298671552909,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             136
@@ -2042,7 +2042,7 @@
         "male": true,
         "birth": 255,
         "age": 45,
-        "pageRank": null,
+        "pageRank": 0.017865322950068714,
         "numRelatives": 0,
         "allegiances": [
             20
@@ -2067,7 +2067,7 @@
         "male": true,
         "birth": 228,
         "age": 72,
-        "pageRank": null,
+        "pageRank": 0.012368300503893724,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             117
@@ -2092,7 +2092,7 @@
         "male": true,
         "birth": 286,
         "age": 14,
-        "pageRank": null,
+        "pageRank": 0.008703618873110398,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             221,
@@ -2116,7 +2116,7 @@
         "male": false,
         "birth": 287,
         "age": 13,
-        "pageRank": null,
+        "pageRank": 0.010535959688502062,
         "numRelatives": 0,
         "allegiances": [
             340
@@ -2139,7 +2139,7 @@
         "male": false,
         "birth": 285,
         "age": 15,
-        "pageRank": null,
+        "pageRank": 0.024736601007787448,
         "numRelatives": 0,
         "allegiances": [
             213
@@ -2164,7 +2164,7 @@
         "male": false,
         "birth": 286,
         "age": 14,
-        "pageRank": null,
+        "pageRank": 0.030233623453962438,
         "numRelatives": 0,
         "allegiances": [
             318
@@ -2187,7 +2187,7 @@
         "male": true,
         "birth": 290,
         "age": 10,
-        "pageRank": null,
+        "pageRank": 0.015116811726981219,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -2210,7 +2210,7 @@
         "male": true,
         "birth": 278,
         "age": 22,
-        "pageRank": null,
+        "pageRank": 0.00961978928080623,
         "numRelatives": 0,
         "allegiances": [
             215,
@@ -2237,7 +2237,7 @@
         "male": false,
         "birth": 264,
         "age": 36,
-        "pageRank": null,
+        "pageRank": 0.02565277141548328,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             332,
@@ -2259,7 +2259,7 @@
         "male": false,
         "birth": 296,
         "age": 4,
-        "pageRank": null,
+        "pageRank": 0.01282638570774164,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -2280,7 +2280,7 @@
         "male": false,
         "birth": 260,
         "age": 40,
-        "pageRank": null,
+        "pageRank": 0.00320659642693541,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
@@ -2297,7 +2297,7 @@
         "male": true,
         "birth": 237,
         "age": 63,
-        "pageRank": null,
+        "pageRank": 0.06367384333486029,
         "numRelatives": 0.10869565217391304,
         "allegiances": [
             136,
@@ -2330,7 +2330,7 @@
         "male": false,
         "birth": 297,
         "age": 3,
-        "pageRank": null,
+        "pageRank": 0.012368300503893724,
         "numRelatives": 0,
         "allegiances": [
             141
@@ -2356,7 +2356,7 @@
         "male": true,
         "birth": 211,
         "age": 89,
-        "pageRank": null,
+        "pageRank": 0.024278515803939534,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             179,
@@ -2382,7 +2382,7 @@
         "male": false,
         "birth": 298,
         "age": 2,
-        "pageRank": null,
+        "pageRank": 0.024278515803939534,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             165,
@@ -2411,7 +2411,7 @@
         "male": true,
         "birth": 256,
         "age": 44,
-        "pageRank": null,
+        "pageRank": 0.19056344480073292,
         "numRelatives": 0.06521739130434782,
         "allegiances": [],
         "books": [],
@@ -2428,7 +2428,7 @@
         "male": true,
         "birth": 281,
         "age": 19,
-        "pageRank": null,
+        "pageRank": 0.008245533669262483,
         "numRelatives": 0,
         "allegiances": [
             168
@@ -2449,7 +2449,7 @@
         "male": true,
         "birth": 277,
         "age": 23,
-        "pageRank": null,
+        "pageRank": 0.030233623453962438,
         "numRelatives": 0.08695652173913043,
         "allegiances": [
             67
@@ -2479,7 +2479,7 @@
         "male": false,
         "birth": 217,
         "age": 83,
-        "pageRank": null,
+        "pageRank": 0.02244617498854787,
         "numRelatives": 0,
         "allegiances": [
             25,
@@ -2501,7 +2501,7 @@
         "male": true,
         "birth": 277,
         "age": 23,
-        "pageRank": null,
+        "pageRank": 0.0641319285387082,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             320,
@@ -2531,7 +2531,7 @@
         "male": true,
         "birth": 295,
         "age": 5,
-        "pageRank": null,
+        "pageRank": 0.010535959688502062,
         "numRelatives": 0,
         "allegiances": [
             141
@@ -2557,7 +2557,7 @@
         "male": true,
         "birth": 284,
         "age": 16,
-        "pageRank": null,
+        "pageRank": 0.09573980760421438,
         "numRelatives": 0,
         "allegiances": [
             7
@@ -2585,7 +2585,7 @@
         "male": false,
         "birth": 245,
         "age": 55,
-        "pageRank": null,
+        "pageRank": 0.05771873568483738,
         "numRelatives": 0.10869565217391304,
         "allegiances": [
             187,
@@ -2618,7 +2618,7 @@
         "male": true,
         "birth": 270,
         "age": 30,
-        "pageRank": null,
+        "pageRank": 0.021071919377004124,
         "numRelatives": 0,
         "allegiances": [
             108
@@ -2645,7 +2645,7 @@
         "male": true,
         "birth": 275,
         "age": 25,
-        "pageRank": null,
+        "pageRank": 0.03985341273476867,
         "numRelatives": 0,
         "allegiances": [
             111,
@@ -2668,7 +2668,7 @@
         "male": false,
         "birth": 282,
         "age": 18,
-        "pageRank": null,
+        "pageRank": 0.07100320659642693,
         "numRelatives": 0.043478260869565216,
         "allegiances": [],
         "books": [
@@ -2697,7 +2697,7 @@
         "male": true,
         "birth": 250,
         "age": 50,
-        "pageRank": null,
+        "pageRank": 0.010535959688502062,
         "numRelatives": 0,
         "allegiances": [
             177
@@ -2724,7 +2724,7 @@
         "male": true,
         "birth": 282,
         "age": 18,
-        "pageRank": null,
+        "pageRank": 0.008703618873110398,
         "numRelatives": 0,
         "allegiances": [
             143
@@ -2745,7 +2745,7 @@
         "male": true,
         "birth": 282,
         "age": 18,
-        "pageRank": null,
+        "pageRank": 0.005955107650022904,
         "numRelatives": 0,
         "allegiances": [
             143
@@ -2766,7 +2766,7 @@
         "male": true,
         "birth": 281,
         "age": 19,
-        "pageRank": null,
+        "pageRank": 0.04443426477324782,
         "numRelatives": 0,
         "allegiances": [
             367
@@ -2795,7 +2795,7 @@
         "male": true,
         "birth": 282,
         "age": 18,
-        "pageRank": null,
+        "pageRank": 0.00961978928080623,
         "numRelatives": 0,
         "allegiances": [
             143
@@ -2816,7 +2816,7 @@
         "male": true,
         "birth": 259,
         "age": 41,
-        "pageRank": null,
+        "pageRank": 0.009161704076958314,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             301
@@ -2838,7 +2838,7 @@
         "male": true,
         "birth": 271,
         "age": 29,
-        "pageRank": null,
+        "pageRank": 0.011452130096197893,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             169
@@ -2859,7 +2859,7 @@
         "male": false,
         "birth": 282,
         "age": 18,
-        "pageRank": null,
+        "pageRank": 0.005038937242327073,
         "numRelatives": 0,
         "allegiances": [
             143
@@ -2880,7 +2880,7 @@
         "male": false,
         "birth": 282,
         "age": 18,
-        "pageRank": null,
+        "pageRank": 0.005038937242327073,
         "numRelatives": 0,
         "allegiances": [
             143
@@ -2901,7 +2901,7 @@
         "male": true,
         "birth": 281,
         "age": 19,
-        "pageRank": null,
+        "pageRank": 0.011910215300045808,
         "numRelatives": 0,
         "allegiances": [
             367
@@ -2929,7 +2929,7 @@
         "male": true,
         "birth": 253,
         "age": 47,
-        "pageRank": null,
+        "pageRank": 0.011910215300045808,
         "numRelatives": 0,
         "allegiances": [
             152
@@ -2951,7 +2951,7 @@
         "male": true,
         "birth": 281,
         "age": 19,
-        "pageRank": null,
+        "pageRank": 0.03160787906550618,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             157,
@@ -2982,7 +2982,7 @@
         "male": true,
         "birth": 271,
         "age": 29,
-        "pageRank": null,
+        "pageRank": 0.0320659642693541,
         "numRelatives": 0,
         "allegiances": [
             290,
@@ -3008,7 +3008,7 @@
         "male": true,
         "birth": 254,
         "age": 46,
-        "pageRank": null,
+        "pageRank": 0.019697663765460376,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             154,
@@ -3035,7 +3035,7 @@
         "male": true,
         "birth": 249,
         "age": 51,
-        "pageRank": null,
+        "pageRank": 0.05451213925790197,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             136
@@ -3066,7 +3066,7 @@
         "male": true,
         "birth": 287,
         "age": 13,
-        "pageRank": null,
+        "pageRank": 0.015116811726981219,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -3087,7 +3087,7 @@
         "male": true,
         "birth": 241,
         "age": 59,
-        "pageRank": null,
+        "pageRank": 0.038021071919377,
         "numRelatives": 0,
         "allegiances": [
             323
@@ -3118,7 +3118,7 @@
         "male": true,
         "birth": 260,
         "age": 40,
-        "pageRank": null,
+        "pageRank": 0.04260192395785616,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             262
@@ -3149,7 +3149,7 @@
         "male": false,
         "birth": 232,
         "age": 68,
-        "pageRank": null,
+        "pageRank": 0.0036646816307833257,
         "numRelatives": 0,
         "allegiances": [
             334,
@@ -3172,7 +3172,7 @@
         "male": true,
         "birth": 240,
         "age": 60,
-        "pageRank": null,
+        "pageRank": 0.008245533669262483,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
@@ -3193,7 +3193,7 @@
         "male": false,
         "birth": 283,
         "age": 17,
-        "pageRank": null,
+        "pageRank": 0.03481447549244159,
         "numRelatives": 0,
         "allegiances": [
             305
@@ -3216,7 +3216,7 @@
         "male": true,
         "birth": 299,
         "age": 1,
-        "pageRank": null,
+        "pageRank": 0.021071919377004124,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -3238,7 +3238,7 @@
         "male": true,
         "birth": 266,
         "age": 34,
-        "pageRank": null,
+        "pageRank": 0.8538708199725149,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             187,
@@ -3281,7 +3281,7 @@
         "male": true,
         "birth": 266,
         "age": 34,
-        "pageRank": null,
+        "pageRank": 0.018781493357764543,
         "numRelatives": 0.08695652173913043,
         "allegiances": [
             136
@@ -3305,7 +3305,7 @@
         "male": false,
         "birth": 296,
         "age": 4,
-        "pageRank": null,
+        "pageRank": 0.01832340815391663,
         "numRelatives": 0,
         "allegiances": [
             187
@@ -3332,7 +3332,7 @@
         "male": false,
         "birth": 293,
         "age": 7,
-        "pageRank": null,
+        "pageRank": 0.011452130096197893,
         "numRelatives": 0,
         "allegiances": [
             142
@@ -3353,7 +3353,7 @@
         "male": false,
         "birth": 281,
         "age": 19,
-        "pageRank": null,
+        "pageRank": 0.00641319285387082,
         "numRelatives": 0,
         "allegiances": [
             7
@@ -3374,7 +3374,7 @@
         "male": false,
         "birth": 286,
         "age": 14,
-        "pageRank": null,
+        "pageRank": 0.08978469995419149,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             253,
@@ -3409,7 +3409,7 @@
         "male": false,
         "birth": 283,
         "age": 17,
-        "pageRank": null,
+        "pageRank": 0.0842876775080165,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             340,
@@ -3437,7 +3437,7 @@
         "male": false,
         "birth": 284,
         "age": 16,
-        "pageRank": null,
+        "pageRank": 0.024278515803939534,
         "numRelatives": 0,
         "allegiances": [
             305
@@ -3460,7 +3460,7 @@
         "male": true,
         "birth": 281,
         "age": 19,
-        "pageRank": null,
+        "pageRank": 0.03756298671552909,
         "numRelatives": 0,
         "allegiances": [
             305
@@ -3486,7 +3486,7 @@
         "male": true,
         "birth": 286,
         "age": 14,
-        "pageRank": null,
+        "pageRank": 0.07329363261566652,
         "numRelatives": 0,
         "allegiances": [
             262
@@ -3517,7 +3517,7 @@
         "male": false,
         "birth": 296,
         "age": 4,
-        "pageRank": null,
+        "pageRank": 0.018781493357764543,
         "numRelatives": 0,
         "allegiances": [
             67
@@ -3538,7 +3538,7 @@
         "male": true,
         "birth": 260,
         "age": 40,
-        "pageRank": null,
+        "pageRank": 0.23087494273934953,
         "numRelatives": 0,
         "allegiances": [
             95,
@@ -3571,7 +3571,7 @@
         "male": true,
         "birth": 283,
         "age": 17,
-        "pageRank": null,
+        "pageRank": 0.6880439761795694,
         "numRelatives": 0,
         "allegiances": [
             290,
@@ -3617,7 +3617,7 @@
         "male": false,
         "birth": 267,
         "age": 33,
-        "pageRank": null,
+        "pageRank": 0.007787448465414567,
         "numRelatives": 0,
         "allegiances": [
             82
@@ -3648,7 +3648,7 @@
         "male": false,
         "birth": 291,
         "age": 9,
-        "pageRank": null,
+        "pageRank": 0.010535959688502062,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -3669,7 +3669,7 @@
         "male": true,
         "birth": 254,
         "age": 46,
-        "pageRank": null,
+        "pageRank": 0.19193770041227667,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             223,
@@ -3703,7 +3703,7 @@
         "male": false,
         "birth": 278,
         "age": 22,
-        "pageRank": null,
+        "pageRank": 0.009161704076958314,
         "numRelatives": 0,
         "allegiances": [
             223
@@ -3723,7 +3723,7 @@
         "male": true,
         "birth": 284,
         "age": 16,
-        "pageRank": null,
+        "pageRank": 0.007787448465414567,
         "numRelatives": 0,
         "allegiances": [
             247
@@ -3749,7 +3749,7 @@
         "male": false,
         "birth": 288,
         "age": 12,
-        "pageRank": null,
+        "pageRank": 0.021071919377004124,
         "numRelatives": 0,
         "allegiances": [
             187
@@ -3776,7 +3776,7 @@
         "male": true,
         "birth": 282,
         "age": 18,
-        "pageRank": null,
+        "pageRank": 0.00961978928080623,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             115,
@@ -3802,7 +3802,7 @@
         "male": true,
         "birth": 251,
         "age": 49,
-        "pageRank": null,
+        "pageRank": 0.007329363261566651,
         "numRelatives": 0,
         "allegiances": [
             367
@@ -3827,7 +3827,7 @@
         "male": false,
         "birth": 262,
         "age": 38,
-        "pageRank": null,
+        "pageRank": 0.014200641319285386,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             136
@@ -3848,7 +3848,7 @@
         "male": true,
         "birth": 282,
         "age": 18,
-        "pageRank": null,
+        "pageRank": 0.10535959688502061,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             191,
@@ -3882,7 +3882,7 @@
         "male": false,
         "birth": 285,
         "age": 15,
-        "pageRank": null,
+        "pageRank": 0.005038937242327073,
         "numRelatives": 0,
         "allegiances": [
             29
@@ -3902,7 +3902,7 @@
         "male": false,
         "birth": 271,
         "age": 29,
-        "pageRank": null,
+        "pageRank": 0.013742556115437472,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             187,
@@ -3929,7 +3929,7 @@
         "male": true,
         "birth": 286,
         "age": 14,
-        "pageRank": null,
+        "pageRank": 0.012368300503893724,
         "numRelatives": 0,
         "allegiances": [
             173,
@@ -3955,7 +3955,7 @@
         "male": false,
         "birth": 279,
         "age": 21,
-        "pageRank": null,
+        "pageRank": 0.0036646816307833257,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
@@ -3972,7 +3972,7 @@
         "male": false,
         "birth": 299,
         "age": 1,
-        "pageRank": null,
+        "pageRank": 0.011910215300045808,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -3991,7 +3991,7 @@
         "male": true,
         "birth": 259,
         "age": 41,
-        "pageRank": null,
+        "pageRank": 0.01282638570774164,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             364,
@@ -4017,7 +4017,7 @@
         "male": false,
         "birth": 265,
         "age": 35,
-        "pageRank": null,
+        "pageRank": 0.0320659642693541,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             292
@@ -4045,7 +4045,7 @@
         "male": true,
         "birth": 282,
         "age": 18,
-        "pageRank": null,
+        "pageRank": 0.16491067338524965,
         "numRelatives": 0,
         "allegiances": [
             318,
@@ -4078,7 +4078,7 @@
         "male": true,
         "birth": 241,
         "age": 59,
-        "pageRank": null,
+        "pageRank": 0.0022904260192395786,
         "numRelatives": 0,
         "allegiances": [
             387
@@ -4099,7 +4099,7 @@
         "male": false,
         "birth": 293,
         "age": 7,
-        "pageRank": null,
+        "pageRank": 0.02244617498854787,
         "numRelatives": 0,
         "allegiances": [
             213
@@ -4121,7 +4121,7 @@
         "male": true,
         "birth": 264,
         "age": 36,
-        "pageRank": null,
+        "pageRank": 0.03664681630783326,
         "numRelatives": 0.10869565217391304,
         "allegiances": [
             136
@@ -4149,7 +4149,7 @@
         "male": true,
         "birth": 249,
         "age": 51,
-        "pageRank": null,
+        "pageRank": 0.014200641319285386,
         "numRelatives": 0,
         "allegiances": [
             20,
@@ -4176,7 +4176,7 @@
         "male": false,
         "birth": 270,
         "age": 30,
-        "pageRank": null,
+        "pageRank": 0.01282638570774164,
         "numRelatives": 0,
         "allegiances": [
             187
@@ -4202,7 +4202,7 @@
         "male": true,
         "birth": 283,
         "age": 17,
-        "pageRank": null,
+        "pageRank": 0.004580852038479157,
         "numRelatives": 0,
         "allegiances": [
             86
@@ -4224,7 +4224,7 @@
         "male": false,
         "birth": 290,
         "age": 10,
-        "pageRank": null,
+        "pageRank": 0.01282638570774164,
         "numRelatives": 0,
         "allegiances": [
             223
@@ -4244,7 +4244,7 @@
         "male": true,
         "birth": 272,
         "age": 28,
-        "pageRank": null,
+        "pageRank": 0.028401282638570773,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             169,
@@ -4269,7 +4269,7 @@
         "male": true,
         "birth": 260,
         "age": 40,
-        "pageRank": null,
+        "pageRank": 0.015574896930829134,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             96
@@ -4295,7 +4295,7 @@
         "male": false,
         "birth": 259,
         "age": 41,
-        "pageRank": null,
+        "pageRank": 0.016491067338524967,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             137
@@ -4323,7 +4323,7 @@
         "male": false,
         "birth": 277,
         "age": 23,
-        "pageRank": null,
+        "pageRank": 0.008703618873110398,
         "numRelatives": 0,
         "allegiances": [
             223
@@ -4343,7 +4343,7 @@
         "male": false,
         "birth": 251,
         "age": 49,
-        "pageRank": null,
+        "pageRank": 0.02565277141548328,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             136
@@ -4367,7 +4367,7 @@
         "male": true,
         "birth": 256,
         "age": 44,
-        "pageRank": null,
+        "pageRank": 0.3174530462666056,
         "numRelatives": 0.10869565217391304,
         "allegiances": [
             318
@@ -4407,7 +4407,7 @@
         "male": false,
         "birth": 239,
         "age": 61,
-        "pageRank": null,
+        "pageRank": 0.03344021988089785,
         "numRelatives": 0.10869565217391304,
         "allegiances": [
             223
@@ -4440,7 +4440,7 @@
         "male": false,
         "birth": 249,
         "age": 51,
-        "pageRank": null,
+        "pageRank": 0.01832340815391663,
         "numRelatives": 0.08695652173913043,
         "allegiances": [
             136
@@ -4461,7 +4461,7 @@
         "male": true,
         "birth": 284,
         "age": 16,
-        "pageRank": null,
+        "pageRank": 0.02153000458085204,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -4485,7 +4485,7 @@
         "male": false,
         "birth": 280,
         "age": 20,
-        "pageRank": null,
+        "pageRank": 0.006871278057718736,
         "numRelatives": 0,
         "allegiances": [
             9
@@ -4509,7 +4509,7 @@
         "male": false,
         "birth": 283,
         "age": 17,
-        "pageRank": null,
+        "pageRank": 0.27530920751259735,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             318
@@ -4539,7 +4539,7 @@
         "male": false,
         "birth": 262,
         "age": 38,
-        "pageRank": null,
+        "pageRank": 0.015574896930829134,
         "numRelatives": 0,
         "allegiances": [
             325,
@@ -4561,7 +4561,7 @@
         "male": false,
         "birth": 286,
         "age": 14,
-        "pageRank": null,
+        "pageRank": 0.025194686211635363,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -4585,7 +4585,7 @@
         "male": true,
         "birth": 283,
         "age": 17,
-        "pageRank": null,
+        "pageRank": 0.027485112230874943,
         "numRelatives": 0,
         "allegiances": [
             331
@@ -4609,7 +4609,7 @@
         "male": true,
         "birth": 285,
         "age": 15,
-        "pageRank": null,
+        "pageRank": 0.029317453046266605,
         "numRelatives": 0,
         "allegiances": [
             187
@@ -4638,7 +4638,7 @@
         "male": false,
         "birth": 294,
         "age": 6,
-        "pageRank": null,
+        "pageRank": 0.014658726523133303,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -4659,7 +4659,7 @@
         "male": false,
         "birth": 283,
         "age": 17,
-        "pageRank": null,
+        "pageRank": 0.06504809894640404,
         "numRelatives": 0,
         "allegiances": [
             262
@@ -4681,7 +4681,7 @@
         "male": true,
         "birth": 247,
         "age": 53,
-        "pageRank": null,
+        "pageRank": 0.02565277141548328,
         "numRelatives": 0,
         "allegiances": [
             20
@@ -4702,7 +4702,7 @@
         "male": true,
         "birth": 235,
         "age": 65,
-        "pageRank": null,
+        "pageRank": 0.03527256069628951,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             323
@@ -4726,7 +4726,7 @@
         "male": false,
         "birth": 297,
         "age": 3,
-        "pageRank": null,
+        "pageRank": 0.00961978928080623,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -4747,7 +4747,7 @@
         "male": false,
         "birth": 264,
         "age": 36,
-        "pageRank": null,
+        "pageRank": 0.01603298213467705,
         "numRelatives": 0,
         "allegiances": [
             325
@@ -4768,7 +4768,7 @@
         "male": false,
         "birth": 294,
         "age": 6,
-        "pageRank": null,
+        "pageRank": 0.01832340815391663,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -4789,7 +4789,7 @@
         "male": true,
         "birth": 283,
         "age": 17,
-        "pageRank": null,
+        "pageRank": 0.024278515803939534,
         "numRelatives": 0,
         "allegiances": [
             136,
@@ -4811,7 +4811,7 @@
         "male": true,
         "birth": 269,
         "age": 31,
-        "pageRank": null,
+        "pageRank": 0.013742556115437472,
         "numRelatives": 0,
         "allegiances": [
             152
@@ -4831,7 +4831,7 @@
         "male": true,
         "birth": 237,
         "age": 63,
-        "pageRank": null,
+        "pageRank": 0.014200641319285386,
         "numRelatives": 0,
         "allegiances": [
             272,
@@ -4859,7 +4859,7 @@
         "male": true,
         "birth": 260,
         "age": 40,
-        "pageRank": null,
+        "pageRank": 0.27256069628950985,
         "numRelatives": 0.13043478260869565,
         "allegiances": [
             60
@@ -4885,7 +4885,7 @@
         "male": true,
         "birth": 283,
         "age": 17,
-        "pageRank": null,
+        "pageRank": 0.26110856619331196,
         "numRelatives": 0,
         "allegiances": [
             306,
@@ -4909,7 +4909,7 @@
         "male": false,
         "birth": 289,
         "age": 11,
-        "pageRank": null,
+        "pageRank": 0.06184150251946862,
         "numRelatives": 0,
         "allegiances": [
             45
@@ -4934,7 +4934,7 @@
         "male": true,
         "birth": 250,
         "age": 50,
-        "pageRank": null,
+        "pageRank": 0.010077874484654145,
         "numRelatives": 0,
         "allegiances": [
             367
@@ -4956,7 +4956,7 @@
         "male": false,
         "birth": 276,
         "age": 24,
-        "pageRank": null,
+        "pageRank": 0.025194686211635363,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             217
@@ -4979,7 +4979,7 @@
         "male": true,
         "birth": 278,
         "age": 22,
-        "pageRank": null,
+        "pageRank": 0.014200641319285386,
         "numRelatives": 0,
         "allegiances": [
             8
@@ -5003,7 +5003,7 @@
         "male": false,
         "birth": 276,
         "age": 24,
-        "pageRank": null,
+        "pageRank": 0.03939532753092075,
         "numRelatives": 0,
         "allegiances": [
             213
@@ -5024,7 +5024,7 @@
         "male": true,
         "birth": 273,
         "age": 27,
-        "pageRank": null,
+        "pageRank": 1,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             187,
@@ -5054,7 +5054,7 @@
         "male": true,
         "birth": 299,
         "age": 1,
-        "pageRank": null,
+        "pageRank": 0.02153000458085204,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -5073,7 +5073,7 @@
         "male": true,
         "birth": 257,
         "age": 43,
-        "pageRank": null,
+        "pageRank": 0.19697663765460377,
         "numRelatives": 0.08695652173913043,
         "allegiances": [
             152
@@ -5101,7 +5101,7 @@
         "male": false,
         "birth": 280,
         "age": 20,
-        "pageRank": null,
+        "pageRank": 0.016491067338524967,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -5122,7 +5122,7 @@
         "male": false,
         "birth": 293,
         "age": 7,
-        "pageRank": null,
+        "pageRank": 0.01923957856161246,
         "numRelatives": 0,
         "allegiances": [
             67
@@ -5143,7 +5143,7 @@
         "male": true,
         "birth": 208,
         "age": 92,
-        "pageRank": null,
+        "pageRank": 0.24095281722400366,
         "numRelatives": 1,
         "allegiances": [
             136
@@ -5170,7 +5170,7 @@
         "male": true,
         "birth": 267,
         "age": 33,
-        "pageRank": null,
+        "pageRank": 0.018781493357764543,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             136
@@ -5195,7 +5195,7 @@
         "male": false,
         "birth": 289,
         "age": 11,
-        "pageRank": null,
+        "pageRank": 0.017407237746220796,
         "numRelatives": 0,
         "allegiances": [
             136,
@@ -5218,7 +5218,7 @@
         "male": true,
         "birth": 287,
         "age": 13,
-        "pageRank": null,
+        "pageRank": 0.00961978928080623,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -5239,7 +5239,7 @@
         "male": true,
         "birth": 268,
         "age": 32,
-        "pageRank": null,
+        "pageRank": 0.002748511223087494,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
@@ -5256,7 +5256,7 @@
         "male": true,
         "birth": 281,
         "age": 19,
-        "pageRank": null,
+        "pageRank": 0.017407237746220796,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -5279,7 +5279,7 @@
         "male": false,
         "birth": 241,
         "age": 59,
-        "pageRank": null,
+        "pageRank": 0.015116811726981219,
         "numRelatives": 0.08695652173913043,
         "allegiances": [
             136,
@@ -5302,7 +5302,7 @@
         "male": true,
         "birth": 268,
         "age": 32,
-        "pageRank": null,
+        "pageRank": 0.3825011452130096,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             40,
@@ -5331,7 +5331,7 @@
         "male": true,
         "birth": 273,
         "age": 27,
-        "pageRank": null,
+        "pageRank": 0.018781493357764543,
         "numRelatives": 0,
         "allegiances": [
             387,
@@ -5356,7 +5356,7 @@
         "male": true,
         "birth": 254,
         "age": 46,
-        "pageRank": null,
+        "pageRank": 0.010535959688502062,
         "numRelatives": 0,
         "allegiances": [
             152
@@ -5375,7 +5375,7 @@
         "male": true,
         "birth": 282,
         "age": 18,
-        "pageRank": null,
+        "pageRank": 0.17544663307375172,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             62,
@@ -5402,7 +5402,7 @@
         "male": false,
         "birth": 295,
         "age": 5,
-        "pageRank": null,
+        "pageRank": 0.024736601007787448,
         "numRelatives": 0,
         "allegiances": [
             348
@@ -5423,7 +5423,7 @@
         "male": true,
         "birth": 290,
         "age": 10,
-        "pageRank": null,
+        "pageRank": 0.011910215300045808,
         "numRelatives": 0,
         "allegiances": [
             340
@@ -5443,7 +5443,7 @@
         "male": false,
         "birth": 284,
         "age": 16,
-        "pageRank": null,
+        "pageRank": 0.007329363261566651,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
@@ -5460,7 +5460,7 @@
         "male": false,
         "birth": 285,
         "age": 15,
-        "pageRank": null,
+        "pageRank": 0.021071919377004124,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -5481,7 +5481,7 @@
         "male": false,
         "birth": 292,
         "age": 8,
-        "pageRank": null,
+        "pageRank": 0.007329363261566651,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -5503,7 +5503,7 @@
         "male": true,
         "birth": 264,
         "age": 36,
-        "pageRank": null,
+        "pageRank": 0.7100320659642694,
         "numRelatives": 0.08695652173913043,
         "allegiances": [],
         "books": [],
@@ -5518,7 +5518,7 @@
         "male": true,
         "birth": 293,
         "age": 7,
-        "pageRank": null,
+        "pageRank": 0.010535959688502062,
         "numRelatives": 0,
         "allegiances": [
             278
@@ -5540,7 +5540,7 @@
         "male": true,
         "birth": 300,
         "age": 0,
-        "pageRank": null,
+        "pageRank": 0.012368300503893724,
         "numRelatives": 0,
         "allegiances": [
             292
@@ -5560,7 +5560,7 @@
         "male": true,
         "birth": 275,
         "age": 25,
-        "pageRank": null,
+        "pageRank": 0.011452130096197893,
         "numRelatives": 0,
         "allegiances": [
             67
@@ -5586,7 +5586,7 @@
         "male": false,
         "birth": 237,
         "age": 63,
-        "pageRank": null,
+        "pageRank": 0.005038937242327073,
         "numRelatives": 0,
         "allegiances": [
             335,
@@ -5612,7 +5612,7 @@
         "male": false,
         "birth": 283,
         "age": 17,
-        "pageRank": null,
+        "pageRank": 0.03893724232707284,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             136,
@@ -5635,7 +5635,7 @@
         "male": true,
         "birth": 291,
         "age": 9,
-        "pageRank": null,
+        "pageRank": 0.05130554283096656,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -5658,7 +5658,7 @@
         "male": true,
         "birth": 290,
         "age": 10,
-        "pageRank": null,
+        "pageRank": 0.012368300503893724,
         "numRelatives": 0,
         "allegiances": [
             142
@@ -5679,7 +5679,7 @@
         "male": true,
         "birth": 252,
         "age": 48,
-        "pageRank": null,
+        "pageRank": 0.03985341273476867,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             209
@@ -5704,7 +5704,7 @@
         "male": false,
         "birth": 280,
         "age": 20,
-        "pageRank": null,
+        "pageRank": 0.014658726523133303,
         "numRelatives": 0,
         "allegiances": [
             209
@@ -5724,7 +5724,7 @@
         "male": false,
         "birth": 285,
         "age": 15,
-        "pageRank": null,
+        "pageRank": 0.008245533669262483,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -5745,7 +5745,7 @@
         "male": true,
         "birth": 299,
         "age": 1,
-        "pageRank": null,
+        "pageRank": 0.017865322950068714,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
@@ -5764,7 +5764,7 @@
         "male": false,
         "birth": 268,
         "age": 32,
-        "pageRank": null,
+        "pageRank": 0.02153000458085204,
         "numRelatives": 0.08695652173913043,
         "allegiances": [
             136,
@@ -5789,7 +5789,7 @@
         "male": false,
         "birth": 279,
         "age": 21,
-        "pageRank": null,
+        "pageRank": 0.012368300503893724,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             270
@@ -5812,7 +5812,7 @@
         "male": false,
         "birth": 287,
         "age": 13,
-        "pageRank": null,
+        "pageRank": 0.021988089784699953,
         "numRelatives": 0,
         "allegiances": [
             213
@@ -5833,7 +5833,7 @@
         "male": true,
         "birth": 269,
         "age": 31,
-        "pageRank": null,
+        "pageRank": 0.018781493357764543,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -5858,7 +5858,7 @@
         "male": false,
         "birth": 281,
         "age": 19,
-        "pageRank": null,
+        "pageRank": 0.04260192395785616,
         "numRelatives": 0,
         "allegiances": [
             379
@@ -5879,7 +5879,7 @@
         "male": true,
         "birth": 286,
         "age": 14,
-        "pageRank": null,
+        "pageRank": 0.008245533669262483,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
@@ -5896,7 +5896,7 @@
         "male": true,
         "birth": 292,
         "age": 8,
-        "pageRank": null,
+        "pageRank": 0.09894640403114979,
         "numRelatives": 0,
         "allegiances": [
             34
@@ -5923,7 +5923,7 @@
         "male": true,
         "birth": 263,
         "age": 37,
-        "pageRank": null,
+        "pageRank": 0.01282638570774164,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             31
@@ -5946,7 +5946,7 @@
         "male": true,
         "birth": 280,
         "age": 20,
-        "pageRank": null,
+        "pageRank": 0.021988089784699953,
         "numRelatives": 0,
         "allegiances": [
             367
@@ -5968,7 +5968,7 @@
         "male": false,
         "birth": 286,
         "age": 14,
-        "pageRank": null,
+        "pageRank": 0.5029775538250114,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             290,
@@ -5997,7 +5997,7 @@
         "male": true,
         "birth": 240,
         "age": 60,
-        "pageRank": null,
+        "pageRank": 0.038021071919377,
         "numRelatives": 0,
         "allegiances": [
             7
@@ -6017,7 +6017,7 @@
         "male": false,
         "birth": 294,
         "age": 6,
-        "pageRank": null,
+        "pageRank": 0.005955107650022904,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -6038,7 +6038,7 @@
         "male": true,
         "birth": 272,
         "age": 28,
-        "pageRank": null,
+        "pageRank": 0.023820430600091615,
         "numRelatives": 0.021739130434782608,
         "allegiances": [],
         "books": [
@@ -6058,7 +6058,7 @@
         "male": false,
         "birth": 290,
         "age": 10,
-        "pageRank": null,
+        "pageRank": 0.019697663765460376,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -6079,7 +6079,7 @@
         "male": true,
         "birth": 270,
         "age": 30,
-        "pageRank": null,
+        "pageRank": 0.055886394869445716,
         "numRelatives": 0,
         "allegiances": [
             318
@@ -6102,7 +6102,7 @@
         "male": false,
         "birth": 284,
         "age": 16,
-        "pageRank": null,
+        "pageRank": 0.021071919377004124,
         "numRelatives": 0,
         "allegiances": [
             209
@@ -6122,7 +6122,7 @@
         "male": false,
         "birth": 286,
         "age": 14,
-        "pageRank": null,
+        "pageRank": 0.029317453046266605,
         "numRelatives": 0,
         "allegiances": [
             318
@@ -6143,7 +6143,7 @@
         "male": false,
         "birth": 288,
         "age": 12,
-        "pageRank": null,
+        "pageRank": 0.04489234997709574,
         "numRelatives": 0,
         "allegiances": [
             305
@@ -6164,7 +6164,7 @@
         "male": true,
         "birth": 265,
         "age": 35,
-        "pageRank": null,
+        "pageRank": 0.017865322950068714,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             78,
@@ -6186,7 +6186,7 @@
         "male": false,
         "birth": 271,
         "age": 29,
-        "pageRank": null,
+        "pageRank": 0.04214383875400825,
         "numRelatives": 0,
         "allegiances": [
             213
@@ -6207,7 +6207,7 @@
         "male": true,
         "birth": 286,
         "age": 14,
-        "pageRank": null,
+        "pageRank": 0.05955107650022904,
         "numRelatives": 0,
         "allegiances": [
             245
@@ -6230,7 +6230,7 @@
         "male": true,
         "birth": 217,
         "age": 83,
-        "pageRank": null,
+        "pageRank": 0.12780577187356848,
         "numRelatives": 0,
         "allegiances": [
             387,
@@ -6257,7 +6257,7 @@
         "male": true,
         "birth": 290,
         "age": 10,
-        "pageRank": null,
+        "pageRank": 0.02015574896930829,
         "numRelatives": 0,
         "allegiances": [
             67
@@ -6278,7 +6278,7 @@
         "male": true,
         "birth": 282,
         "age": 18,
-        "pageRank": null,
+        "pageRank": 0.06184150251946862,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             136,
@@ -6301,7 +6301,7 @@
         "male": true,
         "birth": 295,
         "age": 5,
-        "pageRank": null,
+        "pageRank": 0.11360513055428309,
         "numRelatives": 0,
         "allegiances": [
             290
@@ -6326,7 +6326,7 @@
         "male": false,
         "birth": 287,
         "age": 13,
-        "pageRank": null,
+        "pageRank": 0.02702702702702703,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -6347,7 +6347,7 @@
         "male": false,
         "birth": 285,
         "age": 15,
-        "pageRank": null,
+        "pageRank": 0.021071919377004124,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -6368,7 +6368,7 @@
         "male": true,
         "birth": 245,
         "age": 55,
-        "pageRank": null,
+        "pageRank": 0.01832340815391663,
         "numRelatives": 0.08695652173913043,
         "allegiances": [
             307
@@ -6394,7 +6394,7 @@
         "male": true,
         "birth": 274,
         "age": 26,
-        "pageRank": null,
+        "pageRank": 0.02702702702702703,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             95
@@ -6419,7 +6419,7 @@
         "male": true,
         "birth": 289,
         "age": 11,
-        "pageRank": null,
+        "pageRank": 0.010535959688502062,
         "numRelatives": 0,
         "allegiances": [
             278
@@ -6441,7 +6441,7 @@
         "male": true,
         "birth": 287,
         "age": 13,
-        "pageRank": null,
+        "pageRank": 0.03939532753092075,
         "numRelatives": 0,
         "allegiances": [
             213
@@ -6466,7 +6466,7 @@
         "male": true,
         "birth": 278,
         "age": 22,
-        "pageRank": null,
+        "pageRank": 0.40907008703618875,
         "numRelatives": 0,
         "allegiances": [
             152
@@ -6494,7 +6494,7 @@
         "male": true,
         "birth": 252,
         "age": 48,
-        "pageRank": null,
+        "pageRank": 0.0022904260192395786,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             167
@@ -6516,7 +6516,7 @@
         "male": false,
         "birth": 292,
         "age": 8,
-        "pageRank": null,
+        "pageRank": 0.013284470911589555,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -6537,7 +6537,7 @@
         "male": true,
         "birth": 291,
         "age": 9,
-        "pageRank": null,
+        "pageRank": 0.3229500687127806,
         "numRelatives": 0.06521739130434782,
         "allegiances": [],
         "books": [],
@@ -6552,7 +6552,7 @@
         "male": true,
         "birth": 263,
         "age": 37,
-        "pageRank": null,
+        "pageRank": 0.011452130096197893,
         "numRelatives": 0,
         "allegiances": [
             17
@@ -6572,7 +6572,7 @@
         "male": true,
         "birth": 260,
         "age": 40,
-        "pageRank": null,
+        "pageRank": 0.04764086120018323,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -6594,7 +6594,7 @@
         "male": true,
         "birth": 278,
         "age": 22,
-        "pageRank": null,
+        "pageRank": 0.006871278057718736,
         "numRelatives": 0,
         "allegiances": [
             336
@@ -6617,7 +6617,7 @@
         "male": false,
         "birth": 288,
         "age": 12,
-        "pageRank": null,
+        "pageRank": 0.010535959688502062,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -6638,7 +6638,7 @@
         "male": true,
         "birth": 289,
         "age": 11,
-        "pageRank": null,
+        "pageRank": 0.009161704076958314,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -6660,7 +6660,7 @@
         "male": true,
         "birth": 219,
         "age": 81,
-        "pageRank": null,
+        "pageRank": 0.007329363261566651,
         "numRelatives": 0,
         "allegiances": [
             295,
@@ -6683,7 +6683,7 @@
         "male": false,
         "birth": 294,
         "age": 6,
-        "pageRank": null,
+        "pageRank": 0.012368300503893724,
         "numRelatives": 0,
         "allegiances": [
             154
@@ -6704,7 +6704,7 @@
         "male": true,
         "birth": 272,
         "age": 28,
-        "pageRank": null,
+        "pageRank": 0.01282638570774164,
         "numRelatives": 0,
         "allegiances": [
             136,
@@ -6730,7 +6730,7 @@
         "male": false,
         "birth": 288,
         "age": 12,
-        "pageRank": null,
+        "pageRank": 0.01282638570774164,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -6751,7 +6751,7 @@
         "male": false,
         "birth": 290,
         "age": 10,
-        "pageRank": null,
+        "pageRank": 0.14200641319285387,
         "numRelatives": 0,
         "allegiances": [
             46
@@ -6777,7 +6777,7 @@
         "male": true,
         "birth": 293,
         "age": 7,
-        "pageRank": null,
+        "pageRank": 0.006871278057718736,
         "numRelatives": 0,
         "allegiances": [
             329
@@ -6800,7 +6800,7 @@
         "male": false,
         "birth": 279,
         "age": 21,
-        "pageRank": null,
+        "pageRank": 0.024278515803939534,
         "numRelatives": 0,
         "allegiances": [
             270
@@ -6824,7 +6824,7 @@
         "male": false,
         "birth": 274,
         "age": 26,
-        "pageRank": null,
+        "pageRank": 0.09757214841960604,
         "numRelatives": 0,
         "allegiances": [
             213
@@ -6845,7 +6845,7 @@
         "male": true,
         "birth": 296,
         "age": 4,
-        "pageRank": null,
+        "pageRank": 0.013742556115437472,
         "numRelatives": 0,
         "allegiances": [
             229
@@ -6866,7 +6866,7 @@
         "male": true,
         "birth": 264,
         "age": 36,
-        "pageRank": null,
+        "pageRank": 0.03298213467704993,
         "numRelatives": 0.17391304347826086,
         "allegiances": [
             136
@@ -6890,7 +6890,7 @@
         "male": false,
         "birth": 201,
         "age": 99,
-        "pageRank": null,
+        "pageRank": 0.016491067338524967,
         "numRelatives": 0,
         "allegiances": [
             305
@@ -6912,7 +6912,7 @@
         "male": false,
         "birth": 294,
         "age": 6,
-        "pageRank": null,
+        "pageRank": 0.02244617498854787,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -6933,7 +6933,7 @@
         "male": false,
         "birth": 280,
         "age": 20,
-        "pageRank": null,
+        "pageRank": 0.02153000458085204,
         "numRelatives": 0,
         "allegiances": [
             213
@@ -6954,7 +6954,7 @@
         "male": false,
         "birth": 263,
         "age": 37,
-        "pageRank": null,
+        "pageRank": 0.015116811726981219,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -6975,7 +6975,7 @@
         "male": false,
         "birth": 276,
         "age": 24,
-        "pageRank": null,
+        "pageRank": 0.010535959688502062,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             275,
@@ -6997,7 +6997,7 @@
         "male": true,
         "birth": 263,
         "age": 37,
-        "pageRank": null,
+        "pageRank": 0.01694915254237288,
         "numRelatives": 0,
         "allegiances": [
             325
@@ -7018,7 +7018,7 @@
         "male": true,
         "birth": 287,
         "age": 13,
-        "pageRank": null,
+        "pageRank": 0.017407237746220796,
         "numRelatives": 0,
         "allegiances": [
             136,
@@ -7043,7 +7043,7 @@
         "male": false,
         "birth": 269,
         "age": 31,
-        "pageRank": null,
+        "pageRank": 0.013284470911589555,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -7065,7 +7065,7 @@
         "male": true,
         "birth": 285,
         "age": 15,
-        "pageRank": null,
+        "pageRank": 0.016491067338524967,
         "numRelatives": 0,
         "allegiances": [
             137
@@ -7088,7 +7088,7 @@
         "male": true,
         "birth": 239,
         "age": 61,
-        "pageRank": null,
+        "pageRank": 0.09711406321575813,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             209
@@ -7119,7 +7119,7 @@
         "male": false,
         "birth": 278,
         "age": 22,
-        "pageRank": null,
+        "pageRank": 0.021071919377004124,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             318,
@@ -7142,7 +7142,7 @@
         "male": true,
         "birth": 286,
         "age": 14,
-        "pageRank": null,
+        "pageRank": 0.024278515803939534,
         "numRelatives": 0,
         "allegiances": [
             65,
@@ -7165,7 +7165,7 @@
         "male": false,
         "birth": 294,
         "age": 6,
-        "pageRank": null,
+        "pageRank": 0.014200641319285386,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -7186,7 +7186,7 @@
         "male": false,
         "birth": 295,
         "age": 5,
-        "pageRank": null,
+        "pageRank": 0.005497022446174988,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -7205,7 +7205,7 @@
         "male": true,
         "birth": 249,
         "age": 51,
-        "pageRank": null,
+        "pageRank": 0.018781493357764543,
         "numRelatives": 0.08695652173913043,
         "allegiances": [
             136
@@ -7226,7 +7226,7 @@
         "male": true,
         "birth": 296,
         "age": 4,
-        "pageRank": null,
+        "pageRank": 0.00320659642693541,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
@@ -7244,7 +7244,7 @@
         "male": true,
         "birth": 286,
         "age": 14,
-        "pageRank": null,
+        "pageRank": 0.00961978928080623,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -7266,7 +7266,7 @@
         "male": false,
         "birth": 289,
         "age": 11,
-        "pageRank": null,
+        "pageRank": 0.006871278057718736,
         "numRelatives": 0,
         "allegiances": [
             386

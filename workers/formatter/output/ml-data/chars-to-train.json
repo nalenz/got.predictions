@@ -5,7 +5,7 @@
         "birth": 183,
         "death": 196,
         "age": 13,
-        "pageRank": null,
+        "pageRank": 0.007329363261566651,
         "numRelatives": 0,
         "allegiances": [
             243
@@ -25,7 +25,7 @@
         "birth": 114,
         "death": 130,
         "age": 16,
-        "pageRank": null,
+        "pageRank": 0.03985341273476867,
         "numRelatives": 0,
         "allegiances": [
             329,
@@ -54,7 +54,7 @@
         "birth": 184,
         "death": 196,
         "age": 12,
-        "pageRank": null,
+        "pageRank": 0.021988089784699953,
         "numRelatives": 0,
         "allegiances": [
             52
@@ -76,7 +76,7 @@
         "birth": 249,
         "death": 299,
         "age": 50,
-        "pageRank": null,
+        "pageRank": 0.02244617498854787,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -101,7 +101,7 @@
         "birth": -27,
         "death": 37,
         "age": 64,
-        "pageRank": null,
+        "pageRank": 0.4168575355016033,
         "numRelatives": 0.13043478260869565,
         "allegiances": [],
         "books": [],
@@ -123,7 +123,7 @@
         "birth": 107,
         "death": 131,
         "age": 24,
-        "pageRank": null,
+        "pageRank": 0.3005038937242327,
         "numRelatives": 0.1956521739130435,
         "allegiances": [],
         "books": [],
@@ -143,7 +143,7 @@
         "birth": 120,
         "death": 157,
         "age": 37,
-        "pageRank": null,
+        "pageRank": 0.33073751717819516,
         "numRelatives": 0.1956521739130435,
         "allegiances": [],
         "books": [],
@@ -166,7 +166,7 @@
         "birth": 135,
         "death": 184,
         "age": 49,
-        "pageRank": null,
+        "pageRank": 0.22950068712780577,
         "numRelatives": 0.4782608695652174,
         "allegiances": [],
         "books": [],
@@ -186,7 +186,7 @@
         "birth": 200,
         "death": 259,
         "age": 59,
-        "pageRank": null,
+        "pageRank": 0.24095281722400366,
         "numRelatives": 0.17391304347826086,
         "allegiances": [],
         "books": [],
@@ -206,7 +206,7 @@
         "birth": 281,
         "death": 283,
         "age": 2,
-        "pageRank": null,
+        "pageRank": 0.15300045808520385,
         "numRelatives": 0,
         "allegiances": [
             305
@@ -236,7 +236,7 @@
         "birth": 26,
         "death": 43,
         "age": 17,
-        "pageRank": null,
+        "pageRank": 0.10535959688502061,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             305
@@ -264,7 +264,7 @@
         "birth": 84,
         "death": 85,
         "age": 1,
-        "pageRank": null,
+        "pageRank": 0.019697663765460376,
         "numRelatives": 0,
         "allegiances": [
             305
@@ -287,7 +287,7 @@
         "birth": 52,
         "death": 52,
         "age": 0,
-        "pageRank": null,
+        "pageRank": 0.021071919377004124,
         "numRelatives": 0,
         "allegiances": [
             305
@@ -312,7 +312,7 @@
         "birth": 172,
         "death": 241,
         "age": 69,
-        "pageRank": null,
+        "pageRank": 0.07466788822721027,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             66,
@@ -346,7 +346,7 @@
         "birth": 82,
         "death": 105,
         "age": 23,
-        "pageRank": null,
+        "pageRank": 0.05084745762711865,
         "numRelatives": 0.08695652173913043,
         "allegiances": [
             34,
@@ -373,7 +373,7 @@
         "birth": 184,
         "death": 196,
         "age": 12,
-        "pageRank": null,
+        "pageRank": 0.022904260192395786,
         "numRelatives": 0,
         "allegiances": [
             52
@@ -396,7 +396,7 @@
         "birth": 110,
         "death": 130,
         "age": 20,
-        "pageRank": null,
+        "pageRank": 0.09894640403114979,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             305,
@@ -429,7 +429,7 @@
         "birth": 240,
         "death": 300,
         "age": 60,
-        "pageRank": null,
+        "pageRank": 0.043976179569399906,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             136
@@ -463,7 +463,7 @@
         "birth": 7,
         "death": 42,
         "age": 35,
-        "pageRank": null,
+        "pageRank": 0.21713238662391204,
         "numRelatives": 0.1956521739130435,
         "allegiances": [],
         "books": [],
@@ -485,7 +485,7 @@
         "birth": 191,
         "death": 232,
         "age": 41,
-        "pageRank": null,
+        "pageRank": 0.04993128721942281,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             305,
@@ -517,7 +517,7 @@
         "birth": 172,
         "death": 221,
         "age": 49,
-        "pageRank": null,
+        "pageRank": 0.163078332569858,
         "numRelatives": 0.08695652173913043,
         "allegiances": [],
         "books": [],
@@ -536,7 +536,7 @@
         "birth": 244,
         "death": 283,
         "age": 39,
-        "pageRank": null,
+        "pageRank": 0.38341731562070547,
         "numRelatives": 0.2391304347826087,
         "allegiances": [],
         "books": [],
@@ -561,7 +561,7 @@
         "birth": 88,
         "death": 133,
         "age": 45,
-        "pageRank": null,
+        "pageRank": 0.0874942739349519,
         "numRelatives": 0.10869565217391304,
         "allegiances": [
             169,
@@ -597,7 +597,7 @@
         "birth": 196,
         "death": 212,
         "age": 16,
-        "pageRank": null,
+        "pageRank": 0.010077874484654145,
         "numRelatives": 0,
         "allegiances": [
             89,
@@ -622,7 +622,7 @@
         "birth": 115,
         "death": 171,
         "age": 56,
-        "pageRank": null,
+        "pageRank": 0.14429683921209344,
         "numRelatives": 0.10869565217391304,
         "allegiances": [
             329,
@@ -665,7 +665,7 @@
         "birth": 188,
         "death": 209,
         "age": 21,
-        "pageRank": null,
+        "pageRank": 0.00641319285387082,
         "numRelatives": 0,
         "allegiances": [
             243
@@ -687,7 +687,7 @@
         "birth": 36,
         "death": 100,
         "age": 64,
-        "pageRank": null,
+        "pageRank": 0.1832340815391663,
         "numRelatives": 0.30434782608695654,
         "allegiances": [
             305
@@ -734,7 +734,7 @@
         "birth": 253,
         "death": 269,
         "age": 16,
-        "pageRank": null,
+        "pageRank": 0.017407237746220796,
         "numRelatives": 0.13043478260869565,
         "allegiances": [
             55,
@@ -763,7 +763,7 @@
         "birth": 245,
         "death": 264,
         "age": 19,
-        "pageRank": null,
+        "pageRank": 0.02885936784241869,
         "numRelatives": 0.17391304347826086,
         "allegiances": [
             100,
@@ -791,7 +791,7 @@
         "birth": 262,
         "death": 298,
         "age": 36,
-        "pageRank": null,
+        "pageRank": 0.013284470911589555,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             67
@@ -817,7 +817,7 @@
         "birth": 149,
         "death": 209,
         "age": 60,
-        "pageRank": null,
+        "pageRank": 0.023820430600091615,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
@@ -843,7 +843,7 @@
         "birth": 260,
         "death": 283,
         "age": 23,
-        "pageRank": null,
+        "pageRank": 0.04764086120018323,
         "numRelatives": 0,
         "allegiances": [
             107,
@@ -876,7 +876,7 @@
         "birth": 260,
         "death": 283,
         "age": 23,
-        "pageRank": null,
+        "pageRank": 0.021988089784699953,
         "numRelatives": 0,
         "allegiances": [
             107
@@ -901,7 +901,7 @@
         "birth": 105,
         "death": 105,
         "age": 0,
-        "pageRank": null,
+        "pageRank": 0.019697663765460376,
         "numRelatives": 0,
         "allegiances": [
             305
@@ -927,7 +927,7 @@
         "birth": 144,
         "death": 171,
         "age": 27,
-        "pageRank": null,
+        "pageRank": 0.15849748053137883,
         "numRelatives": 0.08695652173913043,
         "allegiances": [],
         "books": [],
@@ -946,7 +946,7 @@
         "birth": 170,
         "death": 209,
         "age": 39,
-        "pageRank": null,
+        "pageRank": 0.13192853870819973,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             305
@@ -980,7 +980,7 @@
         "birth": 255,
         "death": 299,
         "age": 44,
-        "pageRank": null,
+        "pageRank": 0.22033898305084745,
         "numRelatives": 0.13043478260869565,
         "allegiances": [],
         "books": [],
@@ -1005,7 +1005,7 @@
         "birth": 298,
         "death": 299,
         "age": 1,
-        "pageRank": null,
+        "pageRank": 0.020613834173156206,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
@@ -1027,7 +1027,7 @@
         "birth": 139,
         "death": 209,
         "age": 70,
-        "pageRank": null,
+        "pageRank": 0.03252404947320202,
         "numRelatives": 0,
         "allegiances": [
             290
@@ -1053,7 +1053,7 @@
         "birth": 279,
         "death": 299,
         "age": 20,
-        "pageRank": null,
+        "pageRank": 0.016491067338524967,
         "numRelatives": 0,
         "allegiances": [
             303
@@ -1080,7 +1080,7 @@
         "birth": 271,
         "death": 299,
         "age": 28,
-        "pageRank": null,
+        "pageRank": 0.017407237746220796,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             136
@@ -1107,7 +1107,7 @@
         "birth": 276,
         "death": 299,
         "age": 23,
-        "pageRank": null,
+        "pageRank": 0.1021530004580852,
         "numRelatives": 0,
         "allegiances": [
             110,
@@ -1143,7 +1143,7 @@
         "birth": 154,
         "death": 226,
         "age": 72,
-        "pageRank": null,
+        "pageRank": 0.05863490609253321,
         "numRelatives": 0.17391304347826086,
         "allegiances": [
             290
@@ -1170,7 +1170,7 @@
         "birth": 156,
         "death": 178,
         "age": 22,
-        "pageRank": null,
+        "pageRank": 0.008703618873110398,
         "numRelatives": 0,
         "allegiances": [
             66
@@ -1198,7 +1198,7 @@
         "birth": 265,
         "death": 282,
         "age": 17,
-        "pageRank": null,
+        "pageRank": 0.011452130096197893,
         "numRelatives": 0.13043478260869565,
         "allegiances": [
             267,
@@ -1224,7 +1224,7 @@
         "birth": 262,
         "death": 282,
         "age": 20,
-        "pageRank": null,
+        "pageRank": 0.08199725148877691,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             290
@@ -1253,7 +1253,7 @@
         "birth": 140,
         "death": 212,
         "age": 72,
-        "pageRank": null,
+        "pageRank": 0.03664681630783326,
         "numRelatives": 0.10869565217391304,
         "allegiances": [
             290
@@ -1279,7 +1279,7 @@
         "birth": 276,
         "death": 299,
         "age": 23,
-        "pageRank": null,
+        "pageRank": 0.015574896930829134,
         "numRelatives": 0,
         "allegiances": [
             78,
@@ -1309,7 +1309,7 @@
         "birth": 175,
         "death": 252,
         "age": 77,
-        "pageRank": null,
+        "pageRank": 0.22812643151626202,
         "numRelatives": 0,
         "allegiances": [
             305,
@@ -1343,7 +1343,7 @@
         "birth": 264,
         "death": 299,
         "age": 35,
-        "pageRank": null,
+        "pageRank": 0.4228126431516262,
         "numRelatives": 0.13043478260869565,
         "allegiances": [
             316,
@@ -1382,7 +1382,7 @@
         "birth": 258,
         "death": 299,
         "age": 41,
-        "pageRank": null,
+        "pageRank": 0.05313788364635822,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             136,
@@ -1417,7 +1417,7 @@
         "birth": 284,
         "death": 299,
         "age": 15,
-        "pageRank": null,
+        "pageRank": 0.01603298213467705,
         "numRelatives": 0,
         "allegiances": [
             82
@@ -1446,7 +1446,7 @@
         "birth": 53,
         "death": 132,
         "age": 79,
-        "pageRank": null,
+        "pageRank": 0.29912963811268894,
         "numRelatives": 0.10869565217391304,
         "allegiances": [
             329,
@@ -1491,7 +1491,7 @@
         "birth": 219,
         "death": 299,
         "age": 80,
-        "pageRank": null,
+        "pageRank": 0.0467246907924874,
         "numRelatives": 0,
         "allegiances": [
             10,
@@ -1519,7 +1519,7 @@
         "birth": 82,
         "death": 130,
         "age": 48,
-        "pageRank": null,
+        "pageRank": 0.22033898305084745,
         "numRelatives": 0,
         "allegiances": [
             92,
@@ -1558,7 +1558,7 @@
         "birth": 236,
         "death": 249,
         "age": 13,
-        "pageRank": null,
+        "pageRank": 0.011910215300045808,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             301,
@@ -1582,7 +1582,7 @@
         "birth": 252,
         "death": 299,
         "age": 47,
-        "pageRank": null,
+        "pageRank": 0.02015574896930829,
         "numRelatives": 0,
         "allegiances": [
             223
@@ -1608,7 +1608,7 @@
         "birth": 64,
         "death": 82,
         "age": 18,
-        "pageRank": null,
+        "pageRank": 0.0407695831424645,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             305,
@@ -1636,7 +1636,7 @@
         "birth": 170,
         "death": 196,
         "age": 26,
-        "pageRank": null,
+        "pageRank": 0.12688960146587266,
         "numRelatives": 0.1956521739130435,
         "allegiances": [
             52
@@ -1668,7 +1668,7 @@
         "birth": 189,
         "death": 212,
         "age": 23,
-        "pageRank": null,
+        "pageRank": 0.06000916170407696,
         "numRelatives": 0,
         "allegiances": [
             52
@@ -1695,7 +1695,7 @@
         "birth": 81,
         "death": 130,
         "age": 49,
-        "pageRank": null,
+        "pageRank": 0.24874026568941823,
         "numRelatives": 0.17391304347826086,
         "allegiances": [
             305,
@@ -1733,7 +1733,7 @@
         "birth": 143,
         "death": 161,
         "age": 18,
-        "pageRank": null,
+        "pageRank": 0.14338066880439762,
         "numRelatives": 0.06521739130434782,
         "allegiances": [],
         "books": [],
@@ -1752,7 +1752,7 @@
         "birth": 153,
         "death": 209,
         "age": 56,
-        "pageRank": null,
+        "pageRank": 0.23270728355474118,
         "numRelatives": 0.15217391304347827,
         "allegiances": [],
         "books": [],
@@ -1770,7 +1770,7 @@
         "birth": 114,
         "death": 130,
         "age": 16,
-        "pageRank": null,
+        "pageRank": 0.05955107650022904,
         "numRelatives": 0,
         "allegiances": [
             305,
@@ -1801,7 +1801,7 @@
         "birth": 190,
         "death": 221,
         "age": 31,
-        "pageRank": null,
+        "pageRank": 0.03573064590013743,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             305
@@ -1831,7 +1831,7 @@
         "birth": 254,
         "death": 299,
         "age": 45,
-        "pageRank": null,
+        "pageRank": 0.00961978928080623,
         "numRelatives": 0,
         "allegiances": [
             367
@@ -1858,7 +1858,7 @@
         "birth": 179,
         "death": 210,
         "age": 31,
-        "pageRank": null,
+        "pageRank": 0.01603298213467705,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             187
@@ -1886,7 +1886,7 @@
         "birth": 283,
         "death": 299,
         "age": 16,
-        "pageRank": null,
+        "pageRank": 0.002748511223087494,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
@@ -1908,7 +1908,7 @@
         "birth": 273,
         "death": 297,
         "age": 24,
-        "pageRank": null,
+        "pageRank": 0.017407237746220796,
         "numRelatives": 0,
         "allegiances": [
             60
@@ -1934,7 +1934,7 @@
         "birth": 252,
         "death": 300,
         "age": 48,
-        "pageRank": null,
+        "pageRank": 0.03985341273476867,
         "numRelatives": 0,
         "allegiances": [
             44,
@@ -1963,7 +1963,7 @@
         "birth": 249,
         "death": 299,
         "age": 50,
-        "pageRank": null,
+        "pageRank": 0.02702702702702703,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             209,
@@ -1993,7 +1993,7 @@
         "birth": 261,
         "death": 300,
         "age": 39,
-        "pageRank": null,
+        "pageRank": 0.049473202015574896,
         "numRelatives": 0,
         "allegiances": [
             172
@@ -2022,7 +2022,7 @@
         "birth": 279,
         "death": 299,
         "age": 20,
-        "pageRank": null,
+        "pageRank": 0.018781493357764543,
         "numRelatives": 0,
         "allegiances": [
             305
@@ -2044,7 +2044,7 @@
         "birth": 267,
         "death": 299,
         "age": 32,
-        "pageRank": null,
+        "pageRank": 0.1511681172698122,
         "numRelatives": 0.043478260869565216,
         "allegiances": [],
         "books": [
@@ -2071,7 +2071,7 @@
         "birth": 220,
         "death": 259,
         "age": 39,
-        "pageRank": null,
+        "pageRank": 0.03756298671552909,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             305
@@ -2099,7 +2099,7 @@
         "birth": 263,
         "death": 299,
         "age": 36,
-        "pageRank": null,
+        "pageRank": 0.6972056802565277,
         "numRelatives": 0.15217391304347827,
         "allegiances": [
             290
@@ -2149,7 +2149,7 @@
         "birth": 226,
         "death": 262,
         "age": 36,
-        "pageRank": null,
+        "pageRank": 0.03618873110398534,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             290
@@ -2175,7 +2175,7 @@
         "birth": 150,
         "death": 220,
         "age": 70,
-        "pageRank": null,
+        "pageRank": 0.05313788364635822,
         "numRelatives": 0.21739130434782608,
         "allegiances": [
             305,
@@ -2205,7 +2205,7 @@
         "birth": 256,
         "death": 283,
         "age": 27,
-        "pageRank": null,
+        "pageRank": 0.12230874942739349,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             213,
@@ -2240,7 +2240,7 @@
         "birth": 220,
         "death": 300,
         "age": 80,
-        "pageRank": null,
+        "pageRank": 0.012368300503893724,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             177
@@ -2269,7 +2269,7 @@
         "birth": 265,
         "death": 300,
         "age": 35,
-        "pageRank": null,
+        "pageRank": 0.023820430600091615,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             292,
@@ -2298,7 +2298,7 @@
         "birth": 241,
         "death": 298,
         "age": 57,
-        "pageRank": null,
+        "pageRank": 0.021071919377004124,
         "numRelatives": 0,
         "allegiances": [
             368
@@ -2322,7 +2322,7 @@
         "birth": 255,
         "death": 291,
         "age": 36,
-        "pageRank": null,
+        "pageRank": 0.03435639028859368,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             187
@@ -2350,7 +2350,7 @@
         "birth": 206,
         "death": 244,
         "age": 38,
-        "pageRank": null,
+        "pageRank": 0.03710490151168117,
         "numRelatives": 0.13043478260869565,
         "allegiances": [
             187
@@ -2377,7 +2377,7 @@
         "birth": 265,
         "death": 300,
         "age": 35,
-        "pageRank": null,
+        "pageRank": 0.22308749427393496,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             87,
@@ -2414,7 +2414,7 @@
         "birth": 278,
         "death": 299,
         "age": 21,
-        "pageRank": null,
+        "pageRank": 0.013742556115437472,
         "numRelatives": 0,
         "allegiances": [
             224,
@@ -2441,7 +2441,7 @@
         "birth": 88,
         "death": 130,
         "age": 42,
-        "pageRank": null,
+        "pageRank": 0.015116811726981219,
         "numRelatives": 0,
         "allegiances": [
             169,
@@ -2469,7 +2469,7 @@
         "birth": 90,
         "death": 120,
         "age": 30,
-        "pageRank": null,
+        "pageRank": 0.024736601007787448,
         "numRelatives": 0,
         "allegiances": [
             297,
@@ -2500,7 +2500,7 @@
         "birth": 295,
         "death": 300,
         "age": 5,
-        "pageRank": null,
+        "pageRank": 0.008703618873110398,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
@@ -2518,7 +2518,7 @@
         "birth": 109,
         "death": 130,
         "age": 21,
-        "pageRank": null,
+        "pageRank": 0.06459001374255612,
         "numRelatives": 0.08695652173913043,
         "allegiances": [
             305,
@@ -2550,7 +2550,7 @@
         "birth": 283,
         "death": 300,
         "age": 17,
-        "pageRank": null,
+        "pageRank": 0.010994044892349977,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
@@ -2570,7 +2570,7 @@
         "birth": 238,
         "death": 299,
         "age": 61,
-        "pageRank": null,
+        "pageRank": 0.10627576729271644,
         "numRelatives": 0.13043478260869565,
         "allegiances": [
             316
@@ -2605,7 +2605,7 @@
         "birth": 123,
         "death": 133,
         "age": 10,
-        "pageRank": null,
+        "pageRank": 0.08199725148877691,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             305,
@@ -2636,7 +2636,7 @@
         "birth": 34,
         "death": 103,
         "age": 69,
-        "pageRank": null,
+        "pageRank": 0.451213925790197,
         "numRelatives": 0.34782608695652173,
         "allegiances": [],
         "books": [],
@@ -2662,7 +2662,7 @@
         "birth": 123,
         "death": 129,
         "age": 6,
-        "pageRank": null,
+        "pageRank": 0.04168575355016033,
         "numRelatives": 0,
         "allegiances": [
             305,
@@ -2691,7 +2691,7 @@
         "birth": 225,
         "death": 262,
         "age": 37,
-        "pageRank": null,
+        "pageRank": 0.1337608795235914,
         "numRelatives": 0.10869565217391304,
         "allegiances": [],
         "books": [],
@@ -2712,7 +2712,7 @@
         "birth": 278,
         "death": 300,
         "age": 22,
-        "pageRank": null,
+        "pageRank": 0.1374255611543747,
         "numRelatives": 0.08695652173913043,
         "allegiances": [
             11,
@@ -2750,7 +2750,7 @@
         "birth": 248,
         "death": 300,
         "age": 52,
-        "pageRank": null,
+        "pageRank": 0.03664681630783326,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             136
@@ -2783,7 +2783,7 @@
         "birth": 89,
         "death": 130,
         "age": 41,
-        "pageRank": null,
+        "pageRank": 0.021988089784699953,
         "numRelatives": 0.13043478260869565,
         "allegiances": [
             187,
@@ -2812,7 +2812,7 @@
         "birth": 230,
         "death": 299,
         "age": 69,
-        "pageRank": null,
+        "pageRank": 0.15574896930829135,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             223,
@@ -2845,7 +2845,7 @@
         "birth": 94,
         "death": 134,
         "age": 40,
-        "pageRank": null,
+        "pageRank": 0.03527256069628951,
         "numRelatives": 0,
         "allegiances": [
             34,
@@ -2882,7 +2882,7 @@
         "birth": 27,
         "death": 47,
         "age": 20,
-        "pageRank": null,
+        "pageRank": 0.02977553825011452,
         "numRelatives": 0.08695652173913043,
         "allegiances": [
             340,
@@ -2913,7 +2913,7 @@
         "birth": 244,
         "death": 273,
         "age": 29,
-        "pageRank": null,
+        "pageRank": 0.050389372423270726,
         "numRelatives": 0.08695652173913043,
         "allegiances": [
             187
@@ -2944,7 +2944,7 @@
         "birth": 286,
         "death": 300,
         "age": 14,
-        "pageRank": null,
+        "pageRank": 0.5245075584058635,
         "numRelatives": 0.06521739130434782,
         "allegiances": [],
         "books": [],
@@ -2966,7 +2966,7 @@
         "birth": 99,
         "death": 114,
         "age": 15,
-        "pageRank": null,
+        "pageRank": 0.005955107650022904,
         "numRelatives": 0,
         "allegiances": [
             201
@@ -2991,7 +2991,7 @@
         "birth": 218,
         "death": 298,
         "age": 80,
-        "pageRank": null,
+        "pageRank": 0.2542372881355932,
         "numRelatives": 0.13043478260869565,
         "allegiances": [
             34
@@ -3033,7 +3033,7 @@
         "birth": 278,
         "death": 299,
         "age": 21,
-        "pageRank": null,
+        "pageRank": 0.02153000458085204,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             72
@@ -3056,7 +3056,7 @@
         "birth": 136,
         "death": 209,
         "age": 73,
-        "pageRank": null,
+        "pageRank": 0.03344021988089785,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             290
@@ -3082,7 +3082,7 @@
         "birth": 273,
         "death": 298,
         "age": 25,
-        "pageRank": null,
+        "pageRank": 0.03573064590013743,
         "numRelatives": 0,
         "allegiances": [
             79,
@@ -3113,7 +3113,7 @@
         "birth": 175,
         "death": 257,
         "age": 82,
-        "pageRank": null,
+        "pageRank": 0.06275767292716446,
         "numRelatives": 0,
         "allegiances": [
             387
@@ -3142,7 +3142,7 @@
         "birth": 244,
         "death": 300,
         "age": 56,
-        "pageRank": null,
+        "pageRank": 0.288135593220339,
         "numRelatives": 0.10869565217391304,
         "allegiances": [
             187
@@ -3180,7 +3180,7 @@
         "birth": 277,
         "death": 300,
         "age": 23,
-        "pageRank": null,
+        "pageRank": 0.011452130096197893,
         "numRelatives": 0,
         "allegiances": [
             238
@@ -3200,7 +3200,7 @@
         "birth": 280,
         "death": 300,
         "age": 20,
-        "pageRank": null,
+        "pageRank": 0.011452130096197893,
         "numRelatives": 0,
         "allegiances": [
             290
@@ -3226,7 +3226,7 @@
         "birth": 93,
         "death": 120,
         "age": 27,
-        "pageRank": null,
+        "pageRank": 0.05313788364635822,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             329,
@@ -3251,7 +3251,7 @@
         "birth": 94,
         "death": 120,
         "age": 26,
-        "pageRank": null,
+        "pageRank": 0.0728355474118186,
         "numRelatives": 0.13043478260869565,
         "allegiances": [
             329,
@@ -3280,7 +3280,7 @@
         "birth": 266,
         "death": 283,
         "age": 17,
-        "pageRank": null,
+        "pageRank": 0.09528172240036646,
         "numRelatives": 0,
         "allegiances": [
             290
@@ -3311,7 +3311,7 @@
         "birth": 49,
         "death": 129,
         "age": 80,
-        "pageRank": null,
+        "pageRank": 0.11772789738891434,
         "numRelatives": 0,
         "allegiances": [
             47,
@@ -3344,7 +3344,7 @@
         "birth": 290,
         "death": 299,
         "age": 9,
-        "pageRank": null,
+        "pageRank": 0.011910215300045808,
         "numRelatives": 0,
         "allegiances": [
             106
@@ -3370,7 +3370,7 @@
         "birth": 77,
         "death": 120,
         "age": 43,
-        "pageRank": null,
+        "pageRank": 0.0961978928080623,
         "numRelatives": 0.15217391304347827,
         "allegiances": [
             297
@@ -3400,7 +3400,7 @@
         "birth": 266,
         "death": 300,
         "age": 34,
-        "pageRank": null,
+        "pageRank": 0.13605130554283096,
         "numRelatives": 0.08695652173913043,
         "allegiances": [
             316,
@@ -3437,7 +3437,7 @@
         "birth": 12,
         "death": 48,
         "age": 36,
-        "pageRank": null,
+        "pageRank": 0.4095281722400366,
         "numRelatives": 0.21739130434782608,
         "allegiances": [],
         "books": [],
@@ -3462,7 +3462,7 @@
         "birth": 127,
         "death": 130,
         "age": 3,
-        "pageRank": null,
+        "pageRank": 0.043976179569399906,
         "numRelatives": 0,
         "allegiances": [
             305,
@@ -3492,7 +3492,7 @@
         "birth": 279,
         "death": 300,
         "age": 21,
-        "pageRank": null,
+        "pageRank": 0.029317453046266605,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
@@ -3518,7 +3518,7 @@
         "birth": 269,
         "death": 289,
         "age": 20,
-        "pageRank": null,
+        "pageRank": 0.02885936784241869,
         "numRelatives": 0,
         "allegiances": [
             152
@@ -3544,7 +3544,7 @@
         "birth": 184,
         "death": 209,
         "age": 25,
-        "pageRank": null,
+        "pageRank": 0.020613834173156206,
         "numRelatives": 0,
         "allegiances": [
             305
@@ -3571,7 +3571,7 @@
         "birth": 285,
         "death": 298,
         "age": 13,
-        "pageRank": null,
+        "pageRank": 0.020613834173156206,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
@@ -3591,7 +3591,7 @@
         "birth": 138,
         "death": 179,
         "age": 41,
-        "pageRank": null,
+        "pageRank": 0.05176362803481448,
         "numRelatives": 0.10869565217391304,
         "allegiances": [
             305
@@ -3618,7 +3618,7 @@
         "birth": 230,
         "death": 299,
         "age": 69,
-        "pageRank": null,
+        "pageRank": 0.009161704076958314,
         "numRelatives": 0,
         "allegiances": [
             350,
@@ -3642,7 +3642,7 @@
         "birth": 281,
         "death": 300,
         "age": 19,
-        "pageRank": null,
+        "pageRank": 0.13834173156207055,
         "numRelatives": 0,
         "allegiances": [
             213,
@@ -3671,7 +3671,7 @@
         "birth": 269,
         "death": 300,
         "age": 31,
-        "pageRank": null,
+        "pageRank": 0.03252404947320202,
         "numRelatives": 0.08695652173913043,
         "allegiances": [
             136
@@ -3694,7 +3694,7 @@
         "birth": 229,
         "death": 246,
         "age": 17,
-        "pageRank": null,
+        "pageRank": 0.02885936784241869,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             305,
@@ -3719,7 +3719,7 @@
         "birth": 280,
         "death": 283,
         "age": 3,
-        "pageRank": null,
+        "pageRank": 0.06275767292716446,
         "numRelatives": 0,
         "allegiances": [
             305
@@ -3746,7 +3746,7 @@
         "birth": 277,
         "death": 299,
         "age": 22,
-        "pageRank": null,
+        "pageRank": 0.02015574896930829,
         "numRelatives": 0,
         "allegiances": [
             269,
@@ -3772,7 +3772,7 @@
         "birth": 268,
         "death": 289,
         "age": 21,
-        "pageRank": null,
+        "pageRank": 0.0320659642693541,
         "numRelatives": 0,
         "allegiances": [
             152
@@ -3798,7 +3798,7 @@
         "birth": 153,
         "death": 212,
         "age": 59,
-        "pageRank": null,
+        "pageRank": 0.03389830508474576,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             290
@@ -3822,7 +3822,7 @@
         "birth": 246,
         "death": 300,
         "age": 54,
-        "pageRank": null,
+        "pageRank": 0.05771873568483738,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             136
@@ -3847,7 +3847,7 @@
         "birth": 280,
         "death": 300,
         "age": 20,
-        "pageRank": null,
+        "pageRank": 0.0673385249656436,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
@@ -3870,7 +3870,7 @@
         "birth": 249,
         "death": 298,
         "age": 49,
-        "pageRank": null,
+        "pageRank": 0.01282638570774164,
         "numRelatives": 0,
         "allegiances": [
             290
@@ -3893,7 +3893,7 @@
         "birth": 274,
         "death": 298,
         "age": 24,
-        "pageRank": null,
+        "pageRank": 0.013284470911589555,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             253,
@@ -3918,7 +3918,7 @@
         "birth": 276,
         "death": 298,
         "age": 22,
-        "pageRank": null,
+        "pageRank": 0.17132386623912046,
         "numRelatives": 0,
         "allegiances": [
             305
@@ -3948,7 +3948,7 @@
         "birth": 253,
         "death": 299,
         "age": 46,
-        "pageRank": null,
+        "pageRank": 0.03389830508474576,
         "numRelatives": 0,
         "allegiances": [
             209
@@ -3974,7 +3974,7 @@
         "birth": 262,
         "death": 300,
         "age": 38,
-        "pageRank": null,
+        "pageRank": 0.0842876775080165,
         "numRelatives": 0.15217391304347827,
         "allegiances": [
             136
@@ -3998,7 +3998,7 @@
         "birth": 257,
         "death": 299,
         "age": 42,
-        "pageRank": null,
+        "pageRank": 0.03298213467704993,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
@@ -4023,7 +4023,7 @@
         "birth": 285,
         "death": 299,
         "age": 14,
-        "pageRank": null,
+        "pageRank": 0.0018323408153916628,
         "numRelatives": 0,
         "allegiances": [
             398
@@ -4043,7 +4043,7 @@
         "birth": 259,
         "death": 283,
         "age": 24,
-        "pageRank": null,
+        "pageRank": 0.24141090242785157,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             305
@@ -4072,7 +4072,7 @@
         "birth": 276,
         "death": 299,
         "age": 23,
-        "pageRank": null,
+        "pageRank": 0.009161704076958314,
         "numRelatives": 0,
         "allegiances": [
             67
@@ -4095,7 +4095,7 @@
         "birth": 185,
         "death": 230,
         "age": 45,
-        "pageRank": null,
+        "pageRank": 0.04626660558863949,
         "numRelatives": 0.2608695652173913,
         "allegiances": [
             338,
@@ -4124,7 +4124,7 @@
         "birth": 67,
         "death": 101,
         "age": 34,
-        "pageRank": null,
+        "pageRank": 0.03481447549244159,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             305
@@ -4148,7 +4148,7 @@
         "birth": 270,
         "death": 300,
         "age": 30,
-        "pageRank": null,
+        "pageRank": 0.1873568483737975,
         "numRelatives": 0,
         "allegiances": [
             87,
@@ -4174,7 +4174,7 @@
         "birth": 233,
         "death": 299,
         "age": 66,
-        "pageRank": null,
+        "pageRank": 0.0467246907924874,
         "numRelatives": 0.15217391304347827,
         "allegiances": [
             136
@@ -4200,7 +4200,7 @@
         "birth": 250,
         "death": 285,
         "age": 35,
-        "pageRank": null,
+        "pageRank": 0.03389830508474576,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             187
@@ -4227,7 +4227,7 @@
         "birth": 242,
         "death": 300,
         "age": 58,
-        "pageRank": null,
+        "pageRank": 0.7778286761337608,
         "numRelatives": 0.08695652173913043,
         "allegiances": [
             187
@@ -4260,7 +4260,7 @@
         "birth": 249,
         "death": 298,
         "age": 49,
-        "pageRank": null,
+        "pageRank": 0.01694915254237288,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             114,
@@ -4286,7 +4286,7 @@
         "birth": 260,
         "death": 281,
         "age": 21,
-        "pageRank": null,
+        "pageRank": 0.01923957856161246,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             318
@@ -4309,7 +4309,7 @@
         "birth": 77,
         "death": 129,
         "age": 52,
-        "pageRank": null,
+        "pageRank": 0.27897388914338067,
         "numRelatives": 0.2608695652173913,
         "allegiances": [],
         "books": [],
@@ -4325,7 +4325,7 @@
         "birth": 285,
         "death": 299,
         "age": 14,
-        "pageRank": null,
+        "pageRank": 0.03847915712322492,
         "numRelatives": 0,
         "allegiances": [
             187
@@ -4350,7 +4350,7 @@
         "birth": 264,
         "death": 276,
         "age": 12,
-        "pageRank": null,
+        "pageRank": 0.008703618873110398,
         "numRelatives": 0,
         "allegiances": [
             167
@@ -4371,7 +4371,7 @@
         "birth": 75,
         "death": 130,
         "age": 55,
-        "pageRank": null,
+        "pageRank": 0.2524049473202016,
         "numRelatives": 0.08695652173913043,
         "allegiances": [
             169,
@@ -4399,7 +4399,7 @@
         "birth": 277,
         "death": 299,
         "age": 22,
-        "pageRank": null,
+        "pageRank": 0.33760879523591386,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             44
@@ -4429,7 +4429,7 @@
         "birth": 230,
         "death": 282,
         "age": 52,
-        "pageRank": null,
+        "pageRank": 0.07833256985799358,
         "numRelatives": 0.10869565217391304,
         "allegiances": [
             290
@@ -4456,7 +4456,7 @@
         "birth": 178,
         "death": 211,
         "age": 33,
-        "pageRank": null,
+        "pageRank": 0.012368300503893724,
         "numRelatives": 0,
         "allegiances": [
             305
@@ -4480,7 +4480,7 @@
         "birth": 220,
         "death": 267,
         "age": 47,
-        "pageRank": null,
+        "pageRank": 0.076042143838754,
         "numRelatives": 0.13043478260869565,
         "allegiances": [
             187
@@ -4507,7 +4507,7 @@
         "birth": 196,
         "death": 212,
         "age": 16,
-        "pageRank": null,
+        "pageRank": 0.02244617498854787,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             187
@@ -4535,7 +4535,7 @@
         "birth": 291,
         "death": 300,
         "age": 9,
-        "pageRank": null,
+        "pageRank": 0.076042143838754,
         "numRelatives": 0,
         "allegiances": [
             136
@@ -4559,7 +4559,7 @@
         "birth": 190,
         "death": 211,
         "age": 21,
-        "pageRank": null,
+        "pageRank": 0.005497022446174988,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             316
@@ -4582,7 +4582,7 @@
         "birth": 103,
         "death": 157,
         "age": 54,
-        "pageRank": null,
+        "pageRank": 0.058176820888685296,
         "numRelatives": 0,
         "allegiances": [
             305,
@@ -4608,7 +4608,7 @@
         "birth": 281,
         "death": 300,
         "age": 19,
-        "pageRank": null,
+        "pageRank": 0.03573064590013743,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             136
@@ -4630,7 +4630,7 @@
         "birth": 173,
         "death": 215,
         "age": 42,
-        "pageRank": null,
+        "pageRank": 0.0233623453962437,
         "numRelatives": 0.08695652173913043,
         "allegiances": [
             305
@@ -4654,7 +4654,7 @@
         "birth": 283,
         "death": 299,
         "age": 16,
-        "pageRank": null,
+        "pageRank": 0.5263398992212551,
         "numRelatives": 0.06521739130434782,
         "allegiances": [],
         "books": [],
@@ -4670,7 +4670,7 @@
         "birth": 252,
         "death": 300,
         "age": 48,
-        "pageRank": null,
+        "pageRank": 0.03939532753092075,
         "numRelatives": 0.08695652173913043,
         "allegiances": [
             136
@@ -4693,7 +4693,7 @@
         "birth": 246,
         "death": 278,
         "age": 32,
-        "pageRank": null,
+        "pageRank": 0.03847915712322492,
         "numRelatives": 0.08695652173913043,
         "allegiances": [
             44
@@ -4719,7 +4719,7 @@
         "birth": 261,
         "death": 299,
         "age": 38,
-        "pageRank": null,
+        "pageRank": 0.017407237746220796,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             136
@@ -4743,7 +4743,7 @@
         "birth": 89,
         "death": 133,
         "age": 44,
-        "pageRank": null,
+        "pageRank": 0.22583600549702246,
         "numRelatives": 0,
         "allegiances": [
             187,
@@ -4772,7 +4772,7 @@
         "birth": 268,
         "death": 283,
         "age": 15,
-        "pageRank": null,
+        "pageRank": 0.013284470911589555,
         "numRelatives": 0,
         "allegiances": [
             152
@@ -4793,7 +4793,7 @@
         "birth": 278,
         "death": 297,
         "age": 19,
-        "pageRank": null,
+        "pageRank": 0.02885936784241869,
         "numRelatives": 0,
         "allegiances": [
             269,
@@ -4819,7 +4819,7 @@
         "birth": 122,
         "death": 172,
         "age": 50,
-        "pageRank": null,
+        "pageRank": 0.3114979386165827,
         "numRelatives": 0.13043478260869565,
         "allegiances": [],
         "books": [],
@@ -4835,7 +4835,7 @@
         "birth": 240,
         "death": 299,
         "age": 59,
-        "pageRank": null,
+        "pageRank": 0.00320659642693541,
         "numRelatives": 0,
         "allegiances": [
             367
@@ -4855,7 +4855,7 @@
         "birth": 248,
         "death": 248,
         "age": 0,
-        "pageRank": null,
+        "pageRank": 0.012368300503893724,
         "numRelatives": 0,
         "allegiances": [
             213
@@ -4875,7 +4875,7 @@
         "birth": 220,
         "death": 299,
         "age": 79,
-        "pageRank": null,
+        "pageRank": 0.00320659642693541,
         "numRelatives": 0,
         "allegiances": [
             367
@@ -4895,7 +4895,7 @@
         "birth": 257,
         "death": 300,
         "age": 43,
-        "pageRank": null,
+        "pageRank": 0.2679798442510307,
         "numRelatives": 0.17391304347826086,
         "allegiances": [
             213,
@@ -4925,7 +4925,7 @@
         "birth": 216,
         "death": 300,
         "age": 84,
-        "pageRank": null,
+        "pageRank": 0.4429683921209345,
         "numRelatives": 0,
         "allegiances": [
             388,
@@ -4953,7 +4953,7 @@
         "birth": 74,
         "death": 129,
         "age": 55,
-        "pageRank": null,
+        "pageRank": 0.06184150251946862,
         "numRelatives": 0.06521739130434782,
         "allegiances": [
             305,
@@ -4980,7 +4980,7 @@
         "birth": 245,
         "death": 284,
         "age": 39,
-        "pageRank": null,
+        "pageRank": 0.08520384791571232,
         "numRelatives": 0.1956521739130435,
         "allegiances": [
             305
@@ -5009,7 +5009,7 @@
         "birth": 245,
         "death": 299,
         "age": 54,
-        "pageRank": null,
+        "pageRank": 0.04535043518094366,
         "numRelatives": 0.08695652173913043,
         "allegiances": [
             187
@@ -5035,7 +5035,7 @@
         "birth": 286,
         "death": 299,
         "age": 13,
-        "pageRank": null,
+        "pageRank": 0.03389830508474576,
         "numRelatives": 0.021739130434782608,
         "allegiances": [
             187
@@ -5059,7 +5059,7 @@
         "birth": 183,
         "death": 209,
         "age": 26,
-        "pageRank": null,
+        "pageRank": 0.10994044892349977,
         "numRelatives": 0.043478260869565216,
         "allegiances": [
             305
@@ -5085,7 +5085,7 @@
         "birth": 279,
         "death": 299,
         "age": 20,
-        "pageRank": null,
+        "pageRank": 0.0320659642693541,
         "numRelatives": 0,
         "allegiances": [
             136,
@@ -5110,7 +5110,7 @@
         "birth": 280,
         "death": 299,
         "age": 19,
-        "pageRank": null,
+        "pageRank": 0.06092533211177279,
         "numRelatives": 0,
         "allegiances": [
             364
