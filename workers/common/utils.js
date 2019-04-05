@@ -438,6 +438,28 @@ class APIUpdater {
       },
     });
   }
+  
+  /**
+   * Update Bayesean attributes and their influences
+   */
+  
+  updateBayeseanAttributes(dataset, attrs) {
+    //do a type check
+    
+    for (let key of Object.keys(attrs)) {
+      if(Number.isNaN(attrs[key])) {
+        throw new Error('Attribute values must be numbers!');
+      }
+    }
+    
+    //now send
+    return request.post(config.GOT_API_BASE_URL + `/${dataset}/bayesean-attributes/update`, {
+      json: {
+        attributes: attrs,
+        token: "123secure",
+      }
+    });
+  }
 
   /**
    * Like `updatePLODLongevity`, but only the PLOD is updated, the longevity is taken from the cache.

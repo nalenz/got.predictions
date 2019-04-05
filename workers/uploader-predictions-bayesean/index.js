@@ -18,8 +18,7 @@ async function updatePredictions(callback) {
   }
   
   //upload book coefficients
-  //console.log(bookCoefficients);
-  //TODO
+  console.log(await updater.updateBayeseanAttributes('book', bookCoefficients));
   
   //book predictions
   for (let name in bookPred.characters) {
@@ -60,8 +59,7 @@ async function updatePredictions(callback) {
   }
   
   //upload show coefficients
-  //console.log(showCoefficients);
-  //TODO
+  console.log(await updater.updateBayeseanAttributes('show', showCoefficients));
   
   //show predictions
   for (let name in showPred.characters) {
