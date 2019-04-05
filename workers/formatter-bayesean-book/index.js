@@ -308,8 +308,8 @@ async function genTrainingData (callback) {
   ]);
   
   let characters = filterChars(characters_unfiltered); // filter out unsuitable characters
-  let locMap = genLocationMap(character_locations); // generate a character-to-locations map
-  let locations = collectLocations(character_locations, characters, locMap); // collect locations and filter them
+  //let locMap = genLocationMap(character_locations); // generate a character-to-locations map
+  //let locations = collectLocations(character_locations, characters, locMap); // collect locations and filter them
   let houses = collectHouses(houses_unfiltered, characters); // collect houses and filter them
   let cultures = collectCultures(cultures_unfiltered, characters); // collect cultures and filter them
   let maxRank = getMaxRank(characters); //max pageRank can determine who is a major character

@@ -114,7 +114,7 @@
         "__v": 0,
         "_id": "5ca4d4e33e3b37061bde0f09",
         "assassin": {
-            "__v": 0,
+            "__v": 2,
             "_id": "5ca35cd587aa7609cb01a5ca",
             "actor": "Ed Skrein",
             "age": {
@@ -176,8 +176,18 @@
             "id": "5ca35cd587aa7609cb01a5ca",
             "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/d/d8/Daario-s6e4.jpg/revision/latest/scale-to-width-down/323?cb=20160512195958",
             "longevity": [],
-            "longevityB": [],
+            "longevityB": [
+                0.922,
+                0.851,
+                0.787,
+                0.729,
+                0.675,
+                0.627,
+                0.582,
+                0.541
+            ],
             "longevityC": [],
+            "longevityStartB": 298,
             "lovers": [
                 "Daenerys Targaryen"
             ],
@@ -189,8 +199,8 @@
                 "title": "Daario_Naharis"
             },
             "plod": 0,
-            "plodB": 0,
-            "plodC": 0,
+            "plodB": 0.45899999999999996,
+            "plodC": 0.3866,
             "religions": [],
             "seasons": [],
             "siblings": [],
@@ -209,7 +219,78 @@
     {
         "__v": 0,
         "_id": "5ca4d4e33e3b37061bde0f0a",
-        "assassin": null,
+        "assassin": {
+            "__v": 1,
+            "_id": "5ca35cd587aa7609cb01a599",
+            "actor": "Burn Gorman",
+            "age": {
+                "age": 45,
+                "name": "Karl"
+            },
+            "alive": false,
+            "allegiances": [
+                "Mutineers",
+                "Night's Watch"
+            ],
+            "appearances": [
+                "Valar Dohaeris",
+                "Dark Wings, Dark Words",
+                "Walk of Punishment",
+                "And Now His Watch Is Ended",
+                "Kissed by Fire",
+                "The Climb",
+                "The Bear and the Maiden Fair",
+                "Second Sons",
+                "The Rains of Castamere",
+                "Mhysa",
+                "Two Swords",
+                "The Lion and the Rose",
+                "Breaker of Chains",
+                "Oathkeeper",
+                "First of His Name"
+            ],
+            "createdAt": "2019-04-02T13:00:05.699Z",
+            "cultures": [],
+            "death": 301,
+            "first_seen": "\"Walk of Punishment\"",
+            "gender": "male",
+            "house": "Mutineers",
+            "id": "5ca35cd587aa7609cb01a599",
+            "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/5/58/Karl_tanner_released_by_HBO_S4.PNG/revision/latest?cb=20170506112727",
+            "longevity": [],
+            "longevityB": [
+                0.962,
+                0.926,
+                0.891,
+                0.857,
+                0.825,
+                0.794,
+                0.764,
+                0.735
+            ],
+            "longevityC": [],
+            "longevityStartB": 298,
+            "lovers": [],
+            "name": "Karl",
+            "nicknames": [],
+            "origin": "Gin Alley,Flea Bottom",
+            "pagerank": {
+                "rank": 160,
+                "title": "Karl_Tanner"
+            },
+            "plod": 0,
+            "plodB": 0.265,
+            "plodC": 0,
+            "religions": [],
+            "seasons": [
+                null
+            ],
+            "siblings": [],
+            "slug": "Karl_Tanner",
+            "spouse": "",
+            "titles": [],
+            "updatedAt": "2019-04-02T13:00:05.699Z"
+        },
         "id": "5ca4d4e33e3b37061bde0f0a",
         "slug": "Karl_Tanner"
     },
@@ -223,7 +304,80 @@
     {
         "__v": 0,
         "_id": "5ca4d4e33e3b37061bde0f0c",
-        "assassin": null,
+        "assassin": {
+            "__v": 1,
+            "_id": "5ca35cd587aa7609cb01a5be",
+            "actor": "Faye Marsay",
+            "age": {
+                "age": 33,
+                "name": "The Waif"
+            },
+            "alive": false,
+            "allegiances": [
+                "Faceless Men"
+            ],
+            "appearances": [
+                "The Wars To Come",
+                "The House of Black and White",
+                "High Sparrow",
+                "Sons of the Harpy",
+                "Kill the Boy",
+                "Unbowed, Unbent, Unbroken",
+                "The Gift",
+                "Hardhome",
+                "The Dance of Dragons",
+                "Mother\u2019s Mercy",
+                "The Red Woman",
+                "Home",
+                "Oathbreaker",
+                "Book of the Stranger",
+                "The Door",
+                "Blood of My Blood",
+                "The Broken Man",
+                "No One"
+            ],
+            "createdAt": "2019-04-02T13:00:05.709Z",
+            "cultures": [],
+            "death": 303,
+            "first_seen": "\"High Sparrow\"",
+            "gender": "female",
+            "house": "Faceless Men",
+            "id": "5ca35cd587aa7609cb01a5be",
+            "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/4/4c/Waif6x08.png/revision/latest/scale-to-width-down/350?cb=20160609061651",
+            "longevity": [],
+            "longevityB": [
+                0.962,
+                0.926,
+                0.891,
+                0.857,
+                0.825,
+                0.794,
+                0.764,
+                0.735
+            ],
+            "longevityC": [],
+            "longevityStartB": 298,
+            "lovers": [],
+            "name": "The Waif",
+            "nicknames": [],
+            "origin": "Braavos",
+            "pagerank": {
+                "rank": 34,
+                "title": "Waif"
+            },
+            "plod": 0,
+            "plodB": 0.265,
+            "plodC": 0,
+            "religions": [],
+            "seasons": [
+                null
+            ],
+            "siblings": [],
+            "slug": "Waif",
+            "spouse": "",
+            "titles": [],
+            "updatedAt": "2019-04-02T13:00:05.709Z"
+        },
         "id": "5ca4d4e33e3b37061bde0f0c",
         "slug": "Waif"
     },

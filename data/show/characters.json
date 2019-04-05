@@ -1,6 +1,6 @@
 [
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a502",
         "actor": "Sean Bean",
         "age": {
@@ -238,7 +238,7 @@
         "updatedAt": "2019-04-02T13:00:05.615Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a505",
         "actor": "Sophie Turner",
         "age": {
@@ -331,30 +331,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/f/f3/Sansa_S8.jpg/revision/latest/scale-to-width-down/350?cb=20190206213553",
         "longevity": [],
         "longevityB": [
-            0.0027534279506653547,
-            0.0019269887125119567,
-            0.0006909472867846489,
-            0.0012894382234662771,
-            0.0005659760208800435,
-            0.0005658001755364239,
-            0.00048505180166102946,
-            0.0006959341117180884,
-            0.0006365181179717183,
-            0.00031247339211404324,
-            0.00034870230592787266,
-            0.0004868267278652638,
-            0.0004286174080334604,
-            0.0005311860586516559,
-            0.0005047199665568769,
-            0.0002691982372198254,
-            0.000317538739182055,
-            0.00028204373666085303,
-            0.00017697853036224842,
-            0.00019281840650364757,
-            0.00018868946062866598
+            0.984,
+            0.969,
+            0.954,
+            0.94,
+            0.925,
+            0.911,
+            0.898,
+            0.885
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "mother": "Catelyn Stark",
         "name": "Sansa Stark",
@@ -365,8 +352,8 @@
             "title": "Sansa_Stark"
         },
         "plod": 0,
-        "plodB": 0.9972465720493346,
-        "plodC": 0,
+        "plodB": 0.11499999999999999,
+        "plodC": 0.8366,
         "religions": [],
         "seasons": [],
         "siblings": [
@@ -387,7 +374,7 @@
         "updatedAt": "2019-04-02T13:00:05.616Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a506",
         "actor": "Maisie Williams",
         "age": {
@@ -479,30 +466,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/b/b1/Arya_Season_8.jpg/revision/latest/scale-to-width-down/350?cb=20190206213617",
         "longevity": [],
         "longevityB": [
-            0.6549466848373413,
-            0.5237323045730591,
-            0.60544753074646,
-            0.5463697910308838,
-            0.4072013199329376,
-            0.5030887722969055,
-            0.3940156102180481,
-            0.3542959690093994,
-            0.3525594472885132,
-            0.41267159581184387,
-            0.4080091714859009,
-            0.3021838366985321,
-            0.32349932193756104,
-            0.3679875135421753,
-            0.34231317043304443,
-            0.3765226900577545,
-            0.3846451938152313,
-            0.25922104716300964,
-            0.29010286927223206,
-            0.27180230617523193,
-            0.22723887860774994
+            0.973,
+            0.947,
+            0.922,
+            0.898,
+            0.875,
+            0.852,
+            0.83,
+            0.809
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "mother": "Catelyn Tully",
         "name": "Arya Stark",
@@ -513,8 +487,8 @@
             "title": "Arya_Stark"
         },
         "plod": 0,
-        "plodB": 0.3450533151626587,
-        "plodC": 0,
+        "plodB": 0.19099999999999995,
+        "plodC": 0.6872,
         "religions": [],
         "seasons": [],
         "siblings": [
@@ -532,7 +506,7 @@
         "updatedAt": "2019-04-02T13:00:05.617Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a507",
         "actor": "Isaac Hempstead-Wright",
         "age": {
@@ -613,30 +587,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/9/90/BranSeason8Cropped.PNG/revision/latest/scale-to-width-down/344?cb=20190207114454",
         "longevity": [],
         "longevityB": [
-            0.043826181441545486,
-            0.07874704897403717,
-            0.042521845549345016,
-            0.05932438001036644,
-            0.045264940708875656,
-            0.017534807324409485,
-            0.028571346774697304,
-            0.015241742134094238,
-            0.012846073135733604,
-            0.012074966914951801,
-            0.015456230379641056,
-            0.015759039670228958,
-            0.00842144712805748,
-            0.009119688533246517,
-            0.013274949975311756,
-            0.01199087779968977,
-            0.013879725709557533,
-            0.01338464766740799,
-            0.007773909252136946,
-            0.009055722504854202,
-            0.007972273044288158
+            0.931,
+            0.868,
+            0.81,
+            0.756,
+            0.706,
+            0.661,
+            0.618,
+            0.579
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "mother": "Catelyn Stark",
         "name": "Bran Stark",
@@ -647,8 +608,8 @@
             "title": "Bran_Stark"
         },
         "plod": 0,
-        "plodB": 0.9561738185584545,
-        "plodC": 0,
+        "plodB": 0.42100000000000004,
+        "plodC": 0.4257,
         "religions": [],
         "seasons": [],
         "siblings": [
@@ -761,7 +722,7 @@
         "updatedAt": "2019-04-02T13:00:05.617Z"
     },
     {
-        "__v": 5,
+        "__v": 6,
         "_id": "5ca35cd587aa7609cb01a509",
         "actor": "Kit Harington",
         "age": {
@@ -857,31 +818,18 @@
             0.4
         ],
         "longevityB": [
-            0.9484399557113647,
-            0.9281427264213562,
-            0.9302567839622498,
-            0.9462548494338989,
-            0.9446868896484375,
-            0.8987269997596741,
-            0.9199822545051575,
-            0.9335722923278809,
-            0.9317466020584106,
-            0.9421682357788086,
-            0.9424399733543396,
-            0.8767832517623901,
-            0.8930118680000305,
-            0.8760610818862915,
-            0.8313101530075073,
-            0.8234713673591614,
-            0.815624475479126,
-            0.737476646900177,
-            0.6983493566513062,
-            0.681157112121582,
-            0.6553963422775269
+            0.956,
+            0.915,
+            0.876,
+            0.839,
+            0.804,
+            0.771,
+            0.74,
+            0.71
         ],
         "longevityC": [],
         "longevityStart": 304,
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [
             "Daenerys Targaryen",
             "Ygritte"
@@ -895,8 +843,8 @@
             "title": "Jon_Snow"
         },
         "plod": 42,
-        "plodB": 0.051560044288635254,
-        "plodC": 0,
+        "plodB": 0.29000000000000004,
+        "plodC": 0.5918,
         "religions": [],
         "seasons": [],
         "siblings": [
@@ -997,7 +945,7 @@
         "updatedAt": "2019-04-02T13:00:05.618Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a50b",
         "actor": "Alfie Allen",
         "age": {
@@ -1094,30 +1042,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/5/5f/TheonGreyjoy7x7.jpg/revision/latest/scale-to-width-down/333?cb=20170823221606",
         "longevity": [],
         "longevityB": [
-            0.8851078748703003,
-            0.8442505598068237,
-            0.8443059921264648,
-            0.8945541977882385,
-            0.893054187297821,
-            0.7785252332687378,
-            0.8073488473892212,
-            0.8593857884407043,
-            0.8255342245101929,
-            0.8770540356636047,
-            0.8665956854820251,
-            0.7053803205490112,
-            0.7728080749511719,
-            0.6976798176765442,
-            0.6405683159828186,
-            0.6358793377876282,
-            0.5904650092124939,
-            0.541499137878418,
-            0.5278023481369019,
-            0.5211942195892334,
-            0.5006840825080872
+            0.942,
+            0.889,
+            0.84,
+            0.795,
+            0.753,
+            0.715,
+            0.679,
+            0.646
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "mother": "Alannys Greyjoy",
         "name": "Theon Greyjoy",
@@ -1128,8 +1063,8 @@
             "title": "Theon_Greyjoy"
         },
         "plod": 0,
-        "plodB": 0.11489212512969971,
-        "plodC": 0,
+        "plodB": 0.354,
+        "plodC": 0.4078,
         "religions": [],
         "seasons": [],
         "siblings": [
@@ -1670,46 +1605,78 @@
         "updatedAt": "2019-04-02T13:00:05.623Z"
     },
     {
-        "__v": 0,
+        "__v": 1,
         "_id": "5ca35cd587aa7609cb01a514",
+        "actor": "Dean S. Jagger",
         "age": {
             "age": 41,
             "name": "Smalljon Umber"
         },
-        "alive": true,
-        "allegiances": [],
-        "appearances": [],
+        "alive": false,
+        "allegiances": [
+            "House Umber",
+            "House Bolton",
+            "House Stark"
+        ],
+        "appearances": [
+            "The Red Woman",
+            "Home",
+            "Oathbreaker",
+            "Book of the Stranger",
+            "The Door",
+            "Blood of My Blood",
+            "The Broken Man",
+            "No One",
+            "Battle of the Bastards",
+            "The Winds of Winter"
+        ],
         "createdAt": "2019-04-02T13:00:05.623Z",
         "cultures": [],
-        "first_seen": "",
-        "gender": "female",
+        "death": 303,
+        "father": "Jon Umber (Greatjon)",
+        "first_seen": "\"Oathbreaker\"",
+        "gender": "male",
+        "house": "House Umber",
         "id": "5ca35cd587aa7609cb01a514",
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/3/37/Smalljon_umber_battle_of_bastards_promo_season_6.jpg/revision/latest/scale-to-width-down/350?cb=20160616012000",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Smalljon Umber",
         "nicknames": [],
-        "origin": "",
+        "origin": "Last Hearth",
         "pagerank": {
-            "rank": 26,
-            "title": "Jon_Umber_(Smalljon)"
+            "rank": 80,
+            "title": "Smalljon_Umber"
         },
         "plod": 0,
-        "plodB": 0,
+        "plodB": 0.265,
         "plodC": 0,
         "religions": [],
         "seasons": [
-            null
+            6
         ],
         "siblings": [],
-        "slug": "Jon_Umber_(Smalljon)",
+        "slug": "Smalljon_Umber",
         "spouse": "",
-        "titles": [],
+        "titles": [
+            "Lord of the Last Hearth"
+        ],
         "updatedAt": "2019-04-02T13:00:05.623Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a515",
         "actor": "Harry Grasby",
         "age": {
@@ -1740,30 +1707,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/f/f7/Profile-NedUmber.png/revision/latest/scale-to-width-down/350?cb=20170729122921",
         "longevity": [],
         "longevityB": [
-            0.0007943427772261202,
-            0.0038298319559544325,
-            0.0020998469553887844,
-            0.0004486992838792503,
-            0.003835077164694667,
-            0.004975126590579748,
-            0.0006076471763662994,
-            0.0018132540863007307,
-            0.000641901046037674,
-            0.0014194381656125188,
-            0.0008554260712116957,
-            0.00021842193382326514,
-            0.0005712686106562614,
-            0.00019097280164714903,
-            0.000207363031222485,
-            0.00017477665096521378,
-            0.00024237607431132346,
-            0.00023365435481537133,
-            9.83625213848427e-05,
-            0.00010049488628283143,
-            0.00021032622316852212
+            0.923,
+            0.852,
+            0.787,
+            0.728,
+            0.673,
+            0.623,
+            0.576,
+            0.534
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Ned Umber",
         "nicknames": [],
@@ -1773,8 +1727,8 @@
             "title": "Ned_Umber"
         },
         "plod": 0,
-        "plodB": 0.9992056572227739,
-        "plodC": 0,
+        "plodB": 0.46599999999999997,
+        "plodC": 0.5918,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -1851,7 +1805,7 @@
         "updatedAt": "2019-04-02T13:00:05.624Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a517",
         "actor": "Megan Parkinson",
         "age": {
@@ -1882,30 +1836,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/4/46/Alys_Karstark.png/revision/latest?cb=20180702192757",
         "longevity": [],
         "longevityB": [
-            0.005559531506150961,
-            0.0159604474902153,
-            0.005805143620818853,
-            0.012265156954526901,
-            0.00939701497554779,
-            0.0028463234193623066,
-            0.006330118980258703,
-            0.0023728397209197283,
-            0.0025746123865246773,
-            0.0022555184550583363,
-            0.003072720253840089,
-            0.0031566445250064135,
-            0.0014483993873000145,
-            0.0013507598778232932,
-            0.0026607620529830456,
-            0.0022610968444496393,
-            0.002545522525906563,
-            0.002077369252219796,
-            0.0009949835948646069,
-            0.0013274899683892727,
-            0.001140549429692328
+            0.923,
+            0.852,
+            0.787,
+            0.728,
+            0.673,
+            0.623,
+            0.576,
+            0.534
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Alys Karstark",
         "nicknames": [],
@@ -1915,8 +1856,8 @@
             "title": "Alys_Karstark"
         },
         "plod": 0,
-        "plodB": 0.994440468493849,
-        "plodC": 0,
+        "plodB": 0.46599999999999997,
+        "plodC": 0.5918,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -1928,7 +1869,7 @@
         "updatedAt": "2019-04-02T13:00:05.625Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a518",
         "actor": "Bella Ramsey",
         "age": {
@@ -1969,30 +1910,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/9/9e/Dragonstone_2-0.jpg/revision/latest/scale-to-width-down/333?cb=20170712215831",
         "longevity": [],
         "longevityB": [
-            0.06508353352546692,
-            0.020927077159285545,
-            0.10869129747152328,
-            0.12949664890766144,
-            0.020286722108721733,
-            0.056546278297901154,
-            0.0201166532933712,
-            0.04757405072450638,
-            0.03392556682229042,
-            0.010485850274562836,
-            0.02141948789358139,
-            0.010523539036512375,
-            0.00932175014168024,
-            0.008198612369596958,
-            0.011018609628081322,
-            0.012064606882631779,
-            0.00545840198174119,
-            0.005584631580859423,
-            0.00884459912776947,
-            0.008721153251826763,
-            0.00862807221710682
+            0.969,
+            0.94,
+            0.911,
+            0.883,
+            0.857,
+            0.831,
+            0.806,
+            0.782
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "mother": "Maege Mormont",
         "name": "Lyanna Mormont",
@@ -2003,8 +1931,8 @@
             "title": "Lyanna_Mormont"
         },
         "plod": 0,
-        "plodB": 0.9349164664745331,
-        "plodC": 0,
+        "plodB": 0.21799999999999997,
+        "plodC": 0.7942,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -2016,7 +1944,7 @@
         "updatedAt": "2019-04-02T13:00:05.625Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a519",
         "actor": "Tim McInnerny",
         "age": {
@@ -2056,8 +1984,18 @@
         "id": "5ca35cd587aa7609cb01a519",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/6/64/702_Robett_Profile.png/revision/latest/scale-to-width-down/350?cb=20170830232320",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.929,
+            0.865,
+            0.807,
+            0.753,
+            0.704,
+            0.659,
+            0.617,
+            0.579
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Robett Glover",
         "nicknames": [],
@@ -2067,8 +2005,8 @@
             "title": "Robett_Glover"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.42100000000000004,
+        "plodC": 0.5887,
         "religions": [],
         "seasons": [],
         "siblings": [
@@ -2082,7 +2020,7 @@
         "updatedAt": "2019-04-02T13:00:05.625Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a51a",
         "actor": "Tom Varey",
         "age": {
@@ -2115,30 +2053,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/7/7c/610_Cley_Cerwyn.png/revision/latest/scale-to-width-down/350?cb=20160826070113",
         "longevity": [],
         "longevityB": [
-            0.5455716252326965,
-            0.2986817955970764,
-            0.4415859282016754,
-            0.2963562607765198,
-            0.2526796758174896,
-            0.24150075018405914,
-            0.32266104221343994,
-            0.3043114244937897,
-            0.1672157645225525,
-            0.18657541275024414,
-            0.25547999143600464,
-            0.23602117598056793,
-            0.2567240297794342,
-            0.25710153579711914,
-            0.15232983231544495,
-            0.18301212787628174,
-            0.15639524161815643,
-            0.10746628791093826,
-            0.12303687632083893,
-            0.10575264692306519,
-            0.07651334255933762
+            0.923,
+            0.852,
+            0.787,
+            0.728,
+            0.673,
+            0.623,
+            0.576,
+            0.534
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Cley Cerwyn",
         "nicknames": [],
@@ -2148,8 +2073,8 @@
             "title": "Cley_Cerwyn"
         },
         "plod": 0,
-        "plodB": 0.45442837476730347,
-        "plodC": 0,
+        "plodB": 0.46599999999999997,
+        "plodC": 0.5918,
         "religions": [],
         "seasons": [
             6
@@ -2163,7 +2088,7 @@
         "updatedAt": "2019-04-02T13:00:05.626Z"
     },
     {
-        "__v": 1,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a51b",
         "actor": "Sean Blowers",
         "age": {
@@ -2196,30 +2121,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/8/87/Profile-WymanManderly.png/revision/latest/scale-to-width-down/350?cb=20170731100012",
         "longevity": [],
         "longevityB": [
-            0.02486581727862358,
-            0.02672158181667328,
-            0.02680112235248089,
-            0.06206526234745979,
-            0.019587013870477676,
-            0.018802840262651443,
-            0.021473035216331482,
-            0.015867937356233597,
-            0.021349743008613586,
-            0.020199187099933624,
-            0.013514368794858456,
-            0.018550213426351547,
-            0.016730641946196556,
-            0.01989826373755932,
-            0.014810078777372837,
-            0.015090711414813995,
-            0.012762760743498802,
-            0.012651137076318264,
-            0.06050596386194229,
-            0.05902598053216934,
-            0.014336369931697845
+            0.923,
+            0.852,
+            0.787,
+            0.728,
+            0.673,
+            0.623,
+            0.576,
+            0.534
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Wyman Manderly",
         "nicknames": [],
@@ -2229,8 +2141,8 @@
             "title": "Wyman_Manderly"
         },
         "plod": 0,
-        "plodB": 0.9751341827213764,
-        "plodC": 0,
+        "plodB": 0.46599999999999997,
+        "plodC": 0.5918,
         "religions": [],
         "seasons": [
             6
@@ -2312,7 +2224,7 @@
         "updatedAt": "2019-04-02T13:00:05.627Z"
     },
     {
-        "__v": 1,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a51d",
         "actor": "Ellie Kendrick",
         "age": {
@@ -2373,30 +2285,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/9/93/Meera_Infobox.PNG/revision/latest?cb=20170807214241",
         "longevity": [],
         "longevityB": [
-            0.008075505495071411,
-            0.012791819870471954,
-            0.005618709605187178,
-            0.005256420001387596,
-            0.004976446274667978,
-            0.00643578777089715,
-            0.006690616253763437,
-            0.0032232305966317654,
-            0.0034865890629589558,
-            0.005544824060052633,
-            0.005206746980547905,
-            0.005706488620489836,
-            0.005238130688667297,
-            0.0027430879417806864,
-            0.0036173968110233545,
-            0.0032023617532104254,
-            0.001967186573892832,
-            0.001953329425305128,
-            0.0017301569459959865,
-            0.001172479591332376,
-            0.0010646228911355138
+            0.975,
+            0.951,
+            0.928,
+            0.905,
+            0.883,
+            0.862,
+            0.841,
+            0.821
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Meera Reed",
         "nicknames": [],
@@ -2406,8 +2305,8 @@
             "title": "Meera_Reed"
         },
         "plod": 0,
-        "plodB": 0.9919244945049286,
-        "plodC": 0,
+        "plodB": 0.17900000000000005,
+        "plodC": 0.7942,
         "religions": [],
         "seasons": [],
         "siblings": [
@@ -2510,65 +2409,115 @@
         "updatedAt": "2019-04-02T13:00:05.628Z"
     },
     {
-        "__v": 1,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a51f",
+        "actor": "Iwan Rheon",
         "age": {
             "age": 34,
             "name": "Ramsay Snow"
         },
-        "alive": true,
-        "allegiances": [],
-        "appearances": [],
+        "alive": false,
+        "allegiances": [
+            "House Bolton"
+        ],
+        "appearances": [
+            "Valar Dohaeris",
+            "Dark Wings, Dark Words",
+            "Walk of Punishment",
+            "And Now His Watch Is Ended",
+            "Kissed by Fire",
+            "The Climb",
+            "The Bear and the Maiden Fair",
+            "Second Sons",
+            "The Rains of Castamere",
+            "Mhysa",
+            "Two Swords",
+            "The Lion and the Rose",
+            "Breaker of Chains",
+            "Oathkeeper",
+            "First of His Name",
+            "The Laws of Gods and Men",
+            "Mockingbird",
+            "The Mountain and the Viper",
+            "The Watchers on the Wall",
+            "The Children",
+            "The Wars To Come",
+            "The House of Black and White",
+            "High Sparrow",
+            "Sons of the Harpy",
+            "Kill the Boy",
+            "Unbowed, Unbent, Unbroken",
+            "The Gift",
+            "Hardhome",
+            "The Dance of Dragons",
+            "Mother\u2019s Mercy",
+            "The Red Woman",
+            "Home",
+            "Oathbreaker",
+            "Book of the Stranger",
+            "The Door",
+            "Blood of My Blood",
+            "The Broken Man",
+            "No One",
+            "Battle of the Bastards"
+        ],
         "createdAt": "2019-04-02T13:00:05.628Z",
         "cultures": [],
-        "first_seen": "",
-        "gender": "female",
+        "death": 303,
+        "father": "Roose Bolton",
+        "first_seen": "\"Dark Wings, Dark Words\"",
+        "gender": "male",
+        "house": "House Bolton",
         "id": "5ca35cd587aa7609cb01a51f",
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/d/d2/Ramsay_S06E09_RESZIED_FOR_INFOBOX.jpg/revision/latest/scale-to-width-down/350?cb=20160622071734",
         "longevity": [],
         "longevityB": [
-            0.9272449612617493,
-            0.9255253076553345,
-            0.9052442908287048,
-            0.9018653631210327,
-            0.918579638004303,
-            0.9240133166313171,
-            0.9044154286384583,
-            0.9088244438171387,
-            0.9124191999435425,
-            0.909582793712616,
-            0.9193180203437805,
-            0.9161182641983032,
-            0.8895893692970276,
-            0.9051356315612793,
-            0.8997119069099426,
-            0.8970464468002319,
-            0.8865751028060913,
-            0.8823977708816528,
-            0.8710287809371948,
-            0.8767203688621521,
-            0.8708238005638123
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
         ],
         "longevityC": [],
-        "longevityStartB": 305,
-        "lovers": [],
+        "longevityStartB": 298,
+        "lovers": [
+            "Myranda",
+            "Violet",
+            "Tansy",
+            "Kyra"
+        ],
+        "mother": "Miller&apos;s wife",
         "name": "Ramsay Snow",
         "nicknames": [],
-        "origin": "",
+        "origin": "Weeping Water,The Dreadfort",
         "pagerank": {
-            "rank": 105,
-            "title": "Ramsay_Snow"
+            "rank": 640,
+            "title": "Ramsay_Bolton"
         },
         "plod": 0,
-        "plodB": 0.07275503873825073,
-        "plodC": 0,
+        "plodB": 0.265,
+        "plodC": 0.6588,
         "religions": [],
         "seasons": [
             null
         ],
-        "siblings": [],
-        "slug": "Ramsay_Snow",
-        "spouse": "",
-        "titles": [],
+        "siblings": [
+            "Domeric Bolton",
+            "Newborn Bolton"
+        ],
+        "slug": "Ramsay_Bolton",
+        "spouse": "Sansa Stark",
+        "titles": [
+            "Lord of the Dreadfort",
+            "Lord of Winterfell",
+            "Lord Paramount of the North",
+            "Warden",
+            "Castellan",
+            "Dreadfort"
+        ],
         "updatedAt": "2019-04-02T13:00:05.628Z"
     },
     {
@@ -2721,7 +2670,7 @@
         "updatedAt": "2019-04-02T13:00:05.629Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a522",
         "actor": "Richard Rycroft",
         "age": {
@@ -2760,8 +2709,18 @@
         "id": "5ca35cd587aa7609cb01a522",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/2/20/WolkenintheGodswood.png/revision/latest?cb=20190213213742",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.903,
+            0.816,
+            0.737,
+            0.666,
+            0.602,
+            0.545,
+            0.493,
+            0.446
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Wolkan",
         "nicknames": [],
@@ -2771,8 +2730,8 @@
             "title": "Wolkan"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.554,
+        "plodC": 0.3866,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -2782,7 +2741,7 @@
         "updatedAt": "2019-04-02T13:00:05.630Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a523",
         "actor": "Jamie Michie",
         "age": {
@@ -2813,8 +2772,18 @@
         "id": "5ca35cd587aa7609cb01a523",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/c/c6/Steelshanks-Profile-HD.png/revision/latest/scale-to-width-down/350?cb=20140531185150",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.909,
+            0.828,
+            0.757,
+            0.693,
+            0.636,
+            0.584,
+            0.538,
+            0.497
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Steelshanks",
         "nicknames": [],
@@ -2824,8 +2793,8 @@
             "title": "Steelshanks"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.503,
+        "plodC": 0.3829,
         "religions": [],
         "seasons": [
             3
@@ -2944,7 +2913,7 @@
         "updatedAt": "2019-04-02T13:00:05.632Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a525",
         "actor": "Lena Headey",
         "age": {
@@ -3036,30 +3005,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/b/be/CerseiLannisterQOTAATFMSeason8.PNG/revision/latest/scale-to-width-down/302?cb=20190207113624",
         "longevity": [],
         "longevityB": [
-            0.18404315412044525,
-            0.16107556223869324,
-            0.18200258910655975,
-            0.13242940604686737,
-            0.12738162279129028,
-            0.19271188974380493,
-            0.133420929312706,
-            0.08033613860607147,
-            0.08172202855348587,
-            0.1695026010274887,
-            0.09074359387159348,
-            0.08233977854251862,
-            0.15739886462688446,
-            0.17381849884986877,
-            0.07442425936460495,
-            0.09555619210004807,
-            0.18236033618450165,
-            0.0835389569401741,
-            0.16121730208396912,
-            0.07675567269325256,
-            0.07379797846078873
+            0.964,
+            0.93,
+            0.897,
+            0.865,
+            0.835,
+            0.807,
+            0.779,
+            0.753
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [
             "Jaime Lannister",
             "Lancel Lannister"
@@ -3073,8 +3029,8 @@
             "title": "Cersei_Lannister"
         },
         "plod": 0,
-        "plodB": 0.8159568458795547,
-        "plodC": 0,
+        "plodB": 0.247,
+        "plodC": 0.7262,
         "religions": [],
         "seasons": [],
         "siblings": [
@@ -3097,7 +3053,7 @@
         "updatedAt": "2019-04-02T13:00:05.634Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a526",
         "actor": "Nikolaj Coster-Waldau",
         "age": {
@@ -3193,30 +3149,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/5/51/JaimeLannisterSeason8.PNG/revision/latest/scale-to-width-down/317?cb=20190207112813",
         "longevity": [],
         "longevityB": [
-            0.6925017833709717,
-            0.6822600364685059,
-            0.7211176753044128,
-            0.6072172522544861,
-            0.6136709451675415,
-            0.7713220715522766,
-            0.6083990335464478,
-            0.5225247144699097,
-            0.5188645124435425,
-            0.7190932035446167,
-            0.5423251390457153,
-            0.5245140790939331,
-            0.6641045212745667,
-            0.690838098526001,
-            0.4925156831741333,
-            0.5463494062423706,
-            0.7314822673797607,
-            0.5214961171150208,
-            0.6675707697868347,
-            0.5042758584022522,
-            0.5054970383644104
+            0.931,
+            0.867,
+            0.81,
+            0.757,
+            0.708,
+            0.664,
+            0.622,
+            0.585
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [
             "Cersei Lannister"
         ],
@@ -3229,8 +3172,8 @@
             "title": "Jaime_Lannister"
         },
         "plod": 0,
-        "plodB": 0.3074982166290283,
-        "plodC": 0,
+        "plodB": 0.41500000000000004,
+        "plodC": 0.4827,
         "religions": [],
         "seasons": [],
         "siblings": [
@@ -3246,7 +3189,7 @@
         "updatedAt": "2019-04-02T13:00:05.635Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a527",
         "actor": "Peter Dinklage",
         "age": {
@@ -3338,30 +3281,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/8/86/Tyrion_S8_Cropped.jpg/revision/latest/scale-to-width-down/307?cb=20190206214225",
         "longevity": [],
         "longevityB": [
-            0.9190753102302551,
-            0.9002468585968018,
-            0.8667745590209961,
-            0.8513826131820679,
-            0.8503937721252441,
-            0.8258489966392517,
-            0.848827064037323,
-            0.7500817775726318,
-            0.7538834810256958,
-            0.8744537830352783,
-            0.7606746554374695,
-            0.614881694316864,
-            0.5945888161659241,
-            0.842692494392395,
-            0.6730203032493591,
-            0.6104644536972046,
-            0.7932520508766174,
-            0.81856369972229,
-            0.5895895957946777,
-            0.6323278546333313,
-            0.8451927900314331
+            0.957,
+            0.917,
+            0.879,
+            0.843,
+            0.809,
+            0.777,
+            0.747,
+            0.718
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [
             "Shae"
         ],
@@ -3374,8 +3304,8 @@
             "title": "Tyrion_Lannister"
         },
         "plod": 0,
-        "plodB": 0.08092468976974487,
-        "plodC": 0,
+        "plodB": 0.28200000000000003,
+        "plodC": 0.4827,
         "religions": [],
         "seasons": [],
         "siblings": [
@@ -3644,7 +3574,7 @@
         "updatedAt": "2019-04-02T13:00:05.637Z"
     },
     {
-        "__v": 1,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a52b",
         "actor": "Daniel Portman",
         "age": {
@@ -3726,30 +3656,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/4/48/GOT_Season_7_15.jpg/revision/latest/scale-to-width-down/319?cb=20170824224117",
         "longevity": [],
         "longevityB": [
-            0.00832141563296318,
-            0.014679625630378723,
-            0.011121856048703194,
-            0.00399089464917779,
-            0.007594723254442215,
-            0.0036010409239679575,
-            0.0032187539618462324,
-            0.003190835705026984,
-            0.003993345890194178,
-            0.003952872008085251,
-            0.001835659029893577,
-            0.00231870636343956,
-            0.003146163187921047,
-            0.002851315075531602,
-            0.0032011945731937885,
-            0.0032414263114333153,
-            0.0015442564617842436,
-            0.0020594815723598003,
-            0.0016205281717702746,
-            0.0011798514751717448,
-            0.0013314120005816221
+            0.96,
+            0.922,
+            0.886,
+            0.852,
+            0.819,
+            0.787,
+            0.758,
+            0.729
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Podrick Payne",
         "nicknames": [],
@@ -3759,8 +3676,8 @@
             "title": "Podrick_Payne"
         },
         "plod": 0,
-        "plodB": 0.9916785843670368,
-        "plodC": 0,
+        "plodB": 0.271,
+        "plodC": 0.7812,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -3824,7 +3741,7 @@
         "updatedAt": "2019-04-02T13:00:05.638Z"
     },
     {
-        "__v": 1,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a52d",
         "actor": "Rory McCann",
         "age": {
@@ -3908,30 +3825,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/b/bc/Sandor_Clegane_Season_7_Promo_Image.PNG/revision/latest/scale-to-width-down/343?cb=20170828063713",
         "longevity": [],
         "longevityB": [
-            0.164832204580307,
-            0.17964152991771698,
-            0.16107788681983948,
-            0.13410118222236633,
-            0.14074037969112396,
-            0.13341602683067322,
-            0.08946011960506439,
-            0.09232382476329803,
-            0.08219538629055023,
-            0.06595119088888168,
-            0.08429819345474243,
-            0.053896624594926834,
-            0.05106459558010101,
-            0.08324643969535828,
-            0.053676918148994446,
-            0.028995083644986153,
-            0.03592005744576454,
-            0.0822124034166336,
-            0.03697170689702034,
-            0.03448066860437393,
-            0.07890373468399048
+            0.867,
+            0.753,
+            0.656,
+            0.572,
+            0.501,
+            0.439,
+            0.386,
+            0.34
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Sandor Clegane",
         "nicknames": [],
@@ -3941,8 +3845,8 @@
             "title": "Sandor_Clegane"
         },
         "plod": 0,
-        "plodB": 0.835167795419693,
-        "plodC": 0,
+        "plodB": 0.6599999999999999,
+        "plodC": 0.1266,
         "religions": [],
         "seasons": [],
         "siblings": [
@@ -3954,7 +3858,7 @@
         "updatedAt": "2019-04-02T13:00:05.639Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a52e",
         "actor": "Conan Stevens",
         "age": {
@@ -4037,30 +3941,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/5/5d/Gregor_closeup_ep7.png/revision/latest/scale-to-width-down/344?cb=20170903033840",
         "longevity": [],
         "longevityB": [
-            0.19716839492321014,
-            0.14019814133644104,
-            0.1371249258518219,
-            0.1222865954041481,
-            0.1152239516377449,
-            0.14213210344314575,
-            0.10123714804649353,
-            0.08735166490077972,
-            0.1397247016429901,
-            0.08910225331783295,
-            0.05693934112787247,
-            0.05464251711964607,
-            0.115035779774189,
-            0.06785967200994492,
-            0.05277179554104805,
-            0.11147088557481766,
-            0.11000623553991318,
-            0.045405738055706024,
-            0.06360644847154617,
-            0.12141726166009903,
-            0.05609932169318199
+            0.925,
+            0.856,
+            0.793,
+            0.735,
+            0.682,
+            0.633,
+            0.588,
+            0.547
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Gregor Clegane",
         "nicknames": [],
@@ -4070,8 +3961,8 @@
             "title": "Gregor_Clegane"
         },
         "plod": 0,
-        "plodB": 0.8028316050767899,
-        "plodC": 0,
+        "plodB": 0.45299999999999996,
+        "plodC": 0.6393,
         "religions": [],
         "seasons": [],
         "siblings": [
@@ -4088,39 +3979,61 @@
         "updatedAt": "2019-04-02T13:00:05.640Z"
     },
     {
-        "__v": 0,
+        "__v": 1,
         "_id": "5ca35cd587aa7609cb01a52f",
+        "actor": "Anthony Morris",
         "age": {
             "name": "Tickler"
         },
-        "alive": true,
-        "allegiances": [],
-        "appearances": [],
+        "alive": false,
+        "allegiances": [
+            "House Clegane"
+        ],
+        "appearances": [
+            "The North Remembers",
+            "The Night Lands",
+            "What Is Dead May Never Die",
+            "Garden of Bones",
+            "The Ghost of Harrenhal"
+        ],
         "createdAt": "2019-04-02T13:00:05.652Z",
         "cultures": [],
-        "first_seen": "",
-        "gender": "female",
+        "death": 299,
+        "first_seen": "\"Garden of Bones\"",
+        "gender": "male",
+        "house": "House Clegane",
         "id": "5ca35cd587aa7609cb01a52f",
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/0/02/Tickler.png/revision/latest/scale-to-width-down/350?cb=20120423144129",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Tickler",
         "nicknames": [],
         "origin": "",
         "pagerank": {
-            "rank": 15,
-            "title": "Tickler"
+            "rank": 44,
+            "title": "The_Tickler"
         },
         "plod": 0,
-        "plodB": 0,
+        "plodB": 0.265,
         "plodC": 0,
         "religions": [],
         "seasons": [
-            null
+            2
         ],
         "siblings": [],
-        "slug": "Tickler",
+        "slug": "The_Tickler",
         "spouse": "",
         "titles": [],
         "updatedAt": "2019-04-02T13:00:05.652Z"
@@ -4882,7 +4795,7 @@
         "updatedAt": "2019-04-02T13:00:05.659Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a539",
         "actor": "Carice van Houten",
         "age": {
@@ -4964,8 +4877,18 @@
         "id": "5ca35cd587aa7609cb01a539",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/0/07/Melisandre_%28The_Queen%27s_Justice%29.png/revision/latest/scale-to-width-down/319?cb=20170830235514",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.96,
+            0.921,
+            0.884,
+            0.849,
+            0.816,
+            0.784,
+            0.754,
+            0.725
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [
             "Stannis Baratheon"
         ],
@@ -4977,8 +4900,8 @@
             "title": "Melisandre"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.275,
+        "plodC": 0.6588,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -4988,7 +4911,7 @@
         "updatedAt": "2019-04-02T13:00:05.660Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a53a",
         "actor": "Liam Cunningham",
         "age": {
@@ -5069,30 +4992,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/c/c9/Davos_Season_8.jpg/revision/latest/scale-to-width-down/333?cb=20190206213729",
         "longevity": [],
         "longevityB": [
-            0.14860974252223969,
-            0.10687731206417084,
-            0.10458838194608688,
-            0.14639002084732056,
-            0.10031214356422424,
-            0.05545004457235336,
-            0.05547337234020233,
-            0.15069131553173065,
-            0.06637690216302872,
-            0.056482113897800446,
-            0.12592051923274994,
-            0.14521047472953796,
-            0.05238580331206322,
-            0.07249318063259125,
-            0.1497383862733841,
-            0.06255636364221573,
-            0.12653018534183502,
-            0.05222772806882858,
-            0.0512738861143589,
-            0.04370782896876335,
-            0.041616637259721756
+            0.903,
+            0.818,
+            0.744,
+            0.679,
+            0.621,
+            0.569,
+            0.524,
+            0.483
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Davos Seaworth",
         "nicknames": [],
@@ -5102,8 +5012,8 @@
             "title": "Davos_Seaworth"
         },
         "plod": 0,
-        "plodB": 0.8513902574777603,
-        "plodC": 0,
+        "plodB": 0.517,
+        "plodC": 0.5625,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -5223,7 +5133,7 @@
         "updatedAt": "2019-04-02T13:00:05.661Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a53d",
         "actor": "Lucian Msamati",
         "age": {
@@ -5274,8 +5184,18 @@
         "id": "5ca35cd587aa7609cb01a53d",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/a/a5/Salladhor.png/revision/latest?cb=20160825234532",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.877,
+            0.774,
+            0.686,
+            0.611,
+            0.547,
+            0.491,
+            0.442,
+            0.4
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Salladhor Saan",
         "nicknames": [],
@@ -5285,8 +5205,8 @@
             "title": "Salladhor_Saan"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.6,
+        "plodC": 0.3527,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -5296,7 +5216,7 @@
         "updatedAt": "2019-04-02T13:00:05.662Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a53e",
         "age": {
             "age": 40,
@@ -5311,8 +5231,18 @@
         "gender": "female",
         "id": "5ca35cd587aa7609cb01a53e",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Brienne",
         "nicknames": [],
@@ -5322,8 +5252,8 @@
             "title": "Brienne"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.265,
+        "plodC": 0.6588,
         "religions": [],
         "seasons": [
             null
@@ -5406,7 +5336,7 @@
         "updatedAt": "2019-04-02T13:00:05.662Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a540",
         "actor": "Lino Facioli",
         "age": {
@@ -5471,30 +5401,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/7/74/Robin_Aaryn_Book_of_Stranger.jpg/revision/latest/scale-to-width-down/309?cb=20160714005525",
         "longevity": [],
         "longevityB": [
-            0.9879433512687683,
-            0.958006739616394,
-            0.982892632484436,
-            0.9617176055908203,
-            0.9744320511817932,
-            0.9675545692443848,
-            0.9285808205604553,
-            0.9611334204673767,
-            0.9229169487953186,
-            0.9134374856948853,
-            0.8960705995559692,
-            0.9371451139450073,
-            0.9350560903549194,
-            0.8720586895942688,
-            0.8805330991744995,
-            0.9109191298484802,
-            0.8751864433288574,
-            0.924257755279541,
-            0.9110302329063416,
-            0.7853182554244995,
-            0.843336284160614
+            0.948,
+            0.9,
+            0.855,
+            0.813,
+            0.773,
+            0.735,
+            0.7,
+            0.667
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "mother": "Lysa Arryn",
         "name": "Robin Arryn",
@@ -5505,8 +5422,8 @@
             "title": "Robin_Arryn"
         },
         "plod": 0,
-        "plodB": 0.01205664873123169,
-        "plodC": 0,
+        "plodB": 0.33299999999999996,
+        "plodC": 0.6315,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -5575,7 +5492,7 @@
         "updatedAt": "2019-04-02T13:00:05.663Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a542",
         "actor": "Ciaran Bermingham",
         "age": {
@@ -5605,8 +5522,18 @@
         "id": "5ca35cd587aa7609cb01a542",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/3/32/Mord.png/revision/latest?cb=20170826005529",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.933,
+            0.872,
+            0.815,
+            0.764,
+            0.716,
+            0.672,
+            0.632,
+            0.594
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Mord",
         "nicknames": [],
@@ -5616,8 +5543,8 @@
             "title": "Mord"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.406,
+        "plodC": 0.4349,
         "religions": [],
         "seasons": [
             1
@@ -5680,7 +5607,7 @@
         "updatedAt": "2019-04-02T13:00:05.664Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a544",
         "actor": "Rupert Vansittart",
         "age": {
@@ -5740,8 +5667,18 @@
         "id": "5ca35cd587aa7609cb01a544",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/7/73/Profile-YohnRoyce.png/revision/latest/scale-to-width-down/340?cb=20170814063933",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.948,
+            0.9,
+            0.855,
+            0.813,
+            0.773,
+            0.735,
+            0.7,
+            0.667
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Yohn Royce",
         "nicknames": [],
@@ -5751,8 +5688,8 @@
             "title": "Yohn_Royce"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.33299999999999996,
+        "plodC": 0.6315,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -5764,7 +5701,7 @@
         "updatedAt": "2019-04-02T13:00:05.664Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a545",
         "actor": "Paola Dionisotti",
         "age": {
@@ -5796,8 +5733,18 @@
         "id": "5ca35cd587aa7609cb01a545",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/0/07/Anya-Waynwood.jpg/revision/latest/scale-to-width-down/350?cb=20140412131700",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.967,
+            0.936,
+            0.906,
+            0.878,
+            0.851,
+            0.824,
+            0.799,
+            0.775
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Anya Waynwood",
         "nicknames": [],
@@ -5807,8 +5754,8 @@
             "title": "Anya_Waynwood"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.22499999999999998,
+        "plodC": 0.6937,
         "religions": [],
         "seasons": [
             4
@@ -5822,7 +5769,7 @@
         "updatedAt": "2019-04-02T13:00:05.668Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a546",
         "actor": "Richard Doubleday",
         "age": {
@@ -5852,8 +5799,18 @@
         "id": "5ca35cd587aa7609cb01a546",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/0/09/Vance_Corbray.png/revision/latest/scale-to-width-down/350?cb=20160724071558",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.881,
+            0.776,
+            0.684,
+            0.604,
+            0.533,
+            0.471,
+            0.417,
+            0.369
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Vance Corbray",
         "nicknames": [],
@@ -5863,8 +5820,8 @@
             "title": "Vance_Corbray"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.631,
+        "plodC": 0.3866,
         "religions": [],
         "seasons": [
             4
@@ -5878,7 +5835,7 @@
         "updatedAt": "2019-04-02T13:00:05.668Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a547",
         "actor": "Alisdair Simpson",
         "age": {
@@ -5910,30 +5867,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/f/f2/Donnel-Waynwood.jpg/revision/latest/scale-to-width-down/316?cb=20170826005909",
         "longevity": [],
         "longevityB": [
-            0.9239044785499573,
-            0.8886069059371948,
-            0.8985384702682495,
-            0.9152711033821106,
-            0.9110772609710693,
-            0.93220055103302,
-            0.9216760396957397,
-            0.8813003301620483,
-            0.9014302492141724,
-            0.8679209351539612,
-            0.8734298348426819,
-            0.8230266571044922,
-            0.8520440459251404,
-            0.7797266244888306,
-            0.8012357950210571,
-            0.7010853886604309,
-            0.6671485900878906,
-            0.6821765303611755,
-            0.5510140657424927,
-            0.6085914373397827,
-            0.719247043132782
+            0.918,
+            0.845,
+            0.778,
+            0.719,
+            0.665,
+            0.616,
+            0.571,
+            0.53
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "mother": "Anya Waynwood",
         "name": "Donnel Waynwood",
@@ -5944,8 +5888,8 @@
             "title": "Donnel_Waynwood"
         },
         "plod": 0,
-        "plodB": 0.07609552145004272,
-        "plodC": 0,
+        "plodB": 0.47,
+        "plodC": 0.4349,
         "religions": [],
         "seasons": [
             4
@@ -6267,41 +6211,105 @@
         "updatedAt": "2019-04-02T13:00:05.672Z"
     },
     {
-        "__v": 0,
+        "__v": 1,
         "_id": "5ca35cd587aa7609cb01a54b",
+        "actor": "Diana Rigg",
         "age": {
             "age": 81,
             "name": "Olenna Redwyne"
         },
-        "alive": true,
-        "allegiances": [],
-        "appearances": [],
+        "alive": false,
+        "allegiances": [
+            "House Tyrell",
+            "House Redwyne",
+            "House Targaryen"
+        ],
+        "appearances": [
+            "Valar Dohaeris",
+            "Dark Wings, Dark Words",
+            "Walk of Punishment",
+            "And Now His Watch Is Ended",
+            "Kissed by Fire",
+            "The Climb",
+            "The Bear and the Maiden Fair",
+            "Second Sons",
+            "The Rains of Castamere",
+            "Mhysa",
+            "Two Swords",
+            "The Lion and the Rose",
+            "Breaker of Chains",
+            "Oathkeeper",
+            "First of His Name",
+            "The Laws of Gods and Men",
+            "Mockingbird",
+            "The Mountain and the Viper",
+            "The Watchers on the Wall",
+            "The Children",
+            "The Wars To Come",
+            "The House of Black and White",
+            "High Sparrow",
+            "Sons of the Harpy",
+            "Kill the Boy",
+            "Unbowed, Unbent, Unbroken",
+            "The Gift",
+            "Hardhome",
+            "The Dance of Dragons",
+            "Mother\u2019s Mercy",
+            "The Red Woman",
+            "Home",
+            "Oathbreaker",
+            "Book of the Stranger",
+            "The Door",
+            "Blood of My Blood",
+            "The Broken Man",
+            "No One",
+            "Battle of the Bastards",
+            "The Winds of Winter",
+            "Dragonstone",
+            "Stormborn",
+            "The Queen's Justice"
+        ],
         "createdAt": "2019-04-02T13:00:05.672Z",
         "cultures": [],
-        "first_seen": "",
+        "death": 304,
+        "first_seen": "\"Dark Wings, Dark Words\"",
         "gender": "female",
+        "house": "House Tyrell",
         "id": "5ca35cd587aa7609cb01a54b",
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/f/f2/OlennaS7E3.png/revision/latest/scale-to-width-down/350?cb=20170803074257",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Olenna Redwyne",
         "nicknames": [],
-        "origin": "",
+        "origin": "The Arbor",
         "pagerank": {
-            "rank": 6,
-            "title": "Olenna_Redwyne"
+            "rank": 373,
+            "title": "Olenna_Tyrell"
         },
         "plod": 0,
-        "plodB": 0,
+        "plodB": 0.265,
         "plodC": 0,
         "religions": [],
         "seasons": [
             null
         ],
-        "siblings": [],
-        "slug": "Olenna_Redwyne",
-        "spouse": "",
+        "siblings": [
+            "Viola Redwyne"
+        ],
+        "slug": "Olenna_Tyrell",
+        "spouse": "Luthor Tyrell",
         "titles": [],
         "updatedAt": "2019-04-02T13:00:05.672Z"
     },
@@ -6371,7 +6379,7 @@
         "updatedAt": "2019-04-02T13:00:05.672Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a54d",
         "actor": "Samantha Spiro",
         "age": {
@@ -6403,8 +6411,18 @@
         "id": "5ca35cd587aa7609cb01a54d",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/3/30/606_Melessa_Tarly.png/revision/latest/scale-to-width-down/350?cb=20161215030329",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.944,
+            0.893,
+            0.845,
+            0.801,
+            0.76,
+            0.722,
+            0.687,
+            0.654
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Melessa Tarly",
         "nicknames": [],
@@ -6414,8 +6432,8 @@
             "title": "Melessa_Tarly"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.346,
+        "plodC": 0.5907,
         "religions": [],
         "seasons": [
             6
@@ -6427,7 +6445,7 @@
         "updatedAt": "2019-04-02T13:00:05.673Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a54e",
         "actor": "John Bradley",
         "age": {
@@ -6519,30 +6537,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/3/30/Samwell_Season_8_Cropped.PNG/revision/latest/scale-to-width-down/315?cb=20190207112410",
         "longevity": [],
         "longevityB": [
-            0.7915469408035278,
-            0.7634815573692322,
-            0.8349689841270447,
-            0.8458572030067444,
-            0.7171190977096558,
-            0.7243679761886597,
-            0.7883403301239014,
-            0.7720934748649597,
-            0.8166680932044983,
-            0.813921332359314,
-            0.6551544666290283,
-            0.6757347583770752,
-            0.6552959084510803,
-            0.5828872323036194,
-            0.5878923535346985,
-            0.5738804340362549,
-            0.5250574350357056,
-            0.5083820223808289,
-            0.5127971172332764,
-            0.4981805980205536,
-            0.508135199546814
+            0.947,
+            0.9,
+            0.856,
+            0.816,
+            0.778,
+            0.744,
+            0.712,
+            0.682
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [
             "Gilly"
         ],
@@ -6555,8 +6560,8 @@
             "title": "Samwell_Tarly"
         },
         "plod": 0,
-        "plodB": 0.20845305919647217,
-        "plodC": 0,
+        "plodB": 0.31799999999999995,
+        "plodC": 0.5907,
         "religions": [],
         "seasons": [],
         "siblings": [
@@ -6635,7 +6640,7 @@
         "updatedAt": "2019-04-02T13:00:05.673Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a550",
         "actor": "Rebecca Benson",
         "age": {
@@ -6666,8 +6671,18 @@
         "id": "5ca35cd587aa7609cb01a550",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/8/84/Tally_tarly_infobox_blood_of_my_blood.jpg/revision/latest/scale-to-width-down/350?cb=20160617180545",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.971,
+            0.944,
+            0.918,
+            0.893,
+            0.869,
+            0.846,
+            0.824,
+            0.803
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "mother": "Melessa Florent",
         "name": "Talla Tarly",
@@ -6678,8 +6693,8 @@
             "title": "Talla_Tarly"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.19699999999999995,
+        "plodC": 0.7935,
         "religions": [],
         "seasons": [
             6
@@ -6771,7 +6786,7 @@
         "updatedAt": "2019-04-02T13:00:05.674Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a552",
         "actor": "Gemma Whelan",
         "age": {
@@ -6840,8 +6855,18 @@
         "id": "5ca35cd587aa7609cb01a552",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/a/a8/Game_of_thrones_6x5_yara_promo.jpg/revision/latest?cb=20160808022737",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.959,
+            0.921,
+            0.885,
+            0.851,
+            0.818,
+            0.787,
+            0.758,
+            0.73
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "mother": "Alannys Greyjoy",
         "name": "Yara Greyjoy",
@@ -6852,8 +6877,8 @@
             "title": "Yara_Greyjoy"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.27,
+        "plodC": 0.6451,
         "religions": [],
         "seasons": [],
         "siblings": [
@@ -6872,7 +6897,7 @@
         "updatedAt": "2019-04-02T13:00:05.675Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a553",
         "actor": "Pilou Asb&#xE6;k",
         "age": {
@@ -6911,30 +6936,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/f/fc/Euron-Profile.PNG/revision/latest/scale-to-width-down/318?cb=20170916200257",
         "longevity": [],
         "longevityB": [
-            0.0014172297669574618,
-            0.0007234372897073627,
-            0.0007456185412593186,
-            0.00274743908084929,
-            0.000883004569914192,
-            0.0007089984719641507,
-            0.002072657458484173,
-            0.0025540092028677464,
-            0.0006852238439023495,
-            0.0008881451212801039,
-            0.0028289922047406435,
-            0.0008784109377302229,
-            0.0020190831273794174,
-            0.0006650583236478269,
-            0.0005732362624257803,
-            0.0006009869975969195,
-            0.0005052133346907794,
-            0.000519236084073782,
-            0.0005699932225979865,
-            0.0005338810733519495,
-            0.001535331830382347
+            0.901,
+            0.814,
+            0.738,
+            0.67,
+            0.61,
+            0.557,
+            0.51,
+            0.467
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Euron Greyjoy",
         "nicknames": [],
@@ -6944,8 +6956,8 @@
             "title": "Euron_Greyjoy"
         },
         "plod": 0,
-        "plodB": 0.9985827702330425,
-        "plodC": 0,
+        "plodB": 0.5329999999999999,
+        "plodC": 0.3686,
         "religions": [],
         "seasons": [],
         "siblings": [
@@ -6963,7 +6975,7 @@
         "updatedAt": "2019-04-02T13:00:05.675Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a554",
         "actor": "Michael Feast",
         "age": {
@@ -6995,30 +7007,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/4/48/Aeron_Greyjoy_6x05_Cropped.png/revision/latest/scale-to-width-down/350?cb=20160521192831",
         "longevity": [],
         "longevityB": [
-            0.9399492144584656,
-            0.9287012219429016,
-            0.9071940779685974,
-            0.9147838354110718,
-            0.9129102230072021,
-            0.8668281435966492,
-            0.8500626683235168,
-            0.8451875448226929,
-            0.7830430865287781,
-            0.8621775507926941,
-            0.6917112469673157,
-            0.6849643588066101,
-            0.8633775115013123,
-            0.6435210108757019,
-            0.4477078914642334,
-            0.4940776824951172,
-            0.8542270660400391,
-            0.5225739479064941,
-            0.4971432387828827,
-            0.7405073642730713,
-            0.7978925108909607
+            0.919,
+            0.847,
+            0.781,
+            0.722,
+            0.669,
+            0.62,
+            0.576,
+            0.536
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Aeron Greyjoy",
         "nicknames": [],
@@ -7028,8 +7027,8 @@
             "title": "Aeron_Greyjoy"
         },
         "plod": 0,
-        "plodB": 0.060050785541534424,
-        "plodC": 0,
+        "plodB": 0.46399999999999997,
+        "plodC": 0.3686,
         "religions": [],
         "seasons": [
             6
@@ -7211,7 +7210,7 @@
         "updatedAt": "2019-04-02T13:00:05.676Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a558",
         "actor": "Tobias Menzies",
         "age": {
@@ -7256,30 +7255,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/3/35/EdmureTheBrokenMan.png/revision/latest?cb=20190213215029",
         "longevity": [],
         "longevityB": [
-            0.9923784732818604,
-            0.992035448551178,
-            0.9916163086891174,
-            0.9877939224243164,
-            0.9888829588890076,
-            0.9874511957168579,
-            0.9841512441635132,
-            0.986226499080658,
-            0.9781306385993958,
-            0.9821587204933167,
-            0.9870059490203857,
-            0.9734789133071899,
-            0.9467759132385254,
-            0.9502394199371338,
-            0.9888843297958374,
-            0.9638718962669373,
-            0.95041823387146,
-            0.9837377071380615,
-            0.9863861799240112,
-            0.9359708428382874,
-            0.9648920893669128
+            0.915,
+            0.84,
+            0.773,
+            0.714,
+            0.66,
+            0.612,
+            0.569,
+            0.53
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "mother": "Minisa Tully",
         "name": "Edmure Tully",
@@ -7290,8 +7276,8 @@
             "title": "Edmure_Tully"
         },
         "plod": 0,
-        "plodB": 0.0076215267181396484,
-        "plodC": 0,
+        "plodB": 0.47,
+        "plodC": 0.75,
         "religions": [],
         "seasons": [],
         "siblings": [
@@ -7458,68 +7444,83 @@
         "updatedAt": "2019-04-02T13:00:05.677Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a55b",
+        "actor": "Kelly Long",
         "age": {
             "name": "Joyeuse Erenford"
         },
-        "alive": true,
-        "allegiances": [],
-        "appearances": [],
+        "alive": false,
+        "allegiances": [
+            "House Frey",
+            "House Erenford"
+        ],
+        "appearances": [
+            "Winter Is Coming",
+            "The Kingsroad",
+            "Lord Snow",
+            "Cripples, Bastards, and Broken Things",
+            "The Wolf and the Lion",
+            "A Golden Crown",
+            "You Win or You Die",
+            "The Pointy End",
+            "Baelor",
+            "Fire and Blood",
+            "Valar Dohaeris",
+            "Dark Wings, Dark Words",
+            "Walk of Punishment",
+            "And Now His Watch Is Ended",
+            "Kissed by Fire",
+            "The Climb",
+            "The Bear and the Maiden Fair",
+            "Second Sons",
+            "The Rains of Castamere"
+        ],
+        "birth": 283,
         "createdAt": "2019-04-02T13:00:05.677Z",
         "cultures": [],
-        "first_seen": "",
-        "gender": "female",
+        "death": 300,
+        "first_seen": "\"Baelor\"",
+        "gender": "male",
+        "house": "House Frey",
         "id": "5ca35cd587aa7609cb01a55b",
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/6/61/Joyeuse_Erenford_3x09.jpg/revision/latest/scale-to-width-down/240?cb=20160717060047",
         "longevity": [],
         "longevityB": [
-            0.9269126653671265,
-            0.9251277446746826,
-            0.9047430157661438,
-            0.9013717174530029,
-            0.9180872440338135,
-            0.9235743880271912,
-            0.9038854241371155,
-            0.9082674980163574,
-            0.9119101166725159,
-            0.9090683460235596,
-            0.9188194274902344,
-            0.9156375527381897,
-            0.8887424468994141,
-            0.9046742916107178,
-            0.8992193937301636,
-            0.8965425491333008,
-            0.8859444856643677,
-            0.8815837502479553,
-            0.870086669921875,
-            0.8759089708328247,
-            0.8699246048927307
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Joyeuse Erenford",
         "nicknames": [],
         "origin": "",
         "pagerank": {
-            "rank": 63,
-            "title": "Joyeuse_Erenford"
+            "rank": 34,
+            "title": "Joyeuse_Frey"
         },
         "plod": 0,
-        "plodB": 0.07308733463287354,
+        "plodB": 0.265,
         "plodC": 0,
         "religions": [],
         "seasons": [
             null
         ],
         "siblings": [],
-        "slug": "Joyeuse_Erenford",
-        "spouse": "",
+        "slug": "Joyeuse_Frey",
+        "spouse": "Walder Frey",
         "titles": [],
         "updatedAt": "2019-04-02T13:00:05.677Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a55c",
         "age": {
             "age": 49,
@@ -7534,8 +7535,18 @@
         "gender": "female",
         "id": "5ca35cd587aa7609cb01a55c",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "\"Black Walder\" Frey",
         "nicknames": [],
@@ -7545,8 +7556,8 @@
             "title": "Walder_Frey_(Black_Walder)"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.265,
+        "plodC": 0.6588,
         "religions": [],
         "seasons": [
             null
@@ -7635,7 +7646,7 @@
         "updatedAt": "2019-04-02T13:00:05.678Z"
     },
     {
-        "__v": 1,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a55e",
         "age": {
             "age": 29,
@@ -7651,30 +7662,17 @@
         "id": "5ca35cd587aa7609cb01a55e",
         "longevity": [],
         "longevityB": [
-            0.9277607798576355,
-            0.9261655211448669,
-            0.9060437679290771,
-            0.9027082920074463,
-            0.919350802898407,
-            0.9247061014175415,
-            0.9052480459213257,
-            0.9096962809562683,
-            0.9132470488548279,
-            0.9104050993919373,
-            0.9201340079307556,
-            0.9169082045555115,
-            0.8909466862678528,
-            0.9059159755706787,
-            0.900480329990387,
-            0.8978232741355896,
-            0.887580931186676,
-            0.883705198764801,
-            0.8725274205207825,
-            0.8780410885810852,
-            0.8722091913223267
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Roslin Frey",
         "nicknames": [],
@@ -7684,8 +7682,8 @@
             "title": "Roslin_Frey"
         },
         "plod": 0,
-        "plodB": 0.0722392201423645,
-        "plodC": 0,
+        "plodB": 0.265,
+        "plodC": 0.6588,
         "religions": [],
         "seasons": [
             null
@@ -7697,45 +7695,85 @@
         "updatedAt": "2019-04-02T13:00:05.678Z"
     },
     {
-        "__v": 0,
+        "__v": 1,
         "_id": "5ca35cd587aa7609cb01a55f",
+        "actor": "Elizabeth Webster",
         "age": {
             "name": "Fat Walda Frey"
         },
-        "alive": true,
-        "allegiances": [],
-        "appearances": [],
+        "alive": false,
+        "allegiances": [
+            "House Bolton",
+            "House Frey"
+        ],
+        "appearances": [
+            "Two Swords",
+            "The Lion and the Rose",
+            "Breaker of Chains",
+            "Oathkeeper",
+            "First of His Name",
+            "The Laws of Gods and Men",
+            "Mockingbird",
+            "The Mountain and the Viper",
+            "The Watchers on the Wall",
+            "The Children",
+            "The Wars To Come",
+            "The House of Black and White",
+            "High Sparrow",
+            "Sons of the Harpy",
+            "Kill the Boy",
+            "Unbowed, Unbent, Unbroken",
+            "The Gift",
+            "Hardhome",
+            "The Dance of Dragons",
+            "Mother\u2019s Mercy",
+            "The Red Woman",
+            "Home"
+        ],
         "createdAt": "2019-04-02T13:00:05.678Z",
         "cultures": [],
-        "first_seen": "",
-        "gender": "female",
+        "death": 303,
+        "first_seen": "\"The Lion and the Rose\"",
+        "gender": "male",
+        "house": "House Bolton",
         "id": "5ca35cd587aa7609cb01a55f",
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/6/65/Walda_and_new_son_s6.jpg/revision/latest/scale-to-width-down/348?cb=20161215030743",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Fat Walda Frey",
         "nicknames": [],
-        "origin": "",
+        "origin": "The Twins",
         "pagerank": {
-            "rank": 3,
-            "title": "Fat_Walda_Frey"
+            "rank": 181,
+            "title": "Walda_Bolton"
         },
         "plod": 0,
-        "plodB": 0,
+        "plodB": 0.265,
         "plodC": 0,
         "religions": [],
         "seasons": [
             null
         ],
         "siblings": [],
-        "slug": "Fat_Walda_Frey",
-        "spouse": "",
+        "slug": "Walda_Bolton",
+        "spouse": "Roose Bolton",
         "titles": [],
         "updatedAt": "2019-04-02T13:00:05.678Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a560",
         "actor": "Lucy Hayes",
         "age": {
@@ -7772,8 +7810,18 @@
         "id": "5ca35cd587aa7609cb01a560",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/8/8c/Kitty_Frey.PNG/revision/latest?cb=20170613183920",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.903,
+            0.816,
+            0.737,
+            0.666,
+            0.602,
+            0.545,
+            0.493,
+            0.446
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Kitty Frey",
         "nicknames": [],
@@ -7783,8 +7831,8 @@
             "title": "Kitty_Frey"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.554,
+        "plodC": 0.3866,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -7978,7 +8026,7 @@
         "updatedAt": "2019-04-02T13:00:05.680Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a564",
         "actor": "Indira Varma",
         "age": {
@@ -8038,8 +8086,18 @@
         "id": "5ca35cd587aa7609cb01a564",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/4/4c/Ellaria_Sand_The_End.png/revision/latest/scale-to-width-down/332?cb=20170830014137",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.961,
+            0.925,
+            0.89,
+            0.857,
+            0.825,
+            0.795,
+            0.766,
+            0.739
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [
             "Oberyn Martell",
             "Paramour"
@@ -8052,8 +8110,8 @@
             "title": "Ellaria_Sand"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.261,
+        "plodC": 0.5709,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -8408,7 +8466,7 @@
         "updatedAt": "2019-04-02T13:00:05.682Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a56a",
         "actor": "Jerome Flynn",
         "age": {
@@ -8501,30 +8559,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/9/99/Bronn_Dragonpit.jpg/revision/latest?cb=20170903202847",
         "longevity": [],
         "longevityB": [
-            0.00696121109649539,
-            0.0061334893107414246,
-            0.005822658538818359,
-            0.004967196844518185,
-            0.005711964797228575,
-            0.00368919363245368,
-            0.003517068922519684,
-            0.006672416348010302,
-            0.0035419010091573,
-            0.0018491853261366487,
-            0.0019655462820082903,
-            0.005256831645965576,
-            0.0022070317063480616,
-            0.0019228067249059677,
-            0.004554831888526678,
-            0.006034929770976305,
-            0.0018408272881060839,
-            0.0025165644474327564,
-            0.006306079216301441,
-            0.0019427865045145154,
-            0.00553273968398571
+            0.925,
+            0.856,
+            0.793,
+            0.735,
+            0.682,
+            0.633,
+            0.588,
+            0.547
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Bronn",
         "nicknames": [],
@@ -8534,8 +8579,8 @@
             "title": "Bronn"
         },
         "plod": 0,
-        "plodB": 0.9930387889035046,
-        "plodC": 0,
+        "plodB": 0.45299999999999996,
+        "plodC": 0.6393,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -8548,7 +8593,7 @@
         "updatedAt": "2019-04-02T13:00:05.682Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a56b",
         "actor": "Emun Elliott",
         "age": {
@@ -8577,30 +8622,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/2/23/Marillion.jpg/revision/latest/scale-to-width-down/350?cb=20110517131506",
         "longevity": [],
         "longevityB": [
-            0.9919392466545105,
-            0.9935312867164612,
-            0.9930359721183777,
-            0.9920640587806702,
-            0.9922688603401184,
-            0.9922073483467102,
-            0.9923669695854187,
-            0.9933876991271973,
-            0.9923328161239624,
-            0.9905260801315308,
-            0.9918279647827148,
-            0.9904422163963318,
-            0.9906186461448669,
-            0.9899601936340332,
-            0.989586591720581,
-            0.9891941547393799,
-            0.9891980290412903,
-            0.988778829574585,
-            0.9868413209915161,
-            0.9866926074028015,
-            0.9857237935066223
+            0.903,
+            0.816,
+            0.737,
+            0.666,
+            0.602,
+            0.545,
+            0.493,
+            0.446
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Marillion",
         "nicknames": [],
@@ -8610,8 +8642,8 @@
             "title": "Marillion"
         },
         "plod": 0,
-        "plodB": 0.008060753345489502,
-        "plodC": 0,
+        "plodB": 0.554,
+        "plodC": 0.3866,
         "religions": [],
         "seasons": [
             1
@@ -8711,7 +8743,7 @@
         "updatedAt": "2019-04-02T13:00:05.683Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a56d",
         "actor": "Mark Lewis Jones",
         "age": {
@@ -8743,8 +8775,18 @@
         "id": "5ca35cd587aa7609cb01a56d",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/f/f3/ShaggaThePointyEnd.jpg/revision/latest?cb=20190215195422",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.903,
+            0.816,
+            0.737,
+            0.666,
+            0.602,
+            0.545,
+            0.493,
+            0.446
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Shagga",
         "nicknames": [],
@@ -8754,8 +8796,8 @@
             "title": "Shagga"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.554,
+        "plodC": 0.3866,
         "religions": [],
         "seasons": [
             1
@@ -8767,42 +8809,81 @@
         "updatedAt": "2019-04-02T13:00:05.683Z"
     },
     {
-        "__v": 0,
+        "__v": 1,
         "_id": "5ca35cd587aa7609cb01a56e",
+        "actor": "Oona Chaplin",
         "age": {
             "age": 33,
             "name": "Talisa Maegyr"
         },
-        "alive": true,
-        "allegiances": [],
-        "appearances": [],
+        "alive": false,
+        "allegiances": [
+            "House Stark",
+            "Maegyr family"
+        ],
+        "appearances": [
+            "The North Remembers",
+            "The Night Lands",
+            "What Is Dead May Never Die",
+            "Garden of Bones",
+            "The Ghost of Harrenhal",
+            "The Old Gods and the New",
+            "A Man Without Honor",
+            "The Prince of Winterfell",
+            "Blackwater",
+            "Valar Morghulis",
+            "Valar Dohaeris",
+            "Dark Wings, Dark Words",
+            "Walk of Punishment",
+            "And Now His Watch Is Ended",
+            "Kissed by Fire",
+            "The Climb",
+            "The Bear and the Maiden Fair",
+            "Second Sons",
+            "The Rains of Castamere"
+        ],
         "createdAt": "2019-04-02T13:00:05.684Z",
         "cultures": [],
-        "first_seen": "",
-        "gender": "female",
+        "death": 300,
+        "first_seen": "\"Garden of Bones\"",
+        "gender": "male",
+        "house": "House Stark",
         "id": "5ca35cd587aa7609cb01a56e",
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/c/ca/Talisa3x9.jpg/revision/latest/scale-to-width-down/315?cb=20150515053353",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Talisa Maegyr",
         "nicknames": [],
-        "origin": "",
+        "origin": "Volantis",
         "pagerank": {
-            "rank": 54,
-            "title": "Talisa_Maegyr"
+            "rank": 224,
+            "title": "Talisa_Stark"
         },
         "plod": 0,
-        "plodB": 0,
+        "plodB": 0.265,
         "plodC": 0,
         "religions": [],
         "seasons": [
             null
         ],
         "siblings": [],
-        "slug": "Talisa_Maegyr",
-        "spouse": "",
-        "titles": [],
+        "slug": "Talisa_Stark",
+        "spouse": "Robb Stark",
+        "titles": [
+            "Queen"
+        ],
         "updatedAt": "2019-04-02T13:00:05.684Z"
     },
     {
@@ -8879,7 +8960,7 @@
         "updatedAt": "2019-04-02T13:00:05.685Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a570",
         "actor": "Philip McGinley",
         "age": {
@@ -8910,8 +8991,18 @@
         "id": "5ca35cd587aa7609cb01a570",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/3/36/AnguyTBATMF.PNG/revision/latest?cb=20180702210809",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.903,
+            0.816,
+            0.737,
+            0.666,
+            0.602,
+            0.545,
+            0.493,
+            0.446
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Anguy",
         "nicknames": [],
@@ -8921,8 +9012,8 @@
             "title": "Anguy"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.554,
+        "plodC": 0.3866,
         "religions": [],
         "seasons": [
             3
@@ -8934,7 +9025,7 @@
         "updatedAt": "2019-04-02T13:00:05.685Z"
     },
     {
-        "__v": 1,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a571",
         "actor": "Anton Lesser",
         "age": {
@@ -9006,30 +9097,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/1/19/Profile-Qyburn.png/revision/latest/scale-to-width-down/320?cb=20170819022259",
         "longevity": [],
         "longevityB": [
-            0.012484842911362648,
-            0.011330428533256054,
-            0.01184166595339775,
-            0.011403740383684635,
-            0.017321648076176643,
-            0.0392707958817482,
-            0.005050273146480322,
-            0.009560586884617805,
-            0.009560586884617805,
-            0.009560586884617805,
-            0.009560586884617805,
-            0.009560586884617805,
-            0.009560586884617805,
-            0.009560586884617805,
-            0.009560586884617805,
-            0.009560586884617805,
-            0.009560586884617805,
-            0.009560586884617805,
-            0.009560586884617805,
-            0.009560586884617805,
-            0.009560586884617805
+            0.907,
+            0.825,
+            0.753,
+            0.689,
+            0.633,
+            0.583,
+            0.538,
+            0.498
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Qyburn",
         "nicknames": [],
@@ -9039,8 +9117,8 @@
             "title": "Qyburn"
         },
         "plod": 0,
-        "plodB": 0.9875151570886374,
-        "plodC": 0,
+        "plodB": 0.502,
+        "plodC": 0.6364,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -9108,39 +9186,66 @@
         "updatedAt": "2019-04-02T13:00:05.686Z"
     },
     {
-        "__v": 0,
+        "__v": 1,
         "_id": "5ca35cd587aa7609cb01a573",
+        "actor": "J&#xF3;hannes Haukur J&#xF3;hannesson",
         "age": {
             "name": "Lem Lemoncloak"
         },
-        "alive": true,
-        "allegiances": [],
-        "appearances": [],
+        "alive": false,
+        "allegiances": [
+            "Brotherhood without Banners"
+        ],
+        "appearances": [
+            "The Red Woman",
+            "Home",
+            "Oathbreaker",
+            "Book of the Stranger",
+            "The Door",
+            "Blood of My Blood",
+            "The Broken Man",
+            "No One",
+            "Battle of the Bastards",
+            "The Winds of Winter"
+        ],
         "createdAt": "2019-04-02T13:00:05.686Z",
         "cultures": [],
-        "first_seen": "",
-        "gender": "female",
+        "death": 303,
+        "first_seen": "\"The Broken Man\"",
+        "gender": "male",
+        "house": "Brotherhood without Banners",
         "id": "5ca35cd587aa7609cb01a573",
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/5/59/Lem_lemoncloak_season_6.jpg/revision/latest/scale-to-width-down/350?cb=20160608141643",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Lem Lemoncloak",
         "nicknames": [],
         "origin": "",
         "pagerank": {
-            "rank": 5,
-            "title": "Lem_Lemoncloak"
+            "rank": 22,
+            "title": "Lem"
         },
         "plod": 0,
-        "plodB": 0,
+        "plodB": 0.265,
         "plodC": 0,
         "religions": [],
         "seasons": [
-            null
+            6
         ],
         "siblings": [],
-        "slug": "Lem_Lemoncloak",
+        "slug": "Lem",
         "spouse": "",
         "titles": [],
         "updatedAt": "2019-04-02T13:00:05.686Z"
@@ -9379,7 +9484,7 @@
         "updatedAt": "2019-04-02T13:00:05.687Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a576",
         "actor": "Conleth Hill",
         "age": {
@@ -9468,8 +9573,18 @@
         "id": "5ca35cd587aa7609cb01a576",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/5/58/Varys_Season_8.jpg/revision/latest/scale-to-width-down/333?cb=20190206212952",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.911,
+            0.831,
+            0.761,
+            0.697,
+            0.641,
+            0.59,
+            0.543,
+            0.502
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Varys",
         "nicknames": [],
@@ -9479,8 +9594,8 @@
             "title": "Varys"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.498,
+        "plodC": 0.2811,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -9748,7 +9863,7 @@
         "updatedAt": "2019-04-02T13:00:05.688Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a57a",
         "actor": "Wilko Johnson",
         "age": {
@@ -9791,8 +9906,18 @@
         "id": "5ca35cd587aa7609cb01a57a",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/0/03/Ilyn_Payne_infobox.jpg/revision/latest/scale-to-width-down/350?cb=20160730061137",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.898,
+            0.809,
+            0.729,
+            0.659,
+            0.596,
+            0.54,
+            0.49,
+            0.446
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Ilyn Payne",
         "nicknames": [],
@@ -9802,8 +9927,8 @@
             "title": "Ilyn_Payne"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.554,
+        "plodC": 0.5503,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -9900,7 +10025,7 @@
         "updatedAt": "2019-04-02T13:00:05.689Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a57c",
         "actor": "Miltos Yerolemou",
         "age": {
@@ -9932,8 +10057,18 @@
         "id": "5ca35cd587aa7609cb01a57c",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/b/bc/Syrio_Forel-0.png/revision/latest?cb=20180702204345",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.923,
+            0.852,
+            0.787,
+            0.728,
+            0.673,
+            0.623,
+            0.576,
+            0.534
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Syrio Forel",
         "nicknames": [],
@@ -9943,8 +10078,8 @@
             "title": "Syrio_Forel"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.46599999999999997,
+        "plodC": 0.5918,
         "religions": [],
         "seasons": [
             1
@@ -9958,7 +10093,7 @@
         "updatedAt": "2019-04-02T13:00:05.689Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a57d",
         "actor": "Andrew Wilde",
         "age": {
@@ -9995,8 +10130,18 @@
         "id": "5ca35cd587aa7609cb01a57d",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/4/46/Tobho_Mott.jpg/revision/latest?cb=20130126223820",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.903,
+            0.816,
+            0.737,
+            0.666,
+            0.602,
+            0.545,
+            0.493,
+            0.446
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Tobho Mott",
         "nicknames": [],
@@ -10006,8 +10151,8 @@
             "title": "Tobho_Mott"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.554,
+        "plodC": 0.3866,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -10017,7 +10162,7 @@
         "updatedAt": "2019-04-02T13:00:05.689Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a57e",
         "actor": "Joe Dempsie",
         "age": {
@@ -10078,30 +10223,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/b/be/Profile-Gendry.png/revision/latest/scale-to-width-down/325?cb=20170814055524",
         "longevity": [],
         "longevityB": [
-            0.19589801132678986,
-            0.08626660704612732,
-            0.13637781143188477,
-            0.0776047557592392,
-            0.06925960630178452,
-            0.059705156832933426,
-            0.08368923515081406,
-            0.07916651666164398,
-            0.04399481043219566,
-            0.04560897499322891,
-            0.07152178883552551,
-            0.05998965725302696,
-            0.07226859033107758,
-            0.0651215985417366,
-            0.03798196092247963,
-            0.04193885624408722,
-            0.039632443338632584,
-            0.02640721946954727,
-            0.028438139706850052,
-            0.024509502574801445,
-            0.01845325157046318
+            0.937,
+            0.878,
+            0.823,
+            0.772,
+            0.725,
+            0.68,
+            0.639,
+            0.6
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Gendry",
         "nicknames": [],
@@ -10111,8 +10243,8 @@
             "title": "Gendry"
         },
         "plod": 0,
-        "plodB": 0.8041019886732101,
-        "plodC": 0,
+        "plodB": 0.4,
+        "plodC": 0.5918,
         "religions": [],
         "seasons": [],
         "siblings": [
@@ -10125,7 +10257,7 @@
         "updatedAt": "2019-04-02T13:00:05.689Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a57f",
         "actor": "Will Tudor",
         "age": {
@@ -10178,30 +10310,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/d/d3/Olyver-Profile-HD.png/revision/latest/scale-to-width-down/350?cb=20160829161239",
         "longevity": [],
         "longevityB": [
-            0.9746674299240112,
-            0.9771655797958374,
-            0.9785459041595459,
-            0.9784386157989502,
-            0.9810112118721008,
-            0.9783105850219727,
-            0.9726163744926453,
-            0.9760186672210693,
-            0.9717985391616821,
-            0.9709787964820862,
-            0.9651100039482117,
-            0.963493287563324,
-            0.9547410607337952,
-            0.9596045017242432,
-            0.9551060795783997,
-            0.9510794281959534,
-            0.9503876566886902,
-            0.932801365852356,
-            0.9401174783706665,
-            0.9514802694320679,
-            0.9318090081214905
+            0.898,
+            0.807,
+            0.727,
+            0.655,
+            0.592,
+            0.535,
+            0.484,
+            0.439
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [
             "Loras Tyrell"
         ],
@@ -10213,8 +10332,8 @@
             "title": "Olyvar"
         },
         "plod": 0,
-        "plodB": 0.02533257007598877,
-        "plodC": 0,
+        "plodB": 0.5609999999999999,
+        "plodC": 0.3866,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -10224,7 +10343,7 @@
         "updatedAt": "2019-04-02T13:00:05.690Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a580",
         "actor": "Sahara Knite",
         "age": {
@@ -10265,8 +10384,18 @@
         "id": "5ca35cd587aa7609cb01a580",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/2/2e/Armeca.jpg/revision/latest?cb=20110819125244",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Armeca",
         "nicknames": [],
@@ -10276,8 +10405,8 @@
             "title": "Armeca"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.265,
+        "plodC": 0.6588,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -10287,7 +10416,7 @@
         "updatedAt": "2019-04-02T13:00:05.690Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a581",
         "actor": "Josephine Gillan",
         "age": {
@@ -10359,30 +10488,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/8/81/Marei_4x01.jpg/revision/latest/scale-to-width-down/343?cb=20160809183744",
         "longevity": [],
         "longevityB": [
-            0.9150031805038452,
-            0.915690541267395,
-            0.9296349883079529,
-            0.9254690408706665,
-            0.8952667117118835,
-            0.9008822441101074,
-            0.9173170924186707,
-            0.9156985282897949,
-            0.9256396293640137,
-            0.922260046005249,
-            0.8808611631393433,
-            0.8909218311309814,
-            0.8797847628593445,
-            0.8600373864173889,
-            0.8391498923301697,
-            0.8398658633232117,
-            0.7779096961021423,
-            0.7785601615905762,
-            0.7771302461624146,
-            0.7434310913085938,
-            0.7457059621810913
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Marei",
         "nicknames": [],
@@ -10392,8 +10508,8 @@
             "title": "Marei"
         },
         "plod": 0,
-        "plodB": 0.08499681949615479,
-        "plodC": 0,
+        "plodB": 0.265,
+        "plodC": 0.6588,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -10403,7 +10519,7 @@
         "updatedAt": "2019-04-02T13:00:05.690Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a582",
         "actor": "Elizabeth Cadwallader",
         "age": {
@@ -10435,30 +10551,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/2/2b/Lollys.jpg/revision/latest?cb=20160711023356",
         "longevity": [],
         "longevityB": [
-            0.8160523176193237,
-            0.7183094024658203,
-            0.6879878044128418,
-            0.6960845589637756,
-            0.5816269516944885,
-            0.7117440104484558,
-            0.540429949760437,
-            0.5285459160804749,
-            0.7538156509399414,
-            0.5127339959144592,
-            0.409889817237854,
-            0.36206141114234924,
-            0.5753833651542664,
-            0.43108680844306946,
-            0.3816826045513153,
-            0.5388583540916443,
-            0.579949140548706,
-            0.33813610672950745,
-            0.3782082796096802,
-            0.5749884843826294,
-            0.3667040765285492
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "mother": "Tanda Stokeworth",
         "name": "Lollys Stokeworth",
@@ -10469,8 +10572,8 @@
             "title": "Lollys_Stokeworth"
         },
         "plod": 0,
-        "plodB": 0.18394768238067627,
-        "plodC": 0,
+        "plodB": 0.265,
+        "plodC": 0.6588,
         "religions": [],
         "seasons": [
             5
@@ -10484,46 +10587,73 @@
         "updatedAt": "2019-04-02T13:00:05.691Z"
     },
     {
-        "__v": 0,
+        "__v": 1,
         "_id": "5ca35cd587aa7609cb01a583",
+        "actor": "Eros Vlahos",
         "age": {
             "age": 24,
             "name": "Lommy Greenhands"
         },
-        "alive": true,
+        "alive": false,
         "allegiances": [],
-        "appearances": [],
+        "appearances": [
+            "Winter Is Coming",
+            "The Kingsroad",
+            "Lord Snow",
+            "Cripples, Bastards, and Broken Things",
+            "The Wolf and the Lion",
+            "A Golden Crown",
+            "You Win or You Die",
+            "The Pointy End",
+            "Baelor",
+            "Fire and Blood",
+            "The North Remembers",
+            "The Night Lands",
+            "What Is Dead May Never Die"
+        ],
         "createdAt": "2019-04-02T13:00:05.691Z",
         "cultures": [],
-        "first_seen": "",
-        "gender": "female",
+        "death": 299,
+        "first_seen": "\"Fire and Blood\"",
+        "gender": "male",
         "id": "5ca35cd587aa7609cb01a583",
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/6/65/LommyS2.jpg/revision/latest/scale-to-width-down/332?cb=20131004001551",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Lommy Greenhands",
         "nicknames": [],
-        "origin": "",
+        "origin": "King's Landing",
         "pagerank": {
-            "rank": 20,
-            "title": "Lommy_Greenhands"
+            "rank": 36,
+            "title": "Lommy"
         },
         "plod": 0,
-        "plodB": 0,
+        "plodB": 0.265,
         "plodC": 0,
         "religions": [],
         "seasons": [
             null
         ],
         "siblings": [],
-        "slug": "Lommy_Greenhands",
+        "slug": "Lommy",
         "spouse": "",
         "titles": [],
         "updatedAt": "2019-04-02T13:00:05.691Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a584",
         "actor": "Ben Hawkey",
         "age": {
@@ -10588,8 +10718,18 @@
         "id": "5ca35cd587aa7609cb01a584",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/8/88/Hot_Pie_at_the_Inn.PNG/revision/latest?cb=20170829234700",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.903,
+            0.816,
+            0.737,
+            0.666,
+            0.602,
+            0.545,
+            0.493,
+            0.446
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Hot Pie",
         "nicknames": [],
@@ -10599,8 +10739,8 @@
             "title": "Hot_Pie"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.554,
+        "plodC": 0.3866,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -10750,7 +10890,7 @@
         "updatedAt": "2019-04-02T13:00:05.692Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a587",
         "actor": "Tom Wlaschiha",
         "age": {
@@ -10811,8 +10951,18 @@
         "id": "5ca35cd587aa7609cb01a587",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/d/da/The_Door_Jaqen_infobox.jpg/revision/latest/scale-to-width-down/322?cb=20160808073200",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Jaqen H'ghar",
         "nicknames": [],
@@ -10822,8 +10972,8 @@
             "title": "Jaqen_H'ghar"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.265,
+        "plodC": 0.6588,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -10833,7 +10983,7 @@
         "updatedAt": "2019-04-02T13:00:05.692Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a588",
         "actor": "Roy Dotrice",
         "age": {
@@ -10866,8 +11016,18 @@
         "id": "5ca35cd587aa7609cb01a588",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/6/6d/Hallyne.png/revision/latest/scale-to-width-down/350?cb=20160730012731",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.926,
+            0.858,
+            0.795,
+            0.738,
+            0.685,
+            0.636,
+            0.591,
+            0.55
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Hallyne",
         "nicknames": [],
@@ -10877,8 +11037,8 @@
             "title": "Hallyne"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.44999999999999996,
+        "plodC": 0.3866,
         "religions": [],
         "seasons": [
             2
@@ -10892,7 +11052,7 @@
         "updatedAt": "2019-04-02T13:00:05.694Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a589",
         "actor": "Hannah Waddingham",
         "age": {
@@ -10933,8 +11093,18 @@
         "id": "5ca35cd587aa7609cb01a589",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/1/1a/S06E06_-_Septa_Unella_Cropped.jpg/revision/latest/scale-to-width-down/350?cb=20160808031434",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Unella",
         "nicknames": [],
@@ -10944,8 +11114,8 @@
             "title": "Unella"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.265,
+        "plodC": 0.6588,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -11014,7 +11184,7 @@
         "updatedAt": "2019-04-02T13:00:05.694Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a58b",
         "actor": "Sara Dylan",
         "age": {
@@ -11081,8 +11251,18 @@
         "id": "5ca35cd587aa7609cb01a58b",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/8/86/Bernadette.PNG/revision/latest?cb=20170805215420",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.976,
+            0.952,
+            0.93,
+            0.907,
+            0.886,
+            0.865,
+            0.845,
+            0.825
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Bernadette",
         "nicknames": [],
@@ -11092,8 +11272,8 @@
             "title": "Bernadette"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.17500000000000004,
+        "plodC": 0.8216,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -11103,42 +11283,69 @@
         "updatedAt": "2019-04-02T13:00:05.694Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a58c",
+        "actor": "Philip O&apos;Sullivan",
         "age": {
             "age": 70,
             "name": "Archmaester"
         },
         "alive": true,
-        "allegiances": [],
-        "appearances": [],
+        "allegiances": [
+            "Maesters",
+            "Conclave",
+            "The Citadel"
+        ],
+        "appearances": [
+            "Dragonstone",
+            "Stormborn",
+            "The Queen's Justice",
+            "The Spoils of War",
+            "Eastwatch",
+            "Beyond the Wall",
+            "The Dragon and the Wolf"
+        ],
         "createdAt": "2019-04-02T13:00:05.695Z",
         "cultures": [],
         "first_seen": "",
-        "gender": "female",
+        "gender": "male",
+        "house": "Maesters",
         "id": "5ca35cd587aa7609cb01a58c",
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/f/f8/Archmaester_Eastwatch.png/revision/latest/scale-to-width-down/350?cb=20170814220655",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Archmaester",
         "nicknames": [],
         "origin": "",
         "pagerank": {
-            "rank": 68,
-            "title": "Archmaester"
+            "rank": 7,
+            "title": "Archmaester_(Eastwatch)"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.265,
+        "plodC": 0.6588,
         "religions": [],
         "seasons": [
-            null
+            7
         ],
         "siblings": [],
-        "slug": "Archmaester",
+        "slug": "Archmaester_(Eastwatch)",
         "spouse": "",
-        "titles": [],
+        "titles": [
+            "Archmaester"
+        ],
         "updatedAt": "2019-04-02T13:00:05.695Z"
     },
     {
@@ -11810,7 +12017,7 @@
         "updatedAt": "2019-04-02T13:00:05.698Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a596",
         "actor": "Ben Crompton",
         "age": {
@@ -11889,8 +12096,18 @@
         "id": "5ca35cd587aa7609cb01a596",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/7/75/Edd_At_The_Wall.PNG/revision/latest/scale-to-width-down/350?cb=20170726094902",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.881,
+            0.776,
+            0.684,
+            0.604,
+            0.533,
+            0.471,
+            0.417,
+            0.369
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Eddison Tollett",
         "nicknames": [],
@@ -11900,8 +12117,8 @@
             "title": "Eddison_Tollett"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.631,
+        "plodC": 0.3866,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -11913,45 +12130,72 @@
         "updatedAt": "2019-04-02T13:00:05.699Z"
     },
     {
-        "__v": 0,
+        "__v": 1,
         "_id": "5ca35cd587aa7609cb01a597",
+        "actor": "Simon Armstrong",
         "age": {
             "name": "Qhorin Halfhand"
         },
-        "alive": true,
-        "allegiances": [],
-        "appearances": [],
+        "alive": false,
+        "allegiances": [
+            "Night's Watch"
+        ],
+        "appearances": [
+            "The North Remembers",
+            "The Night Lands",
+            "What Is Dead May Never Die",
+            "Garden of Bones",
+            "The Ghost of Harrenhal",
+            "The Old Gods and the New",
+            "A Man Without Honor",
+            "The Prince of Winterfell",
+            "Blackwater",
+            "Valar Morghulis"
+        ],
         "createdAt": "2019-04-02T13:00:05.699Z",
         "cultures": [],
-        "first_seen": "",
-        "gender": "female",
+        "death": 299,
+        "first_seen": "\"The Ghost of Harrenhal\"",
+        "gender": "male",
+        "house": "Night&apos;s Watch",
         "id": "5ca35cd587aa7609cb01a597",
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/1/15/Qhorin.png/revision/latest?cb=20160720012556",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Qhorin Halfhand",
         "nicknames": [],
         "origin": "",
         "pagerank": {
-            "rank": 55,
-            "title": "Qhorin_Halfhand"
+            "rank": 135,
+            "title": "Qhorin"
         },
         "plod": 0,
-        "plodB": 0,
+        "plodB": 0.265,
         "plodC": 0,
         "religions": [],
         "seasons": [
-            null
+            2
         ],
         "siblings": [],
-        "slug": "Qhorin_Halfhand",
+        "slug": "Qhorin",
         "spouse": "",
         "titles": [],
         "updatedAt": "2019-04-02T13:00:05.699Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a598",
         "actor": "J.J. Murphy",
         "age": {
@@ -11984,30 +12228,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/d/d0/Denys_Mallister.jpg/revision/latest/scale-to-width-down/350?cb=20170925074749",
         "longevity": [],
         "longevityB": [
-            0.05691596865653992,
-            0.12351018190383911,
-            0.05508047342300415,
-            0.05233512446284294,
-            0.04902058094739914,
-            0.04432472214102745,
-            0.04452813044190407,
-            0.05470343306660652,
-            0.047240931540727615,
-            0.10140430927276611,
-            0.044292524456977844,
-            0.03526996448636055,
-            0.04325050860643387,
-            0.027043381705880165,
-            0.035578593611717224,
-            0.037987805902957916,
-            0.02596452832221985,
-            0.036126941442489624,
-            0.03342081978917122,
-            0.03656122088432312,
-            0.02891610376536846
+            0.881,
+            0.776,
+            0.684,
+            0.604,
+            0.533,
+            0.471,
+            0.417,
+            0.369
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Denys Mallister",
         "nicknames": [],
@@ -12017,8 +12248,8 @@
             "title": "Denys_Mallister"
         },
         "plod": 0,
-        "plodB": 0.9430840313434601,
-        "plodC": 0,
+        "plodB": 0.631,
+        "plodC": 0.3866,
         "religions": [],
         "seasons": [
             5
@@ -12032,40 +12263,73 @@
         "updatedAt": "2019-04-02T13:00:05.699Z"
     },
     {
-        "__v": 0,
+        "__v": 1,
         "_id": "5ca35cd587aa7609cb01a599",
+        "actor": "Burn Gorman",
         "age": {
             "age": 45,
             "name": "Karl"
         },
-        "alive": true,
-        "allegiances": [],
-        "appearances": [],
+        "alive": false,
+        "allegiances": [
+            "Mutineers",
+            "Night's Watch"
+        ],
+        "appearances": [
+            "Valar Dohaeris",
+            "Dark Wings, Dark Words",
+            "Walk of Punishment",
+            "And Now His Watch Is Ended",
+            "Kissed by Fire",
+            "The Climb",
+            "The Bear and the Maiden Fair",
+            "Second Sons",
+            "The Rains of Castamere",
+            "Mhysa",
+            "Two Swords",
+            "The Lion and the Rose",
+            "Breaker of Chains",
+            "Oathkeeper",
+            "First of His Name"
+        ],
         "createdAt": "2019-04-02T13:00:05.699Z",
         "cultures": [],
-        "first_seen": "",
-        "gender": "female",
+        "death": 301,
+        "first_seen": "\"Walk of Punishment\"",
+        "gender": "male",
+        "house": "Mutineers",
         "id": "5ca35cd587aa7609cb01a599",
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/5/58/Karl_tanner_released_by_HBO_S4.PNG/revision/latest?cb=20170506112727",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Karl",
         "nicknames": [],
-        "origin": "",
+        "origin": "Gin Alley,Flea Bottom",
         "pagerank": {
-            "rank": 19,
-            "title": "Karl"
+            "rank": 160,
+            "title": "Karl_Tanner"
         },
         "plod": 0,
-        "plodB": 0,
+        "plodB": 0.265,
         "plodC": 0,
         "religions": [],
         "seasons": [
             null
         ],
         "siblings": [],
-        "slug": "Karl",
+        "slug": "Karl_Tanner",
         "spouse": "",
         "titles": [],
         "updatedAt": "2019-04-02T13:00:05.699Z"
@@ -12275,7 +12539,7 @@
         "updatedAt": "2019-04-02T13:00:05.700Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a59d",
         "actor": "Hannah Murray",
         "age": {
@@ -12352,30 +12616,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/1/1c/GOT_Season_7_16_gilly_infobox.jpg/revision/latest/scale-to-width-down/325?cb=20170715193524",
         "longevity": [],
         "longevityB": [
-            0.9601260423660278,
-            0.9423460364341736,
-            0.9257903695106506,
-            0.9294708371162415,
-            0.9424442648887634,
-            0.9438106417655945,
-            0.9094464778900146,
-            0.9093624949455261,
-            0.9301580190658569,
-            0.932205080986023,
-            0.9376345276832581,
-            0.9382870197296143,
-            0.8863574862480164,
-            0.900091290473938,
-            0.8915199637413025,
-            0.8680608868598938,
-            0.8531460762023926,
-            0.8466933965682983,
-            0.7670361399650574,
-            0.726950466632843,
-            0.7366310954093933
+            0.96,
+            0.921,
+            0.884,
+            0.849,
+            0.816,
+            0.784,
+            0.754,
+            0.725
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [
             "Samwell Tarly"
         ],
@@ -12387,8 +12638,8 @@
             "title": "Gilly"
         },
         "plod": 0,
-        "plodB": 0.03987395763397217,
-        "plodC": 0,
+        "plodB": 0.275,
+        "plodC": 0.6588,
         "religions": [],
         "seasons": [],
         "siblings": [
@@ -12605,40 +12856,105 @@
         "updatedAt": "2019-04-02T13:00:05.701Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a5a1",
+        "actor": "Kristofer Hivju",
         "age": {
             "age": 41,
             "name": "Tormund Giantsbane"
         },
         "alive": true,
-        "allegiances": [],
-        "appearances": [],
+        "allegiances": [
+            "Free Folk",
+            "Jon Snow",
+            "Mance Rayder"
+        ],
+        "appearances": [
+            "Valar Dohaeris",
+            "Dark Wings, Dark Words",
+            "Walk of Punishment",
+            "And Now His Watch Is Ended",
+            "Kissed by Fire",
+            "The Climb",
+            "The Bear and the Maiden Fair",
+            "Second Sons",
+            "The Rains of Castamere",
+            "Mhysa",
+            "Two Swords",
+            "The Lion and the Rose",
+            "Breaker of Chains",
+            "Oathkeeper",
+            "First of His Name",
+            "The Laws of Gods and Men",
+            "Mockingbird",
+            "The Mountain and the Viper",
+            "The Watchers on the Wall",
+            "The Children",
+            "The Wars To Come",
+            "The House of Black and White",
+            "High Sparrow",
+            "Sons of the Harpy",
+            "Kill the Boy",
+            "Unbowed, Unbent, Unbroken",
+            "The Gift",
+            "Hardhome",
+            "The Dance of Dragons",
+            "Mother\u2019s Mercy",
+            "The Red Woman",
+            "Home",
+            "Oathbreaker",
+            "Book of the Stranger",
+            "The Door",
+            "Blood of My Blood",
+            "The Broken Man",
+            "No One",
+            "Battle of the Bastards",
+            "The Winds of Winter",
+            "Dragonstone",
+            "Stormborn",
+            "The Queen's Justice",
+            "The Spoils of War",
+            "Eastwatch",
+            "Beyond the Wall",
+            "The Dragon and the Wolf"
+        ],
         "createdAt": "2019-04-02T13:00:05.701Z",
         "cultures": [],
-        "first_seen": "",
-        "gender": "female",
+        "first_seen": "\"Valar Dohaeris\"",
+        "gender": "male",
+        "house": "Free Folk",
         "id": "5ca35cd587aa7609cb01a5a1",
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/9/97/Tormund_Profile.PNG/revision/latest/scale-to-width-down/320?cb=20170818044433",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Tormund Giantsbane",
         "nicknames": [],
-        "origin": "",
+        "origin": "Beyond the Wall",
         "pagerank": {
-            "rank": 78,
-            "title": "Tormund_Giantsbane"
+            "rank": 215,
+            "title": "Tormund"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.265,
+        "plodC": 0.6588,
         "religions": [],
         "seasons": [
             null
         ],
         "siblings": [],
-        "slug": "Tormund_Giantsbane",
+        "slug": "Tormund",
         "spouse": "",
         "titles": [],
         "updatedAt": "2019-04-02T13:00:05.701Z"
@@ -12981,35 +13297,73 @@
     {
         "__v": 0,
         "_id": "5ca35cd587aa7609cb01a5a7",
+        "actor": "Richard Brake",
         "age": {
             "age": 55,
             "name": "Night's King"
         },
-        "alive": false,
+        "alive": true,
         "allegiances": [
             "White Walkers",
-            "Night's Watch"
+            "First Men"
         ],
-        "appearances": [],
+        "appearances": [
+            "Two Swords",
+            "The Lion and the Rose *",
+            "Breaker of Chains",
+            "Oathkeeper",
+            "First of His Name",
+            "The Laws of Gods and Men",
+            "Mockingbird",
+            "The Mountain and the Viper",
+            "The Watchers on the Wall",
+            "The Children",
+            "The Wars To Come",
+            "The House of Black and White",
+            "High Sparrow",
+            "Sons of the Harpy",
+            "Kill the Boy",
+            "Unbowed, Unbent, Unbroken",
+            "The Gift",
+            "Hardhome",
+            "The Dance of Dragons",
+            "Mother\u2019s Mercy",
+            "The Red Woman",
+            "Home",
+            "Oathbreaker",
+            "Book of the Stranger",
+            "The Door",
+            "Blood of My Blood *",
+            "The Broken Man",
+            "No One",
+            "Battle of the Bastards",
+            "The Winds of Winter",
+            "Dragonstone",
+            "Stormborn",
+            "The Queen's Justice",
+            "The Spoils of War",
+            "Eastwatch",
+            "Beyond the Wall",
+            "The Dragon and the Wolf"
+        ],
+        "birth": 8000,
         "createdAt": "2019-04-02T13:00:05.703Z",
         "cultures": [],
-        "first_seen": "",
+        "first_seen": "\"The Lion and the Rose\" (Bran's vision)\"Oathkeeper\"",
         "gender": "male",
         "house": "White Walkers",
         "id": "5ca35cd587aa7609cb01a5a7",
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/f/f8/Nights_king.jpg/revision/latest/scale-to-width-down/350?cb=20130301202514",
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/1/1f/Night_King_BTW.jpg/revision/latest?cb=20171013162809",
         "longevity": [],
         "longevityB": [],
         "longevityC": [],
-        "lovers": [
-            "Night's Queen"
-        ],
+        "lovers": [],
         "name": "Night's King",
         "nicknames": [],
-        "origin": "Nightfort",
+        "origin": "",
         "pagerank": {
-            "rank": 148,
-            "title": "Night's_King"
+            "rank": 229,
+            "title": "Night_King"
         },
         "plod": 0,
         "plodB": 0,
@@ -13017,11 +13371,9 @@
         "religions": [],
         "seasons": [],
         "siblings": [],
-        "slug": "Night's_King",
+        "slug": "Night_King",
         "spouse": "",
-        "titles": [
-            "Lord Commander of the Night's Watch"
-        ],
+        "titles": [],
         "updatedAt": "2019-04-02T13:00:05.703Z"
     },
     {
@@ -13090,7 +13442,7 @@
         "updatedAt": "2019-04-02T13:00:05.704Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a5a9",
         "actor": "Birgitte Hjort S&#xF8;rensen",
         "age": {
@@ -13122,8 +13474,18 @@
         "id": "5ca35cd587aa7609cb01a5a9",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/a/a0/Karsi-hardhome.jpg/revision/latest/scale-to-width-down/341?cb=20161215025503",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Karsi",
         "nicknames": [],
@@ -13133,8 +13495,8 @@
             "title": "Karsi"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.265,
+        "plodC": 0.5725,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -13199,7 +13561,7 @@
         "updatedAt": "2019-04-02T13:00:05.704Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a5ab",
         "actor": "Murray McArthur",
         "age": {
@@ -13242,8 +13604,18 @@
         "id": "5ca35cd587aa7609cb01a5ab",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/6/65/607_Dim_Dalba.png/revision/latest/scale-to-width-down/350?cb=20160611072604",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.903,
+            0.816,
+            0.737,
+            0.666,
+            0.602,
+            0.545,
+            0.493,
+            0.446
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Dim Dalba",
         "nicknames": [],
@@ -13253,8 +13625,8 @@
             "title": "Dim_Dalba"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.554,
+        "plodC": 0.2809,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -13264,42 +13636,73 @@
         "updatedAt": "2019-04-02T13:00:05.704Z"
     },
     {
-        "__v": 0,
+        "__v": 1,
         "_id": "5ca35cd587aa7609cb01a5ac",
+        "actor": "Jason Momoa",
         "age": {
             "age": 40,
             "name": "Khal Drogo"
         },
-        "alive": true,
-        "allegiances": [],
-        "appearances": [],
+        "alive": false,
+        "allegiances": [
+            "Khal",
+            "Bharbo"
+        ],
+        "appearances": [
+            "Winter Is Coming",
+            "The Kingsroad",
+            "Lord Snow",
+            "Cripples, Bastards, and Broken Things",
+            "The Wolf and the Lion",
+            "A Golden Crown",
+            "You Win or You Die",
+            "The Pointy End",
+            "Baelor",
+            "Fire and Blood"
+        ],
         "createdAt": "2019-04-02T13:00:05.704Z",
         "cultures": [],
-        "first_seen": "",
-        "gender": "female",
+        "death": 298,
+        "father": "Bharbo",
+        "first_seen": "\"Winter Is Coming\"",
+        "gender": "male",
+        "house": "Khal",
         "id": "5ca35cd587aa7609cb01a5ac",
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/1/1f/Drogo_1x01b.jpg/revision/latest/scale-to-width-down/307?cb=20110626031733",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Khal Drogo",
         "nicknames": [],
-        "origin": "",
+        "origin": "Vaes Dothrak",
         "pagerank": {
-            "rank": 44,
-            "title": "Khal_Drogo"
+            "rank": 372,
+            "title": "Drogo"
         },
         "plod": 0,
-        "plodB": 0,
+        "plodB": 0.265,
         "plodC": 0,
         "religions": [],
         "seasons": [
             null
         ],
         "siblings": [],
-        "slug": "Khal_Drogo",
-        "spouse": "",
-        "titles": [],
+        "slug": "Drogo",
+        "spouse": "Daenerys Targaryen",
+        "titles": [
+            "Khal"
+        ],
         "updatedAt": "2019-04-02T13:00:05.704Z"
     },
     {
@@ -13424,7 +13827,7 @@
         "updatedAt": "2019-04-02T13:00:05.705Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a5af",
         "actor": "Steven Cole",
         "age": {
@@ -13458,8 +13861,18 @@
         "id": "5ca35cd587aa7609cb01a5af",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/a/a7/Kovarro_image_new.jpg/revision/latest?cb=20160625082705",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.926,
+            0.858,
+            0.795,
+            0.738,
+            0.685,
+            0.636,
+            0.591,
+            0.55
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Kovarro",
         "nicknames": [],
@@ -13469,8 +13882,8 @@
             "title": "Kovarro"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.44999999999999996,
+        "plodC": 0.3866,
         "religions": [],
         "seasons": [
             2
@@ -13719,7 +14132,7 @@
         "updatedAt": "2019-04-02T13:00:05.707Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a5b4",
         "actor": "Souad Faress",
         "age": {
@@ -13750,8 +14163,18 @@
         "id": "5ca35cd587aa7609cb01a5b4",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/7/77/High_Priestess_Dosh_Khaleen.png/revision/latest/scale-to-width-down/296?cb=20160825234656",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.971,
+            0.943,
+            0.916,
+            0.89,
+            0.864,
+            0.84,
+            0.816,
+            0.793
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "High Priestess of the Dosh Khaleen",
         "nicknames": [],
@@ -13761,8 +14184,8 @@
             "title": "High_Priestess_of_the_Dosh_Khaleen"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.20699999999999996,
+        "plodC": 0.6588,
         "religions": [],
         "seasons": [
             6
@@ -13776,7 +14199,7 @@
         "updatedAt": "2019-04-02T13:00:05.707Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a5b5",
         "actor": "Hannah John-Kamen",
         "age": {
@@ -13808,8 +14231,18 @@
         "id": "5ca35cd587aa7609cb01a5b5",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/9/99/604_Ornela.png/revision/latest/scale-to-width-down/338?cb=20160802075743",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.971,
+            0.943,
+            0.916,
+            0.89,
+            0.864,
+            0.84,
+            0.816,
+            0.793
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Ornela",
         "nicknames": [],
@@ -13819,8 +14252,8 @@
             "title": "Ornela"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.20699999999999996,
+        "plodC": 0.6588,
         "religions": [],
         "seasons": [
             6
@@ -13834,7 +14267,7 @@
         "updatedAt": "2019-04-02T13:00:05.707Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a5b6",
         "actor": "Staz Nair",
         "age": {
@@ -13873,8 +14306,18 @@
         "id": "5ca35cd587aa7609cb01a5b6",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/f/ff/Qhono_Dragonpit.jpg/revision/latest/scale-to-width-down/305?cb=20170903203922",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.939,
+            0.883,
+            0.83,
+            0.781,
+            0.735,
+            0.692,
+            0.652,
+            0.614
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Qhono",
         "nicknames": [],
@@ -13884,8 +14327,8 @@
             "title": "Qhono"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.386,
+        "plodC": 0.3866,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -13958,7 +14401,7 @@
         "updatedAt": "2019-04-02T13:00:05.708Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a5b8",
         "actor": "Emilia Clarke",
         "age": {
@@ -14049,30 +14492,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/4/4f/Daenerys_Season_8.jpg/revision/latest/scale-to-width-down/350?cb=20190206213056",
         "longevity": [],
         "longevityB": [
-            0.9641552567481995,
-            0.9410313963890076,
-            0.9297541975975037,
-            0.9275556206703186,
-            0.9448809027671814,
-            0.9484830498695374,
-            0.902412474155426,
-            0.9121769070625305,
-            0.934819757938385,
-            0.9199114441871643,
-            0.9390028119087219,
-            0.9361117482185364,
-            0.8829235434532166,
-            0.8983820080757141,
-            0.8708533644676208,
-            0.8372988104820251,
-            0.8178918361663818,
-            0.813994824886322,
-            0.7225582599639893,
-            0.6879668831825256,
-            0.687916100025177
+            0.974,
+            0.949,
+            0.924,
+            0.9,
+            0.877,
+            0.855,
+            0.834,
+            0.813
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [
             "Daario Naharis",
             "Jon Snow"
@@ -14086,8 +14516,8 @@
             "title": "Daenerys_Targaryen"
         },
         "plod": 0,
-        "plodB": 0.03584474325180054,
-        "plodC": 0,
+        "plodB": 0.18700000000000006,
+        "plodC": 0.5068,
         "religions": [],
         "seasons": [],
         "siblings": [
@@ -14110,7 +14540,7 @@
         "updatedAt": "2019-04-02T13:00:05.708Z"
     },
     {
-        "__v": 2,
+        "__v": 3,
         "_id": "5ca35cd587aa7609cb01a5b9",
         "actor": "Iain Glen",
         "age": {
@@ -14207,30 +14637,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/b/b8/JorahinWinterTownSeason8.PNG/revision/latest/scale-to-width-down/350?cb=20190329021404",
         "longevity": [],
         "longevityB": [
-            0.06698167324066162,
-            0.15540476143360138,
-            0.08339197188615799,
-            0.07014258950948715,
-            0.14153355360031128,
-            0.1496637761592865,
-            0.06379695236682892,
-            0.08298462629318237,
-            0.17037934064865112,
-            0.07134798914194107,
-            0.1501680612564087,
-            0.06519240885972977,
-            0.0674191415309906,
-            0.053032003343105316,
-            0.04835161194205284,
-            0.05223171040415764,
-            0.05376865714788437,
-            0.04981572553515434,
-            0.09730149060487747,
-            0.048864491283893585,
-            0.03933275490999222
+            0.957,
+            0.917,
+            0.879,
+            0.843,
+            0.808,
+            0.776,
+            0.745,
+            0.716
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Jorah Mormont",
         "nicknames": [],
@@ -14240,8 +14657,8 @@
             "title": "Jorah_Mormont"
         },
         "plod": 0,
-        "plodB": 0.9330183267593384,
-        "plodC": 0,
+        "plodB": 0.28400000000000003,
+        "plodC": 0.4257,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -14254,7 +14671,7 @@
         "updatedAt": "2019-04-02T13:00:05.708Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a5ba",
         "actor": "Roger Allam",
         "age": {
@@ -14285,8 +14702,18 @@
         "id": "5ca35cd587aa7609cb01a5ba",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/d/d8/Illyrio-Mopatis-HD.png/revision/latest/scale-to-width-down/347?cb=20140502075721",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.926,
+            0.858,
+            0.795,
+            0.738,
+            0.685,
+            0.636,
+            0.591,
+            0.55
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Illyrio Mopatis",
         "nicknames": [],
@@ -14296,8 +14723,8 @@
             "title": "Illyrio_Mopatis"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.44999999999999996,
+        "plodC": 0.2128,
         "religions": [],
         "seasons": [
             1
@@ -14368,7 +14795,7 @@
         "updatedAt": "2019-04-02T13:00:05.709Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a5bc",
         "actor": "Mark Gatiss",
         "age": {
@@ -14416,8 +14843,18 @@
         "id": "5ca35cd587aa7609cb01a5bc",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/7/79/Tycho_S7_Infobox.jpg/revision/latest/scale-to-width-down/350?cb=20170801025501",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.903,
+            0.816,
+            0.737,
+            0.666,
+            0.602,
+            0.545,
+            0.493,
+            0.446
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Tycho Nestoris",
         "nicknames": [],
@@ -14427,8 +14864,8 @@
             "title": "Tycho_Nestoris"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.554,
+        "plodC": 0.3866,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -14438,7 +14875,7 @@
         "updatedAt": "2019-04-02T13:00:05.709Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a5bd",
         "actor": "Gary Oliver",
         "age": {
@@ -14475,8 +14912,18 @@
         "id": "5ca35cd587aa7609cb01a5bd",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/3/35/Ternesio_Terys_S5.jpg/revision/latest/scale-to-width-down/338?cb=20150422203249",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Ternesio Terys",
         "nicknames": [],
@@ -14486,8 +14933,8 @@
             "title": "Ternesio_Terys"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.265,
+        "plodC": 0.6588,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -14497,46 +14944,81 @@
         "updatedAt": "2019-04-02T13:00:05.709Z"
     },
     {
-        "__v": 0,
+        "__v": 1,
         "_id": "5ca35cd587aa7609cb01a5be",
+        "actor": "Faye Marsay",
         "age": {
             "age": 33,
             "name": "The Waif"
         },
-        "alive": true,
-        "allegiances": [],
-        "appearances": [],
+        "alive": false,
+        "allegiances": [
+            "Faceless Men"
+        ],
+        "appearances": [
+            "The Wars To Come",
+            "The House of Black and White",
+            "High Sparrow",
+            "Sons of the Harpy",
+            "Kill the Boy",
+            "Unbowed, Unbent, Unbroken",
+            "The Gift",
+            "Hardhome",
+            "The Dance of Dragons",
+            "Mother\u2019s Mercy",
+            "The Red Woman",
+            "Home",
+            "Oathbreaker",
+            "Book of the Stranger",
+            "The Door",
+            "Blood of My Blood",
+            "The Broken Man",
+            "No One"
+        ],
         "createdAt": "2019-04-02T13:00:05.709Z",
         "cultures": [],
-        "first_seen": "",
+        "death": 303,
+        "first_seen": "\"High Sparrow\"",
         "gender": "female",
+        "house": "Faceless Men",
         "id": "5ca35cd587aa7609cb01a5be",
+        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/4/4c/Waif6x08.png/revision/latest/scale-to-width-down/350?cb=20160609061651",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "The Waif",
         "nicknames": [],
-        "origin": "",
+        "origin": "Braavos",
         "pagerank": {
-            "rank": 39,
-            "title": "The_Waif"
+            "rank": 34,
+            "title": "Waif"
         },
         "plod": 0,
-        "plodB": 0,
+        "plodB": 0.265,
         "plodC": 0,
         "religions": [],
         "seasons": [
             null
         ],
         "siblings": [],
-        "slug": "The_Waif",
+        "slug": "Waif",
         "spouse": "",
         "titles": [],
         "updatedAt": "2019-04-02T13:00:05.709Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a5bf",
         "actor": "Richard E. Grant",
         "age": {
@@ -14564,8 +15046,18 @@
         "id": "5ca35cd587aa7609cb01a5bf",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/6/68/IzembaroHBOPromotionalImage.jpg/revision/latest?cb=20190216132137",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Izembaro",
         "nicknames": [],
@@ -14575,8 +15067,8 @@
             "title": "Izembaro"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.265,
+        "plodC": 0.6588,
         "religions": [],
         "seasons": [
             6
@@ -14756,7 +15248,7 @@
         "updatedAt": "2019-04-02T13:00:05.711Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a5c3",
         "actor": "Laura Pradelska",
         "age": {
@@ -14783,8 +15275,18 @@
         "id": "5ca35cd587aa7609cb01a5c3",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/7/76/Quaithe_profile.png/revision/latest/scale-to-width-down/350?cb=20130126185615",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Quaithe",
         "nicknames": [],
@@ -14794,8 +15296,8 @@
             "title": "Quaithe"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.265,
+        "plodC": 0.6588,
         "religions": [],
         "seasons": [
             2
@@ -14859,7 +15361,7 @@
         "updatedAt": "2019-04-02T13:00:05.717Z"
     },
     {
-        "__v": 1,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a5c5",
         "actor": "Nathalie Emmanuel",
         "age": {
@@ -14929,30 +15431,17 @@
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/0/0d/Profile-Missandei.PNG/revision/latest/scale-to-width-down/314?cb=20170818044646",
         "longevity": [],
         "longevityB": [
-            0.21834202110767365,
-            0.36744874715805054,
-            0.20855136215686798,
-            0.3305056095123291,
-            0.2823568284511566,
-            0.15154218673706055,
-            0.2126416563987732,
-            0.12197867035865784,
-            0.11340858787298203,
-            0.11106898635625839,
-            0.13174526393413544,
-            0.13722440600395203,
-            0.0833224505186081,
-            0.08753883093595505,
-            0.10782423615455627,
-            0.11174662411212921,
-            0.11698640137910843,
-            0.10921049863100052,
-            0.06485570222139359,
-            0.07365251332521439,
-            0.07002805918455124
+            0.975,
+            0.951,
+            0.928,
+            0.906,
+            0.884,
+            0.863,
+            0.842,
+            0.822
         ],
         "longevityC": [],
-        "longevityStartB": 305,
+        "longevityStartB": 298,
         "lovers": [
             "Grey Worm"
         ],
@@ -14964,8 +15453,8 @@
             "title": "Missandei"
         },
         "plod": 0,
-        "plodB": 0.7816579788923264,
-        "plodC": 0,
+        "plodB": 0.17800000000000005,
+        "plodC": 0.6588,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -14975,7 +15464,7 @@
         "updatedAt": "2019-04-02T13:00:05.717Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a5c6",
         "actor": "Jacob Anderson",
         "age": {
@@ -15044,8 +15533,18 @@
         "id": "5ca35cd587aa7609cb01a5c6",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/0/0c/Grey_Worm_Longer.jpg/revision/latest/scale-to-width-down/332?cb=20170728152422",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.936,
+            0.877,
+            0.823,
+            0.773,
+            0.726,
+            0.683,
+            0.643,
+            0.606
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [
             "Missandei"
         ],
@@ -15057,8 +15556,8 @@
             "title": "Grey_Worm"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.394,
+        "plodC": 0.3866,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -15233,7 +15732,7 @@
         "updatedAt": "2019-04-02T13:00:05.718Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a5ca",
         "actor": "Ed Skrein",
         "age": {
@@ -15295,8 +15794,18 @@
         "id": "5ca35cd587aa7609cb01a5ca",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/d/d8/Daario-s6e4.jpg/revision/latest/scale-to-width-down/323?cb=20160512195958",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.922,
+            0.851,
+            0.787,
+            0.729,
+            0.675,
+            0.627,
+            0.582,
+            0.541
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [
             "Daenerys Targaryen"
         ],
@@ -15308,8 +15817,8 @@
             "title": "Daario_Naharis"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.45899999999999996,
+        "plodC": 0.3866,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -15551,7 +16060,7 @@
         "updatedAt": "2019-04-02T13:00:05.719Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a5cf",
         "actor": "Adewale Akinnuoye-Agbaje",
         "age": {
@@ -15579,8 +16088,18 @@
         "id": "5ca35cd587aa7609cb01a5cf",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/0/01/Malko_season_5.jpg/revision/latest/scale-to-width-down/303?cb=20150518053945",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.903,
+            0.816,
+            0.737,
+            0.666,
+            0.602,
+            0.545,
+            0.493,
+            0.446
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Malko",
         "nicknames": [],
@@ -15590,8 +16109,8 @@
             "title": "Malko"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.554,
+        "plodC": 0.3866,
         "religions": [],
         "seasons": [
             5
@@ -15603,7 +16122,7 @@
         "updatedAt": "2019-04-02T13:00:05.719Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a5d0",
         "actor": "Enzo Cilenti",
         "age": {
@@ -15647,8 +16166,18 @@
         "id": "5ca35cd587aa7609cb01a5d0",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/e/eb/Yezzan_Battle_of_the_Bastards.PNG/revision/latest?cb=20170421105444",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.903,
+            0.816,
+            0.737,
+            0.666,
+            0.602,
+            0.545,
+            0.493,
+            0.446
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Yezzan zo Qaggaz",
         "nicknames": [],
@@ -15658,8 +16187,8 @@
             "title": "Yezzan_zo_Qaggaz"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.554,
+        "plodC": 0.3866,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -15669,7 +16198,7 @@
         "updatedAt": "2019-04-02T13:00:05.720Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a5d1",
         "actor": "Meena Rayann",
         "age": {
@@ -15709,8 +16238,18 @@
         "id": "5ca35cd587aa7609cb01a5d1",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/6/6a/Vala.png/revision/latest?cb=20180702222337",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Vala",
         "nicknames": [],
@@ -15720,8 +16259,8 @@
             "title": "Vala"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.265,
+        "plodC": 0.6588,
         "religions": [],
         "seasons": [],
         "siblings": [],
@@ -15731,7 +16270,7 @@
         "updatedAt": "2019-04-02T13:00:05.720Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a5d2",
         "actor": "Gerald Lepkowski",
         "age": {
@@ -15761,8 +16300,18 @@
         "id": "5ca35cd587aa7609cb01a5d2",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/a/ab/Red_Priest_in_Meereen.png/revision/latest/scale-to-width-down/350?cb=20160425125520",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.962,
+            0.926,
+            0.891,
+            0.857,
+            0.825,
+            0.794,
+            0.764,
+            0.735
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Zanrush",
         "nicknames": [],
@@ -15772,8 +16321,8 @@
             "title": "Zanrush"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.265,
+        "plodC": 0.6588,
         "religions": [],
         "seasons": [
             6
@@ -15785,7 +16334,7 @@
         "updatedAt": "2019-04-02T13:00:05.720Z"
     },
     {
-        "__v": 0,
+        "__v": 2,
         "_id": "5ca35cd587aa7609cb01a5d3",
         "actor": "Ania Bukstein",
         "age": {
@@ -15818,8 +16367,18 @@
         "id": "5ca35cd587aa7609cb01a5d3",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/e/eb/S06E05_-_Kinvara_%281%29.jpg/revision/latest/scale-to-width-down/339?cb=20160812222946",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.903,
+            0.816,
+            0.737,
+            0.666,
+            0.602,
+            0.545,
+            0.493,
+            0.446
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Kinvara",
         "nicknames": [],
@@ -15829,8 +16388,8 @@
             "title": "Kinvara"
         },
         "plod": 0,
-        "plodB": 0,
-        "plodC": 0,
+        "plodB": 0.554,
+        "plodC": 0.3866,
         "religions": [],
         "seasons": [
             6
@@ -15842,7 +16401,7 @@
         "updatedAt": "2019-04-02T13:00:05.720Z"
     },
     {
-        "__v": 0,
+        "__v": 1,
         "_id": "5ca4d52d3e3b37061bde0fe0",
         "actor": "Gwendoline Christie",
         "age": null,
@@ -15922,8 +16481,18 @@
         "id": "5ca4d52d3e3b37061bde0fe0",
         "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/9/92/BrienneSeason8Cropped.PNG/revision/latest/scale-to-width-down/349?cb=20190207114051",
         "longevity": [],
-        "longevityB": [],
+        "longevityB": [
+            0.975,
+            0.951,
+            0.928,
+            0.905,
+            0.883,
+            0.862,
+            0.841,
+            0.821
+        ],
         "longevityC": [],
+        "longevityStartB": 298,
         "lovers": [],
         "name": "Brienne of Tarth",
         "nicknames": [],
@@ -15933,7 +16502,7 @@
             "title": "Brienne_of_Tarth"
         },
         "plod": 0,
-        "plodB": 0,
+        "plodB": 0.17900000000000005,
         "plodC": 0,
         "religions": [],
         "seasons": [],
