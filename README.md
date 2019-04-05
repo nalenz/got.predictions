@@ -33,9 +33,11 @@ To create a new branch to add your changes to, please execute the following comm
 
 ### Book predictions
 
-- number of datapoints: 18800
-  - used for training: 15040, used for validation: 3760
-  - final training accuracy: 88.40%, final validation accuracy: 91.57% (from [Keras log](workers/predictors-neural/predictor-neural-v2/models/keras-log))
+- number of characters: 484
+  - used for training (i.e. dead): 188, predicted on (i.e. alive): 296
+- number of training datapoints: 18800
+  - used for training itself: 15040, used for validation: 3760
+  - final training accuracy: 88.75%, final validation accuracy: 89.92% (from [Keras log](workers/predictors-neural/predictor-neural-v2/models/keras-log))
 - number of dimensions per datapoint: 1561
   - scalar values
     - male: 1, page rank (normalized): 1, number of relatives (normalized): 1
@@ -48,15 +50,17 @@ To create a new branch to add your changes to, please execute the following comm
 
 ### Show predictions
 
-- number of datapoints: 3096
-  - used for training: 3672, used for validation: 408
-  - final training accuracy: 79.33%, final validation accuracy: 79.35% (from [Keras log](workers/predictors-neural/predictor-neural-show-v1/models/keras-log))
-- number of dimensions per datapoint: 398
+- number of characters: 146
+  - used for training (i.e. dead): 82, predicted on (i.e. alive): 64
+- number of training datapoints: 7052
+  - used for training itself: 6346, used for validation: 706
+  - final training accuracy: 84.04%, final validation accuracy: 85.13% (from [Keras log](workers/predictors-neural/predictor-neural-show-v1/models/keras-log))
+- number of dimensions per datapoint: 411
   - scalar values
     - male: 1, page rank (normalized): 1, number of relatives (normalized): 1
   - one hot vectors
-    - age: 85
+    - age: 86
   - multiple hot vectors
-    - allegiances: 124, appearances: 72, titles: 114
+    - allegiances: 130, appearances: 74, titles: 118
 - number of output dimensions: 1
   - 1.0 if alive, 0.0 otherwise

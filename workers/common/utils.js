@@ -154,7 +154,6 @@ function sanitizedCmp(a, b) {
  * to return an array of values itself.
  */
 function createSetFromAttrFunc(arr, fn) {
-  if (typeof arr.map !== 'function') console.log(arr);
   return [
     ...new Set(
       []
@@ -438,26 +437,26 @@ class APIUpdater {
       },
     });
   }
-  
+
   /**
    * Update Bayesean attributes and their influences
    */
-  
+
   updateBayeseanAttributes(dataset, attrs) {
     //do a type check
-    
+
     for (let key of Object.keys(attrs)) {
-      if(Number.isNaN(attrs[key])) {
+      if (Number.isNaN(attrs[key])) {
         throw new Error('Attribute values must be numbers!');
       }
     }
-    
+
     //now send
     return request.post(config.GOT_API_BASE_URL + `/${dataset}/bayesean-attributes/update`, {
       json: {
         attributes: attrs,
-        token: "123secure",
-      }
+        token: '123secure',
+      },
     });
   }
 

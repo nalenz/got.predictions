@@ -24,6 +24,10 @@ const config = require('../common/config');
     (char, currYear, ageRange) => utils.clamp(currYear - char.birth, ageRange),
   );
 
+  // output some final statistics
+  console.log(`number of training datapoints      : ${dataTrain.length}`);
+  console.log(`number of dimensions per datapoint : ${dataTrain[0].length}`);
+
   // write data and labels to output file
   await utils.writeOutputDataBinary('v1-data-train', dataTrain, true);
   await utils.writeOutputDataBinary('v1-data-predict', dataPredict, true);
