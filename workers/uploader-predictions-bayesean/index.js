@@ -38,9 +38,9 @@ async function updatePredictions(callback) {
     let ch = bookPred.characters[name];
     
     //PLOD for the current year
-    let plod = 1;
+    let plod = 100;
     if (ch.survivalFunctionMean.length > config.GOT_CURRENT_YEAR_BOOK - birth) {
-      plod = 1 - ch.survivalFunctionMean[config.GOT_CURRENT_YEAR_BOOK - birth];
+      plod = (1 - ch.survivalFunctionMean[config.GOT_CURRENT_YEAR_BOOK - birth])*100;
     }
     
     let survFnStart = birth;
@@ -66,7 +66,7 @@ async function updatePredictions(callback) {
     //this is somewhat simpler...
     let survFnStart = config.GOT_SHOW_BEGIN;
     let ch = showPred.characters[name];
-    let plod = 1-ch.survivalFunctionMean[config.GOT_CURRENT_YEAR_SHOW - config.GOT_SHOW_BEGIN]; //guaranteed to have that
+    let plod = (1-ch.survivalFunctionMean[config.GOT_CURRENT_YEAR_SHOW - config.GOT_SHOW_BEGIN])*100; //guaranteed to have that
     let survFn = ch.survivalFunctionMean;
     
     //update predictions online
