@@ -17,7 +17,7 @@ const config = require('../common/config');
     .map(c => {
       // two methods to determine birth year if it's missing: 1. using the "age" attribute, 2. fallback to book data
       if (!c.birth) {
-        if (c.age) c.birth = config.GOT_CURRENT_YEAR_SHOW - c.age.age;
+        if (c.age) c.birth = (c.death || config.GOT_CURRENT_YEAR_SHOW) - c.age.age;
         else {
           let cb = charactersBook.find(d => d.name === c.name);
           if (cb) c.birth = cb.birth;
