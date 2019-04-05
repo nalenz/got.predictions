@@ -289,7 +289,7 @@ function processHeir(srcChar, destChar, characters) {
 }
 
 function processRank(srcChar, destChar, maxRank) {
-  if(srcChar.pageRank != null && srcChar.pageRank != undefined && srcChar.pageRank.rank > (0.5 * maxRank)) { //this check is similar to the 2016 project
+  if(srcChar.pageRank != null && srcChar.pageRank != undefined && srcChar.pageRank.rank > (0.34 * maxRank)) { //this check is similar to the 2016 project
     destChar.isMajor = 1;
   } else {
     destChar.isMajor = 0;
