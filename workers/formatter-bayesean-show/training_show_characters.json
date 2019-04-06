@@ -25,7 +25,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Catelyn Stark",
@@ -53,7 +54,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 1,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Robb Stark",
@@ -81,7 +83,8 @@
     "isMotherDead": 1,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Sansa Stark",
@@ -109,7 +112,8 @@
     "isMotherDead": 1,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Arya Stark",
@@ -137,7 +141,8 @@
     "isMotherDead": 0,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Bran Stark",
@@ -165,7 +170,8 @@
     "isMotherDead": 1,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Rickon Stark",
@@ -193,7 +199,8 @@
     "isMotherDead": 1,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Jon Snow",
@@ -221,7 +228,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 1
+    "hasDeadLovers": 1,
+    "isBastard": 0
   },
   {
     "name": "Benjen Stark",
@@ -249,7 +257,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Theon Greyjoy",
@@ -277,7 +286,8 @@
     "isMotherDead": 0,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Rodrik Cassel",
@@ -305,7 +315,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Jory Cassel",
@@ -333,7 +344,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Luwin",
@@ -361,7 +373,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Hodor",
@@ -389,7 +402,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Old Nan",
@@ -417,7 +431,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Mordane",
@@ -445,7 +460,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Ros",
@@ -473,7 +489,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Smalljon Umber",
@@ -501,7 +518,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Ned Umber",
@@ -529,7 +547,8 @@
     "isMotherDead": 0,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Harald Karstark",
@@ -557,7 +576,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Alys Karstark",
@@ -585,7 +605,8 @@
     "isMotherDead": 0,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Lyanna Mormont",
@@ -613,7 +634,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Robett Glover",
@@ -641,7 +663,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Cley Cerwyn",
@@ -669,7 +692,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Wyman Manderly",
@@ -697,7 +721,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Jojen Reed",
@@ -725,7 +750,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Meera Reed",
@@ -753,7 +779,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Roose Bolton",
@@ -781,7 +808,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Ramsay Snow",
@@ -809,7 +837,8 @@
     "isMotherDead": 0,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 1
+    "hasDeadLovers": 1,
+    "isBastard": 0
   },
   {
     "name": "Locke",
@@ -837,7 +866,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Myranda",
@@ -865,7 +895,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Wolkan",
@@ -893,7 +924,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Steelshanks",
@@ -921,7 +953,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Tywin Lannister",
@@ -949,7 +982,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 1
+    "hasDeadLovers": 1,
+    "isBastard": 0
   },
   {
     "name": "Cersei Lannister",
@@ -977,7 +1011,8 @@
     "isMotherDead": 0,
     "isFatherDead": 1,
     "isSpouseDead": 1,
-    "hasDeadLovers": 1
+    "hasDeadLovers": 1,
+    "isBastard": 0
   },
   {
     "name": "Jaime Lannister",
@@ -1005,7 +1040,8 @@
     "isMotherDead": 0,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Tyrion Lannister",
@@ -1033,7 +1069,8 @@
     "isMotherDead": 0,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 1
+    "hasDeadLovers": 1,
+    "isBastard": 0
   },
   {
     "name": "Kevan Lannister",
@@ -1061,7 +1098,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Lancel Lannister",
@@ -1089,7 +1127,8 @@
     "isMotherDead": 0,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Alton Lannister",
@@ -1117,7 +1156,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Podrick Payne",
@@ -1145,7 +1185,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Amory Lorch",
@@ -1173,7 +1214,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Sandor Clegane",
@@ -1201,7 +1243,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Gregor Clegane",
@@ -1229,7 +1272,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Tickler",
@@ -1257,7 +1301,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Polliver",
@@ -1285,7 +1330,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Robert Baratheon",
@@ -1313,7 +1359,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Joffrey Baratheon",
@@ -1341,7 +1388,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 1,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 1
   },
   {
     "name": "Myrcella Baratheon",
@@ -1369,7 +1417,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 1
   },
   {
     "name": "Tommen Baratheon",
@@ -1397,7 +1446,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 1,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 1
   },
   {
     "name": "Renly Baratheon",
@@ -1425,7 +1475,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 1,
-    "hasDeadLovers": 1
+    "hasDeadLovers": 1,
+    "isBastard": 0
   },
   {
     "name": "Stannis Baratheon",
@@ -1453,7 +1504,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Selyse Baratheon",
@@ -1481,7 +1533,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 1,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Shireen Baratheon",
@@ -1509,7 +1562,8 @@
     "isMotherDead": 0,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Melisandre",
@@ -1537,7 +1591,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 1
+    "hasDeadLovers": 1,
+    "isBastard": 0
   },
   {
     "name": "Davos Seaworth",
@@ -1565,7 +1620,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Matthos Seaworth",
@@ -1593,7 +1649,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Cressen",
@@ -1621,7 +1678,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Salladhor Saan",
@@ -1649,7 +1707,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Brienne",
@@ -1677,7 +1736,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Lysa Arryn",
@@ -1705,7 +1765,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Robin Arryn",
@@ -1733,7 +1794,8 @@
     "isMotherDead": 1,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Vardis Egen",
@@ -1761,7 +1823,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Mord",
@@ -1789,7 +1852,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Hugh",
@@ -1817,7 +1881,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Yohn Royce",
@@ -1845,7 +1910,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Anya Waynwood",
@@ -1873,7 +1939,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Vance Corbray",
@@ -1901,7 +1968,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Donnel Waynwood",
@@ -1929,7 +1997,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Mace Tyrell",
@@ -1957,7 +2026,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Loras Tyrell",
@@ -1985,7 +2055,8 @@
     "isMotherDead": 0,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 1
+    "hasDeadLovers": 1,
+    "isBastard": 0
   },
   {
     "name": "Margaery Tyrell",
@@ -2013,7 +2084,8 @@
     "isMotherDead": 0,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Olenna Redwyne",
@@ -2041,7 +2113,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Randyll Tarly",
@@ -2069,7 +2142,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Melessa Tarly",
@@ -2097,7 +2171,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 1,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Samwell Tarly",
@@ -2125,7 +2200,8 @@
     "isMotherDead": 0,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Dickon Tarly",
@@ -2153,7 +2229,8 @@
     "isMotherDead": 0,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Talla Tarly",
@@ -2181,7 +2258,8 @@
     "isMotherDead": 0,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Balon Greyjoy",
@@ -2209,7 +2287,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Yara Greyjoy",
@@ -2237,7 +2316,8 @@
     "isMotherDead": 0,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Euron Greyjoy",
@@ -2265,7 +2345,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Aeron Greyjoy",
@@ -2293,7 +2374,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Lorren",
@@ -2321,7 +2403,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Dagmer",
@@ -2349,7 +2432,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Ralf Kenning",
@@ -2377,7 +2461,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Edmure Tully",
@@ -2405,7 +2490,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Brynden Tully",
@@ -2433,7 +2519,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Walder Frey",
@@ -2461,7 +2548,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Joyeuse Erenford",
@@ -2489,7 +2577,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 1,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "\"Black Walder\" Frey",
@@ -2517,7 +2606,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "\"Lame Lothar\" Frey",
@@ -2545,7 +2635,8 @@
     "isMotherDead": 0,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Roslin Frey",
@@ -2573,7 +2664,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Fat Walda Frey",
@@ -2601,7 +2693,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 1,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Kitty Frey",
@@ -2629,7 +2722,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 1,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Doran Martell",
@@ -2657,7 +2751,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Trystane Martell",
@@ -2685,7 +2780,8 @@
     "isMotherDead": 0,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Oberyn Martell",
@@ -2713,7 +2809,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Ellaria Sand",
@@ -2741,7 +2838,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 1
+    "hasDeadLovers": 1,
+    "isBastard": 1
   },
   {
     "name": "Obara Sand",
@@ -2769,7 +2867,8 @@
     "isMotherDead": 0,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 1
   },
   {
     "name": "Nymeria Sand",
@@ -2797,7 +2896,8 @@
     "isMotherDead": 0,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 1
   },
   {
     "name": "Tyene Sand",
@@ -2825,7 +2925,8 @@
     "isMotherDead": 0,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 1
   },
   {
     "name": "Areo Hotah",
@@ -2853,7 +2954,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Caleotte",
@@ -2881,7 +2983,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Bronn",
@@ -2909,7 +3012,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Marillion",
@@ -2937,7 +3041,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Shae",
@@ -2965,7 +3070,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 1
+    "hasDeadLovers": 1,
+    "isBastard": 0
   },
   {
     "name": "Shagga",
@@ -2993,7 +3099,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Talisa Maegyr",
@@ -3021,7 +3128,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 1,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Thoros of Myr",
@@ -3049,7 +3157,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Anguy",
@@ -3077,7 +3186,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Qyburn",
@@ -3105,7 +3215,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Ray",
@@ -3133,7 +3244,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Lem Lemoncloak",
@@ -3161,7 +3273,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Petyr Baelish",
@@ -3189,7 +3302,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 1,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Pycelle",
@@ -3217,7 +3331,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Varys",
@@ -3245,7 +3360,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "High Sparrow",
@@ -3273,7 +3389,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Barristan Selmy",
@@ -3301,7 +3418,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Meryn Trant",
@@ -3329,7 +3447,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Ilyn Payne",
@@ -3357,7 +3476,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Janos Slynt",
@@ -3385,7 +3505,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Syrio Forel",
@@ -3413,7 +3534,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Tobho Mott",
@@ -3441,7 +3563,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Gendry",
@@ -3469,7 +3592,8 @@
     "isMotherDead": 0,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 1
   },
   {
     "name": "Olyvar",
@@ -3497,7 +3621,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 1
+    "hasDeadLovers": 1,
+    "isBastard": 0
   },
   {
     "name": "Armeca",
@@ -3525,7 +3650,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Marei",
@@ -3553,7 +3679,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Lollys Stokeworth",
@@ -3581,7 +3708,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Lommy Greenhands",
@@ -3609,7 +3737,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Hot Pie",
@@ -3637,7 +3766,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Rorge",
@@ -3665,7 +3795,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Biter",
@@ -3693,7 +3824,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Jaqen H'ghar",
@@ -3721,7 +3853,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Hallyne",
@@ -3749,7 +3882,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Unella",
@@ -3777,7 +3911,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Dontos Hollard",
@@ -3805,7 +3940,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Bernadette",
@@ -3833,7 +3969,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Archmaester",
@@ -3861,7 +3998,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Jeor Mormont",
@@ -3889,7 +4027,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Alliser Thorne",
@@ -3917,7 +4056,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Aemon",
@@ -3945,7 +4085,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Bowen Marsh",
@@ -3973,7 +4114,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Othell Yarwyck",
@@ -4001,7 +4143,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Yoren",
@@ -4029,7 +4172,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Pypar",
@@ -4057,7 +4201,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Grenn",
@@ -4085,7 +4230,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Rast",
@@ -4113,7 +4259,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Eddison Tollett",
@@ -4141,7 +4288,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Qhorin Halfhand",
@@ -4169,7 +4317,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Denys Mallister",
@@ -4197,7 +4346,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Karl",
@@ -4225,7 +4375,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Olly",
@@ -4253,7 +4404,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Osha",
@@ -4281,7 +4433,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Craster",
@@ -4309,7 +4462,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 1
   },
   {
     "name": "Gilly",
@@ -4337,7 +4491,8 @@
     "isMotherDead": 0,
     "isFatherDead": 1,
     "isSpouseDead": 1,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Ygritte",
@@ -4365,7 +4520,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Lord of Bones",
@@ -4393,7 +4549,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Orell",
@@ -4421,7 +4578,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Tormund Giantsbane",
@@ -4449,7 +4607,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Mance Rayder",
@@ -4477,7 +4636,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Styr",
@@ -4505,7 +4665,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Mag Mar Tun Doh Weg",
@@ -4533,7 +4694,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Three-Eyed Raven",
@@ -4561,7 +4723,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Leaf",
@@ -4589,7 +4752,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Night's King",
@@ -4617,7 +4781,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Wun Weg Wun Dar Wun",
@@ -4645,7 +4810,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Karsi",
@@ -4673,7 +4839,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Loboda",
@@ -4701,7 +4868,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Dim Dalba",
@@ -4729,7 +4897,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Khal Drogo",
@@ -4757,7 +4926,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Qotho",
@@ -4785,7 +4955,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Rakharo",
@@ -4813,7 +4984,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Kovarro",
@@ -4841,7 +5013,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Irri",
@@ -4869,7 +5042,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Doreah",
@@ -4897,7 +5071,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 1
+    "hasDeadLovers": 1,
+    "isBastard": 0
   },
   {
     "name": "Mago",
@@ -4925,7 +5100,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Moro",
@@ -4953,7 +5129,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "High Priestess of the Dosh Khaleen",
@@ -4981,7 +5158,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Ornela",
@@ -5009,7 +5187,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Qhono",
@@ -5037,7 +5216,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Viserys Targaryen",
@@ -5065,7 +5245,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Daenerys Targaryen",
@@ -5093,7 +5274,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Jorah Mormont",
@@ -5121,7 +5303,8 @@
     "isMotherDead": 0,
     "isFatherDead": 1,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Illyrio Mopatis",
@@ -5149,7 +5332,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Mirri Maz Duur",
@@ -5177,7 +5361,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Tycho Nestoris",
@@ -5205,7 +5390,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Ternesio Terys",
@@ -5233,7 +5419,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "The Waif",
@@ -5261,7 +5448,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Izembaro",
@@ -5289,7 +5477,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Lady Crane",
@@ -5317,7 +5506,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Xaro Xhoan Daxos",
@@ -5345,7 +5535,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 1
+    "hasDeadLovers": 1,
+    "isBastard": 0
   },
   {
     "name": "Pyat Pree",
@@ -5373,7 +5564,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Quaithe",
@@ -5401,7 +5593,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Spice King",
@@ -5429,7 +5622,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Missandei",
@@ -5457,7 +5651,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Grey Worm",
@@ -5485,7 +5680,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Kraznys mo Nakloz",
@@ -5513,7 +5709,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Greizhen mo Ullhor",
@@ -5541,7 +5738,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Razdal mo Eraz",
@@ -5569,7 +5767,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Daario Naharis",
@@ -5597,7 +5796,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Mero",
@@ -5625,7 +5825,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Prendahl na Ghezn",
@@ -5653,7 +5854,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Hizdahr zo Loraq",
@@ -5681,7 +5883,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Mossador",
@@ -5709,7 +5912,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Malko",
@@ -5737,7 +5941,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Yezzan zo Qaggaz",
@@ -5765,7 +5970,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Vala",
@@ -5793,7 +5999,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Zanrush",
@@ -5821,7 +6028,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Kinvara",
@@ -5849,7 +6057,8 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   },
   {
     "name": "Brienne of Tarth",
@@ -5877,6 +6086,7 @@
     "isMotherDead": 0,
     "isFatherDead": 0,
     "isSpouseDead": 0,
-    "hasDeadLovers": 0
+    "hasDeadLovers": 0,
+    "isBastard": 0
   }
 ]

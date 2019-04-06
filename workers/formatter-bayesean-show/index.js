@@ -301,12 +301,23 @@ function processDeadRelations(srcChar, destChar, unfilteredChars) {
   }
 }
 
+function processBastards(srcChar, destChar, bastards) {
+  destChar.isBastard = 0;
+  for (let b of bastards) {
+    if (b.name == srcChar.name) {
+      destChar.isBastard = 1;
+      break;
+    }
+  }
+}
+
 /*************************************************************************************************/
 
 async function genTrainingData (callback) {
   // read the needed JSON files
-  let [characters_unfiltered] = await Promise.all([
+  let [characters_unfiltered, bastards] = await Promise.all([
     utils.loadShowData('characters'),
+    utils.loadShowData('bastards'),
   ]);
   
   let characters = filterChars(characters_unfiltered); // filter out unsuitable characters
@@ -334,6 +345,7 @@ async function genTrainingData (callback) {
     //processParent(ch, ref_ch, characters); //not influential
     processPagerank(ch, ref_ch, maxRank);
     processDeadRelations(ch, ref_ch, characters_unfiltered);
+    processBastards(ch, ref_ch, bastards);
 	  
     // push the reformatted character and move on to the next one
     training_chars.push(ref_ch);
