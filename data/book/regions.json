@@ -1,192 +1,192 @@
 [
     {
-        "__v": 0,
+        "neighbors": [],
+        "cultures": [],
+        "events": [],
+        "borders": [],
+        "highlights": [],
         "_id": "5ca2328093934e5dbbcde4e5",
-        "borders": [],
-        "cultures": [],
-        "events": [],
-        "highlights": [],
         "name": "Beyond the Wall",
-        "neighbors": []
+        "__v": 0
     },
     {
-        "__v": 0,
+        "neighbors": [],
+        "cultures": [],
+        "events": [],
+        "borders": [],
+        "highlights": [],
         "_id": "5ca2328093934e5dbbcde4e6",
-        "borders": [],
-        "cultures": [],
-        "events": [],
-        "highlights": [],
         "name": "North",
-        "neighbors": []
+        "__v": 0
     },
     {
-        "__v": 0,
+        "neighbors": [],
+        "cultures": [],
+        "events": [],
+        "borders": [],
+        "highlights": [],
         "_id": "5ca2328093934e5dbbcde4e7",
-        "borders": [],
-        "cultures": [],
-        "events": [],
-        "highlights": [],
         "name": "Iron Islands",
-        "neighbors": []
+        "__v": 0
     },
     {
-        "__v": 0,
+        "neighbors": [],
+        "cultures": [],
+        "events": [],
+        "borders": [],
+        "highlights": [],
         "_id": "5ca2328093934e5dbbcde4e8",
-        "borders": [],
-        "cultures": [],
-        "events": [],
-        "highlights": [],
         "name": "Riverlands",
-        "neighbors": []
+        "__v": 0
     },
     {
-        "__v": 0,
+        "neighbors": [],
+        "cultures": [],
+        "events": [],
+        "borders": [],
+        "highlights": [],
         "_id": "5ca2328093934e5dbbcde4e9",
-        "borders": [],
-        "cultures": [],
-        "events": [],
-        "highlights": [],
         "name": "Vale of Arryn",
-        "neighbors": []
+        "__v": 0
     },
     {
-        "__v": 0,
+        "neighbors": [],
+        "cultures": [],
+        "events": [],
+        "borders": [],
+        "highlights": [],
         "_id": "5ca2328093934e5dbbcde4ea",
-        "borders": [],
-        "cultures": [],
-        "events": [],
-        "highlights": [],
         "name": "Westerlands",
-        "neighbors": []
+        "__v": 0
     },
     {
-        "__v": 0,
+        "neighbors": [],
+        "cultures": [],
+        "events": [],
+        "borders": [],
+        "highlights": [],
         "_id": "5ca2328093934e5dbbcde4eb",
-        "borders": [],
-        "cultures": [],
-        "events": [],
-        "highlights": [],
         "name": "Crownlands",
-        "neighbors": []
+        "__v": 0
     },
     {
-        "__v": 0,
+        "neighbors": [],
+        "cultures": [],
+        "events": [],
+        "borders": [],
+        "highlights": [],
         "_id": "5ca2328093934e5dbbcde4ec",
-        "borders": [],
-        "cultures": [],
-        "events": [],
-        "highlights": [],
         "name": "Reach",
-        "neighbors": []
+        "__v": 0
     },
     {
-        "__v": 0,
+        "neighbors": [],
+        "cultures": [],
+        "events": [],
+        "borders": [],
+        "highlights": [],
         "_id": "5ca2328093934e5dbbcde4ed",
-        "borders": [],
-        "cultures": [],
-        "events": [],
-        "highlights": [],
         "name": "Stormlands",
-        "neighbors": []
+        "__v": 0
     },
     {
-        "__v": 0,
+        "neighbors": [],
+        "cultures": [],
+        "events": [],
+        "borders": [],
+        "highlights": [],
         "_id": "5ca2328093934e5dbbcde4ee",
-        "borders": [],
-        "cultures": [],
-        "events": [],
-        "highlights": [],
         "name": "Dorne",
-        "neighbors": []
+        "__v": 0
     },
     {
-        "__v": 0,
+        "neighbors": [],
+        "cultures": [],
+        "events": [],
+        "borders": [],
+        "highlights": [],
         "_id": "5ca2328093934e5dbbcde4ef",
-        "borders": [],
-        "cultures": [],
-        "events": [],
-        "highlights": [],
         "name": "Kingdom of Sarnor",
-        "neighbors": []
+        "__v": 0
     },
     {
-        "__v": 0,
+        "neighbors": [],
+        "cultures": [],
+        "events": [],
+        "borders": [],
+        "highlights": [],
         "_id": "5ca2328093934e5dbbcde4f0",
-        "borders": [],
-        "cultures": [],
-        "events": [],
-        "highlights": [],
         "name": "Dothraki sea",
-        "neighbors": []
+        "__v": 0
     },
     {
-        "__v": 0,
+        "neighbors": [],
+        "cultures": [],
+        "events": [],
+        "borders": [],
+        "highlights": [],
         "_id": "5ca2328093934e5dbbcde4f1",
-        "borders": [],
-        "cultures": [],
-        "events": [],
-        "highlights": [],
         "name": "Shivering Sea",
-        "neighbors": []
+        "__v": 0
     },
     {
-        "__v": 0,
+        "neighbors": [],
+        "cultures": [],
+        "events": [],
+        "borders": [],
+        "highlights": [],
         "_id": "5ca2328093934e5dbbcde4f2",
-        "borders": [],
-        "cultures": [],
-        "events": [],
-        "highlights": [],
         "name": "Valyrian peninsula",
-        "neighbors": []
+        "__v": 0
     },
     {
-        "__v": 0,
+        "neighbors": [],
+        "cultures": [],
+        "events": [],
+        "borders": [],
+        "highlights": [],
         "_id": "5ca2328093934e5dbbcde4f3",
-        "borders": [],
-        "cultures": [],
-        "events": [],
-        "highlights": [],
         "name": "Lhazar",
-        "neighbors": []
+        "__v": 0
     },
     {
-        "__v": 0,
+        "neighbors": [],
+        "cultures": [],
+        "events": [],
+        "borders": [],
+        "highlights": [],
         "_id": "5ca2328093934e5dbbcde4f4",
-        "borders": [],
-        "cultures": [],
-        "events": [],
-        "highlights": [],
         "name": "Qarth",
-        "neighbors": []
+        "__v": 0
     },
     {
-        "__v": 0,
+        "neighbors": [],
+        "cultures": [],
+        "events": [],
+        "borders": [],
+        "highlights": [],
         "_id": "5ca2328093934e5dbbcde4f5",
-        "borders": [],
-        "cultures": [],
-        "events": [],
-        "highlights": [],
         "name": "Naath",
-        "neighbors": []
+        "__v": 0
     },
     {
-        "__v": 0,
+        "neighbors": [],
+        "cultures": [],
+        "events": [],
+        "borders": [],
+        "highlights": [],
         "_id": "5ca2328093934e5dbbcde4f6",
-        "borders": [],
-        "cultures": [],
-        "events": [],
-        "highlights": [],
         "name": "Isle of Tears",
-        "neighbors": []
+        "__v": 0
     },
     {
-        "__v": 0,
-        "_id": "5ca2328093934e5dbbcde4f7",
-        "borders": [],
+        "neighbors": [],
         "cultures": [],
         "events": [],
+        "borders": [],
         "highlights": [],
+        "_id": "5ca2328093934e5dbbcde4f7",
         "name": "Basilisk Point",
-        "neighbors": []
+        "__v": 0
     }
 ]
