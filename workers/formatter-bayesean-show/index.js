@@ -238,6 +238,69 @@ function processPagerank(srcChar, destChar, maxRank) {
   }
 }
 
+function processDeadRelations(srcChar, destChar, unfilteredChars) {
+  destChar.hasDeadSiblings = 0;
+  destChar.isMotherDead = 0;
+  destChar.isFatherDead = 0;
+  destChar.isSpouseDead = 0;
+  destChar.hasDeadLovers = 0;
+  //destChar.hasDeadChild = 0; //TODO do this
+  
+  //siblings
+  if(srcChar.siblings != undefined && srcChar.siblings != null) {
+    outloop_siblings: for(let sibling of srcChar.siblings) {
+      for(let ch of unfilteredChars) {
+        if(ch.name == sibling && ch.alive == false) {
+          destChar.hasDeadSiblings = 1;
+          break outloop_siblings;
+        }
+      }
+    }
+  }
+  
+  //father
+  if(srcChar.father != undefined && srcChar.father != null) {
+    for(let ch of unfilteredChars) {
+      if(ch.name == srcChar.father && ch.alive == false) {
+        destChar.isFatherDead = 1;
+        break;
+      }
+    }
+  }
+  
+  //mother
+  if(srcChar.mother != undefined && srcChar.mother != null) {
+    for(let ch of unfilteredChars) {
+      if(ch.name == srcChar.mother && ch.alive == false) {
+        destChar.isMotherDead = 1;
+        break;
+      }
+    }
+  }
+  
+  //spouse
+  if(srcChar.spouse != undefined && srcChar.spouse != null) {
+    for(let ch of unfilteredChars) {
+      if(ch.name == srcChar.spouse && ch.alive == false) {
+        destChar.isSpouseDead = 1;
+        break;
+      }
+    }
+  }
+  
+  //lovers
+  if(srcChar.lovers != undefined && srcChar.lovers != null) {
+    outloop_lovers: for(let lover of srcChar.lovers) {
+      for(let ch of unfilteredChars) {
+        if(ch.name == lover && ch.alive == false) {
+          destChar.hasDeadLovers = 1;
+          break outloop_lovers;
+        }
+      }
+    }
+  }
+}
+
 /*************************************************************************************************/
 
 async function genTrainingData (callback) {
@@ -270,6 +333,7 @@ async function genTrainingData (callback) {
     //processSiblings(ch, ref_ch); //not influential
     //processParent(ch, ref_ch, characters); //not influential
     processPagerank(ch, ref_ch, maxRank);
+    processDeadRelations(ch, ref_ch, characters_unfiltered);
 	  
     // push the reformatted character and move on to the next one
     training_chars.push(ref_ch);
