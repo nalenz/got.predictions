@@ -20,9 +20,13 @@ const config = require('../common/config');
   const dataPredict = johv.createMultipleUnfoldedOnlyData(
     charsPredict,
     'age',
-    { min: config.GOT_CURRENT_YEAR_SHOW, max: 320 },
+    { min: config.GOT_CURRENT_YEAR_SHOW, max: config.GOT_CURRENT_YEAR_SHOW + config.PREDICTIONS_NUM_YEARS },
     (char, currYear, ageRange) => utils.clamp(currYear - char.birth, ageRange),
   );
+
+  // output some final statistics
+  console.log(`number of training datapoints      : ${dataTrain.length}`);
+  console.log(`number of dimensions per datapoint : ${dataTrain[0].length}`);
 
   // write data and labels to output file
   await utils.writeOutputDataBinary('v1-data-train', dataTrain, true);

@@ -70,7 +70,7 @@ with model:
 beta = trace['beta'] #rows = samples, columns = coefficients
 lambda0 = trace['lambda0'] #rows = samples, single column = base risk per episode
 
-num_slices = 8 #since lambda0 is the same for all slices, this indicates how far into the future the model must look
+num_slices = 50 #since lambda0 is the same for all slices, this indicates how far into the future the model must look
 
 def get_dotprodfactors(params): #get the hazard multipliers (not yet exponentiated) for each sample of the trace, depending on the parameters
   return trace['beta'].dot(np.atleast_2d(params).transpose()) #mutliple dot products => matrix multiplication
@@ -101,8 +101,9 @@ def fitAge_greater_equal_last(survFn, greaterThan):
 predictions = {} #we'll write this dict to a JSON
 #predictions["priorHazard"] = trace['lambda0'].astype(float).tolist()
 predictions["attributes"] = colNames
-mean_beta = trace['beta'] # make a mean of all rows in the entire trace, transform the column matrix into a (single-) row matrix and get the row out
-predictions["betaExp"] = np.exp(mean_beta).astype(float).tolist()
+beta = trace['beta'] # make a mean of all rows in the entire trace, transform the column matrix into a (single-) row matrix and get the row out
+#predictions["betaExp"] = np.exp(beta).astype(float).tolist()
+predictions["meanBetaExp"] = np.exp(beta.mean(axis=0)).astype(float).tolist()
 predictions["characters"] = []
 #now add the survial function for every character
 for i in range(0, num_characters):
@@ -112,12 +113,12 @@ for i in range(0, num_characters):
   ch["livedTo"] = df["livedTo"].astype(float)[i]
   survFn= survivalParams(df_num[i, :]).astype(float) #take the i-th row of df_num for the character's parameters
   fitAge50 = fitAge_greater_equal(survFn, 0.5).astype(float)
-  ch["predictedSurvivalAge"] = fitAge50.tolist()
+  #ch["predictedSurvivalAge"] = fitAge50.tolist()
   #ch["likelihoodSeason8"] = (np.sum(np.greater_equal(fitAge50, 8).astype(float)))/(n_samples*num_chains)
   confidence = 0.8
-  ch["confIntervalLower"] = fitAge_greater_equal(survFn, confidence).astype(float).tolist()
-  ch["confIntervalHigher"] = fitAge_greater_equal(survFn, 1-confidence).astype(float).tolist()
-  ch["confIntervalConfidence"] = confidence
+  #ch["confIntervalLower"] = fitAge_greater_equal(survFn, confidence).astype(float).tolist()
+  #ch["confIntervalHigher"] = fitAge_greater_equal(survFn, 1-confidence).astype(float).tolist()
+  #ch["confIntervalConfidence"] = confidence
   ch["survivalFunctionMean"] = survFn.mean(axis=0).tolist()
   predictions["characters"].append(ch)
   

@@ -40,7 +40,7 @@ if False:
   model.compile(optimizer='rmsprop', loss='binary_crossentropy', metrics=['accuracy'])
 
   # train the model
-  model.fit(dataTrain, labelsTrain, epochs=10, batch_size=32, validation_split=0.1)
+  model.fit(dataTrain, labelsTrain, epochs=8, batch_size=32, validation_split=0.1)
   model.save(os.path.join(dirnameMain, 'models/got-predictor-model.h5'))
 
 else:

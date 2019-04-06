@@ -15,8 +15,18 @@ const config = require('../common/config');
   // extract only the attributes we need for our prediction script and format them accordingly
   let charsFmt = characters
     .map(c => {
-      let cb = charactersBook.find(d => d.name === c.name);
-      return cb && !c.birth ? { ...c, birth: cb.birth } : c;
+      // two methods to determine birth year if it's missing: 1. using the "age" attribute, 2. fallback to book data
+      if (!c.birth) {
+        if (c.age) c.birth = (c.death || config.GOT_CURRENT_YEAR_SHOW) - c.age.age;
+        else {
+          let cb = charactersBook.find(d => d.name === c.name);
+          if (cb) c.birth = cb.birth;
+        }
+      }
+
+      // delete invalid birth years that are in the future
+      if (c.birth > config.GOT_CURRENT_YEAR_SHOW) delete c.birth;
+      return c;
     })
     .filter(c => !!c.birth && (!c.death || c.death - c.birth >= 0))
     .map(c => ({

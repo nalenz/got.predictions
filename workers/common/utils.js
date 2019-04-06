@@ -1,6 +1,8 @@
 const path = require('path');
 const fs = require('fs-extra');
 const zlib = require('zlib');
+const request = require('request-promise-native');
+const config = require('./config');
 
 const dirnameMain = path.dirname(require.main.filename);
 
@@ -38,6 +40,28 @@ function loadFormatterMLData(name) {
  */
 function loadFormatterShowMLData(name) {
   return fs.readJSON(path.join(__dirname, `../formatter-show/output/ml-data/${name}.json`));
+}
+
+/**
+ * Loads the JSON file of the book predictions.
+ */
+function loadPredictionsBook() {
+  return fs.readJSON(path.join(__dirname, '../predictors-neural/predictor-neural-v2/output/predictions.json'));
+}
+
+function loadBayeseanPredictionsBook() {
+  return fs.readJSON(path.join(__dirname, '../postprocessor-bayesean-book/book_predictions.json'));
+}
+
+/**
+ * Loads the JSON file of the show predictions.
+ */
+function loadPredictionsShow() {
+  return fs.readJSON(path.join(__dirname, '../predictors-neural/predictor-neural-show-v1/output/predictions.json'));
+}
+
+function loadBayeseanPredictionsShow() {
+  return fs.readJSON(path.join(__dirname, '../postprocessor-bayesean-show/show_predictions.json'));
 }
 
 /**
@@ -105,7 +129,9 @@ function sanitizeString(s) {
     .replace(/(&apos;|\u2019)/g, "'")
     .replace(/\[[0-9]+\]/g, '')
     .replace(/^"/g, '')
-    .replace(/"$/g, '');
+    .replace(/"$/g, '')
+    .replace(/^'/g, '')
+    .replace(/'$/g, '');
 }
 
 /**
@@ -265,6 +291,7 @@ class JoinedOneHotVector {
   constructor(baseData, scalarAttrs, vectorAttrs) {
     this.scalarAttrs = scalarAttrs;
     this.ranges = this.calculateRanges(baseData, vectorAttrs);
+    console.log(this.ranges);
     this.vectorAttrs = vectorAttrs.filter(a => this.ranges[a].span !== -Infinity);
     this.applyConfig(this.scalarAttrs, this.vectorAttrs);
   }
@@ -327,11 +354,138 @@ class JoinedOneHotVector {
   }
 }
 
+/**
+ * The APIUpdater class is used to provide an easy interface to update PLOD and longevity in
+ * the provided GoT API. Initialize it like this:
+ * `let updater = await new APIUpdater().init();`
+ */
+class APIUpdater {
+  constructor() {}
+
+  checkDataset(dataset) {
+    if (dataset !== 'book' && dataset !== 'show') {
+      throw new Error('invalid dataset: ' + dataset);
+    }
+  }
+
+  async fetchDataset(dataset, endpoint) {
+    return JSON.parse(await request.get(config.GOT_API_BASE_URL + `/${dataset}/${endpoint}`));
+  }
+
+  getCharacter(dataset, name) {
+    this.checkDataset(dataset);
+    const c = (dataset === 'book' ? this.bookChars : this.showChars).find(c => c.name === name);
+    if (c === undefined || !c.slug) throw new Error(`character with name '${name}' or its slug is missing`);
+    return c;
+  }
+
+  /**
+   * Initialize the APIUpdater class, i.e. fetch and cache the current book and show characters
+   * which have their current PLOD and longevity already included.
+   */
+  async init() {
+    [this.bookChars, this.showChars] = await Promise.all([
+      this.fetchDataset('book', 'characters'),
+      this.fetchDataset('show', 'characters'),
+    ]);
+    return this;
+  }
+
+  /**
+   * Update the PLOD and longevity of a character. Before sending any data to the server, everything
+   * is validated to ensure that only the correct format is used. Note that this function returns a
+   * Promise, which resolves after the API request was successful.
+   * @param {string} dataset - The dataset to be updated, i.e. 'book' or 'show'.
+   * @param {string} slug - The name of the character to be updated, e.g. 'Jon Snow'. Note that you shall provide the actual character's name here, not its slug.
+   * @param {number[]} longevity - The new array of likelihoods of survival, that is numbers between 0 and 1. The numbers correspond to subsequent years.
+   * @param {number} longevityStart - The year the `longevity` array starts in.
+   * @param {number} plod - The new likelihood of death of the character, that is a number between 0 and 1.
+   */
+  updatePLODLongevity(dataset, name, longevity, longevityStart, plod) {
+    // check the types of all given parameters
+    if (
+      typeof name !== 'string' ||
+      !(longevity instanceof Array) ||
+      longevity.filter(x => typeof x !== 'number').length !== 0 ||
+      typeof longevityStart !== 'number' ||
+      typeof plod !== 'number'
+    ) {
+      throw new Error('at least one parameter has an invalid type');
+    }
+
+    // check the ranges of all given parameters
+    this.checkDataset(dataset);
+    const c = this.getCharacter(dataset, name);
+    const outOfRange = a => a < 0 || a > 1;
+    if (longevity.filter(outOfRange).length > 0 || longevityStart < 0 || outOfRange(plod)) {
+      throw new Error('at least one parameter is out of range');
+    }
+
+    // at this point, everything is okay, so first write the new data to the respective character object
+    c.longevityB = longevity;
+    c.longevityStartB = longevityStart;
+    c.plodB = plod;
+
+    // finally send the POST request to the API server
+    return request.post(config.GOT_API_BASE_URL + `/${dataset}/characters/updateGroupB`, {
+      json: {
+        slug: c.slug,
+        longevity,
+        longevityStart,
+        plod,
+        token: '123secure',
+      },
+    });
+  }
+
+  /**
+   * Update Bayesean attributes and their influences
+   */
+
+  updateBayeseanAttributes(dataset, attrs) {
+    //do a type check
+
+    for (let key of Object.keys(attrs)) {
+      if (Number.isNaN(attrs[key])) {
+        throw new Error('Attribute values must be numbers!');
+      }
+    }
+
+    //now send
+    return request.post(config.GOT_API_BASE_URL + `/${dataset}/bayesean-attributes/update`, {
+      json: {
+        attributes: attrs,
+        token: '123secure',
+      },
+    });
+  }
+
+  /**
+   * Like `updatePLODLongevity`, but only the PLOD is updated, the longevity is taken from the cache.
+   */
+  updatePLOD(dataset, name, plod) {
+    const c = this.getCharacter(dataset, name);
+    return this.updatePLODLongevity(dataset, name, c.longevityB || [], c.longevityStartB || 0, plod);
+  }
+
+  /**
+   * Like `updatePLODLongevity`, bur only the longevity data is updated, the PLOD is taken from the cache.
+   */
+  updateLongevity(dataset, name, longevity, longevityStart) {
+    const c = this.getCharacter(dataset, name);
+    return this.updatePLODLongevity(dataset, name, longevity, longevityStart, c.plodB || 0);
+  }
+}
+
 module.exports = {
   loadBookData,
   loadShowData,
   loadFormatterMLData,
   loadFormatterShowMLData,
+  loadPredictionsBook,
+  loadBayeseanPredictionsBook,
+  loadPredictionsShow,
+  loadBayeseanPredictionsShow,
   writeOutputData,
   writeOutputDataBinary,
   sanitizeString,
@@ -347,4 +501,5 @@ module.exports = {
   shuffleTwoArrays,
   writeJSONSetFromAttr,
   JoinedOneHotVector,
+  APIUpdater,
 };
