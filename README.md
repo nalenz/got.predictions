@@ -1,5 +1,5 @@
 # got.predictions
-![alt text](https://www.hypable.com/wp-content/uploads/2016/05/game-of-thrones-hall-of-faces.jpg)
+
 ## Setup
 
 To run the code in this repository, Node (at least version 10) is needed. Additionally, to run the `predictor-neural` worker, make sure that Python (at least version 3.5) is installed and that you have the dependencies (i.e. run `pip install -r requirements.txt` in that directory).
