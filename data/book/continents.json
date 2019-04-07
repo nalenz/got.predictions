@@ -1,32 +1,32 @@
 [
     {
+        "__v": 0,
+        "_id": "5ca2327293934e5dbbcde48f",
+        "cardinalDirection": "east",
+        "name": "Essos",
         "neighbors": [
             "Westeros",
             "Sothoryos"
-        ],
-        "_id": "5ca2327293934e5dbbcde48f",
-        "name": "Essos",
-        "cardinalDirection": "east",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca2327293934e5dbbcde490",
+        "cardinalDirection": "south",
+        "name": "Sothoryos",
         "neighbors": [
             "Essos",
             "Westeros"
-        ],
-        "_id": "5ca2327293934e5dbbcde490",
-        "name": "Sothoryos",
-        "cardinalDirection": "south",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca2327293934e5dbbcde491",
+        "cardinalDirection": "west",
+        "name": "Westeros",
         "neighbors": [
             "Essos",
             "Sothoryos"
-        ],
-        "_id": "5ca2327293934e5dbbcde491",
-        "name": "Westeros",
-        "cardinalDirection": "west",
-        "__v": 0
+        ]
     }
 ]

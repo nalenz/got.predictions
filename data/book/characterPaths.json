@@ -1,9 +1,12 @@
 [
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0eda",
+        "name": "Eddard Stark",
         "path": [
             {
+                "alive": true,
                 "from": 1,
-                "to": 2,
                 "path": [
                     [
                         78.60937753613514,
@@ -21,11 +24,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 2
             },
             {
+                "alive": true,
                 "from": 2,
-                "to": 3,
                 "path": [
                     [
                         78.60937753613514,
@@ -178,11 +181,11 @@
                         -96.79395316646459
                     ]
                 ],
-                "alive": true
+                "to": 3
             },
             {
+                "alive": true,
                 "from": 3,
-                "to": 4,
                 "path": [
                     [
                         60.544714536456816,
@@ -283,11 +286,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 4
             },
             {
+                "alive": true,
                 "from": 4,
-                "to": 9,
                 "path": [
                     [
                         45.805474068515245,
@@ -295,9 +298,10 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 9
             },
             {
+                "alive": false,
                 "from": 9,
                 "path": [
                     [
@@ -305,18 +309,17 @@
                         -84.48536531890602,
                         "King's Landing"
                     ]
-                ],
-                "alive": false
+                ]
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0eda",
-        "name": "Eddard Stark",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0edb",
+        "name": "Catelyn Stark",
         "path": [
             {
-                "to": 1,
+                "alive": true,
                 "path": [
                     [
                         78.60937753613514,
@@ -324,11 +327,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 1
             },
             {
+                "alive": true,
                 "from": 2,
-                "to": 3,
                 "path": [
                     [
                         78.60937753613514,
@@ -336,11 +339,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 3
             },
             {
+                "alive": true,
                 "from": 3,
-                "to": 4,
                 "path": [
                     [
                         78.60937753613514,
@@ -530,11 +533,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 4
             },
             {
+                "alive": true,
                 "from": 4,
-                "to": 5,
                 "path": [
                     [
                         45.805474068515245,
@@ -619,11 +622,11 @@
                         "Crossroads Inn"
                     ]
                 ],
-                "alive": true
+                "to": 5
             },
             {
+                "alive": true,
                 "from": 5,
-                "to": 6,
                 "path": [
                     [
                         58.64171437619993,
@@ -716,11 +719,11 @@
                         "Eyrie"
                     ]
                 ],
-                "alive": true
+                "to": 6
             },
             {
+                "alive": true,
                 "from": 6,
-                "to": 9,
                 "path": [
                     [
                         62.260772776184744,
@@ -728,11 +731,11 @@
                         "Eyrie"
                     ]
                 ],
-                "alive": true
+                "to": 9
             },
             {
+                "alive": true,
                 "from": 9,
-                "to": 10,
                 "path": [
                     [
                         62.260772776184744,
@@ -1008,11 +1011,11 @@
                         "Riverrun"
                     ]
                 ],
-                "alive": true
+                "to": 10
             },
             {
+                "alive": true,
                 "from": 10,
-                "to": 13,
                 "path": [
                     [
                         57.80059042486263,
@@ -1020,11 +1023,11 @@
                         "Riverrun"
                     ]
                 ],
-                "alive": true
+                "to": 13
             },
             {
+                "alive": true,
                 "from": 13,
-                "to": 14,
                 "path": [
                     [
                         57.80059042486263,
@@ -1133,11 +1136,11 @@
                         "Bitterbridge"
                     ]
                 ],
-                "alive": true
+                "to": 14
             },
             {
+                "alive": true,
                 "from": 14,
-                "to": 15,
                 "path": [
                     [
                         36.29015653031369,
@@ -1233,11 +1236,11 @@
                         "Storm's End"
                     ]
                 ],
-                "alive": true
+                "to": 15
             },
             {
+                "alive": true,
                 "from": 15,
-                "to": 16,
                 "path": [
                     [
                         31.389879839113846,
@@ -1245,11 +1248,11 @@
                         "Storm's End"
                     ]
                 ],
-                "alive": true
+                "to": 16
             },
             {
+                "alive": true,
                 "from": 16,
-                "to": 17,
                 "path": [
                     [
                         32.49871858384166,
@@ -1481,11 +1484,11 @@
                         "Oxcross"
                     ]
                 ],
-                "alive": true
+                "to": 17
             },
             {
+                "alive": true,
                 "from": 17,
-                "to": 18,
                 "path": [
                     [
                         51.45545248480529,
@@ -1493,11 +1496,11 @@
                         "Oxcross"
                     ]
                 ],
-                "alive": true
+                "to": 18
             },
             {
+                "alive": true,
                 "from": 18,
-                "to": 19,
                 "path": [
                     [
                         52.24474238488776,
@@ -1540,22 +1543,22 @@
                         -121.0300951099333
                     ]
                 ],
-                "alive": true
+                "to": 19
             },
             {
+                "alive": true,
                 "from": 19,
-                "to": 21,
                 "path": [
                     [
                         56.974227069508494,
                         -121.0300951099333
                     ]
                 ],
-                "alive": true
+                "to": 21
             },
             {
+                "alive": true,
                 "from": 21,
-                "to": 22,
                 "path": [
                     [
                         57.11324983638391,
@@ -1623,11 +1626,11 @@
                         "Harrenhal"
                     ]
                 ],
-                "alive": true
+                "to": 22
             },
             {
+                "alive": true,
                 "from": 22,
-                "to": 23,
                 "path": [
                     [
                         56.09348976715208,
@@ -1638,11 +1641,11 @@
                         -104.03551796935068
                     ]
                 ],
-                "alive": true
+                "to": 23
             },
             {
+                "alive": true,
                 "from": 23,
-                "to": 24,
                 "path": [
                     [
                         56.93939003599202,
@@ -1662,11 +1665,11 @@
                         "Riverrun"
                     ]
                 ],
-                "alive": true
+                "to": 24
             },
             {
+                "alive": true,
                 "from": 24,
-                "to": 27,
                 "path": [
                     [
                         57.80059042486263,
@@ -1674,11 +1677,11 @@
                         "Riverrun"
                     ]
                 ],
-                "alive": true
+                "to": 27
             },
             {
+                "alive": true,
                 "from": 27,
-                "to": 28,
                 "path": [
                     [
                         57.80059042486263,
@@ -1711,22 +1714,22 @@
                         -110.42445674400581
                     ]
                 ],
-                "alive": true
+                "to": 28
             },
             {
+                "alive": true,
                 "from": 28,
-                "to": 29,
                 "path": [
                     [
                         63.50873712469366,
                         -110.46251406943978
                     ]
                 ],
-                "alive": true
+                "to": 29
             },
             {
+                "alive": true,
                 "from": 29,
-                "to": 30,
                 "path": [
                     [
                         63.55571912112352,
@@ -1742,9 +1745,10 @@
                         "The Twins"
                     ]
                 ],
-                "alive": true
+                "to": 30
             },
             {
+                "alive": false,
                 "from": 30,
                 "path": [
                     [
@@ -1752,19 +1756,18 @@
                         -110.36056735625922,
                         "The Twins"
                     ]
-                ],
-                "alive": false
+                ]
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0edb",
-        "name": "Catelyn Stark",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0edc",
+        "name": "Tywin Lannister",
         "path": [
             {
+                "alive": true,
                 "from": "1",
-                "to": "7",
                 "path": [
                     [
                         50.04072792874379,
@@ -1772,11 +1775,11 @@
                         "Casterly Rock"
                     ]
                 ],
-                "alive": true
+                "to": "7"
             },
             {
+                "alive": true,
                 "from": "7",
-                "to": "8",
                 "path": [
                     [
                         50.04072792874379,
@@ -1884,11 +1887,11 @@
                         "Riverrun"
                     ]
                 ],
-                "alive": true
+                "to": "8"
             },
             {
+                "alive": true,
                 "from": "8",
-                "to": "9",
                 "path": [
                     [
                         57.80059042486263,
@@ -1937,22 +1940,22 @@
                         -104.13773010405282
                     ]
                 ],
-                "alive": true
+                "to": "9"
             },
             {
+                "alive": true,
                 "from": "9",
-                "to": "10",
                 "path": [
                     [
                         63.33580665639523,
                         -104.13773010405282
                     ]
                 ],
-                "alive": true
+                "to": "10"
             },
             {
+                "alive": true,
                 "from": "10",
-                "to": "11",
                 "path": [
                     [
                         63.35157074645357,
@@ -2000,11 +2003,11 @@
                         "CrossroadsInn"
                     ]
                 ],
-                "alive": true
+                "to": "11"
             },
             {
+                "alive": true,
                 "from": "11",
-                "to": "12",
                 "path": [
                     [
                         58.64171437619993,
@@ -2020,22 +2023,22 @@
                         -93.91266269334386
                     ]
                 ],
-                "alive": true
+                "to": "12"
             },
             {
+                "alive": true,
                 "from": "12",
-                "to": "14",
                 "path": [
                     [
                         58.015152070054356,
                         -93.91266269334386
                     ]
                 ],
-                "alive": true
+                "to": "14"
             },
             {
+                "alive": true,
                 "from": "14",
-                "to": "15",
                 "path": [
                     [
                         57.99653497161637,
@@ -2055,11 +2058,11 @@
                         "Harrenhal"
                     ]
                 ],
-                "alive": true
+                "to": "15"
             },
             {
+                "alive": true,
                 "from": "15",
-                "to": "18",
                 "path": [
                     [
                         55.192138999863374,
@@ -2067,11 +2070,11 @@
                         "Harrenhal"
                     ]
                 ],
-                "alive": true
+                "to": "18"
             },
             {
+                "alive": true,
                 "from": "18",
-                "to": "19",
                 "path": [
                     [
                         55.192138999863374,
@@ -2083,11 +2086,11 @@
                         -98.23459840302498
                     ]
                 ],
-                "alive": true
+                "to": "19"
             },
             {
+                "alive": true,
                 "from": "19",
-                "to": "20",
                 "path": [
                     [
                         55.55242867064844,
@@ -2098,11 +2101,11 @@
                         -98.26973609172157
                     ]
                 ],
-                "alive": true
+                "to": "20"
             },
             {
+                "alive": true,
                 "from": "20",
-                "to": "21",
                 "path": [
                     [
                         55.55242867064844,
@@ -2190,11 +2193,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": "21"
             },
             {
+                "alive": true,
                 "from": "21",
-                "to": "40",
                 "path": [
                     [
                         45.805474068515245,
@@ -2202,9 +2205,10 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": "40"
             },
             {
+                "alive": false,
                 "from": "40",
                 "path": [
                     [
@@ -2212,19 +2216,18 @@
                         -84.48536531890602,
                         "King's Landing"
                     ]
-                ],
-                "alive": false
+                ]
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0edc",
-        "name": "Tywin Lannister",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0edd",
+        "name": "Robb Stark",
         "path": [
             {
+                "alive": true,
                 "from": 1,
-                "to": 7,
                 "path": [
                     [
                         78.60937753613514,
@@ -2232,11 +2235,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 7
             },
             {
+                "alive": true,
                 "from": 7,
-                "to": 8,
                 "path": [
                     [
                         78.60937753613514,
@@ -2334,11 +2337,11 @@
                         "Greywater Watch"
                     ]
                 ],
-                "alive": true
+                "to": 8
             },
             {
+                "alive": true,
                 "from": 8,
-                "to": 9,
                 "path": [
                     [
                         68.15437064803889,
@@ -2376,22 +2379,22 @@
                         -112.60591307993205
                     ]
                 ],
-                "alive": true
+                "to": 9
             },
             {
+                "alive": true,
                 "from": 9,
-                "to": 12,
                 "path": [
                     [
                         58.20079108083844,
                         -112.74646383471843
                     ]
                 ],
-                "alive": true
+                "to": 12
             },
             {
+                "alive": true,
                 "from": 12,
-                "to": 13,
                 "path": [
                     [
                         57.753630283361694,
@@ -2439,11 +2442,11 @@
                         "Oxcross"
                     ]
                 ],
-                "alive": true
+                "to": 13
             },
             {
+                "alive": true,
                 "from": 13,
-                "to": 17,
                 "path": [
                     [
                         51.45545248480529,
@@ -2464,11 +2467,11 @@
                         "The Crag"
                     ]
                 ],
-                "alive": true
+                "to": 17
             },
             {
+                "alive": true,
                 "from": 17,
-                "to": 18,
                 "path": [
                     [
                         56.834683434063805,
@@ -2493,11 +2496,11 @@
                         -119.59831313055432
                     ]
                 ],
-                "alive": true
+                "to": 18
             },
             {
+                "alive": true,
                 "from": 18,
-                "to": 21,
                 "path": [
                     [
                         57.39565774204935,
@@ -2513,11 +2516,11 @@
                         "Harrenhal"
                     ]
                 ],
-                "alive": true
+                "to": 21
             },
             {
+                "alive": true,
                 "from": 21,
-                "to": 22,
                 "path": [
                     [
                         55.192138999863374,
@@ -2529,11 +2532,11 @@
                         -103.64580246230048
                     ]
                 ],
-                "alive": true
+                "to": 22
             },
             {
+                "alive": true,
                 "from": 22,
-                "to": 23,
                 "path": [
                     [
                         57.09146922878515,
@@ -2545,11 +2548,11 @@
                         "Riverrun"
                     ]
                 ],
-                "alive": true
+                "to": 23
             },
             {
+                "alive": true,
                 "from": 23,
-                "to": 27,
                 "path": [
                     [
                         57.80059042486263,
@@ -2571,11 +2574,11 @@
                         -110.77875326770912
                     ]
                 ],
-                "alive": true
+                "to": 27
             },
             {
+                "alive": true,
                 "from": 27,
-                "to": 29,
                 "path": [
                     [
                         63.16183052462219,
@@ -2587,9 +2590,10 @@
                         "The Twins"
                     ]
                 ],
-                "alive": true
+                "to": 29
             },
             {
+                "alive": false,
                 "from": 29,
                 "path": [
                     [
@@ -2597,19 +2601,18 @@
                         -110.36056735625922,
                         "The Twins"
                     ]
-                ],
-                "alive": false
+                ]
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0edd",
-        "name": "Robb Stark",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0ede",
+        "name": "Sansa Stark",
         "path": [
             {
+                "alive": true,
                 "from": 1,
-                "to": 2,
                 "path": [
                     [
                         78.60937753613514,
@@ -2617,11 +2620,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 2
             },
             {
+                "alive": true,
                 "from": 2,
-                "to": 3,
                 "path": [
                     [
                         78.60937753613514,
@@ -2774,11 +2777,11 @@
                         -96.79395316646459
                     ]
                 ],
-                "alive": true
+                "to": 3
             },
             {
+                "alive": true,
                 "from": 3,
-                "to": 4,
                 "path": [
                     [
                         58.51416424569976,
@@ -2846,11 +2849,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 4
             },
             {
+                "alive": true,
                 "from": 4,
-                "to": 33,
                 "path": [
                     [
                         45.805474068515245,
@@ -2858,11 +2861,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 33
             },
             {
+                "alive": true,
                 "from": 33,
-                "to": 34,
                 "path": [
                     [
                         44.888835591584325,
@@ -2885,11 +2888,11 @@
                         -79.3656595729538
                     ]
                 ],
-                "alive": true
+                "to": 34
             },
             {
+                "alive": true,
                 "from": 34,
-                "to": 35,
                 "path": [
                     [
                         48.29193594571902,
@@ -2908,11 +2911,11 @@
                         -67.84049768047086
                     ]
                 ],
-                "alive": true
+                "to": 35
             },
             {
+                "alive": true,
                 "from": 35,
-                "to": 36,
                 "path": [
                     [
                         51.74429269718045,
@@ -3054,11 +3057,11 @@
                         "Eyrie"
                     ]
                 ],
-                "alive": true
+                "to": 36
             },
             {
+                "alive": true,
                 "from": 36,
-                "to": 42,
                 "path": [
                     [
                         62.260772776184744,
@@ -3158,11 +3161,11 @@
                         "Eyrie"
                     ]
                 ],
-                "alive": true
+                "to": 42
             },
             {
+                "alive": true,
                 "from": 43,
-                "to": 44,
                 "path": [
                     [
                         58.64171437619993,
@@ -3223,11 +3226,11 @@
                         "Moat Cailin"
                     ]
                 ],
-                "alive": true
+                "to": 44
             },
             {
+                "alive": true,
                 "from": 44,
-                "to": 45,
                 "path": [
                     [
                         72.91005902137822,
@@ -3303,9 +3306,10 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 45
             },
             {
+                "alive": true,
                 "from": 45,
                 "path": [
                     [
@@ -3313,19 +3317,18 @@
                         -105.31330572428169,
                         "Winterfell"
                     ]
-                ],
-                "alive": true
+                ]
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0ede",
-        "name": "Sansa Stark",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0edf",
+        "name": "Bran Stark",
         "path": [
             {
+                "alive": true,
                 "from": 1,
-                "to": 2,
                 "path": [
                     [
                         78.60937753613514,
@@ -3343,11 +3346,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 2
             },
             {
+                "alive": true,
                 "from": 2,
-                "to": 20,
                 "path": [
                     [
                         78.60937753613514,
@@ -3355,11 +3358,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 20
             },
             {
+                "alive": true,
                 "from": 20,
-                "to": 21,
                 "path": [
                     [
                         78.43946295335057,
@@ -3379,11 +3382,11 @@
                         -106.80819444499399
                     ]
                 ],
-                "alive": true
+                "to": 21
             },
             {
+                "alive": true,
                 "from": 21,
-                "to": 22,
                 "path": [
                     [
                         78.84764249949863,
@@ -3394,11 +3397,11 @@
                         -106.80819444499399
                     ]
                 ],
-                "alive": true
+                "to": 22
             },
             {
+                "alive": true,
                 "from": 22,
-                "to": 23,
                 "path": [
                     [
                         79.35252162086704,
@@ -3409,44 +3412,44 @@
                         -107.47581053022927
                     ]
                 ],
-                "alive": true
+                "to": 23
             },
             {
+                "alive": true,
                 "from": 23,
-                "to": 24,
                 "path": [
                     [
                         80.30136739458031,
                         -105.40268689713021
                     ]
                 ],
-                "alive": true
+                "to": 24
             },
             {
+                "alive": true,
                 "from": 24,
-                "to": 25,
                 "path": [
                     [
                         80.28359278019386,
                         -105.4378245858268
                     ]
                 ],
-                "alive": true
+                "to": 25
             },
             {
+                "alive": true,
                 "from": 25,
-                "to": 27,
                 "path": [
                     [
                         80.30136739458031,
                         -105.36754920843362
                     ]
                 ],
-                "alive": true
+                "to": 27
             },
             {
+                "alive": true,
                 "from": 27,
-                "to": 28,
                 "path": [
                     [
                         81.2629953707073,
@@ -3461,22 +3464,22 @@
                         -94.05321344813024
                     ]
                 ],
-                "alive": true
+                "to": 28
             },
             {
+                "alive": true,
                 "from": 28,
-                "to": 29,
                 "path": [
                     [
                         82.41342482573937,
                         -93.98293807073706
                     ]
                 ],
-                "alive": true
+                "to": 29
             },
             {
+                "alive": true,
                 "from": 29,
-                "to": 30,
                 "path": [
                     [
                         82.95722904088991,
@@ -3484,11 +3487,11 @@
                         "Queenscrown"
                     ]
                 ],
-                "alive": true
+                "to": 30
             },
             {
+                "alive": true,
                 "from": 30,
-                "to": 32,
                 "path": [
                     [
                         83.50917855591369,
@@ -3496,11 +3499,11 @@
                         "Nightfort"
                     ]
                 ],
-                "alive": true
+                "to": 32
             },
             {
+                "alive": true,
                 "from": 32,
-                "to": 33,
                 "path": [
                     [
                         83.9577310102979,
@@ -3511,22 +3514,22 @@
                         -97.77780844996923
                     ]
                 ],
-                "alive": true
+                "to": 33
             },
             {
+                "alive": true,
                 "from": 33,
-                "to": 34,
                 "path": [
                     [
                         83.9946051312424,
                         -97.77780844996923
                     ]
                 ],
-                "alive": true
+                "to": 34
             },
             {
+                "alive": true,
                 "from": 34,
-                "to": 35,
                 "path": [
                     [
                         84.05970780277003,
@@ -3534,11 +3537,11 @@
                         "Craster's Keep"
                     ]
                 ],
-                "alive": true
+                "to": 35
             },
             {
+                "alive": true,
                 "from": 35,
-                "to": 40,
                 "path": [
                     [
                         84.05970780277003,
@@ -3546,11 +3549,11 @@
                         "Craster's Keep"
                     ]
                 ],
-                "alive": true
+                "to": 40
             },
             {
+                "alive": true,
                 "from": 40,
-                "to": 41,
                 "path": [
                     [
                         84.91905941921368,
@@ -3561,28 +3564,28 @@
                         -106.70278137890419
                     ]
                 ],
-                "alive": true
+                "to": 41
             },
             {
+                "alive": true,
                 "from": 41,
                 "path": [
                     [
                         84.95008354139446,
                         -106.70278137890419
                     ]
-                ],
-                "alive": true
+                ]
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0edf",
-        "name": "Bran Stark",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0ee0",
+        "name": "Arya Stark",
         "path": [
             {
+                "alive": true,
                 "from": 1,
-                "to": 2,
                 "path": [
                     [
                         78.60937753613514,
@@ -3590,11 +3593,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 2
             },
             {
+                "alive": true,
                 "from": 2,
-                "to": 3,
                 "path": [
                     [
                         78.60937753613514,
@@ -3743,11 +3746,11 @@
                         -96.47771396819525
                     ]
                 ],
-                "alive": true
+                "to": 3
             },
             {
+                "alive": true,
                 "from": 3,
-                "to": 4,
                 "path": [
                     [
                         59.419832346889706,
@@ -3824,11 +3827,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 4
             },
             {
+                "alive": true,
                 "from": 4,
-                "to": 12,
                 "path": [
                     [
                         45.805474068515245,
@@ -3836,11 +3839,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 12
             },
             {
+                "alive": true,
                 "from": 12,
-                "to": 13,
                 "path": [
                     [
                         45.805474068515245,
@@ -3873,11 +3876,11 @@
                         -87.3419149070807
                     ]
                 ],
-                "alive": true
+                "to": 13
             },
             {
+                "alive": true,
                 "from": 13,
-                "to": 14,
                 "path": [
                     [
                         48.1749103862499,
@@ -3911,11 +3914,11 @@
                         "Harrenhal"
                     ]
                 ],
-                "alive": true
+                "to": 14
             },
             {
+                "alive": true,
                 "from": 13,
-                "to": 20,
                 "path": [
                     [
                         55.192138999863374,
@@ -3923,11 +3926,11 @@
                         "Harrenhal"
                     ]
                 ],
-                "alive": true
+                "to": 20
             },
             {
+                "alive": true,
                 "from": 20,
-                "to": 22,
                 "path": [
                     [
                         55.192138999863374,
@@ -3939,11 +3942,11 @@
                         -98.6211129786875
                     ]
                 ],
-                "alive": true
+                "to": 22
             },
             {
+                "alive": true,
                 "from": 22,
-                "to": 23,
                 "path": [
                     [
                         57.4713131362403,
@@ -3963,11 +3966,11 @@
                         "Inn of the Kneeling Man"
                     ]
                 ],
-                "alive": true
+                "to": 23
             },
             {
+                "alive": true,
                 "from": 23,
-                "to": 24,
                 "path": [
                     [
                         58.84062886312022,
@@ -3975,11 +3978,11 @@
                         "Inn of the Kneeling Man"
                     ]
                 ],
-                "alive": true
+                "to": 24
             },
             {
+                "alive": true,
                 "from": 24,
-                "to": 25,
                 "path": [
                     [
                         58.84062886312022,
@@ -4012,11 +4015,11 @@
                         "Hollow Hill"
                     ]
                 ],
-                "alive": true
+                "to": 25
             },
             {
+                "alive": true,
                 "from": 25,
-                "to": 27,
                 "path": [
                     [
                         51.135852961264064,
@@ -4024,11 +4027,11 @@
                         "Hollow Hill"
                     ]
                 ],
-                "alive": true
+                "to": 27
             },
             {
+                "alive": true,
                 "from": 27,
-                "to": 28,
                 "path": [
                     [
                         51.135852961264064,
@@ -4046,11 +4049,11 @@
                         "Brotherhood Without Banners Hideout"
                     ]
                 ],
-                "alive": true
+                "to": 28
             },
             {
+                "alive": true,
                 "from": 28,
-                "to": 29,
                 "path": [
                     [
                         59.23505524011986,
@@ -4058,11 +4061,11 @@
                         "Brotherhood Without Banners Hideout"
                     ]
                 ],
-                "alive": true
+                "to": 29
             },
             {
+                "alive": true,
                 "from": 29,
-                "to": 30,
                 "path": [
                     [
                         59.23505524011986,
@@ -4123,11 +4126,11 @@
                         "The Twins"
                     ]
                 ],
-                "alive": true
+                "to": 30
             },
             {
+                "alive": true,
                 "from": 30,
-                "to": 31,
                 "path": [
                     [
                         66.63225698514907,
@@ -4143,22 +4146,22 @@
                         -100.79964967787636
                     ]
                 ],
-                "alive": true
+                "to": 31
             },
             {
+                "alive": true,
                 "from": 31,
-                "to": 33,
                 "path": [
                     [
                         65.25521410641191,
                         -100.76451198917977
                     ]
                 ],
-                "alive": true
+                "to": 33
             },
             {
+                "alive": true,
                 "from": 33,
-                "to": 34,
                 "path": [
                     [
                         65.240502178439,
@@ -4194,11 +4197,11 @@
                         "Palisade Village"
                     ]
                 ],
-                "alive": true
+                "to": 34
             },
             {
+                "alive": true,
                 "from": 34,
-                "to": 37,
                 "path": [
                     [
                         61.1402315028966,
@@ -4206,11 +4209,11 @@
                         "Palisade Village"
                     ]
                 ],
-                "alive": true
+                "to": 37
             },
             {
+                "alive": true,
                 "from": 37,
-                "to": 38,
                 "path": [
                     [
                         60.19728964003695,
@@ -4221,11 +4224,11 @@
                         -91.41788679588566
                     ]
                 ],
-                "alive": true
+                "to": 38
             },
             {
+                "alive": true,
                 "from": 38,
-                "to": 39,
                 "path": [
                     [
                         59.1326049593972,
@@ -4257,11 +4260,11 @@
                         "Bloody Gate"
                     ]
                 ],
-                "alive": true
+                "to": 39
             },
             {
+                "alive": true,
                 "from": 38,
-                "to": 40,
                 "path": [
                     [
                         60.705548177662315,
@@ -4269,11 +4272,11 @@
                         "Bloody Gate"
                     ]
                 ],
-                "alive": true
+                "to": 40
             },
             {
+                "alive": true,
                 "from": 40,
-                "to": 41,
                 "path": [
                     [
                         56.65951971182894,
@@ -4281,11 +4284,11 @@
                         "Saltpans"
                     ]
                 ],
-                "alive": true
+                "to": 41
             },
             {
+                "alive": true,
                 "from": 41,
-                "to": 42,
                 "path": [
                     [
                         56.65951971182894,
@@ -4293,11 +4296,11 @@
                         "Saltpans"
                     ]
                 ],
-                "alive": true
+                "to": 42
             },
             {
+                "alive": true,
                 "from": 42,
-                "to": 43,
                 "path": [
                     [
                         56.2809721602878,
@@ -4353,9 +4356,10 @@
                         "Braavos"
                     ]
                 ],
-                "alive": true
+                "to": 43
             },
             {
+                "alive": true,
                 "from": 43,
                 "path": [
                     [
@@ -4363,19 +4367,18 @@
                         -43.73604323460711,
                         "Braavos"
                     ]
-                ],
-                "alive": true
+                ]
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0ee0",
-        "name": "Arya Stark",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0ee1",
+        "name": "Rickon Stark",
         "path": [
             {
+                "alive": true,
                 "from": 1,
-                "to": 20,
                 "path": [
                     [
                         78.60937753613514,
@@ -4383,11 +4386,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 20
             },
             {
+                "alive": true,
                 "from": 20,
-                "to": 21,
                 "path": [
                     [
                         78.60937753613514,
@@ -4408,11 +4411,11 @@
                         -103.54038939621071
                     ]
                 ],
-                "alive": true
+                "to": 21
             },
             {
+                "alive": true,
                 "from": 21,
-                "to": 22,
                 "path": [
                     [
                         79.28086970777039,
@@ -4423,22 +4426,22 @@
                         -107.89746279458842
                     ]
                 ],
-                "alive": true
+                "to": 22
             },
             {
+                "alive": true,
                 "from": 22,
-                "to": 23,
                 "path": [
                     [
                         79.33952930558586,
                         -107.89746279458842
                     ]
                 ],
-                "alive": true
+                "to": 23
             },
             {
+                "alive": true,
                 "from": 23,
-                "to": 25,
                 "path": [
                     [
                         80.25389670156157,
@@ -4449,22 +4452,22 @@
                         -102.94304868836862
                     ]
                 ],
-                "alive": true
+                "to": 25
             },
             {
+                "alive": true,
                 "from": 25,
-                "to": 26,
                 "path": [
                     [
                         80.5121668981952,
                         -102.94304868836862
                     ]
                 ],
-                "alive": true
+                "to": 26
             },
             {
+                "alive": true,
                 "from": 26,
-                "to": 27,
                 "path": [
                     [
                         80.50637311409042,
@@ -4479,33 +4482,33 @@
                         -95.77496019426337
                     ]
                 ],
-                "alive": true
+                "to": 27
             },
             {
+                "alive": true,
                 "from": 27,
-                "to": 28,
                 "path": [
                     [
                         82.54677747453243,
                         -95.56413406208378
                     ]
                 ],
-                "alive": true
+                "to": 28
             },
             {
+                "alive": true,
                 "from": 28,
-                "to": 29,
                 "path": [
                     [
                         82.5558878244087,
                         -95.52899637338719
                     ]
                 ],
-                "alive": true
+                "to": 29
             },
             {
+                "alive": true,
                 "from": 29,
-                "to": 30,
                 "path": [
                     [
                         82.95722904088991,
@@ -4513,9 +4516,10 @@
                         "Queenscrown"
                     ]
                 ],
-                "alive": true
+                "to": 30
             },
             {
+                "alive": true,
                 "from": 30,
                 "path": [
                     [
@@ -4523,19 +4527,18 @@
                         -93.55765837891627,
                         "Queenscrown"
                     ]
-                ],
-                "alive": true
+                ]
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0ee1",
-        "name": "Rickon Stark",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0ee2",
+        "name": "Jon Snow",
         "path": [
             {
+                "alive": true,
                 "from": 1,
-                "to": 2,
                 "path": [
                     [
                         78.60937753613514,
@@ -4553,11 +4556,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 2
             },
             {
+                "alive": true,
                 "from": 2,
-                "to": 3,
                 "path": [
                     [
                         78.60937753613514,
@@ -4565,11 +4568,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 3
             },
             {
+                "alive": true,
                 "from": 3,
-                "to": 4,
                 "path": [
                     [
                         78.36174769483469,
@@ -4689,11 +4692,11 @@
                         "Castle Black"
                     ]
                 ],
-                "alive": true
+                "to": 4
             },
             {
+                "alive": true,
                 "from": 4,
-                "to": 11,
                 "path": [
                     [
                         83.49934718062542,
@@ -4701,11 +4704,11 @@
                         "Castle Black"
                     ]
                 ],
-                "alive": true
+                "to": 11
             },
             {
+                "alive": true,
                 "from": 11,
-                "to": 12,
                 "path": [
                     [
                         83.73170132750033,
@@ -4717,11 +4720,11 @@
                         "Craster's Keep"
                     ]
                 ],
-                "alive": true
+                "to": 12
             },
             {
+                "alive": true,
                 "from": 12,
-                "to": 13,
                 "path": [
                     [
                         84.05970780277003,
@@ -4729,11 +4732,11 @@
                         "Craster's Keep"
                     ]
                 ],
-                "alive": true
+                "to": 13
             },
             {
+                "alive": true,
                 "from": 13,
-                "to": 15,
                 "path": [
                     [
                         84.05970780277003,
@@ -4746,11 +4749,11 @@
                         "Fist of the First Men"
                     ]
                 ],
-                "alive": true
+                "to": 15
             },
             {
+                "alive": true,
                 "from": 15,
-                "to": 16,
                 "path": [
                     [
                         84.46204311265346,
@@ -4758,33 +4761,33 @@
                         "Fist of the First Men"
                     ]
                 ],
-                "alive": true
+                "to": 16
             },
             {
+                "alive": true,
                 "from": 16,
-                "to": 17,
                 "path": [
                     [
                         84.36850125076745,
                         -108.81104270069987
                     ]
                 ],
-                "alive": true
+                "to": 17
             },
             {
+                "alive": true,
                 "from": 17,
-                "to": 20,
                 "path": [
                     [
                         84.36505213633689,
                         -108.74076732330667
                     ]
                 ],
-                "alive": true
+                "to": 20
             },
             {
+                "alive": true,
                 "from": 20,
-                "to": 21,
                 "path": [
                     [
                         84.37194826081641,
@@ -4795,22 +4798,22 @@
                         -105.36754920843362
                     ]
                 ],
-                "alive": true
+                "to": 21
             },
             {
+                "alive": true,
                 "from": 21,
-                "to": 23,
                 "path": [
                     [
                         84.46083603424596,
                         -105.33241151973702
                     ]
                 ],
-                "alive": true
+                "to": 23
             },
             {
+                "alive": true,
                 "from": 23,
-                "to": 24,
                 "path": [
                     [
                         84.46204311265346,
@@ -4823,11 +4826,11 @@
                         "Fist of the First Men"
                     ]
                 ],
-                "alive": true
+                "to": 24
             },
             {
+                "alive": true,
                 "from": 24,
-                "to": 26,
                 "path": [
                     [
                         84.46204311265346,
@@ -4835,22 +4838,22 @@
                         "Fist of the First Men"
                     ]
                 ],
-                "alive": true
+                "to": 26
             },
             {
+                "alive": true,
                 "from": 26,
-                "to": 27,
                 "path": [
                     [
                         83.5566699870391,
                         -99.00762755435002
                     ]
                 ],
-                "alive": true
+                "to": 27
             },
             {
+                "alive": true,
                 "from": 27,
-                "to": 28,
                 "path": [
                     [
                         83.01894461547143,
@@ -4865,22 +4868,22 @@
                         -98.6562506673841
                     ]
                 ],
-                "alive": true
+                "to": 28
             },
             {
+                "alive": true,
                 "from": 28,
-                "to": 29,
                 "path": [
                     [
                         82.78890864128951,
                         -98.58597528999091
                     ]
                 ],
-                "alive": true
+                "to": 29
             },
             {
+                "alive": true,
                 "from": 29,
-                "to": 30,
                 "path": [
                     [
                         82.79331796819842,
@@ -4892,11 +4895,11 @@
                         "Queenscrown"
                     ]
                 ],
-                "alive": true
+                "to": 30
             },
             {
+                "alive": true,
                 "from": 30,
-                "to": 31,
                 "path": [
                     [
                         82.95722904088991,
@@ -4909,11 +4912,11 @@
                         "Castle Black"
                     ]
                 ],
-                "alive": true
+                "to": 31
             },
             {
+                "alive": true,
                 "from": 31,
-                "to": 35,
                 "path": [
                     [
                         83.49934718062542,
@@ -4921,11 +4924,11 @@
                         "Castle Black"
                     ]
                 ],
-                "alive": true
+                "to": 35
             },
             {
+                "alive": true,
                 "from": 35,
-                "to": 36,
                 "path": [
                     [
                         83.49934718062542,
@@ -4942,11 +4945,11 @@
                         "Craster's Keep"
                     ]
                 ],
-                "alive": true
+                "to": 36
             },
             {
+                "alive": true,
                 "from": 36,
-                "to": 37,
                 "path": [
                     [
                         84.05970780277003,
@@ -4954,11 +4957,11 @@
                         "Craster's Keep"
                     ]
                 ],
-                "alive": true
+                "to": 37
             },
             {
+                "alive": true,
                 "from": 37,
-                "to": 38,
                 "path": [
                     [
                         84.05970780277003,
@@ -4974,11 +4977,11 @@
                         -92.54229283417668
                     ]
                 ],
-                "alive": true
+                "to": 38
             },
             {
+                "alive": true,
                 "from": 38,
-                "to": 48,
                 "path": [
                     [
                         83.49934718062542,
@@ -4986,11 +4989,11 @@
                         "Castle Black"
                     ]
                 ],
-                "alive": true
+                "to": 48
             },
             {
+                "alive": true,
                 "from": 48,
-                "to": 49,
                 "path": [
                     [
                         83.49934718062542,
@@ -5048,11 +5051,11 @@
                         "Hardhome"
                     ]
                 ],
-                "alive": true
+                "to": 49
             },
             {
+                "alive": true,
                 "from": 49,
-                "to": 50,
                 "path": [
                     [
                         84.60205834345246,
@@ -5106,9 +5109,10 @@
                         "Castle Black"
                     ]
                 ],
-                "alive": true
+                "to": 50
             },
             {
+                "alive": false,
                 "from": 50,
                 "path": [
                     [
@@ -5116,19 +5120,18 @@
                         -92.59931756271801,
                         "Castle Black"
                     ]
-                ],
-                "alive": false
+                ]
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0ee2",
-        "name": "Jon Snow",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0ee3",
+        "name": "Daenerys Targaryen",
         "path": [
             {
+                "alive": true,
                 "from": 1,
-                "to": 2,
                 "path": [
                     [
                         45.13723944398601,
@@ -5136,11 +5139,11 @@
                         "Pentos"
                     ]
                 ],
-                "alive": true
+                "to": 2
             },
             {
+                "alive": true,
                 "from": 2,
-                "to": 3,
                 "path": [
                     [
                         45.13723944398601,
@@ -5152,11 +5155,11 @@
                         -42.18998493195697
                     ]
                 ],
-                "alive": true
+                "to": 3
             },
             {
+                "alive": true,
                 "from": 3,
-                "to": 4,
                 "path": [
                     [
                         44.739276112200535,
@@ -5260,11 +5263,11 @@
                         10.34085966945158
                     ]
                 ],
-                "alive": true
+                "to": 4
             },
             {
+                "alive": true,
                 "from": 4,
-                "to": 5,
                 "path": [
                     [
                         32.463453215217505,
@@ -5296,11 +5299,11 @@
                         "Vaes Dothrak"
                     ]
                 ],
-                "alive": true
+                "to": 5
             },
             {
+                "alive": true,
                 "from": 5,
-                "to": 8,
                 "path": [
                     [
                         50.736455137010665,
@@ -5308,11 +5311,11 @@
                         "Vaes Dothrak"
                     ]
                 ],
-                "alive": true
+                "to": 8
             },
             {
+                "alive": true,
                 "from": 8,
-                "to": 9,
                 "path": [
                     [
                         50.736455137010665,
@@ -5341,11 +5344,11 @@
                         "Lhazarene Village"
                     ]
                 ],
-                "alive": true
+                "to": 9
             },
             {
+                "alive": true,
                 "from": 9,
-                "to": 11,
                 "path": [
                     [
                         23.56398712845123,
@@ -5353,11 +5356,11 @@
                         "Lhazarene Village"
                     ]
                 ],
-                "alive": true
+                "to": 11
             },
             {
+                "alive": true,
                 "from": 11,
-                "to": 12,
                 "path": [
                     [
                         23.56398712845123,
@@ -5382,11 +5385,11 @@
                         "Vase Tolorro"
                     ]
                 ],
-                "alive": true
+                "to": 12
             },
             {
+                "alive": true,
                 "from": 12,
-                "to": 14,
                 "path": [
                     [
                         -4.698943605056846,
@@ -5394,11 +5397,11 @@
                         "Vase Tolorro"
                     ]
                 ],
-                "alive": true
+                "to": 14
             },
             {
+                "alive": true,
                 "from": 14,
-                "to": 15,
                 "path": [
                     [
                         -4.698943605056846,
@@ -5423,11 +5426,11 @@
                         "Qarth"
                     ]
                 ],
-                "alive": true
+                "to": 15
             },
             {
+                "alive": true,
                 "from": 15,
-                "to": 21,
                 "path": [
                     [
                         -20.82925126391849,
@@ -5435,11 +5438,11 @@
                         "Qarth"
                     ]
                 ],
-                "alive": true
+                "to": 21
             },
             {
+                "alive": true,
                 "from": 21,
-                "to": 22,
                 "path": [
                     [
                         -20.82925126391849,
@@ -5592,11 +5595,11 @@
                         "Astapor"
                     ]
                 ],
-                "alive": true
+                "to": 22
             },
             {
+                "alive": true,
                 "from": 22,
-                "to": 25,
                 "path": [
                     [
                         -3.451782772168997,
@@ -5604,11 +5607,11 @@
                         "Astapor"
                     ]
                 ],
-                "alive": true
+                "to": 25
             },
             {
+                "alive": true,
                 "from": 25,
-                "to": 26,
                 "path": [
                     [
                         -3.451782772168997,
@@ -5620,22 +5623,22 @@
                         70.7074088502007
                     ]
                 ],
-                "alive": true
+                "to": 26
             },
             {
+                "alive": true,
                 "from": 26,
-                "to": 27,
                 "path": [
                     [
                         -2.153271150522449,
                         70.7074088502007
                     ]
                 ],
-                "alive": true
+                "to": 27
             },
             {
+                "alive": true,
                 "from": 27,
-                "to": 28,
                 "path": [
                     [
                         -2.153271150522449,
@@ -5671,11 +5674,11 @@
                         "Yunkai"
                     ]
                 ],
-                "alive": true
+                "to": 28
             },
             {
+                "alive": true,
                 "from": 28,
-                "to": 31,
                 "path": [
                     [
                         11.300251224808777,
@@ -5683,11 +5686,11 @@
                         "Yunkai"
                     ]
                 ],
-                "alive": true
+                "to": 31
             },
             {
+                "alive": true,
                 "from": 31,
-                "to": 32,
                 "path": [
                     [
                         11.300251224808777,
@@ -5727,11 +5730,11 @@
                         74.60769229552268
                     ]
                 ],
-                "alive": true
+                "to": 32
             },
             {
+                "alive": true,
                 "from": 32,
-                "to": 33,
                 "path": [
                     [
                         15.198487692280823,
@@ -5742,11 +5745,11 @@
                         74.64282998421928
                     ]
                 ],
-                "alive": true
+                "to": 33
             },
             {
+                "alive": true,
                 "from": 33,
-                "to": 34,
                 "path": [
                     [
                         15.130659418846939,
@@ -5770,11 +5773,11 @@
                         "Meereen"
                     ]
                 ],
-                "alive": true
+                "to": 34
             },
             {
+                "alive": true,
                 "from": 34,
-                "to": 48,
                 "path": [
                     [
                         18.95955611277798,
@@ -5782,9 +5785,10 @@
                         "Meereen"
                     ]
                 ],
-                "alive": true
+                "to": 48
             },
             {
+                "alive": true,
                 "from": 48,
                 "path": [
                     [
@@ -5796,19 +5800,18 @@
                         32.54681317351517,
                         73.12500000000001
                     ]
-                ],
-                "alive": true
+                ]
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0ee3",
-        "name": "Daenerys Targaryen",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0ee4",
+        "name": "Jaime Lannister",
         "path": [
             {
+                "alive": true,
                 "from": 1,
-                "to": 2,
                 "path": [
                     [
                         45.805474068515245,
@@ -6026,11 +6029,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 2
             },
             {
+                "alive": true,
                 "from": 2,
-                "to": 3,
                 "path": [
                     [
                         78.60937753613514,
@@ -6163,11 +6166,11 @@
                         -96.65340241167821
                     ]
                 ],
-                "alive": true
+                "to": 3
             },
             {
+                "alive": true,
                 "from": 3,
-                "to": 4,
                 "path": [
                     [
                         59.65142491328145,
@@ -6227,11 +6230,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 4
             },
             {
+                "alive": true,
                 "from": 4,
-                "to": 6,
                 "path": [
                     [
                         45.805474068515245,
@@ -6239,11 +6242,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 6
             },
             {
+                "alive": true,
                 "from": 6,
-                "to": 7,
                 "path": [
                     [
                         45.805474068515245,
@@ -6315,11 +6318,11 @@
                         -96.61826472298162
                     ]
                 ],
-                "alive": true
+                "to": 7
             },
             {
+                "alive": true,
                 "from": 7,
-                "to": 8,
                 "path": [
                     [
                         46.53257273187947,
@@ -6566,11 +6569,11 @@
                         "Riverrun"
                     ]
                 ],
-                "alive": true
+                "to": 8
             },
             {
+                "alive": true,
                 "from": 8,
-                "to": 9,
                 "path": [
                     [
                         57.80059042486263,
@@ -6578,11 +6581,11 @@
                         "Riverrun"
                     ]
                 ],
-                "alive": true
+                "to": 9
             },
             {
+                "alive": true,
                 "from": 9,
-                "to": 10,
                 "path": [
                     [
                         57.80059042486263,
@@ -6602,22 +6605,22 @@
                         -112.53563770253886
                     ]
                 ],
-                "alive": true
+                "to": 10
             },
             {
+                "alive": true,
                 "from": 10,
-                "to": 13,
                 "path": [
                     [
                         58.67894378651309,
                         -112.50050001384227
                     ]
                 ],
-                "alive": true
+                "to": 13
             },
             {
+                "alive": true,
                 "from": 13,
-                "to": 14,
                 "path": [
                     [
                         58.67894378651309,
@@ -6709,11 +6712,11 @@
                         "Oxcross"
                     ]
                 ],
-                "alive": true
+                "to": 14
             },
             {
+                "alive": true,
                 "from": 14,
-                "to": 20,
                 "path": [
                     [
                         51.45545248480529,
@@ -6721,11 +6724,11 @@
                         "Oxcross"
                     ]
                 ],
-                "alive": true
+                "to": 20
             },
             {
+                "alive": true,
                 "from": 20,
-                "to": 21,
                 "path": [
                     [
                         51.45545248480529,
@@ -6781,22 +6784,22 @@
                         -115.97913119480512
                     ]
                 ],
-                "alive": true
+                "to": 21
             },
             {
+                "alive": true,
                 "from": 21,
-                "to": 23,
                 "path": [
                     [
                         52.648839730915256,
                         -115.97913119480512
                     ]
                 ],
-                "alive": true
+                "to": 23
             },
             {
+                "alive": true,
                 "from": 22,
-                "to": 23,
                 "path": [
                     [
                         52.648839730915256,
@@ -6827,11 +6830,11 @@
                         -106.31626680324167
                     ]
                 ],
-                "alive": true
+                "to": 23
             },
             {
+                "alive": true,
                 "from": 23,
-                "to": 24,
                 "path": [
                     [
                         52.24191982037134,
@@ -6842,11 +6845,11 @@
                         -105.19186076495066
                     ]
                 ],
-                "alive": true
+                "to": 24
             },
             {
+                "alive": true,
                 "from": 24,
-                "to": 25,
                 "path": [
                     [
                         52.86150026481791,
@@ -6869,11 +6872,11 @@
                         -100.34285972482064
                     ]
                 ],
-                "alive": true
+                "to": 25
             },
             {
+                "alive": true,
                 "from": 25,
-                "to": 26,
                 "path": [
                     [
                         54.42355110094347,
@@ -6897,11 +6900,11 @@
                         "Harrenhal"
                     ]
                 ],
-                "alive": true
+                "to": 26
             },
             {
+                "alive": true,
                 "from": 26,
-                "to": 27,
                 "path": [
                     [
                         55.192138999863374,
@@ -6909,11 +6912,11 @@
                         "Harrenhal"
                     ]
                 ],
-                "alive": true
+                "to": 27
             },
             {
+                "alive": true,
                 "from": 27,
-                "to": 28,
                 "path": [
                     [
                         55.192138999863374,
@@ -6929,22 +6932,22 @@
                         -94.58027877857914
                     ]
                 ],
-                "alive": true
+                "to": 28
             },
             {
+                "alive": true,
                 "from": 28,
-                "to": 30,
                 "path": [
                     [
                         54.91124526367654,
                         -94.58027877857914
                     ]
                 ],
-                "alive": true
+                "to": 30
             },
             {
+                "alive": true,
                 "from": 30,
-                "to": 31,
                 "path": [
                     [
                         54.89104148234599,
@@ -7003,11 +7006,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 31
             },
             {
+                "alive": true,
                 "from": 31,
-                "to": 44,
                 "path": [
                     [
                         45.805474068515245,
@@ -7015,11 +7018,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 44
             },
             {
+                "alive": true,
                 "from": 44,
-                "to": 45,
                 "path": [
                     [
                         45.805474068515245,
@@ -7159,11 +7162,11 @@
                         -64.85379414126032
                     ]
                 ],
-                "alive": true
+                "to": 45
             },
             {
+                "alive": true,
                 "from": 45,
-                "to": 46,
                 "path": [
                     [
                         4.867892603463001,
@@ -7174,11 +7177,11 @@
                         -64.81865645256373
                     ]
                 ],
-                "alive": true
+                "to": 46
             },
             {
+                "alive": true,
                 "from": 46,
-                "to": 47,
                 "path": [
                     [
                         4.902902637548967,
@@ -7194,11 +7197,11 @@
                         "Water Gardens"
                     ]
                 ],
-                "alive": true
+                "to": 47
             },
             {
+                "alive": true,
                 "from": 47,
-                "to": 50,
                 "path": [
                     [
                         3.4661358803297615,
@@ -7206,9 +7209,10 @@
                         "Water Gardens"
                     ]
                 ],
-                "alive": true
+                "to": 50
             },
             {
+                "alive": true,
                 "from": 50,
                 "path": [
                     [
@@ -7220,19 +7224,18 @@
                         2.2027523687452857,
                         -64.60783032038417
                     ]
-                ],
-                "alive": true
+                ]
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0ee4",
-        "name": "Jaime Lannister",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0ee5",
+        "name": "Cersei Lannister",
         "path": [
             {
+                "alive": true,
                 "from": 1,
-                "to": 2,
                 "path": [
                     [
                         45.805474068515245,
@@ -7462,11 +7465,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 2
             },
             {
+                "alive": true,
                 "from": 2,
-                "to": 3,
                 "path": [
                     [
                         78.60937753613514,
@@ -7666,11 +7669,11 @@
                         -97.63725769518284
                     ]
                 ],
-                "alive": true
+                "to": 3
             },
             {
+                "alive": true,
                 "from": 3,
-                "to": 4,
                 "path": [
                     [
                         60.2496397098917,
@@ -7766,9 +7769,10 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 4
             },
             {
+                "alive": true,
                 "from": 4,
                 "path": [
                     [
@@ -7776,19 +7780,18 @@
                         -84.48536531890602,
                         "King's Landing"
                     ]
-                ],
-                "alive": true
+                ]
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0ee5",
-        "name": "Cersei Lannister",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0ee6",
+        "name": "Tyrion Lannister",
         "path": [
             {
+                "alive": true,
                 "from": 0,
-                "to": 1,
                 "path": [
                     [
                         45.805474068515245,
@@ -8034,11 +8037,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 1
             },
             {
+                "alive": true,
                 "from": 2,
-                "to": 3,
                 "path": [
                     [
                         78.60937753613514,
@@ -8046,11 +8049,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 3
             },
             {
+                "alive": true,
                 "from": 3,
-                "to": 4,
                 "path": [
                     [
                         78.60937753613514,
@@ -8227,11 +8230,11 @@
                         "Castle Black"
                     ]
                 ],
-                "alive": true
+                "to": 4
             },
             {
+                "alive": true,
                 "from": 4,
-                "to": 5,
                 "path": [
                     [
                         83.49934718062542,
@@ -8561,11 +8564,11 @@
                         "Crossroads Inn"
                     ]
                 ],
-                "alive": true
+                "to": 5
             },
             {
+                "alive": true,
                 "from": 5,
-                "to": 6,
                 "path": [
                     [
                         58.64171437619993,
@@ -8663,11 +8666,11 @@
                         "Eyrie"
                     ]
                 ],
-                "alive": true
+                "to": 6
             },
             {
+                "alive": true,
                 "from": 6,
-                "to": 8,
                 "path": [
                     [
                         62.260772776184744,
@@ -8675,11 +8678,11 @@
                         "Eyrie"
                     ]
                 ],
-                "alive": true
+                "to": 8
             },
             {
+                "alive": true,
                 "from": 8,
-                "to": 9,
                 "path": [
                     [
                         62.260772776184744,
@@ -8736,11 +8739,11 @@
                         -88.25549481319216
                     ]
                 ],
-                "alive": true
+                "to": 9
             },
             {
+                "alive": true,
                 "from": 9,
-                "to": 10,
                 "path": [
                     [
                         59.66917386432573,
@@ -8828,11 +8831,11 @@
                         -105.26213614234382
                     ]
                 ],
-                "alive": true
+                "to": 10
             },
             {
+                "alive": true,
                 "from": 10,
-                "to": 11,
                 "path": [
                     [
                         64.19009687587835,
@@ -8864,11 +8867,11 @@
                         "Crossroads Inn"
                     ]
                 ],
-                "alive": true
+                "to": 11
             },
             {
+                "alive": true,
                 "from": 11,
-                "to": 12,
                 "path": [
                     [
                         58.64171437619993,
@@ -8936,11 +8939,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 12
             },
             {
+                "alive": true,
                 "from": 12,
-                "to": 41,
                 "path": [
                     [
                         45.805474068515245,
@@ -8948,11 +8951,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 41
             },
             {
+                "alive": true,
                 "from": 41,
-                "to": 42,
                 "path": [
                     [
                         45.805474068515245,
@@ -9021,11 +9024,11 @@
                         "Pentos"
                     ]
                 ],
-                "alive": true
+                "to": 42
             },
             {
+                "alive": true,
                 "from": 42,
-                "to": 43,
                 "path": [
                     [
                         45.13723944398601,
@@ -9061,11 +9064,11 @@
                         -24.480589828873406
                     ]
                 ],
-                "alive": true
+                "to": 43
             },
             {
+                "alive": true,
                 "from": 43,
-                "to": 44,
                 "path": [
                     [
                         31.0894512909566,
@@ -9109,11 +9112,11 @@
                         "Volantis"
                     ]
                 ],
-                "alive": true
+                "to": 44
             },
             {
+                "alive": true,
                 "from": 44,
-                "to": 45,
                 "path": [
                     [
                         -0.23196219935991105,
@@ -9121,11 +9124,11 @@
                         "Volantis"
                     ]
                 ],
-                "alive": true
+                "to": 45
             },
             {
+                "alive": true,
                 "from": 45,
-                "to": 46,
                 "path": [
                     [
                         -0.23196219935991105,
@@ -9230,11 +9233,11 @@
                         "Oros"
                     ]
                 ],
-                "alive": true
+                "to": 46
             },
             {
+                "alive": true,
                 "from": 46,
-                "to": 47,
                 "path": [
                     [
                         -20.039020391803543,
@@ -9282,20 +9285,21 @@
                         41.262025722454624
                     ]
                 ],
-                "alive": true
+                "to": 47
             },
             {
+                "alive": true,
                 "from": 47,
-                "to": 48,
                 "path": [
                     [
                         -13.994471374181433,
                         41.332301099847804
                     ]
                 ],
-                "alive": true
+                "to": 48
             },
             {
+                "alive": true,
                 "from": 48,
                 "path": [
                     [
@@ -9376,19 +9380,18 @@
                         76.01319984338642,
                         "Meereen"
                     ]
-                ],
-                "alive": true
+                ]
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0ee6",
-        "name": "Tyrion Lannister",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0ee7",
+        "name": "Drogo",
         "path": [
             {
+                "alive": true,
                 "from": 1,
-                "to": 2,
                 "path": [
                     [
                         45.13723944398601,
@@ -9396,11 +9399,11 @@
                         "Pentos"
                     ]
                 ],
-                "alive": true
+                "to": 2
             },
             {
+                "alive": true,
                 "from": 2,
-                "to": 3,
                 "path": [
                     [
                         45.13723944398601,
@@ -9412,11 +9415,11 @@
                         -42.18998493195697
                     ]
                 ],
-                "alive": true
+                "to": 3
             },
             {
+                "alive": true,
                 "from": 3,
-                "to": 4,
                 "path": [
                     [
                         44.739276112200535,
@@ -9520,11 +9523,11 @@
                         10.34085966945158
                     ]
                 ],
-                "alive": true
+                "to": 4
             },
             {
+                "alive": true,
                 "from": 4,
-                "to": 5,
                 "path": [
                     [
                         32.463453215217505,
@@ -9556,11 +9559,11 @@
                         "Vaes Dothrak"
                     ]
                 ],
-                "alive": true
+                "to": 5
             },
             {
+                "alive": true,
                 "from": 5,
-                "to": 8,
                 "path": [
                     [
                         50.736455137010665,
@@ -9568,11 +9571,11 @@
                         "Vaes Dothrak"
                     ]
                 ],
-                "alive": true
+                "to": 8
             },
             {
+                "alive": true,
                 "from": 8,
-                "to": 9,
                 "path": [
                     [
                         50.736455137010665,
@@ -9601,11 +9604,11 @@
                         "Lhazarene Village"
                     ]
                 ],
-                "alive": true
+                "to": 9
             },
             {
+                "alive": true,
                 "from": 9,
-                "to": 10,
                 "path": [
                     [
                         23.56398712845123,
@@ -9613,11 +9616,11 @@
                         "Lhazarene Village"
                     ]
                 ],
-                "alive": true
+                "to": 10
             },
             {
+                "alive": false,
                 "from": 10,
-                "to": 11,
                 "path": [
                     [
                         23.56398712845123,
@@ -9625,18 +9628,18 @@
                         "Lhazarene Village"
                     ]
                 ],
-                "alive": false
+                "to": 11
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0ee7",
-        "name": "Drogo",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0ee8",
+        "name": "Viserys Targaryen",
         "path": [
             {
+                "alive": true,
                 "from": 1,
-                "to": 2,
                 "path": [
                     [
                         45.13723944398601,
@@ -9644,11 +9647,11 @@
                         "Pentos"
                     ]
                 ],
-                "alive": true
+                "to": 2
             },
             {
+                "alive": true,
                 "from": 2,
-                "to": 3,
                 "path": [
                     [
                         45.13723944398601,
@@ -9660,11 +9663,11 @@
                         -42.18998493195697
                     ]
                 ],
-                "alive": true
+                "to": 3
             },
             {
+                "alive": true,
                 "from": 3,
-                "to": 4,
                 "path": [
                     [
                         44.739276112200535,
@@ -9768,11 +9771,11 @@
                         10.34085966945158
                     ]
                 ],
-                "alive": true
+                "to": 4
             },
             {
+                "alive": true,
                 "from": 4,
-                "to": 5,
                 "path": [
                     [
                         32.463453215217505,
@@ -9804,11 +9807,11 @@
                         "Vaes Dothrak"
                     ]
                 ],
-                "alive": true
+                "to": 5
             },
             {
+                "alive": true,
                 "from": 5,
-                "to": 6,
                 "path": [
                     [
                         50.736455137010665,
@@ -9816,11 +9819,11 @@
                         "Vaes Dothrak"
                     ]
                 ],
-                "alive": true
+                "to": 6
             },
             {
+                "alive": false,
                 "from": 6,
-                "to": 7,
                 "path": [
                     [
                         50.736455137010665,
@@ -9828,18 +9831,18 @@
                         "Vaes Dothrak"
                     ]
                 ],
-                "alive": false
+                "to": 7
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0ee8",
-        "name": "Viserys Targaryen",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0ee9",
+        "name": "Joffrey Baratheon",
         "path": [
             {
+                "alive": true,
                 "from": 1,
-                "to": 2,
                 "path": [
                     [
                         45.805474068515245,
@@ -10041,11 +10044,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 2
             },
             {
+                "alive": true,
                 "from": 2,
-                "to": 3,
                 "path": [
                     [
                         78.60937753613514,
@@ -10194,11 +10197,11 @@
                         -96.758815477768
                     ]
                 ],
-                "alive": true
+                "to": 3
             },
             {
+                "alive": true,
                 "from": 3,
-                "to": 4,
                 "path": [
                     [
                         59.704643592166725,
@@ -10262,11 +10265,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 4
             },
             {
+                "alive": true,
                 "from": 4,
-                "to": 32,
                 "path": [
                     [
                         45.805474068515245,
@@ -10274,11 +10277,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 32
             },
             {
+                "alive": false,
                 "from": 32,
-                "to": 33,
                 "path": [
                     [
                         45.805474068515245,
@@ -10286,18 +10289,18 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": false
+                "to": 33
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0ee9",
-        "name": "Joffrey Baratheon",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0eea",
+        "name": "Myrcella Baratheon",
         "path": [
             {
+                "alive": true,
                 "from": 1,
-                "to": 2,
                 "path": [
                     [
                         45.805474068515245,
@@ -10491,11 +10494,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 2
             },
             {
+                "alive": true,
                 "from": 2,
-                "to": 3,
                 "path": [
                     [
                         78.60937753613514,
@@ -10640,11 +10643,11 @@
                         -96.68854010037482
                     ]
                 ],
-                "alive": true
+                "to": 3
             },
             {
+                "alive": true,
                 "from": 3,
-                "to": 4,
                 "path": [
                     [
                         59.59812167243252,
@@ -10708,11 +10711,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 4
             },
             {
+                "alive": true,
                 "from": 4,
-                "to": 16,
                 "path": [
                     [
                         45.805474068515245,
@@ -10720,11 +10723,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 16
             },
             {
+                "alive": true,
                 "from": 16,
-                "to": 17,
                 "path": [
                     [
                         45.805474068515245,
@@ -10768,11 +10771,11 @@
                         -80.70089174342438
                     ]
                 ],
-                "alive": true
+                "to": 17
             },
             {
+                "alive": true,
                 "from": 17,
-                "to": 18,
                 "path": [
                     [
                         45.285764588969215,
@@ -10969,11 +10972,11 @@
                         "Water Gardens"
                     ]
                 ],
-                "alive": true
+                "to": 18
             },
             {
+                "alive": true,
                 "from": 18,
-                "to": 50,
                 "path": [
                     [
                         3.4661358803297615,
@@ -10981,9 +10984,10 @@
                         "Water Gardens"
                     ]
                 ],
-                "alive": true
+                "to": 50
             },
             {
+                "alive": false,
                 "from": 50,
                 "path": [
                     [
@@ -10995,19 +10999,18 @@
                         2.2027523687452857,
                         -64.60783032038417
                     ]
-                ],
-                "alive": false
+                ]
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0eea",
-        "name": "Myrcella Baratheon",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0eeb",
+        "name": "Tommen Baratheon",
         "path": [
             {
+                "alive": true,
                 "from": 1,
-                "to": 2,
                 "path": [
                     [
                         45.805474068515245,
@@ -11209,11 +11212,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 2
             },
             {
+                "alive": true,
                 "from": 2,
-                "to": 3,
                 "path": [
                     [
                         78.60937753613514,
@@ -11362,11 +11365,11 @@
                         -96.758815477768
                     ]
                 ],
-                "alive": true
+                "to": 3
             },
             {
+                "alive": true,
                 "from": 3,
-                "to": 4,
                 "path": [
                     [
                         59.704643592166725,
@@ -11430,9 +11433,10 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 4
             },
             {
+                "alive": true,
                 "from": 4,
                 "path": [
                     [
@@ -11440,19 +11444,18 @@
                         -84.48536531890602,
                         "King's Landing"
                     ]
-                ],
-                "alive": true
+                ]
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0eeb",
-        "name": "Tommen Baratheon",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0eec",
+        "name": "Robert Baratheon",
         "path": [
             {
+                "alive": true,
                 "from": 1,
-                "to": 2,
                 "path": [
                     [
                         45.805474068515245,
@@ -11686,11 +11689,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 2
             },
             {
+                "alive": true,
                 "from": 2,
-                "to": 3,
                 "path": [
                     [
                         78.60937753613514,
@@ -11840,11 +11843,11 @@
                         -96.72367778907142
                     ]
                 ],
-                "alive": true
+                "to": 3
             },
             {
+                "alive": true,
                 "from": 3,
-                "to": 4,
                 "path": [
                     [
                         59.899056702258555,
@@ -11916,11 +11919,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 4
             },
             {
+                "alive": true,
                 "from": 4,
-                "to": 6,
                 "path": [
                     [
                         45.805474068515245,
@@ -11928,11 +11931,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 6
             },
             {
+                "alive": true,
                 "from": 6,
-                "to": 7,
                 "path": [
                     [
                         45.805474068515245,
@@ -12020,11 +12023,11 @@
                         -83.26594301827576
                     ]
                 ],
-                "alive": true
+                "to": 7
             },
             {
+                "alive": false,
                 "from": 7,
-                "to": 8,
                 "path": [
                     [
                         41.48272993507266,
@@ -12088,18 +12091,18 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": false
+                "to": 8
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0eec",
-        "name": "Robert Baratheon",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0eed",
+        "name": "Stannis Baratheon",
         "path": [
             {
+                "alive": true,
                 "from": 1,
-                "to": 2,
                 "path": [
                     [
                         45.805474068515245,
@@ -12164,11 +12167,11 @@
                         "Dragonstone"
                     ]
                 ],
-                "alive": true
+                "to": 2
             },
             {
+                "alive": true,
                 "from": 2,
-                "to": 10,
                 "path": [
                     [
                         51.25596354003372,
@@ -12176,11 +12179,11 @@
                         "Dragonstone"
                     ]
                 ],
-                "alive": true
+                "to": 10
             },
             {
+                "alive": true,
                 "from": 10,
-                "to": 11,
                 "path": [
                     [
                         51.25596354003372,
@@ -12343,11 +12346,11 @@
                         "Dragonstone"
                     ]
                 ],
-                "alive": true
+                "to": 11
             },
             {
+                "alive": true,
                 "from": 11,
-                "to": 14,
                 "path": [
                     [
                         51.25596354003372,
@@ -12355,11 +12358,11 @@
                         "Dragonstone"
                     ]
                 ],
-                "alive": true
+                "to": 14
             },
             {
+                "alive": true,
                 "from": 14,
-                "to": 15,
                 "path": [
                     [
                         51.25596354003372,
@@ -12432,11 +12435,11 @@
                         "Storm's End"
                     ]
                 ],
-                "alive": true
+                "to": 15
             },
             {
+                "alive": true,
                 "from": 15,
-                "to": 18,
                 "path": [
                     [
                         31.389879839113846,
@@ -12444,11 +12447,11 @@
                         "Storm's End"
                     ]
                 ],
-                "alive": true
+                "to": 18
             },
             {
+                "alive": true,
                 "from": 18,
-                "to": 19,
                 "path": [
                     [
                         31.389879839113846,
@@ -12520,11 +12523,11 @@
                         -70.33527357792906
                     ]
                 ],
-                "alive": true
+                "to": 19
             },
             {
+                "alive": true,
                 "from": 19,
-                "to": 20,
                 "path": [
                     [
                         49.67541068283813,
@@ -12580,11 +12583,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 20
             },
             {
+                "alive": true,
                 "from": 20,
-                "to": 21,
                 "path": [
                     [
                         45.805474068515245,
@@ -12641,11 +12644,11 @@
                         "Dragonstone"
                     ]
                 ],
-                "alive": true
+                "to": 21
             },
             {
+                "alive": true,
                 "from": 21,
-                "to": 36,
                 "path": [
                     [
                         51.25596354003372,
@@ -12653,11 +12656,11 @@
                         "Dragonstone"
                     ]
                 ],
-                "alive": true
+                "to": 36
             },
             {
+                "alive": true,
                 "from": 36,
-                "to": 37,
                 "path": [
                     [
                         51.25596354003372,
@@ -12750,11 +12753,11 @@
                         "Braavos"
                     ]
                 ],
-                "alive": true
+                "to": 37
             },
             {
+                "alive": true,
                 "from": 37,
-                "to": 40,
                 "path": [
                     [
                         67.62674868833781,
@@ -12762,11 +12765,11 @@
                         "Braavos"
                     ]
                 ],
-                "alive": true
+                "to": 40
             },
             {
+                "alive": true,
                 "from": 40,
-                "to": 41,
                 "path": [
                     [
                         67.62674868833781,
@@ -12844,11 +12847,11 @@
                         "Castle Black"
                     ]
                 ],
-                "alive": true
+                "to": 41
             },
             {
+                "alive": true,
                 "from": 41,
-                "to": 48,
                 "path": [
                     [
                         83.49934718062542,
@@ -12856,11 +12859,11 @@
                         "Castle Black"
                     ]
                 ],
-                "alive": true
+                "to": 48
             },
             {
+                "alive": true,
                 "from": 48,
-                "to": 50,
                 "path": [
                     [
                         83.49934718062542,
@@ -12880,9 +12883,10 @@
                         -97.84808382736243
                     ]
                 ],
-                "alive": true
+                "to": 50
             },
             {
+                "alive": false,
                 "from": 50,
                 "path": [
                     [
@@ -12893,19 +12897,18 @@
                         78.66955003854684,
                         -104.98103463277108
                     ]
-                ],
-                "alive": false
+                ]
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0eed",
-        "name": "Stannis Baratheon",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0eee",
+        "name": "Renly Baratheon",
         "path": [
             {
+                "alive": true,
                 "from": 1,
-                "to": 6,
                 "path": [
                     [
                         45.805474068515245,
@@ -12913,11 +12916,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 6
             },
             {
+                "alive": true,
                 "from": 6,
-                "to": 7,
                 "path": [
                     [
                         45.805474068515245,
@@ -12997,11 +13000,11 @@
                         -83.54704452784853
                     ]
                 ],
-                "alive": true
+                "to": 7
             },
             {
+                "alive": true,
                 "from": 7,
-                "to": 8,
                 "path": [
                     [
                         41.4037110515566,
@@ -13191,11 +13194,11 @@
                         "Highgarden"
                     ]
                 ],
-                "alive": true
+                "to": 8
             },
             {
+                "alive": true,
                 "from": 8,
-                "to": 13,
                 "path": [
                     [
                         26.669019533896087,
@@ -13203,11 +13206,11 @@
                         "Highgarden"
                     ]
                 ],
-                "alive": true
+                "to": 13
             },
             {
+                "alive": true,
                 "from": 13,
-                "to": 14,
                 "path": [
                     [
                         26.669019533896087,
@@ -13260,11 +13263,11 @@
                         "Bitterbridge"
                     ]
                 ],
-                "alive": true
+                "to": 14
             },
             {
+                "alive": true,
                 "from": 14,
-                "to": 15,
                 "path": [
                     [
                         36.293111366396154,
@@ -13333,11 +13336,11 @@
                         "Storm's End"
                     ]
                 ],
-                "alive": true
+                "to": 15
             },
             {
+                "alive": false,
                 "from": 15,
-                "to": 16,
                 "path": [
                     [
                         31.389879839113846,
@@ -13345,18 +13348,18 @@
                         "Storm's End"
                     ]
                 ],
-                "alive": false
+                "to": 16
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0eee",
-        "name": "Renly Baratheon",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0eef",
+        "name": "Theon Greyjoy",
         "path": [
             {
+                "alive": true,
                 "from": 1,
-                "to": 2,
                 "path": [
                     [
                         78.60937753613514,
@@ -13374,11 +13377,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 2
             },
             {
+                "alive": true,
                 "from": 2,
-                "to": 8,
                 "path": [
                     [
                         78.60937753613514,
@@ -13391,11 +13394,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 8
             },
             {
+                "alive": true,
                 "from": 8,
-                "to": 9,
                 "path": [
                     [
                         78.60937753613514,
@@ -13484,11 +13487,11 @@
                         "Moat Cailin"
                     ]
                 ],
-                "alive": true
+                "to": 9
             },
             {
+                "alive": true,
                 "from": 9,
-                "to": 10,
                 "path": [
                     [
                         72.1927801389041,
@@ -13549,11 +13552,11 @@
                         "The Twins"
                     ]
                 ],
-                "alive": true
+                "to": 10
             },
             {
+                "alive": true,
                 "from": 10,
-                "to": 11,
                 "path": [
                     [
                         66.63225698514907,
@@ -13619,11 +13622,11 @@
                         "Riverrun"
                     ]
                 ],
-                "alive": true
+                "to": 11
             },
             {
+                "alive": true,
                 "from": 11,
-                "to": 12,
                 "path": [
                     [
                         57.80059042486263,
@@ -13631,11 +13634,11 @@
                         "Riverrun"
                     ]
                 ],
-                "alive": true
+                "to": 12
             },
             {
+                "alive": true,
                 "from": 12,
-                "to": 13,
                 "path": [
                     [
                         57.80059042486263,
@@ -13701,11 +13704,11 @@
                         "Pyke"
                     ]
                 ],
-                "alive": true
+                "to": 13
             },
             {
+                "alive": true,
                 "from": 13,
-                "to": 16,
                 "path": [
                     [
                         61.29404215373217,
@@ -13713,11 +13716,11 @@
                         "Pyke"
                     ]
                 ],
-                "alive": true
+                "to": 16
             },
             {
+                "alive": true,
                 "from": 16,
-                "to": 17,
                 "path": [
                     [
                         61.29404215373217,
@@ -14003,11 +14006,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 17
             },
             {
+                "alive": true,
                 "from": 17,
-                "to": 18,
                 "path": [
                     [
                         78.60937753613514,
@@ -14056,11 +14059,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 18
             },
             {
+                "alive": true,
                 "from": 18,
-                "to": 30,
                 "path": [
                     [
                         78.60937753613514,
@@ -14068,11 +14071,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 30
             },
             {
+                "alive": true,
                 "from": 30,
-                "to": 31,
                 "path": [
                     [
                         78.60937753613514,
@@ -14113,11 +14116,11 @@
                         "Dreadfort"
                     ]
                 ],
-                "alive": true
+                "to": 31
             },
             {
+                "alive": true,
                 "from": 31,
-                "to": 38,
                 "path": [
                     [
                         79.49465954974757,
@@ -14125,11 +14128,11 @@
                         "Dreadfort"
                     ]
                 ],
-                "alive": true
+                "to": 38
             },
             {
+                "alive": true,
                 "from": 38,
-                "to": 39,
                 "path": [
                     [
                         79.49465954974757,
@@ -14231,11 +14234,11 @@
                         "Moat Cailin"
                     ]
                 ],
-                "alive": true
+                "to": 39
             },
             {
+                "alive": true,
                 "from": 39,
-                "to": 42,
                 "path": [
                     [
                         72.1927801389041,
@@ -14243,11 +14246,11 @@
                         "Moat Cailin"
                     ]
                 ],
-                "alive": true
+                "to": 42
             },
             {
+                "alive": true,
                 "from": 42,
-                "to": 43,
                 "path": [
                     [
                         72.1927801389041,
@@ -14320,9 +14323,10 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 43
             },
             {
+                "alive": true,
                 "from": 43,
                 "path": [
                     [
@@ -14330,19 +14334,18 @@
                         -105.31330572428169,
                         "Winterfell"
                     ]
-                ],
-                "alive": true
+                ]
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0eef",
-        "name": "Theon Greyjoy",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0ef0",
+        "name": "Asha Greyjoy",
         "path": [
             {
+                "alive": true,
                 "from": 12,
-                "to": 15,
                 "path": [
                     [
                         61.29404215373217,
@@ -14350,11 +14353,11 @@
                         "Pyke"
                     ]
                 ],
-                "alive": true
+                "to": 15
             },
             {
+                "alive": true,
                 "from": 15,
-                "to": 16,
                 "path": [
                     [
                         61.29404215373217,
@@ -14483,11 +14486,11 @@
                         "Deepwood Motte"
                     ]
                 ],
-                "alive": true
+                "to": 16
             },
             {
+                "alive": true,
                 "from": 16,
-                "to": 18,
                 "path": [
                     [
                         80.61873118548294,
@@ -14495,11 +14498,11 @@
                         "Deepwood Motte"
                     ]
                 ],
-                "alive": true
+                "to": 18
             },
             {
+                "alive": true,
                 "from": 18,
-                "to": 19,
                 "path": [
                     [
                         80.61873118548294,
@@ -14529,11 +14532,11 @@
                         "Deepwood Motte"
                     ]
                 ],
-                "alive": true
+                "to": 19
             },
             {
+                "alive": true,
                 "from": 19,
-                "to": 36,
                 "path": [
                     [
                         80.61873118548294,
@@ -14541,11 +14544,11 @@
                         "Deepwood Motte"
                     ]
                 ],
-                "alive": true
+                "to": 36
             },
             {
+                "alive": true,
                 "from": 36,
-                "to": 37,
                 "path": [
                     [
                         80.61873118548294,
@@ -14571,9 +14574,10 @@
                         "Dreadfort"
                     ]
                 ],
-                "alive": true
+                "to": 37
             },
             {
+                "alive": true,
                 "from": 37,
                 "path": [
                     [
@@ -14581,19 +14585,18 @@
                         -86.0826000125698,
                         "Dreadfort"
                     ]
-                ],
-                "alive": true
+                ]
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0ef0",
-        "name": "Asha Greyjoy",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0ef1",
+        "name": "Victarion Greyjoy",
         "path": [
             {
+                "alive": true,
                 "from": 18,
-                "to": 19,
                 "path": [
                     [
                         61.29404215373217,
@@ -14730,9 +14733,10 @@
                         "Moat Cailin"
                     ]
                 ],
-                "alive": true
+                "to": 19
             },
             {
+                "alive": true,
                 "from": 19,
                 "path": [
                     [
@@ -14740,19 +14744,18 @@
                         -103.84384980611101,
                         "Moat Cailin"
                     ]
-                ],
-                "alive": true
+                ]
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0ef1",
-        "name": "Victarion Greyjoy",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0ef2",
+        "name": "Brienne of Tarth",
         "path": [
             {
+                "alive": true,
                 "from": 13,
-                "to": 14,
                 "path": [
                     [
                         33.40713086427778,
@@ -14923,11 +14926,11 @@
                         "Bitterbridge"
                     ]
                 ],
-                "alive": true
+                "to": 14
             },
             {
+                "alive": true,
                 "from": 14,
-                "to": 15,
                 "path": [
                     [
                         36.293111366396154,
@@ -15044,11 +15047,11 @@
                         "Storm's End"
                     ]
                 ],
-                "alive": true
+                "to": 15
             },
             {
+                "alive": true,
                 "from": 15,
-                "to": 16,
                 "path": [
                     [
                         31.389879839113846,
@@ -15056,11 +15059,11 @@
                         "Storm's End"
                     ]
                 ],
-                "alive": true
+                "to": 16
             },
             {
+                "alive": true,
                 "from": 16,
-                "to": 17,
                 "path": [
                     [
                         31.389879839113846,
@@ -15149,11 +15152,11 @@
                         "Oxcross"
                     ]
                 ],
-                "alive": true
+                "to": 17
             },
             {
+                "alive": true,
                 "from": 17,
-                "to": 20,
                 "path": [
                     [
                         51.45545248480529,
@@ -15161,11 +15164,11 @@
                         "Oxcross"
                     ]
                 ],
-                "alive": true
+                "to": 20
             },
             {
+                "alive": true,
                 "from": 20,
-                "to": 21,
                 "path": [
                     [
                         51.45545248480529,
@@ -15190,11 +15193,11 @@
                         "Sherrer"
                     ]
                 ],
-                "alive": true
+                "to": 21
             },
             {
+                "alive": true,
                 "from": 21,
-                "to": 22,
                 "path": [
                     [
                         52.750377368352396,
@@ -15202,11 +15205,11 @@
                         "Sherrer"
                     ]
                 ],
-                "alive": true
+                "to": 22
             },
             {
+                "alive": true,
                 "from": 22,
-                "to": 23,
                 "path": [
                     [
                         52.750377368352396,
@@ -15222,11 +15225,11 @@
                         -106.6676436902076
                     ]
                 ],
-                "alive": true
+                "to": 23
             },
             {
+                "alive": true,
                 "from": 23,
-                "to": 24,
                 "path": [
                     [
                         52.26343042282104,
@@ -15237,11 +15240,11 @@
                         -105.75406378409616
                     ]
                 ],
-                "alive": true
+                "to": 24
             },
             {
+                "alive": true,
                 "from": 24,
-                "to": 25,
                 "path": [
                     [
                         53.283712148080966,
@@ -15252,11 +15255,11 @@
                         -100.90506274396613
                     ]
                 ],
-                "alive": true
+                "to": 25
             },
             {
+                "alive": true,
                 "from": 25,
-                "to": 26,
                 "path": [
                     [
                         54.546023910825845,
@@ -15276,11 +15279,11 @@
                         "Harrenhal"
                     ]
                 ],
-                "alive": true
+                "to": 26
             },
             {
+                "alive": true,
                 "from": 26,
-                "to": 30,
                 "path": [
                     [
                         55.192138999863374,
@@ -15288,11 +15291,11 @@
                         "Harrenhal"
                     ]
                 ],
-                "alive": true
+                "to": 30
             },
             {
+                "alive": true,
                 "from": 30,
-                "to": 31,
                 "path": [
                     [
                         55.192138999863374,
@@ -15364,11 +15367,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 31
             },
             {
+                "alive": true,
                 "from": 31,
-                "to": 35,
                 "path": [
                     [
                         45.805474068515245,
@@ -15376,11 +15379,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 35
             },
             {
+                "alive": true,
                 "from": 35,
-                "to": 36,
                 "path": [
                     [
                         45.805474068515245,
@@ -15424,22 +15427,22 @@
                         -87.65815410535006
                     ]
                 ],
-                "alive": true
+                "to": 36
             },
             {
+                "alive": true,
                 "from": 36,
-                "to": 37,
                 "path": [
                     [
                         48.47862031998912,
                         -87.62301641665347
                     ]
                 ],
-                "alive": true
+                "to": 37
             },
             {
+                "alive": true,
                 "from": 37,
-                "to": 38,
                 "path": [
                     [
                         48.47862031998912,
@@ -15501,11 +15504,11 @@
                         "Crossroads Inn"
                     ]
                 ],
-                "alive": true
+                "to": 38
             },
             {
+                "alive": true,
                 "from": 38,
-                "to": 40,
                 "path": [
                     [
                         58.64171437619993,
@@ -15513,11 +15516,11 @@
                         "Crossroads Inn"
                     ]
                 ],
-                "alive": true
+                "to": 40
             },
             {
+                "alive": true,
                 "from": 40,
-                "to": 41,
                 "path": [
                     [
                         58.64171437619993,
@@ -15569,22 +15572,22 @@
                         -86.67429882184541
                     ]
                 ],
-                "alive": true
+                "to": 41
             },
             {
+                "alive": true,
                 "from": 41,
-                "to": 42,
                 "path": [
                     [
                         59.72236437550686,
                         -86.67429882184541
                     ]
                 ],
-                "alive": true
+                "to": 42
             },
             {
+                "alive": true,
                 "from": 42,
-                "to": 43,
                 "path": [
                     [
                         59.72236437550686,
@@ -15596,11 +15599,11 @@
                         "Crossroads Inn"
                     ]
                 ],
-                "alive": true
+                "to": 43
             },
             {
+                "alive": true,
                 "from": 43,
-                "to": 44,
                 "path": [
                     [
                         58.64171437619993,
@@ -15684,22 +15687,22 @@
                         -103.08359944315498
                     ]
                 ],
-                "alive": true
+                "to": 44
             },
             {
+                "alive": true,
                 "from": 44,
-                "to": 45,
                 "path": [
                     [
                         71.95581099741989,
                         -103.08359944315498
                     ]
                 ],
-                "alive": true
+                "to": 45
             },
             {
+                "alive": true,
                 "from": 45,
-                "to": 46,
                 "path": [
                     [
                         71.95581099741989,
@@ -15811,11 +15814,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 46
             },
             {
+                "alive": true,
                 "from": 46,
-                "to": 50,
                 "path": [
                     [
                         78.60937753613514,
@@ -15823,9 +15826,10 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 50
             },
             {
+                "alive": true,
                 "from": 50,
                 "path": [
                     [
@@ -15838,19 +15842,18 @@
                         -104.35496490808343,
                         "Holdfast"
                     ]
-                ],
-                "alive": true
+                ]
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0ef2",
-        "name": "Brienne of Tarth",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0ef3",
+        "name": "Davos Seaworth",
         "path": [
             {
+                "alive": true,
                 "from": 11,
-                "to": 14,
                 "path": [
                     [
                         51.25596354003372,
@@ -15858,11 +15861,11 @@
                         "Dragonstone"
                     ]
                 ],
-                "alive": true
+                "to": 14
             },
             {
+                "alive": true,
                 "from": 14,
-                "to": 15,
                 "path": [
                     [
                         51.25596354003372,
@@ -16225,11 +16228,11 @@
                         "Storm's End"
                     ]
                 ],
-                "alive": true
+                "to": 15
             },
             {
+                "alive": true,
                 "from": 15,
-                "to": 19,
                 "path": [
                     [
                         31.389879839113846,
@@ -16237,11 +16240,11 @@
                         "Storm's End"
                     ]
                 ],
-                "alive": true
+                "to": 19
             },
             {
+                "alive": true,
                 "from": 19,
-                "to": 20,
                 "path": [
                     [
                         31.389879839113846,
@@ -16342,11 +16345,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 20
             },
             {
+                "alive": true,
                 "from": 20,
-                "to": 21,
                 "path": [
                     [
                         45.805474068515245,
@@ -16354,11 +16357,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 21
             },
             {
+                "alive": true,
                 "from": 21,
-                "to": 22,
                 "path": [
                     [
                         45.26103733330886,
@@ -16410,11 +16413,11 @@
                         "Dragonstone"
                     ]
                 ],
-                "alive": true
+                "to": 22
             },
             {
+                "alive": true,
                 "from": 22,
-                "to": 36,
                 "path": [
                     [
                         51.25596354003372,
@@ -16422,11 +16425,11 @@
                         "Dragonstone"
                     ]
                 ],
-                "alive": true
+                "to": 36
             },
             {
+                "alive": true,
                 "from": 36,
-                "to": 37,
                 "path": [
                     [
                         51.25596354003372,
@@ -16519,11 +16522,11 @@
                         "Braavos"
                     ]
                 ],
-                "alive": true
+                "to": 37
             },
             {
+                "alive": true,
                 "from": 37,
-                "to": 40,
                 "path": [
                     [
                         67.62674868833781,
@@ -16531,11 +16534,11 @@
                         "Braavos"
                     ]
                 ],
-                "alive": true
+                "to": 40
             },
             {
+                "alive": true,
                 "from": 40,
-                "to": 41,
                 "path": [
                     [
                         67.62674868833781,
@@ -16613,11 +16616,11 @@
                         "Castle Black"
                     ]
                 ],
-                "alive": true
+                "to": 41
             },
             {
+                "alive": true,
                 "from": 41,
-                "to": 48,
                 "path": [
                     [
                         83.49934718062542,
@@ -16625,11 +16628,11 @@
                         "Castle Black"
                     ]
                 ],
-                "alive": true
+                "to": 48
             },
             {
+                "alive": true,
                 "from": 48,
-                "to": 49,
                 "path": [
                     [
                         83.49934718062542,
@@ -16649,11 +16652,11 @@
                         -97.84808382736243
                     ]
                 ],
-                "alive": true
+                "to": 49
             },
             {
+                "alive": true,
                 "from": 49,
-                "to": 50,
                 "path": [
                     [
                         81.01950798008495,
@@ -16673,9 +16676,10 @@
                         "Castle Black"
                     ]
                 ],
-                "alive": true
+                "to": 50
             },
             {
+                "alive": true,
                 "from": 50,
                 "path": [
                     [
@@ -16683,19 +16687,18 @@
                         -92.59931756271801,
                         "Castle Black"
                     ]
-                ],
-                "alive": true
+                ]
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0ef3",
-        "name": "Davos Seaworth",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0ef4",
+        "name": "Samwell Tarly",
         "path": [
             {
+                "alive": true,
                 "from": 4,
-                "to": 5,
                 "path": [
                     [
                         83.49934718062542,
@@ -16713,11 +16716,11 @@
                         "Castle Black"
                     ]
                 ],
-                "alive": true
+                "to": 5
             },
             {
+                "alive": true,
                 "from": 5,
-                "to": 11,
                 "path": [
                     [
                         83.49934718062542,
@@ -16725,11 +16728,11 @@
                         "Castle Black"
                     ]
                 ],
-                "alive": true
+                "to": 11
             },
             {
+                "alive": true,
                 "from": 11,
-                "to": 12,
                 "path": [
                     [
                         83.49934718062542,
@@ -16754,11 +16757,11 @@
                         "Craster's Keep"
                     ]
                 ],
-                "alive": true
+                "to": 12
             },
             {
+                "alive": true,
                 "from": 12,
-                "to": 14,
                 "path": [
                     [
                         84.05970780277003,
@@ -16766,11 +16769,11 @@
                         "Craster's Keep"
                     ]
                 ],
-                "alive": true
+                "to": 14
             },
             {
+                "alive": true,
                 "from": 14,
-                "to": 15,
                 "path": [
                     [
                         84.05970780277003,
@@ -16815,11 +16818,11 @@
                         "Fist of the First Men"
                     ]
                 ],
-                "alive": true
+                "to": 15
             },
             {
+                "alive": true,
                 "from": 15,
-                "to": 21,
                 "path": [
                     [
                         84.46204311265346,
@@ -16827,11 +16830,11 @@
                         "Fist of the First Men"
                     ]
                 ],
-                "alive": true
+                "to": 21
             },
             {
+                "alive": true,
                 "from": 21,
-                "to": 22,
                 "path": [
                     [
                         84.46204311265346,
@@ -16863,22 +16866,22 @@
                         -100.65909892308997
                     ]
                 ],
-                "alive": true
+                "to": 22
             },
             {
+                "alive": true,
                 "from": 22,
-                "to": 23,
                 "path": [
                     [
                         84.17920406929453,
                         -100.69423661178656
                     ]
                 ],
-                "alive": true
+                "to": 23
             },
             {
+                "alive": true,
                 "from": 23,
-                "to": 24,
                 "path": [
                     [
                         84.1720725738782,
@@ -16894,11 +16897,11 @@
                         "Craster's Keep"
                     ]
                 ],
-                "alive": true
+                "to": 24
             },
             {
+                "alive": true,
                 "from": 24,
-                "to": 26,
                 "path": [
                     [
                         84.05970780277003,
@@ -16906,11 +16909,11 @@
                         "Craster's Keep"
                     ]
                 ],
-                "alive": true
+                "to": 26
             },
             {
+                "alive": true,
                 "from": 26,
-                "to": 27,
                 "path": [
                     [
                         84.05970780277003,
@@ -16922,22 +16925,22 @@
                         -98.37514915781135
                     ]
                 ],
-                "alive": true
+                "to": 27
             },
             {
+                "alive": true,
                 "from": 27,
-                "to": 28,
                 "path": [
                     [
                         83.91690889363092,
                         -98.41028684650793
                     ]
                 ],
-                "alive": true
+                "to": 28
             },
             {
+                "alive": true,
                 "from": 28,
-                "to": 29,
                 "path": [
                     [
                         83.90945722499457,
@@ -16948,11 +16951,11 @@
                         -97.4264315630033
                     ]
                 ],
-                "alive": true
+                "to": 29
             },
             {
+                "alive": true,
                 "from": 29,
-                "to": 30,
                 "path": [
                     [
                         83.82688626587236,
@@ -16963,11 +16966,11 @@
                         -95.634409439477
                     ]
                 ],
-                "alive": true
+                "to": 30
             },
             {
+                "alive": true,
                 "from": 30,
-                "to": 31,
                 "path": [
                     [
                         83.78137853064894,
@@ -16984,11 +16987,11 @@
                         "Castle Black"
                     ]
                 ],
-                "alive": true
+                "to": 31
             },
             {
+                "alive": true,
                 "from": 31,
-                "to": 50,
                 "path": [
                     [
                         83.49934718062542,
@@ -16996,11 +16999,11 @@
                         "Castle Black"
                     ]
                 ],
-                "alive": true
+                "to": 50
             },
             {
+                "alive": true,
                 "from": 50,
-                "to": 51,
                 "path": [
                     [
                         83.49934718062542,
@@ -17045,18 +17048,18 @@
                         -51.83788818041837
                     ]
                 ],
-                "alive": true
+                "to": 51
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0ef4",
-        "name": "Samwell Tarly",
-        "__v": 0
+        ]
     },
     {
+        "__v": 0,
+        "_id": "5ca4d4e23e3b37061bde0ef5",
+        "name": "Petyr Baelish",
         "path": [
             {
+                "alive": true,
                 "from": 3,
-                "to": 14,
                 "path": [
                     [
                         45.805474068515245,
@@ -17064,11 +17067,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 14
             },
             {
+                "alive": true,
                 "from": 14,
-                "to": 15,
                 "path": [
                     [
                         45.805474068515245,
@@ -17197,11 +17200,11 @@
                         "Bitterbridge"
                     ]
                 ],
-                "alive": true
+                "to": 15
             },
             {
+                "alive": true,
                 "from": 15,
-                "to": 19,
                 "path": [
                     [
                         36.293111366396154,
@@ -17209,11 +17212,11 @@
                         "Bitterbridge"
                     ]
                 ],
-                "alive": true
+                "to": 19
             },
             {
+                "alive": true,
                 "from": 19,
-                "to": 20,
                 "path": [
                     [
                         36.293111366396154,
@@ -17298,11 +17301,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 20
             },
             {
+                "alive": true,
                 "from": 20,
-                "to": 27,
                 "path": [
                     [
                         45.805474068515245,
@@ -17310,11 +17313,11 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 27
             },
             {
+                "alive": true,
                 "from": 27,
-                "to": 28,
                 "path": [
                     [
                         45.805474068515245,
@@ -17541,11 +17544,11 @@
                         "Eyrie"
                     ]
                 ],
-                "alive": true
+                "to": 28
             },
             {
+                "alive": true,
                 "from": 28,
-                "to": 32,
                 "path": [
                     [
                         62.260772776184744,
@@ -17553,11 +17556,11 @@
                         "Eyrie"
                     ]
                 ],
-                "alive": true
+                "to": 32
             },
             {
+                "alive": true,
                 "from": 32,
-                "to": 33,
                 "path": [
                     [
                         62.260772776184744,
@@ -17719,22 +17722,22 @@
                         -82.5280515556473
                     ]
                 ],
-                "alive": true
+                "to": 33
             },
             {
+                "alive": true,
                 "from": 33,
-                "to": 34,
                 "path": [
                     [
                         45.01317219776437,
                         -82.56318924434389
                     ]
                 ],
-                "alive": true
+                "to": 34
             },
             {
+                "alive": true,
                 "from": 34,
-                "to": 35,
                 "path": [
                     [
                         47.869390762920524,
@@ -17749,11 +17752,11 @@
                         -68.19187456743678
                     ]
                 ],
-                "alive": true
+                "to": 35
             },
             {
+                "alive": true,
                 "from": 35,
-                "to": 36,
                 "path": [
                     [
                         51.678976703969155,
@@ -17919,11 +17922,11 @@
                         "Eyrie"
                     ]
                 ],
-                "alive": true
+                "to": 36
             },
             {
+                "alive": true,
                 "from": 36,
-                "to": 42,
                 "path": [
                     [
                         62.260772776184744,
@@ -17931,11 +17934,11 @@
                         "Eyrie"
                     ]
                 ],
-                "alive": true
+                "to": 42
             },
             {
+                "alive": true,
                 "from": 42,
-                "to": 43,
                 "path": [
                     [
                         62.260772776184744,
@@ -18053,11 +18056,11 @@
                         "Crossroads Inn"
                     ]
                 ],
-                "alive": true
+                "to": 43
             },
             {
+                "alive": true,
                 "from": 43,
-                "to": 44,
                 "path": [
                     [
                         58.64171437619993,
@@ -18155,11 +18158,11 @@
                         "Moat Cailin"
                     ]
                 ],
-                "alive": true
+                "to": 44
             },
             {
+                "alive": true,
                 "from": 44,
-                "to": 45,
                 "path": [
                     [
                         72.1927801389041,
@@ -18252,11 +18255,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 45
             },
             {
+                "alive": true,
                 "from": 45,
-                "to": 46,
                 "path": [
                     [
                         78.60937753613514,
@@ -18264,11 +18267,11 @@
                         "Winterfell"
                     ]
                 ],
-                "alive": true
+                "to": 46
             },
             {
+                "alive": true,
                 "from": 46,
-                "to": 47,
                 "path": [
                     [
                         78.60937753613514,
@@ -18506,9 +18509,10 @@
                         "King's Landing"
                     ]
                 ],
-                "alive": true
+                "to": 47
             },
             {
+                "alive": true,
                 "from": 47,
                 "path": [
                     [
@@ -18516,12 +18520,8 @@
                         -84.48536531890602,
                         "King's Landing"
                     ]
-                ],
-                "alive": true
+                ]
             }
-        ],
-        "_id": "5ca4d4e23e3b37061bde0ef5",
-        "name": "Petyr Baelish",
-        "__v": 0
+        ]
     }
 ]
