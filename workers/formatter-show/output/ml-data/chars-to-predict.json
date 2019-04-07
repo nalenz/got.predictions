@@ -4,8 +4,10 @@
         "male": false,
         "age": 20,
         "birth": 285,
+        "isBastard": false,
         "pageRank": 0.6357882623705409,
-        "numRelatives": 0.6666666666666666,
+        "numRelatives": 0.6153846153846154,
+        "numCommandedBattles": 1,
         "allegiances": [
             65,
             33,
@@ -93,8 +95,10 @@
         "male": false,
         "age": 18,
         "birth": 287,
+        "isBastard": false,
         "pageRank": 0.5834292289988493,
-        "numRelatives": 0.5833333333333334,
+        "numRelatives": 0.6153846153846154,
+        "numCommandedBattles": 1,
         "allegiances": [
             65,
             17
@@ -178,8 +182,10 @@
         "male": true,
         "age": 17,
         "birth": 288,
+        "isBastard": false,
         "pageRank": 0.4672036823935558,
-        "numRelatives": 0.5833333333333334,
+        "numRelatives": 0.6153846153846154,
+        "numCommandedBattles": 0,
         "allegiances": [
             65
         ],
@@ -253,8 +259,10 @@
         "male": true,
         "age": 24,
         "birth": 281,
+        "isBastard": false,
         "pageRank": 1,
-        "numRelatives": 0.9166666666666666,
+        "numRelatives": 0.9230769230769231,
+        "numCommandedBattles": 3,
         "allegiances": [
             65,
             67,
@@ -341,8 +349,10 @@
         "male": true,
         "age": 24,
         "birth": 281,
+        "isBastard": false,
         "pageRank": 0.4223245109321059,
-        "numRelatives": 0.4166666666666667,
+        "numRelatives": 0.46153846153846156,
+        "numCommandedBattles": 0,
         "allegiances": [
             43,
             129,
@@ -432,8 +442,10 @@
         "male": true,
         "age": 11,
         "birth": 294,
+        "isBastard": false,
         "pageRank": 0.0379746835443038,
-        "numRelatives": 0.08333333333333333,
+        "numRelatives": 0.15384615384615385,
+        "numCommandedBattles": 0,
         "allegiances": [
             76,
             65
@@ -457,8 +469,10 @@
         "male": true,
         "age": 17,
         "birth": 288,
+        "isBastard": false,
         "pageRank": 0.05293440736478711,
-        "numRelatives": 0.08333333333333333,
+        "numRelatives": 0.15384615384615385,
+        "numCommandedBattles": 0,
         "allegiances": [
             46,
             65
@@ -482,8 +496,10 @@
         "male": false,
         "age": 13,
         "birth": 292,
+        "isBastard": false,
         "pageRank": 0.0661680092059839,
-        "numRelatives": 0.08333333333333333,
+        "numRelatives": 0.15384615384615385,
+        "numCommandedBattles": 0,
         "allegiances": [
             54,
             65
@@ -517,8 +533,10 @@
         "male": true,
         "age": 63,
         "birth": 242,
+        "isBastard": false,
         "pageRank": 0.05638665132336018,
-        "numRelatives": 0.16666666666666666,
+        "numRelatives": 0.15384615384615385,
+        "numCommandedBattles": 0,
         "allegiances": [
             42,
             65,
@@ -553,8 +571,10 @@
         "male": true,
         "age": 58,
         "birth": 247,
+        "isBastard": false,
         "pageRank": 0.035097813578826235,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             51,
             65
@@ -581,8 +601,10 @@
         "male": false,
         "age": 29,
         "birth": 276,
+        "isBastard": false,
         "pageRank": 0.13463751438434982,
-        "numRelatives": 0.16666666666666666,
+        "numRelatives": 0.23076923076923078,
+        "numCommandedBattles": 0,
         "allegiances": [
             60,
             65
@@ -634,8 +656,10 @@
         "male": true,
         "age": 42,
         "birth": 263,
+        "isBastard": false,
         "pageRank": 0.02819332566168009,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             33
         ],
@@ -659,8 +683,10 @@
         "male": false,
         "age": 43,
         "birth": 262,
+        "isBastard": false,
         "pageRank": 0.7266973532796318,
-        "numRelatives": 0.5833333333333334,
+        "numRelatives": 0.5384615384615384,
+        "numCommandedBattles": 0,
         "allegiances": [
             48,
             31
@@ -752,8 +778,10 @@
         "male": true,
         "age": 43,
         "birth": 262,
+        "isBastard": false,
         "pageRank": 0.7744533947065593,
-        "numRelatives": 0.4166666666666667,
+        "numRelatives": 0.46153846153846156,
+        "numCommandedBattles": 0,
         "allegiances": [
             48,
             86,
@@ -842,8 +870,10 @@
         "male": true,
         "age": 39,
         "birth": 266,
+        "isBastard": false,
         "pageRank": 0.9234752589182968,
-        "numRelatives": 0.5,
+        "numRelatives": 0.46153846153846156,
+        "numCommandedBattles": 2,
         "allegiances": [
             48,
             67
@@ -935,8 +965,10 @@
         "male": true,
         "age": 27,
         "birth": 278,
+        "isBastard": false,
         "pageRank": 0.16455696202531644,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             58,
             3,
@@ -1010,8 +1042,10 @@
         "male": true,
         "age": 50,
         "birth": 255,
+        "isBastard": false,
         "pageRank": 0.2646720368239356,
-        "numRelatives": 0.08333333333333333,
+        "numRelatives": 0.15384615384615385,
+        "numCommandedBattles": 0,
         "allegiances": [
             4,
             36,
@@ -1087,8 +1121,10 @@
         "male": true,
         "age": 58,
         "birth": 247,
+        "isBastard": false,
         "pageRank": 0.29516685845799767,
-        "numRelatives": 0.08333333333333333,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 2,
         "allegiances": [
             62,
             65,
@@ -1165,8 +1201,10 @@
         "male": true,
         "age": 43,
         "birth": 262,
+        "isBastard": false,
         "pageRank": 0.05178365937859609,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             30
         ],
@@ -1210,8 +1248,10 @@
         "male": false,
         "age": 40,
         "birth": 265,
+        "isBastard": false,
         "pageRank": 0.040851553509781355,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [],
         "appearances": [],
         "cultures": [],
@@ -1222,8 +1262,10 @@
         "male": true,
         "age": 16,
         "birth": 289,
+        "isBastard": false,
         "pageRank": 0.11104718066743383,
-        "numRelatives": 0.16666666666666666,
+        "numRelatives": 0.23076923076923078,
+        "numCommandedBattles": 0,
         "allegiances": [
             27,
             65
@@ -1282,8 +1324,10 @@
         "male": true,
         "age": 61,
         "birth": 244,
+        "isBastard": false,
         "pageRank": 0.07479861910241657,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             61,
             27,
@@ -1338,8 +1382,10 @@
         "male": false,
         "age": 73,
         "birth": 232,
+        "isBastard": false,
         "pageRank": 0.019562715765247412,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             77,
             27
@@ -1366,8 +1412,10 @@
         "male": true,
         "age": 51,
         "birth": 254,
+        "isBastard": false,
         "pageRank": 0.04257767548906789,
-        "numRelatives": 0.08333333333333333,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             68,
             40
@@ -1392,8 +1440,10 @@
         "male": true,
         "age": 25,
         "birth": 280,
+        "isBastard": false,
         "pageRank": 0.39298043728423476,
-        "numRelatives": 0.4166666666666667,
+        "numRelatives": 0.46153846153846156,
+        "numCommandedBattles": 0,
         "allegiances": [
             96,
             68,
@@ -1476,8 +1526,10 @@
         "male": false,
         "age": 38,
         "birth": 267,
+        "isBastard": false,
         "pageRank": 0.2048331415420023,
-        "numRelatives": 0.4166666666666667,
+        "numRelatives": 0.46153846153846156,
+        "numCommandedBattles": 0,
         "allegiances": [
             43
         ],
@@ -1543,8 +1595,10 @@
         "male": true,
         "age": 37,
         "birth": 268,
+        "isBastard": false,
         "pageRank": 0.22209436133486765,
-        "numRelatives": 0.16666666666666666,
+        "numRelatives": 0.23076923076923078,
+        "numCommandedBattles": 0,
         "allegiances": [
             43
         ],
@@ -1580,8 +1634,10 @@
         "male": true,
         "age": 45,
         "birth": 260,
+        "isBastard": false,
         "pageRank": 0.1668584579976985,
-        "numRelatives": 0.4166666666666667,
+        "numRelatives": 0.38461538461538464,
+        "numCommandedBattles": 0,
         "allegiances": [
             73,
             48,
@@ -1621,8 +1677,10 @@
         "male": false,
         "age": 49,
         "birth": 256,
+        "isBastard": false,
         "pageRank": 0.017836593785960874,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [],
         "appearances": [],
         "cultures": [],
@@ -1633,8 +1691,10 @@
         "male": false,
         "age": 29,
         "birth": 276,
+        "isBastard": false,
         "pageRank": 0.09838895281933256,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [],
         "appearances": [],
         "cultures": [],
@@ -1645,8 +1705,10 @@
         "male": true,
         "age": 56,
         "birth": 249,
+        "isBastard": false,
         "pageRank": 0.3020713463751438,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             48,
             109,
@@ -1734,8 +1796,10 @@
         "male": true,
         "age": 36,
         "birth": 269,
+        "isBastard": false,
         "pageRank": 0.02531645569620253,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [],
         "appearances": [
             72,
@@ -1757,8 +1821,10 @@
         "male": true,
         "age": 55,
         "birth": 250,
+        "isBastard": false,
         "pageRank": 0.01726121979286536,
-        "numRelatives": 0.08333333333333333,
+        "numRelatives": 0.15384615384615385,
+        "numCommandedBattles": 0,
         "allegiances": [
             114
         ],
@@ -1782,8 +1848,10 @@
         "male": true,
         "age": 38,
         "birth": 267,
+        "isBastard": false,
         "pageRank": 0.02186421173762946,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             4
         ],
@@ -1807,8 +1875,10 @@
         "male": true,
         "age": 67,
         "birth": 238,
+        "isBastard": false,
         "pageRank": 0.2238204833141542,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             48,
             31,
@@ -1878,8 +1948,10 @@
         "male": true,
         "age": 55,
         "birth": 250,
+        "isBastard": false,
         "pageRank": 0.38550057537399307,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             67,
             31
@@ -1968,8 +2040,10 @@
         "male": true,
         "age": 72,
         "birth": 233,
+        "isBastard": false,
         "pageRank": 0.0667433831990794,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             58,
             48,
@@ -2010,8 +2084,10 @@
         "male": true,
         "age": 32,
         "birth": 273,
+        "isBastard": true,
         "pageRank": 0.19850402761795166,
-        "numRelatives": 0.25,
+        "numRelatives": 0.3076923076923077,
+        "numCommandedBattles": 0,
         "allegiances": [
             83,
             65
@@ -2063,8 +2139,10 @@
         "male": true,
         "age": 29,
         "birth": 276,
+        "isBastard": false,
         "pageRank": 0.04948216340621404,
-        "numRelatives": 0.08333333333333333,
+        "numRelatives": 0.15384615384615385,
+        "numCommandedBattles": 0,
         "allegiances": [
             28
         ],
@@ -2108,8 +2186,10 @@
         "male": false,
         "age": 44,
         "birth": 261,
+        "isBastard": false,
         "pageRank": 0.023014959723820484,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             97
         ],
@@ -2143,8 +2223,10 @@
         "male": false,
         "age": 31,
         "birth": 274,
+        "isBastard": false,
         "pageRank": 0.02819332566168009,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             97
         ],
@@ -2208,8 +2290,10 @@
         "male": true,
         "age": 23,
         "birth": 282,
+        "isBastard": false,
         "pageRank": 0.06271576524741082,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [],
         "appearances": [
             72,
@@ -2268,8 +2352,10 @@
         "male": false,
         "age": 46,
         "birth": 259,
+        "isBastard": false,
         "pageRank": 0.12485615650172613,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 1,
         "allegiances": [
             17
         ],
@@ -2323,8 +2409,10 @@
         "male": true,
         "age": 96,
         "birth": 209,
+        "isBastard": false,
         "pageRank": 0.02704257767548907,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             1,
             80,
@@ -2352,8 +2440,10 @@
         "male": false,
         "age": 45,
         "birth": 260,
+        "isBastard": false,
         "pageRank": 0.03222094361334868,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             19
         ],
@@ -2387,8 +2477,10 @@
         "male": true,
         "age": 70,
         "birth": 235,
+        "isBastard": false,
         "pageRank": 0.004027617951668585,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             92,
             9,
@@ -2413,8 +2505,10 @@
         "male": true,
         "age": 45,
         "birth": 260,
+        "isBastard": false,
         "pageRank": 0.21231300345224396,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 1,
         "allegiances": [
             96,
             71
@@ -2488,8 +2582,10 @@
         "male": true,
         "age": 91,
         "birth": 214,
+        "isBastard": false,
         "pageRank": 0.07479861910241657,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             96,
             50
@@ -2516,8 +2612,10 @@
         "male": false,
         "age": 30,
         "birth": 275,
+        "isBastard": false,
         "pageRank": 0.17376294591484465,
-        "numRelatives": 0.6666666666666666,
+        "numRelatives": 0.6153846153846154,
+        "numCommandedBattles": 0,
         "allegiances": [],
         "appearances": [
             53,
@@ -2586,8 +2684,10 @@
         "male": true,
         "age": 41,
         "birth": 264,
+        "isBastard": false,
         "pageRank": 0.1237054085155351,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             21,
             83,
@@ -2650,8 +2750,10 @@
         "male": true,
         "age": 53,
         "birth": 252,
+        "isBastard": false,
         "pageRank": 0.00805523590333717,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             21,
             83,
@@ -2687,8 +2789,10 @@
         "male": true,
         "age": 37,
         "birth": 268,
+        "isBastard": false,
         "pageRank": 0.07882623705408516,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             67,
             86,
@@ -2719,8 +2823,10 @@
         "male": false,
         "age": 30,
         "birth": 275,
+        "isBastard": false,
         "pageRank": 0.010356731875719217,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             67,
             12
@@ -2747,8 +2853,10 @@
         "male": false,
         "age": 23,
         "birth": 282,
+        "isBastard": false,
         "pageRank": 0.9062140391254315,
-        "numRelatives": 0.5833333333333334,
+        "numRelatives": 0.5384615384615384,
+        "numCommandedBattles": 0,
         "allegiances": [
             67
         ],
@@ -2839,8 +2947,10 @@
         "male": true,
         "age": 58,
         "birth": 247,
+        "isBastard": false,
         "pageRank": 0.41254315304948214,
-        "numRelatives": 0.16666666666666666,
+        "numRelatives": 0.15384615384615385,
+        "numCommandedBattles": 0,
         "allegiances": [
             86,
             10,
@@ -2931,8 +3041,10 @@
         "male": true,
         "age": 66,
         "birth": 239,
+        "isBastard": false,
         "pageRank": 0.06386651323360185,
-        "numRelatives": 0.08333333333333333,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             67
         ],
@@ -2959,8 +3071,10 @@
         "male": true,
         "age": 53,
         "birth": 252,
+        "isBastard": false,
         "pageRank": 0.05178365937859609,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             79
         ],
@@ -3001,8 +3115,10 @@
         "male": false,
         "age": 62,
         "birth": 243,
+        "isBastard": false,
         "pageRank": 0.01726121979286536,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [],
         "appearances": [
             59,
@@ -3024,8 +3140,10 @@
         "male": false,
         "age": 30,
         "birth": 275,
+        "isBastard": false,
         "pageRank": 0.1892980437284235,
-        "numRelatives": 0.08333333333333333,
+        "numRelatives": 0.15384615384615385,
+        "numCommandedBattles": 0,
         "allegiances": [
             67,
             23
@@ -3087,8 +3205,10 @@
         "male": true,
         "age": 29,
         "birth": 276,
+        "isBastard": false,
         "pageRank": 0.1714614499424626,
-        "numRelatives": 0.08333333333333333,
+        "numRelatives": 0.15384615384615385,
+        "numCommandedBattles": 1,
         "allegiances": [
             121,
             67
@@ -3150,8 +3270,10 @@
         "male": true,
         "age": 36,
         "birth": 269,
+        "isBastard": false,
         "pageRank": 0.1806674338319908,
-        "numRelatives": 0.08333333333333333,
+        "numRelatives": 0.15384615384615385,
+        "numCommandedBattles": 0,
         "allegiances": [
             107,
             67
@@ -3210,8 +3332,10 @@
         "male": true,
         "age": 52,
         "birth": 253,
+        "isBastard": false,
         "pageRank": 0.013233601841196778,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [],
         "appearances": [
             62,
@@ -3233,8 +3357,10 @@
         "male": true,
         "age": 45,
         "birth": 260,
+        "isBastard": false,
         "pageRank": 0.04142692750287687,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             127,
             57,
@@ -3271,8 +3397,10 @@
         "male": true,
         "age": 37,
         "birth": 268,
+        "isBastard": false,
         "pageRank": 0.031070195627157654,
-        "numRelatives": 0,
+        "numRelatives": 0.07692307692307693,
+        "numCommandedBattles": 0,
         "allegiances": [
             102,
             123,

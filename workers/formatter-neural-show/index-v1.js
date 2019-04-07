@@ -3,7 +3,7 @@ const config = require('../common/config');
 
 (async () => {
   // attributes for data
-  const dataScalarAttrs = ['male', 'pageRank', 'numRelatives'];
+  const dataScalarAttrs = ['male', 'isBastard', 'pageRank', 'numRelatives', 'numCommandedBattles'];
   const dataVectorAttrs = ['age', 'allegiances', 'appearances', 'cultures', 'titles'];
 
   // read formatted data

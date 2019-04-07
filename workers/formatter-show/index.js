@@ -2,7 +2,12 @@ const utils = require('../common/utils');
 const config = require('../common/config');
 
 (async () => {
-  const [characters, charactersBook] = await Promise.all([utils.loadShowData('characters'), utils.loadBookData('characters')]);
+  const [characters, charactersBook, bastards, battles] = await Promise.all([
+    utils.loadShowData('characters'),
+    utils.loadBookData('characters'),
+    utils.loadShowData('bastards'),
+    utils.loadShowData('battles'),
+  ]);
 
   // get maximum page rank and other uniquified attributes
   const [allegiances, appearances, cultures, titles] = await Promise.all([
@@ -13,6 +18,7 @@ const config = require('../common/config');
   ]);
 
   // extract only the attributes we need for our prediction script and format them accordingly
+  const battleCommanders = [].concat(...battles.map(b => [...b.commandersOne, ...b.commandersTwo]));
   let charsFmt = characters
     .map(c => {
       // two methods to determine birth year if it's missing: 1. using the "age" attribute, 2. fallback to book data
@@ -36,8 +42,10 @@ const config = require('../common/config');
       birth: c.birth,
       death: c.death || undefined,
 
+      isBastard: bastards.find(b => b.name === c.name) !== undefined,
       pageRank: c.pagerank && c.pagerank.rank ? c.pagerank.rank : 0,
       numRelatives: utils.countAttrValues(c, ['mother', 'father', 'lovers', 'siblings', 'spouse']),
+      numCommandedBattles: battleCommanders.filter(com => com === c.name).length,
 
       allegiances: utils.arrToIndices(c.allegiances, allegiances),
       appearances: utils.arrToIndices(c.appearances, appearances),
@@ -47,7 +55,7 @@ const config = require('../common/config');
     .filter(c => c.age <= config.AGE_MAXIMUM);
 
   // normalize some scalar values
-  ['pageRank', 'numRelatives'].forEach(a => {
+  ['pageRank', 'numRelatives', 'numCommandedBattles'].forEach(a => {
     let max = utils.maxAttr(charsFmt, a);
     charsFmt.forEach(c => (c[a] /= max));
   });

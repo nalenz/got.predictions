@@ -54,10 +54,10 @@ To create a new branch to add your changes to, please execute the following comm
   - used for training (i.e. dead): 82, predicted on (i.e. alive): 64
 - number of training datapoints: 7052
   - used for training itself: 6346, used for validation: 706
-  - final training accuracy: 79.64%, final validation accuracy: 85.69% (from [Keras log](workers/predictors-neural/predictor-neural-show-v1/models/keras-log))
-- number of dimensions per datapoint: 411
+  - final training accuracy: 81.00%, final validation accuracy: 84.56% (from [Keras log](workers/predictors-neural/predictor-neural-show-v1/models/keras-log))
+- number of dimensions per datapoint: 413
   - scalar values
-    - male: 1, page rank (normalized): 1, number of relatives (normalized): 1
+    - male: 1, is bastard: 1, page rank (normalized): 1, number of relatives (normalized): 1, number of commanded battles (normalized): 1
   - one hot vectors
     - age: 86
   - multiple hot vectors
