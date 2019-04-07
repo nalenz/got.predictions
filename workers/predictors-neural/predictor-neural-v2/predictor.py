@@ -45,4 +45,8 @@ else:
   # predict ages for other characters
   model = load_model(os.path.join(dirnameMain, 'models/got-predictor-model.h5'))
   predictionsPLOD = np.array(np.array_split(model.predict(dataPredict).flatten(), len(charsPredict))).tolist()
-  writeJSON("predictions", dict(zip(map(lambda x: x["name"], charsPredict), predictionsPLOD)), True)
+  predictionsDict = dict(zip(map(lambda x: x["name"], charsPredict), predictionsPLOD))
+  writeJSON("predictions", predictionsDict, True)
+  for k, v in predictionsDict.items():
+    predictionsDict[k] = 1.0 - v[0]
+  writeJSON("predictions-plod", predictionsDict, True)

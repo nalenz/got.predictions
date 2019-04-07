@@ -28,8 +28,12 @@ To create a new branch to add your changes to, please execute the following comm
 
 ## Neural network predictions
 
-- [Book](workers/predictors-neural/predictor-neural-v2/output/predictions.json) (PLOS for characters from years 300 to 320)
-- [Show](workers/predictors-neural/predictor-neural-show-v1/output/predictions.json) (PLOS for characters from years 305 to 325)
+- book
+  - [PLOS for characters from years 300 to 320](workers/predictors-neural/predictor-neural-v2/output/predictions.json)
+  - [single PLOD only](workers/predictors-neural/predictor-neural-v2/output/predictions-plod.json)
+- show
+  - [PLOS for characters from years 305 to 325](workers/predictors-neural/predictor-neural-show-v1/output/predictions.json)
+  - [single PLOD only](workers/predictors-neural/predictor-neural-show-v1/output/predictions-plod.json)
 
 ### Book predictions
 
