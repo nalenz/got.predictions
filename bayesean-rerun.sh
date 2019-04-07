@@ -1,3 +1,7 @@
+cd ./data/book
+./refetch.sh
+cd ../show
+./refetch.sh
 node workers/formatter-bayesean-book
 node workers/formatter-bayesean-show
 node workers/predictor-bayesean-book
