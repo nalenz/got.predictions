@@ -6,26 +6,27 @@ To run the code in this repository, Node (at least version 10) is needed. Additi
 
 Please run `npm install` after cloning the repository to install all dependencies or when the dependencies changed after pulling. Afterwards, use Visual Studio Code as your IDE to immediately start working with ESLint and Prettier being directly integrated then.
 
+Note that this repository consists of two different models which both aim for predicting the likelihood of death/survival of GoT characters. Their usage is explained in the following.
+
 ## Using the Bayesean model
 
 The Bayesean model can be used as follows:
-1. If you need to, refetch the data by running refetch.sh in data/book/ and data/show/
-2. Run node /workers/formatter-bayesean-book and node /workers/formatter-bayesean-show. They will read out the features for training used for data and will generate a JSON file in their own directory (training_book_characters.json or training_show_characters.json).
-3. Run the predictor scripts in /workers/predictor-bayesean-book and /workers/predictor-bayesean-show
-   This can be done directly (python3 /workers/predictor-bayesean-book/predictor.py) or using Node (node /workers/predictor-bayesean-book)
-4. The predictors will produce an output JSON in their own directory (book_predictor_output.json, show_predictor_output.json).
-   Run the postprocessors to filter out dead characters and the unnecessary data: node /workers/postprocessor-bayesean-book, node /workers/postprocessor-bayesean-show
-5. To upload the predictions to the website, use node /workers/uploader-predictions-bayesean.
-   To upload only the attributes used and their average influences, use node /workers/uploader-attributes-bayesean
 
-## Creating the predictions using neural networks
+1. If you need to, refetch the data by running `./refetch.sh` in `data/book` and `data/show`.
+2. Run `node workers/formatter-bayesean-book` and `node workers/formatter-bayesean-show`. They will read out the features for training used for data and will generate a JSON file in their own directory (`training_book_characters.json` or `training_show_characters.json`).
+3. Run the predictor scripts in `workers/predictor-bayesean-book` and `workers/predictor-bayesean-show`. This can be done directly (`python3 workers/predictor-bayesean-book/predictor.py`) or using Node (`node workers/predictor-bayesean-book`).
+4. The predictors will produce an output JSON in their own directory (`book_predictor_output.json`, `show_predictor_output.json`). Run the postprocessors to filter out dead characters and the unnecessary data: `node workers/postprocessor-bayesean-book`, `node workers/postprocessor-bayesean-show`.
+5. To upload the predictions to the website, use `node workers/uploader-predictions-bayesean`. To upload only the attributes used and their average influences, use `node workers/uploader-attributes-bayesean`.
+
+## Using neural networks
 
 For creating the book predictions yourself, several steps are needed:
 
-1. Format the data into an intermediate JSON format by running `node index.js` in the `workers/formatter` directory.
-2. Create a zlib-inflated chunk of neural network data by running `node index-v2.js` in the `workers/formatter-neural` directory.
+1. Format the data into an intermediate JSON format by running `node workers/formatter`.
+2. Create a zlib-inflated chunk of neural network data by running `node workers/formatter-neural/index-v2.js`.
 3. Edit the file `workers/predictors-neural/predictor-neural-v1/predictor.py` to have `if True:` in line 28, then run it using `./predictor.py`.
 4. Change that line back to `if False:`, then run that script again using `./predictor.py`. The final predictions can now be found in `workers/predictors-neural/predictor-neural-v2/output/predictions.json`.
+5. To upload the predictions to the website, use `node workers/uploader-predictions`.
 
 The process for creating the show predictions is almost identical, just use the `formatter-show`, `formatter-neural-show` and `predictors-neural/predictor-neural-show-v1` worker directories, in that order.
 
