@@ -1,0 +1,75 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Old PLOD data analysis</title>
+        <style>
+            td {
+                font-size: 1.5em;
+                border: 1px solid gray;
+            }
+
+            tr td:nth-child(3), tr td:nth-child(5) {
+                text-align: center;
+                font-weight: bold;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="container">
+            <table>
+                <tr>
+                    <td>Name</td>
+                    <td>Page Rank</td>
+                    <td>Group B PLOD</td>
+                    <td>Group B Longevity</td>
+                    <td>Group C PLOD</td>
+                    <td>Group B - Group C PLOD Diference</td>
+                </tr>
+            </table>
+        <div>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script>
+            $.ajax({
+                url: "https://gotdata.northeurope.cloudapp.azure.com/api/show/characters",
+            })
+            .done(function( data ) {
+                data.sort(function(a,b) {
+                    return  - a.pagerank.rank + b.pagerank.rank;
+                })
+
+                for (var i in data) {
+                    var char = data[i];
+                    var plodBStyle = "";
+                    var plodCStyle = "";
+                    if (char.plodB == 0) {
+                        char.plodB = "NULL";
+                    }  else {
+                        plodBStyle = "style='background: salmon'";
+                    }
+
+                    if (char.plodC == 0) {
+                        char.plodC = "NULL";
+                    } else {
+                        plodCStyle = "style='background: salmon'";
+                    }
+
+                    var aliveStyle = char.alive ? "style='background: green'": '';
+
+                    var tr = $("<tr></tr>");
+                    tr.append("<td "+aliveStyle+">"+char.name+"</td>");
+                    tr.append("<td>"+char.pagerank.rank+"</td>");
+                    tr.append("<td "+plodBStyle+">"+(char.plodB*100).toFixed(1)+"</td>");
+                    var plodArrTd = $("<td></td>");
+                    for (var j in data[i].longevityB) {
+                        var long = data[i].longevityB[j];
+                        plodArrTd.append("<div style='background: black; display: inline-block; position: relative; height: 40px; width: 5px;'><div style='position: absolute; bottom:0; width: 100%; background: lime; height: "+Math.round(long*100)+"%; min-height: 1px;'></div></div>")
+                    }
+                    tr.append(plodArrTd);
+                    $("#container table").append(tr);
+                    tr.append("<td "+plodCStyle+">"+(char.plodC*100).toFixed(1)+"</td>");
+                    tr.append("<td>"+((char.plodB - char.plodC)*100).toFixed(1)+"</td>");
+                }
+            });
+        </script>
+    </body>
+</html>
