@@ -2,7 +2,7 @@
 
 ## Setup
 
-To run the code in this repository, Node (at least version 10) is needed. Additionally, to run the `predictors-neural` workers, make sure that Python (at least version 3.5) is installed and that you have the dependencies (i.e. run `pip install -r requirements.txt` in that directory). The code in this repository was only tested using Ubuntu 16.04.
+To run the code in this repository, Node (at least version 10) is needed. Additionally, to run the predictor workers, make sure that Python (at least version 3.5) is installed and that you have the dependencies (i.e. run `pip3 install -r workers/predictors-bayesian/requirements.txt` and `pip3 install -r workers/predictors-neural/requirements.txt`). The code in this repository was only tested using Ubuntu 16.04.
 
 Please run `npm install` after cloning the repository to install all dependencies or when the dependencies changed after pulling. Afterwards, use Visual Studio Code as your IDE to immediately start working with ESLint and Prettier being directly integrated then.
 
@@ -14,7 +14,7 @@ The Bayesean model can be used as follows:
 
 1. If you need to, refetch the data by running `./refetch.sh` in `data/book` and `data/show`.
 2. Run `node workers/formatter-bayesean-book` and `node workers/formatter-bayesean-show`. They will read out the features for training used for data and will generate a JSON file in their own directory (`training_book_characters.json` or `training_show_characters.json`).
-3. Run the predictor scripts in `workers/predictor-bayesean-book` and `workers/predictor-bayesean-show`. This can be done directly (`python3 workers/predictor-bayesean-book/predictor.py`) or using Node (`node workers/predictor-bayesean-book`).
+3. Run the predictor scripts in `workers/predictors-bayesian/predictor-bayesean-book` and `workers/predictors-bayesian/predictor-bayesean-show`. This can be done directly (`python3 workers/predictors-bayesian/predictor-bayesean-book/predictor.py`) or using Node (`node workers/predictors-bayesian/predictor-bayesean-book`).
 4. The predictors will produce an output JSON in their own directory (`book_predictor_output.json`, `show_predictor_output.json`). Run the postprocessors to filter out dead characters and the unnecessary data: `node workers/postprocessor-bayesean-book`, `node workers/postprocessor-bayesean-show`.
 5. To upload the predictions to the website, use `node workers/uploader-predictions-bayesean`. To upload only the attributes used and their average influences, use `node workers/uploader-attributes-bayesean`.
 
