@@ -96,7 +96,7 @@
         "birth": 281,
         "death": 300,
         "isBastard": false,
-        "pageRank": 0.6072041166380789,
+        "pageRank": 0.6077758719268154,
         "numRelatives": 0.6666666666666666,
         "numCommandedBattles": 0,
         "allegiances": [
@@ -147,7 +147,7 @@
         "birth": 292,
         "death": 303,
         "isBastard": false,
-        "pageRank": 0.2029731275014294,
+        "pageRank": 0.2035448827901658,
         "numRelatives": 0.5833333333333334,
         "numCommandedBattles": 0,
         "allegiances": [
@@ -719,7 +719,7 @@
         "birth": 234,
         "death": 301,
         "isBastard": false,
-        "pageRank": 0.6220697541452258,
+        "pageRank": 0.6214979988564894,
         "numRelatives": 0.4166666666666667,
         "numCommandedBattles": 0,
         "allegiances": [
@@ -947,7 +947,7 @@
         "birth": 243,
         "death": 298,
         "isBastard": false,
-        "pageRank": 0.6214979988564894,
+        "pageRank": 0.6220697541452258,
         "numRelatives": 0.4166666666666667,
         "numCommandedBattles": 0,
         "allegiances": [
@@ -980,7 +980,7 @@
         "birth": 282,
         "death": 301,
         "isBastard": true,
-        "pageRank": 0.5523156089193825,
+        "pageRank": 0.5528873642081189,
         "numRelatives": 0.5,
         "numCommandedBattles": 0,
         "allegiances": [
@@ -1097,7 +1097,7 @@
         "birth": 287,
         "death": 303,
         "isBastard": true,
-        "pageRank": 0.3161806746712407,
+        "pageRank": 0.31675242995997716,
         "numRelatives": 0.5,
         "numCommandedBattles": 0,
         "allegiances": [
@@ -1411,7 +1411,7 @@
         "birth": 272,
         "death": 303,
         "isBastard": false,
-        "pageRank": 0.22927387078330475,
+        "pageRank": 0.22984562607204118,
         "numRelatives": 0.4166666666666667,
         "numCommandedBattles": 0,
         "allegiances": [
@@ -2012,7 +2012,7 @@
         "birth": 257,
         "death": 301,
         "isBastard": false,
-        "pageRank": 0.27958833619210977,
+        "pageRank": 0.2801600914808462,
         "numRelatives": 0.3333333333333333,
         "numCommandedBattles": 0,
         "allegiances": [

@@ -47,7 +47,7 @@ async function updatePredictions(callback) {
     let survFn = ch.survivalFunctionMean.slice(config.GOT_CURRENT_YEAR_BOOK - birth, config.GOT_CURRENT_YEAR_BOOK - birth + 21);
 
     // update predictions online
-    console.log(await updater.updatePLODLongevity('book', name, survFn, survFnStart, plod));
+    console.log(await updater.updatePLODLongevityIfNotExists('book', name, survFn, survFnStart, plod));
   }
 
   // show coefficients
@@ -73,7 +73,7 @@ async function updatePredictions(callback) {
     );
 
     // update predictions online
-    console.log(await updater.updatePLODLongevity('show', name, survFn, survFnStart, plod));
+    console.log(await updater.updatePLODLongevityIfNotExists('show', name, survFn, survFnStart, plod));
   }
 
   //  output some final statistics

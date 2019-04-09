@@ -433,31 +433,23 @@ class APIUpdater {
         longevity,
         longevityStart,
         plod,
-        token: '123secure',
+        token: config.GOT_API_TOKEN,
       },
     });
   }
 
   /**
-   * Update Bayesean attributes and their influences
+   * Combines longevity and PLOD updaters to only update the attributes that are not yet set
+   * in the dataset's `characters.json` file.
    */
-
-  updateBayeseanAttributes(dataset, attrs) {
-    //do a type check
-
-    for (let key of Object.keys(attrs)) {
-      if (Number.isNaN(attrs[key])) {
-        throw new Error('Attribute values must be numbers!');
-      }
-    }
-
-    //now send
-    return request.post(config.GOT_API_BASE_URL + `/${dataset}/bayesean-attributes/update`, {
-      json: {
-        attributes: attrs,
-        token: '123secure',
-      },
-    });
+  updatePLODLongevityIfNotExists(dataset, name, longevity, longevityStart, plod) {
+    const c = this.getCharacter(dataset, name);
+    const updateLongevity = !c.longevityB || c.longevityB.length !== 21 || !c.longevityStartB;
+    const updatePLOD = !c.plodB;
+    if (updateLongevity && !updatePLOD) return this.updateLongevity(dataset, name, longevity, longevityStart);
+    else if (!updateLongevity && updatePLOD) return this.updatePLOD(dataset, name, plod);
+    else if (updateLongevity && updatePLOD) return this.updatePLODLongevity(dataset, name, longevity, longevityStart, plod);
+    return null;
   }
 
   /**
@@ -469,11 +461,34 @@ class APIUpdater {
   }
 
   /**
-   * Like `updatePLODLongevity`, bur only the longevity data is updated, the PLOD is taken from the cache.
+   * Like `updatePLODLongevity`, but only the longevity data is updated, the PLOD is taken from the cache.
    */
   updateLongevity(dataset, name, longevity, longevityStart) {
     const c = this.getCharacter(dataset, name);
     return this.updatePLODLongevity(dataset, name, longevity, longevityStart, c.plodB || 0);
+  }
+
+  /**
+   * Update Bayesean attributes and their influences.
+   * @param {string} dataset - The dataset to be updated, i.e. 'book' or 'show'.
+   * @param {object} attrs - An object having attribute names as keys and their influences
+   * (real numbers) as the associated values.
+   */
+  updateBayeseanAttributes(dataset, attrs) {
+    // do a type check
+    for (let key of Object.keys(attrs)) {
+      if (Number.isNaN(attrs[key])) {
+        throw new Error('Attribute values must be numbers!');
+      }
+    }
+
+    // now send
+    return request.post(config.GOT_API_BASE_URL + `/${dataset}/bayesean-attributes/update`, {
+      json: {
+        attributes: attrs,
+        token: config.GOT_API_TOKEN,
+      },
+    });
   }
 }
 

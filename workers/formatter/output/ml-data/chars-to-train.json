@@ -1979,7 +1979,7 @@
         "birth": 252,
         "death": 299,
         "age": 47,
-        "pageRank": 0.023554603854389723,
+        "pageRank": 0.023019271948608137,
         "numRelatives": 0,
         "allegiances": [
             168
@@ -3470,7 +3470,7 @@
         "birth": 230,
         "death": 299,
         "age": 69,
-        "pageRank": 0.18201284796573874,
+        "pageRank": 0.18147751605995718,
         "numRelatives": 0.045454545454545456,
         "allegiances": [
             168,
@@ -4033,7 +4033,7 @@
         "birth": 266,
         "death": 283,
         "age": 17,
-        "pageRank": 0.11134903640256959,
+        "pageRank": 0.11081370449678801,
         "numRelatives": 0,
         "allegiances": [
             222

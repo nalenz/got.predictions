@@ -1,45 +1,45 @@
 [
     {
         "__v": 0,
-        "_id": "5cabf94cc5a20b7549c03400",
+        "_id": "5caca4f2b877bb0010e990b3",
         "assassin": null,
-        "id": "5cabf94cc5a20b7549c03400",
+        "id": "5caca4f2b877bb0010e990b3",
         "slug": "Assassin"
     },
     {
         "__v": 0,
-        "_id": "5cabf94cc5a20b7549c03401",
+        "_id": "5caca4f2b877bb0010e990b4",
         "assassin": null,
-        "id": "5cabf94cc5a20b7549c03401",
+        "id": "5caca4f2b877bb0010e990b4",
         "slug": "Catspaw_assassin"
     },
     {
         "__v": 0,
-        "_id": "5cabf94cc5a20b7549c03402",
+        "_id": "5caca4f2b877bb0010e990b5",
         "assassin": null,
-        "id": "5cabf94cc5a20b7549c03402",
+        "id": "5caca4f2b877bb0010e990b5",
         "slug": "Drummer"
     },
     {
         "__v": 0,
-        "_id": "5cabf94cc5a20b7549c03403",
+        "_id": "5caca4f2b877bb0010e990b6",
         "assassin": null,
-        "id": "5cabf94cc5a20b7549c03403",
+        "id": "5caca4f2b877bb0010e990b6",
         "slug": "Faceless_Men"
     },
     {
         "__v": 0,
-        "_id": "5cabf94cc5a20b7549c03404",
+        "_id": "5caca4f2b877bb0010e990b7",
         "assassin": null,
-        "id": "5cabf94cc5a20b7549c03404",
+        "id": "5caca4f2b877bb0010e990b7",
         "slug": "Jaqen_H%27ghar"
     },
     {
         "__v": 0,
-        "_id": "5cabf94cc5a20b7549c03405",
+        "_id": "5caca4f2b877bb0010e990b8",
         "assassin": {
             "__v": 0,
-            "_id": "5cabf999c5a20b7549c04042",
+            "_id": "5caca541b877bb0010e99d22",
             "actor": "Noah Taylor",
             "age": {
                 "age": 50,
@@ -67,7 +67,7 @@
                 "Oathkeeper",
                 "First of His Name"
             ],
-            "createdAt": "2019-04-09T01:47:05.028Z",
+            "createdAt": "2019-04-09T13:59:29.488Z",
             "culture": [
                 "Northmen"
             ],
@@ -75,7 +75,7 @@
             "first_seen": "\"Dark Wings, Dark Words\"",
             "gender": "male",
             "house": "House Bolton",
-            "id": "5cabf999c5a20b7549c04042",
+            "id": "5caca541b877bb0010e99d22",
             "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/c/cf/Locke_Staffel_4.jpg/revision/latest?cb=20170905200142",
             "longevity": [],
             "longevityB": [],
@@ -101,24 +101,24 @@
                 "Castellan",
                 "Harrenhal"
             ],
-            "updatedAt": "2019-04-09T01:47:05.028Z"
+            "updatedAt": "2019-04-09T13:59:29.488Z"
         },
-        "id": "5cabf94cc5a20b7549c03405",
+        "id": "5caca4f2b877bb0010e990b8",
         "slug": "Locke"
     },
     {
         "__v": 0,
-        "_id": "5cabf94cc5a20b7549c03406",
+        "_id": "5caca4f2b877bb0010e990b9",
         "assassin": null,
-        "id": "5cabf94cc5a20b7549c03406",
+        "id": "5caca4f2b877bb0010e990b9",
         "slug": "Mandon_Moore"
     },
     {
         "__v": 0,
-        "_id": "5cabf94cc5a20b7549c03407",
+        "_id": "5caca4f2b877bb0010e990ba",
         "assassin": {
-            "__v": 0,
-            "_id": "5cabf999c5a20b7549c040ec",
+            "__v": 1,
+            "_id": "5caca541b877bb0010e99dcc",
             "actor": "Ed Skrein",
             "age": {
                 "age": 36,
@@ -171,18 +171,41 @@
                 "Battle of the Bastards",
                 "The Winds of Winter"
             ],
-            "createdAt": "2019-04-09T01:47:05.090Z",
+            "createdAt": "2019-04-09T13:59:29.559Z",
             "culture": [
                 "Tyroshi"
             ],
             "first_seen": "\"Second Sons\"",
             "gender": "male",
             "house": "Second Sons",
-            "id": "5cabf999c5a20b7549c040ec",
+            "id": "5caca541b877bb0010e99dcc",
             "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/d/d8/Daario-s6e4.jpg/revision/latest/scale-to-width-down/323?cb=20160512195958",
             "longevity": [],
-            "longevityB": [],
+            "longevityB": [
+                0.9828643798828125,
+                0.973217248916626,
+                0.9743329286575317,
+                0.9762482047080994,
+                0.9710028171539307,
+                0.9759682416915894,
+                0.9680458307266235,
+                0.9707721471786499,
+                0.966578483581543,
+                0.9710435271263123,
+                0.9561933875083923,
+                0.9653837084770203,
+                0.963529109954834,
+                0.9635456204414368,
+                0.9542235732078552,
+                0.9557763338088989,
+                0.9584553241729736,
+                0.9523535370826721,
+                0.9427146911621094,
+                0.9671885371208191,
+                0.9398725628852844
+            ],
             "longevityC": [],
+            "longevityStartB": 305,
             "lovers": [
                 "Daenerys Targaryen"
             ],
@@ -195,7 +218,7 @@
                 "title": "Daario_Naharis"
             },
             "plod": 0,
-            "plodB": 0,
+            "plodB": 0.0171356201171875,
             "plodC": 0,
             "religion": [
                 ""
@@ -209,17 +232,17 @@
                 "Slaver's Bay",
                 "Second Sons"
             ],
-            "updatedAt": "2019-04-09T01:47:05.090Z"
+            "updatedAt": "2019-04-09T13:59:29.559Z"
         },
-        "id": "5cabf94cc5a20b7549c03407",
+        "id": "5caca4f2b877bb0010e990ba",
         "slug": "Daario_Naharis"
     },
     {
         "__v": 0,
-        "_id": "5cabf94cc5a20b7549c03408",
+        "_id": "5caca4f2b877bb0010e990bb",
         "assassin": {
             "__v": 0,
-            "_id": "5cabf999c5a20b7549c040bb",
+            "_id": "5caca541b877bb0010e99d9b",
             "actor": "Burn Gorman",
             "age": {
                 "age": 45,
@@ -247,7 +270,7 @@
                 "Oathkeeper",
                 "First of His Name"
             ],
-            "createdAt": "2019-04-09T01:47:05.072Z",
+            "createdAt": "2019-04-09T13:59:29.539Z",
             "culture": [
                 ""
             ],
@@ -255,7 +278,7 @@
             "first_seen": "\"Walk of Punishment\"",
             "gender": "male",
             "house": "Mutineers",
-            "id": "5cabf999c5a20b7549c040bb",
+            "id": "5caca541b877bb0010e99d9b",
             "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/5/58/Karl_tanner_released_by_HBO_S4.PNG/revision/latest?cb=20170506112727",
             "longevity": [],
             "longevityB": [],
@@ -281,24 +304,24 @@
             "slug": "Karl_Tanner",
             "spouse": [],
             "titles": [],
-            "updatedAt": "2019-04-09T01:47:05.072Z"
+            "updatedAt": "2019-04-09T13:59:29.539Z"
         },
-        "id": "5cabf94cc5a20b7549c03408",
+        "id": "5caca4f2b877bb0010e990bb",
         "slug": "Karl_Tanner"
     },
     {
         "__v": 0,
-        "_id": "5cabf94cc5a20b7549c03409",
+        "_id": "5caca4f2b877bb0010e990bc",
         "assassin": null,
-        "id": "5cabf94cc5a20b7549c03409",
+        "id": "5caca4f2b877bb0010e990bc",
         "slug": "Unidentified_Warlock"
     },
     {
         "__v": 0,
-        "_id": "5cabf94cc5a20b7549c0340a",
+        "_id": "5caca4f2b877bb0010e990bd",
         "assassin": {
             "__v": 0,
-            "_id": "5cabf999c5a20b7549c040e0",
+            "_id": "5caca541b877bb0010e99dc0",
             "actor": "Faye Marsay",
             "age": {
                 "age": 33,
@@ -328,7 +351,7 @@
                 "The Broken Man",
                 "No One"
             ],
-            "createdAt": "2019-04-09T01:47:05.086Z",
+            "createdAt": "2019-04-09T13:59:29.555Z",
             "culture": [
                 "Braavosi"
             ],
@@ -336,7 +359,7 @@
             "first_seen": "\"High Sparrow\"",
             "gender": "female",
             "house": "Faceless Men",
-            "id": "5cabf999c5a20b7549c040e0",
+            "id": "5caca541b877bb0010e99dc0",
             "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/4/4c/Waif6x08.png/revision/latest/scale-to-width-down/350?cb=20160609061651",
             "longevity": [],
             "longevityB": [],
@@ -361,16 +384,16 @@
             "slug": "Waif",
             "spouse": [],
             "titles": [],
-            "updatedAt": "2019-04-09T01:47:05.086Z"
+            "updatedAt": "2019-04-09T13:59:29.555Z"
         },
-        "id": "5cabf94cc5a20b7549c0340a",
+        "id": "5caca4f2b877bb0010e990bd",
         "slug": "Waif"
     },
     {
         "__v": 0,
-        "_id": "5cabf94cc5a20b7549c0340b",
+        "_id": "5caca4f2b877bb0010e990be",
         "assassin": null,
-        "id": "5cabf94cc5a20b7549c0340b",
+        "id": "5caca4f2b877bb0010e990be",
         "slug": "Wineseller"
     }
 ]
