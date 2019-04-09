@@ -1,7 +1,7 @@
 [
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebcc",
+        "_id": "5cabf95cc5a20b7549c03941",
         "founder": [],
         "location": "The Qhoyne",
         "name": "Ar Noy",
@@ -12,7 +12,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebcd",
+        "_id": "5cabf95cc5a20b7549c03942",
         "founder": [],
         "location": "Essos",
         "name": "Asshai",
@@ -26,7 +26,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebce",
+        "_id": "5cabf95cc5a20b7549c03943",
         "founder": [
             "Ghiscari Empire"
         ],
@@ -48,7 +48,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebcf",
+        "_id": "5cabf95cc5a20b7549c03944",
         "founder": [],
         "location": "Hyrkoon",
         "name": "Bayasabhad",
@@ -59,7 +59,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebd0",
+        "_id": "5cabf95cc5a20b7549c03945",
         "founder": [],
         "location": "Essos",
         "name": "Bhorash",
@@ -70,7 +70,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebd1",
+        "_id": "5cabf95cc5a20b7549c03946",
         "founder": [
             "Moonsingers"
         ],
@@ -91,7 +91,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebd2",
+        "_id": "5cabf95cc5a20b7549c03947",
         "founder": [],
         "location": "On the Rhoyne",
         "name": "Chroyane",
@@ -102,7 +102,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebd3",
+        "_id": "5cabf95cc5a20b7549c03948",
         "founder": [
             "Valyrian Freehold"
         ],
@@ -115,7 +115,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebd4",
+        "_id": "5cabf95cc5a20b7549c03949",
         "founder": [],
         "location": "Western Essos",
         "name": "Free Cities",
@@ -142,7 +142,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebd5",
+        "_id": "5cabf95cc5a20b7549c0394a",
         "founder": [],
         "location": "The Vale",
         "name": "Gulltown",
@@ -155,7 +155,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebd6",
+        "_id": "5cabf95cc5a20b7549c0394b",
         "founder": [
             "Aegon I Targaryen"
         ],
@@ -180,7 +180,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebd7",
+        "_id": "5cabf95cc5a20b7549c0394c",
         "founder": [],
         "location": "The Westerlands",
         "name": "Lannisport",
@@ -195,7 +195,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebd8",
+        "_id": "5cabf95cc5a20b7549c0394d",
         "founder": [],
         "location": "The Free Cities",
         "name": "Lorath",
@@ -206,7 +206,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebd9",
+        "_id": "5cabf95cc5a20b7549c0394e",
         "founder": [
             "Valyrian Freehold"
         ],
@@ -219,7 +219,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebda",
+        "_id": "5cabf95cc5a20b7549c0394f",
         "founder": [
             "Valyrian Freehold"
         ],
@@ -232,7 +232,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebdb",
+        "_id": "5cabf95cc5a20b7549c03950",
         "founder": [
             "Ghiscari Empire"
         ],
@@ -256,7 +256,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebdc",
+        "_id": "5cabf95cc5a20b7549c03951",
         "founder": [],
         "location": "The Free Cities",
         "name": "Myr",
@@ -267,7 +267,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebdd",
+        "_id": "5cabf95cc5a20b7549c03952",
         "founder": [],
         "location": "Essos",
         "name": "New Ghis",
@@ -278,7 +278,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebde",
+        "_id": "5cabf95cc5a20b7549c03953",
         "founder": [],
         "location": "The Free Cities",
         "name": "Norvos",
@@ -293,7 +293,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebdf",
+        "_id": "5cabf95cc5a20b7549c03954",
         "founder": [],
         "location": "Essos",
         "name": "Ny Sar",
@@ -304,18 +304,22 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebe0",
+        "_id": "5cabf95cc5a20b7549c03955",
         "founder": [],
         "location": "Ghiscar",
         "name": "Old Ghis",
         "placesOfNote": [],
-        "religion": [],
-        "rulers": [],
+        "religion": [
+            "Ghiscari religion"
+        ],
+        "rulers": [
+            "Ghiscari Empire"
+        ],
         "type": "City"
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebe1",
+        "_id": "5cabf95cc5a20b7549c03956",
         "founder": [
             "Valyrian Freehold"
         ],
@@ -332,7 +336,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebe2",
+        "_id": "5cabf95cc5a20b7549c03957",
         "founder": [],
         "location": "The Reach",
         "name": "Oldtown",
@@ -351,7 +355,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebe3",
+        "_id": "5cabf95cc5a20b7549c03958",
         "founder": [
             "Valyrian Freehold"
         ],
@@ -364,7 +368,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebe4",
+        "_id": "5cabf95cc5a20b7549c03959",
         "founder": [
             "Valyrian Freehold"
         ],
@@ -382,7 +386,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebe5",
+        "_id": "5cabf95cc5a20b7549c0395a",
         "founder": [],
         "location": "Ib",
         "name": "Port of Ibben",
@@ -393,7 +397,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebe6",
+        "_id": "5cabf95cc5a20b7549c0395b",
         "founder": [],
         "location": "Essos",
         "name": "Qarth",
@@ -411,7 +415,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebe7",
+        "_id": "5cabf95cc5a20b7549c0395c",
         "founder": [
             "Valyrian Freehold"
         ],
@@ -426,7 +430,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebe8",
+        "_id": "5cabf95cc5a20b7549c0395d",
         "founder": [],
         "location": "Hyrkoon",
         "name": "Samyrian",
@@ -437,7 +441,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebe9",
+        "_id": "5cabf95cc5a20b7549c0395e",
         "founder": [],
         "location": "Essos",
         "name": "Sar Mell",
@@ -448,7 +452,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebea",
+        "_id": "5cabf95cc5a20b7549c0395f",
         "founder": [],
         "location": "Kingdom of Sarnor",
         "name": "Sathar",
@@ -459,7 +463,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebeb",
+        "_id": "5cabf95cc5a20b7549c03960",
         "founder": [],
         "location": "Dorne",
         "name": "Sunspear",
@@ -478,7 +482,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebec",
+        "_id": "5cabf95cc5a20b7549c03961",
         "founder": [
             "Valyrian Freehold"
         ],
@@ -491,7 +495,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebed",
+        "_id": "5cabf95cc5a20b7549c03962",
         "founder": [
             "Valyrian Freehold"
         ],
@@ -504,7 +508,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebee",
+        "_id": "5cabf95cc5a20b7549c03963",
         "founder": [],
         "location": "The Free Cities",
         "name": "Tyrosh",
@@ -517,7 +521,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebef",
+        "_id": "5cabf95cc5a20b7549c03964",
         "founder": [],
         "location": "Dothraki sea",
         "name": "Vaes Dothrak",
@@ -536,7 +540,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebf0",
+        "_id": "5cabf95cc5a20b7549c03965",
         "founder": [
             "Valyrian Freehold"
         ],
@@ -555,7 +559,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebf1",
+        "_id": "5cabf95cc5a20b7549c03966",
         "founder": [],
         "location": "The North",
         "name": "White Harbor",
@@ -571,7 +575,7 @@
     },
     {
         "__v": 0,
-        "_id": "5c9817974d1c4e54abc7ebf2",
+        "_id": "5cabf95cc5a20b7549c03967",
         "founder": [],
         "location": "Bay of Dragons",
         "name": "Yunkai",

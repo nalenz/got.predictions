@@ -4,19 +4,19 @@
         "male": true,
         "birth": 253,
         "age": 47,
-        "pageRank": 0.008703618873110398,
+        "pageRank": 0.010171306209850108,
         "numRelatives": 0,
         "allegiances": [
-            136
+            105
         ],
         "books": [
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
         "culture": -1,
-        "house": 122,
+        "house": 98,
         "locations": [],
         "titles": [],
         "houseRegion": 11
@@ -26,32 +26,38 @@
         "male": true,
         "birth": 269,
         "age": 31,
-        "pageRank": 0.12505726065048098,
+        "pageRank": 0.14614561027837258,
         "numRelatives": 0,
         "allegiances": [
-            152
+            118
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1,
-            17
+            15
         ],
-        "culture": 21,
-        "house": 139,
+        "culture": 15,
+        "house": 112,
         "locations": [
-            81,
-            74,
-            75,
-            48,
-            22,
-            50
+            178,
+            159,
+            160,
+            105,
+            54,
+            112,
+            178,
+            159,
+            160,
+            54,
+            105,
+            112
         ],
         "titles": [
-            436,
-            27
+            295,
+            21
         ],
         "houseRegion": 4
     },
@@ -60,21 +66,22 @@
         "male": false,
         "birth": 282,
         "age": 18,
-        "pageRank": 0.015116811726981219,
+        "pageRank": 0.017665952890792293,
         "numRelatives": 0,
         "allegiances": [
-            9
+            7
         ],
         "books": [
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
         "culture": -1,
-        "house": 8,
+        "house": 6,
         "locations": [
-            34
+            75,
+            75
         ],
         "titles": [],
         "houseRegion": -1
@@ -84,26 +91,29 @@
         "male": false,
         "birth": 257,
         "age": 43,
-        "pageRank": 0.03939532753092075,
-        "numRelatives": 0.10869565217391304,
+        "pageRank": 0.046038543897216275,
+        "numRelatives": 0.22727272727272727,
         "allegiances": [
-            169,
-            318
+            132,
+            242
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 40,
-        "house": 156,
+        "culture": 28,
+        "house": 126,
         "locations": [
-            34
+            75,
+            75,
+            63,
+            102
         ],
         "titles": [
-            186
+            126
         ],
         "houseRegion": 9
     },
@@ -112,21 +122,23 @@
         "male": false,
         "birth": 265,
         "age": 35,
-        "pageRank": 0.0233623453962437,
+        "pageRank": 0.027301927194860815,
         "numRelatives": 0,
         "allegiances": [
-            136
+            105
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
-        "culture": -1,
-        "house": 122,
+        "culture": 30,
+        "house": 98,
         "locations": [
-            9,
-            6
+            25,
+            21,
+            25,
+            10
         ],
         "titles": [],
         "houseRegion": 11
@@ -136,18 +148,18 @@
         "male": true,
         "birth": 290,
         "age": 10,
-        "pageRank": 0.013284470911589555,
+        "pageRank": 0.015524625267665952,
         "numRelatives": 0,
         "allegiances": [
-            229
+            173
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
         "culture": -1,
-        "house": 211,
+        "house": 164,
         "locations": [],
         "titles": [],
         "houseRegion": 9
@@ -157,19 +169,22 @@
         "male": false,
         "birth": 286,
         "age": 14,
-        "pageRank": 0.025194686211635363,
+        "pageRank": 0.029443254817987152,
         "numRelatives": 0,
         "allegiances": [
-            318
+            242
         ],
         "books": [
-            5,
-            3,
+            4,
+            2,
             1
         ],
-        "culture": 41,
-        "house": 295,
-        "locations": [],
+        "culture": 29,
+        "house": 227,
+        "locations": [
+            86,
+            93
+        ],
         "titles": [],
         "houseRegion": 9
     },
@@ -178,28 +193,30 @@
         "male": true,
         "birth": 247,
         "age": 53,
-        "pageRank": 0.05955107650022904,
+        "pageRank": 0.069593147751606,
         "numRelatives": 0,
         "allegiances": [
-            311,
-            367
+            238,
+            279
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 9,
-        "house": 288,
+        "culture": 6,
+        "house": 223,
         "locations": [
-            34,
-            4
+            75,
+            16,
+            16,
+            75
         ],
         "titles": [
-            469,
-            423
+            321,
+            287
         ],
         "houseRegion": 2
     },
@@ -208,21 +225,23 @@
         "male": true,
         "birth": 295,
         "age": 5,
-        "pageRank": 0.021988089784699953,
+        "pageRank": 0.02569593147751606,
         "numRelatives": 0,
         "allegiances": [
-            136
+            105
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
         "culture": -1,
-        "house": 122,
+        "house": 98,
         "locations": [
-            9,
-            6
+            25,
+            21,
+            25,
+            10
         ],
         "titles": [],
         "houseRegion": 11
@@ -232,18 +251,18 @@
         "male": true,
         "birth": 256,
         "age": 44,
-        "pageRank": 0.013742556115437472,
+        "pageRank": 0.016059957173447537,
         "numRelatives": 0,
         "allegiances": [
-            154
+            120
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
-        "culture": 44,
-        "house": 141,
+        "culture": 30,
+        "house": 114,
         "locations": [],
         "titles": [],
         "houseRegion": 11
@@ -253,18 +272,20 @@
         "male": false,
         "birth": 218,
         "age": 82,
-        "pageRank": 0.016491067338524967,
-        "numRelatives": 0.06521739130434782,
+        "pageRank": 0.019271948608137045,
+        "numRelatives": 0.13636363636363635,
         "allegiances": [
-            34,
-            336
+            26,
+            258
         ],
         "books": [
-            3
+            2
         ],
         "culture": -1,
-        "house": 26,
-        "locations": [],
+        "house": 21,
+        "locations": [
+            86
+        ],
         "titles": [],
         "houseRegion": 24
     },
@@ -273,26 +294,32 @@
         "male": false,
         "birth": 284,
         "age": 16,
-        "pageRank": 0.04489234997709574,
-        "numRelatives": 0.021739130434782608,
+        "pageRank": 0.05299785867237687,
+        "numRelatives": 0.045454545454545456,
         "allegiances": [
-            183,
-            310
+            142,
+            237
         ],
         "books": [
-            5,
-            3,
+            4,
+            2,
             1
         ],
-        "culture": 33,
-        "house": 169,
+        "culture": 23,
+        "house": 135,
         "locations": [
-            4,
-            43,
-            33,
-            81,
-            29,
-            56
+            16,
+            91,
+            73,
+            178,
+            69,
+            123,
+            16,
+            91,
+            73,
+            178,
+            69,
+            123
         ],
         "titles": [],
         "houseRegion": 8
@@ -302,22 +329,25 @@
         "male": false,
         "birth": 273,
         "age": 27,
-        "pageRank": 0.02015574896930829,
-        "numRelatives": 0.043478260869565216,
+        "pageRank": 0.023554603854389723,
+        "numRelatives": 0.09090909090909091,
         "allegiances": [
-            223
+            168
         ],
         "books": [
-            3,
+            2,
             1,
-            17
+            15
         ],
-        "culture": 33,
-        "house": 205,
+        "culture": 23,
+        "house": 159,
         "locations": [
-            4,
-            11,
-            81
+            16,
+            28,
+            178,
+            16,
+            28,
+            178
         ],
         "titles": [],
         "houseRegion": 8
@@ -327,23 +357,25 @@
         "male": false,
         "birth": 291,
         "age": 9,
-        "pageRank": 0.026110856619331196,
+        "pageRank": 0.030513918629550323,
         "numRelatives": 0,
         "allegiances": [
-            72
+            55
         ],
         "books": [
-            5,
-            3,
+            4,
+            2,
             1
         ],
-        "culture": 41,
-        "house": 59,
+        "culture": 29,
+        "house": 48,
         "locations": [
-            34
+            75,
+            75,
+            6
         ],
         "titles": [
-            168
+            115
         ],
         "houseRegion": 17
     },
@@ -352,21 +384,23 @@
         "male": false,
         "birth": 282,
         "age": 18,
-        "pageRank": 0.021071919377004124,
+        "pageRank": 0.02462526766595289,
         "numRelatives": 0,
         "allegiances": [
-            136
+            105
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
-        "culture": -1,
-        "house": 122,
+        "culture": 30,
+        "house": 98,
         "locations": [
-            9,
-            6
+            25,
+            21,
+            25,
+            10
         ],
         "titles": [],
         "houseRegion": 11
@@ -376,26 +410,29 @@
         "male": false,
         "birth": 282,
         "age": 18,
-        "pageRank": 0.0554283096655978,
-        "numRelatives": 0.043478260869565216,
+        "pageRank": 0.06477516059957174,
+        "numRelatives": 0.09090909090909091,
         "allegiances": [
-            136,
-            192
+            105,
+            147
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
-        "culture": 44,
-        "house": 122,
+        "culture": 30,
+        "house": 98,
         "locations": [
-            56,
-            9,
-            6
+            123,
+            25,
+            21,
+            123,
+            25,
+            10
         ],
         "titles": [
-            174
+            120
         ],
         "houseRegion": 11
     },
@@ -404,21 +441,23 @@
         "male": true,
         "birth": 295,
         "age": 5,
-        "pageRank": 0.02153000458085204,
+        "pageRank": 0.025160599571734475,
         "numRelatives": 0,
         "allegiances": [
-            136
+            105
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
         "culture": -1,
-        "house": 122,
+        "house": 98,
         "locations": [
-            9,
-            6
+            25,
+            21,
+            25,
+            10
         ],
         "titles": [],
         "houseRegion": 11
@@ -428,22 +467,25 @@
         "male": true,
         "birth": 229,
         "age": 71,
-        "pageRank": 0.009161704076958314,
+        "pageRank": 0.010706638115631691,
         "numRelatives": 0,
         "allegiances": [
-            81
+            64
         ],
         "books": [
             0,
-            5
+            4
         ],
-        "culture": 9,
-        "house": 68,
+        "culture": 6,
+        "house": 57,
         "locations": [
-            34
+            75,
+            29,
+            75,
+            169
         ],
         "titles": [
-            251
+            171
         ],
         "houseRegion": 0
     },
@@ -452,26 +494,31 @@
         "male": true,
         "birth": 257,
         "age": 43,
-        "pageRank": 0.07466788822721027,
+        "pageRank": 0.0872591006423983,
         "numRelatives": 0,
         "allegiances": [
-            213
+            162
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1,
-            17
+            15
         ],
-        "culture": 34,
-        "house": 195,
+        "culture": 24,
+        "house": 153,
         "locations": [
-            75
+            160,
+            160,
+            155,
+            172,
+            93,
+            97
         ],
         "titles": [
-            18
+            15
         ],
         "houseRegion": 3
     },
@@ -480,29 +527,51 @@
         "male": false,
         "birth": 276,
         "age": 24,
-        "pageRank": 0.17315620705451215,
+        "pageRank": 0.20182012847965738,
         "numRelatives": 0,
         "allegiances": [
-            213
+            162
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1,
-            17
+            15
         ],
-        "culture": 14,
-        "house": 195,
+        "culture": 9,
+        "house": 153,
         "locations": [
-            34,
-            64,
             75,
-            56
+            135,
+            160,
+            123,
+            60,
+            168,
+            41,
+            135,
+            160,
+            123,
+            125,
+            75,
+            63,
+            62,
+            179,
+            43,
+            79,
+            155,
+            172,
+            10,
+            165,
+            86,
+            93,
+            97,
+            89,
+            167
         ],
         "titles": [
-            447
+            305
         ],
         "houseRegion": 3
     },
@@ -511,19 +580,20 @@
         "male": true,
         "birth": 249,
         "age": 51,
-        "pageRank": 0.009161704076958314,
+        "pageRank": 0.010706638115631691,
         "numRelatives": 0,
         "allegiances": [
-            183
+            142
         ],
         "books": [
             1,
-            17
+            15
         ],
-        "culture": 33,
-        "house": 169,
+        "culture": 23,
+        "house": 135,
         "locations": [
-            81
+            178,
+            178
         ],
         "titles": [],
         "houseRegion": 8
@@ -533,25 +603,28 @@
         "male": true,
         "birth": 263,
         "age": 37,
-        "pageRank": 0.029317453046266605,
-        "numRelatives": 0.10869565217391304,
+        "pageRank": 0.034261241970021415,
+        "numRelatives": 0.22727272727272727,
         "allegiances": [
-            136
+            105
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
         "culture": -1,
-        "house": 122,
+        "house": 98,
         "locations": [
-            60,
-            9,
-            6
+            129,
+            25,
+            21,
+            129,
+            25,
+            10
         ],
         "titles": [
-            469
+            321
         ],
         "houseRegion": 11
     },
@@ -560,19 +633,19 @@
         "male": false,
         "birth": 285,
         "age": 15,
-        "pageRank": 0.007787448465414567,
+        "pageRank": 0.009100642398286937,
         "numRelatives": 0,
         "allegiances": [
-            136
+            105
         ],
         "books": [
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
         "culture": -1,
-        "house": 122,
+        "house": 98,
         "locations": [],
         "titles": [],
         "houseRegion": 11
@@ -582,43 +655,64 @@
         "male": false,
         "birth": 289,
         "age": 11,
-        "pageRank": 0.6037562986715529,
+        "pageRank": 0.7077087794432548,
         "numRelatives": 0,
         "allegiances": [
-            290,
-            17
+            222,
+            12
         ],
         "books": [
-            18,
-            4,
-            0,
-            5,
+            16,
             3,
-            1,
-            17
-        ],
-        "culture": 33,
-        "house": 269,
-        "locations": [
-            78,
-            34,
+            0,
             4,
-            31,
-            39,
-            35,
-            81,
-            42,
+            2,
+            1,
+            15
+        ],
+        "culture": 23,
+        "house": 209,
+        "locations": [
+            175,
             75,
-            15,
-            60,
-            53,
+            16,
+            71,
+            84,
+            77,
+            178,
+            90,
+            160,
+            34,
+            129,
+            117,
+            123,
+            25,
+            61,
+            131,
+            16,
+            71,
+            84,
+            77,
+            178,
+            175,
+            90,
+            160,
+            34,
+            129,
+            117,
+            123,
+            25,
+            61,
+            0,
             56,
-            9,
-            26,
-            61
+            150,
+            75,
+            10,
+            86,
+            169
         ],
         "titles": [
-            447
+            305
         ],
         "houseRegion": 8
     },
@@ -627,34 +721,43 @@
         "male": false,
         "birth": 275,
         "age": 25,
-        "pageRank": 0.2217132386623912,
-        "numRelatives": 0.021739130434782608,
+        "pageRank": 0.26498929336188437,
+        "numRelatives": 0.045454545454545456,
         "allegiances": [
-            152,
-            180
+            118,
+            140
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
-            1,
-            17
-        ],
-        "culture": 21,
-        "house": 139,
-        "locations": [
-            11,
-            81,
             0,
-            42,
-            75,
-            72,
-            50
+            4,
+            2,
+            1,
+            15
+        ],
+        "culture": 15,
+        "house": 112,
+        "locations": [
+            28,
+            178,
+            4,
+            90,
+            160,
+            156,
+            112,
+            28,
+            178,
+            4,
+            90,
+            160,
+            156,
+            112,
+            10,
+            86
         ],
         "titles": [
-            447,
-            23
+            305,
+            18
         ],
         "houseRegion": 4
     },
@@ -663,29 +766,38 @@
         "male": true,
         "birth": 277,
         "age": 23,
-        "pageRank": 0.08795235913879981,
+        "pageRank": 0.10278372591006424,
         "numRelatives": 0,
         "allegiances": [
-            329
+            252
         ],
         "books": [
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
-        "culture": 9,
-        "house": 305,
+        "culture": 6,
+        "house": 236,
         "locations": [
-            24,
-            34,
+            58,
             75,
-            9
+            160,
+            25,
+            160,
+            25,
+            29,
+            144,
+            125,
+            58,
+            75,
+            93,
+            169
         ],
         "titles": [
-            116,
-            217,
-            358
+            77,
+            149,
+            240
         ],
         "houseRegion": 0
     },
@@ -694,40 +806,69 @@
         "male": true,
         "birth": 236,
         "age": 64,
-        "pageRank": 0.407695831424645,
+        "pageRank": 0.47644539614561027,
         "numRelatives": 0,
         "allegiances": [
-            279,
-            44,
-            360,
-            305,
-            372
+            213,
+            31,
+            274,
+            233,
+            284
         ],
         "books": [
-            18,
-            4,
-            0,
-            5,
+            16,
             3,
+            0,
+            4,
+            2,
             1,
-            17
+            15
         ],
-        "culture": 27,
-        "house": 258,
+        "culture": 19,
+        "house": 200,
         "locations": [
-            46,
-            13,
-            24,
-            34,
-            81,
+            101,
+            31,
+            58,
             75,
-            41,
-            9
+            178,
+            160,
+            87,
+            25,
+            178,
+            160,
+            87,
+            101,
+            25,
+            56,
+            29,
+            31,
+            144,
+            125,
+            58,
+            75,
+            102,
+            166,
+            13,
+            151,
+            153,
+            57,
+            7,
+            179,
+            93,
+            108,
+            169,
+            89,
+            180,
+            3,
+            94,
+            167,
+            113
         ],
         "titles": [
-            469,
-            222,
-            123
+            321,
+            152,
+            82
         ],
         "houseRegion": 13
     },
@@ -736,17 +877,17 @@
         "male": true,
         "birth": 299,
         "age": 1,
-        "pageRank": 0.0004580852038479157,
+        "pageRank": 0.0005353319057815846,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
-            5
+            4
         ],
         "culture": -1,
         "house": -1,
         "locations": [],
         "titles": [
-            112
+            74
         ],
         "houseRegion": -1
     },
@@ -755,16 +896,19 @@
         "male": false,
         "birth": 283,
         "age": 17,
-        "pageRank": 0.017407237746220796,
+        "pageRank": 0.020342612419700215,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
-            5,
-            3
+            4,
+            2
         ],
         "culture": -1,
         "house": -1,
-        "locations": [],
+        "locations": [
+            150,
+            93
+        ],
         "titles": [],
         "houseRegion": -1
     },
@@ -773,11 +917,11 @@
         "male": true,
         "birth": 293,
         "age": 7,
-        "pageRank": 0.001374255611543747,
+        "pageRank": 0.0016059957173447537,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
-            3
+            2
         ],
         "culture": -1,
         "house": -1,
@@ -790,31 +934,39 @@
         "male": true,
         "birth": 267,
         "age": 33,
-        "pageRank": 0.08612001832340815,
+        "pageRank": 0.1006423982869379,
         "numRelatives": 0,
         "allegiances": [
-            290,
-            367
+            222,
+            279
         ],
         "books": [
-            18,
-            4,
+            16,
+            3,
             0,
-            5,
+            4,
             1
         ],
-        "culture": 33,
-        "house": 269,
+        "culture": 23,
+        "house": 209,
         "locations": [
-            63,
-            4,
-            17,
-            7,
-            81,
-            75
+            134,
+            16,
+            39,
+            22,
+            178,
+            160,
+            134,
+            16,
+            39,
+            22,
+            178,
+            160,
+            56,
+            86
         ],
         "titles": [
-            106
+            72
         ],
         "houseRegion": 8
     },
@@ -823,22 +975,24 @@
         "male": true,
         "birth": 289,
         "age": 11,
-        "pageRank": 0.013742556115437472,
+        "pageRank": 0.016059957173447537,
         "numRelatives": 0,
         "allegiances": [
-            303
+            231
         ],
         "books": [
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
-        "culture": 33,
-        "house": 282,
+        "culture": 23,
+        "house": 218,
         "locations": [
-            29,
-            74
+            69,
+            159,
+            69,
+            159
         ],
         "titles": [],
         "houseRegion": 8
@@ -848,23 +1002,26 @@
         "male": false,
         "birth": 289,
         "age": 11,
-        "pageRank": 0.014658726523133303,
+        "pageRank": 0.017130620985010708,
         "numRelatives": 0,
         "allegiances": [
-            79
+            62
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 33,
-        "house": 66,
+        "culture": 23,
+        "house": 55,
         "locations": [
-            12,
-            81
+            30,
+            178,
+            30,
+            178,
+            93
         ],
         "titles": [],
         "houseRegion": 8
@@ -874,17 +1031,18 @@
         "male": true,
         "birth": 282,
         "age": 18,
-        "pageRank": 0.002748511223087494,
+        "pageRank": 0.0032119914346895075,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
-            5,
-            3
+            4,
+            2
         ],
-        "culture": 44,
+        "culture": 30,
         "house": -1,
         "locations": [
-            31
+            71,
+            71
         ],
         "titles": [],
         "houseRegion": -1
@@ -894,21 +1052,23 @@
         "male": true,
         "birth": 289,
         "age": 11,
-        "pageRank": 0.022904260192395786,
+        "pageRank": 0.02676659528907923,
         "numRelatives": 0,
         "allegiances": [
-            136
+            105
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
-        "culture": -1,
-        "house": 122,
+        "culture": 30,
+        "house": 98,
         "locations": [
-            9,
-            6
+            25,
+            21,
+            25,
+            10
         ],
         "titles": [],
         "houseRegion": 11
@@ -918,33 +1078,45 @@
         "male": true,
         "birth": 290,
         "age": 10,
-        "pageRank": 0.42968392120934495,
+        "pageRank": 0.5021413276231264,
         "numRelatives": 0,
         "allegiances": [
-            290
+            222
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 33,
-        "house": 269,
+        "culture": 23,
+        "house": 209,
         "locations": [
-            78,
-            76,
-            34,
-            44,
-            4,
-            51,
-            81,
+            175,
+            162,
             75,
-            56
+            95,
+            16,
+            115,
+            178,
+            160,
+            123,
+            95,
+            16,
+            115,
+            162,
+            178,
+            175,
+            160,
+            123,
+            56,
+            75,
+            86,
+            169
         ],
         "titles": [
-            445
+            303
         ],
         "houseRegion": 8
     },
@@ -953,22 +1125,24 @@
         "male": true,
         "birth": 284,
         "age": 16,
-        "pageRank": 0.011452130096197893,
+        "pageRank": 0.013383297644539615,
         "numRelatives": 0,
         "allegiances": [
-            303
+            231
         ],
         "books": [
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
-        "culture": 33,
-        "house": 282,
+        "culture": 23,
+        "house": 218,
         "locations": [
-            29,
-            74
+            69,
+            159,
+            69,
+            159
         ],
         "titles": [],
         "houseRegion": 8
@@ -978,32 +1152,37 @@
         "male": true,
         "birth": 264,
         "age": 36,
-        "pageRank": 0.10765002290426019,
-        "numRelatives": 0.021739130434782608,
+        "pageRank": 0.12580299785867238,
+        "numRelatives": 0.045454545454545456,
         "allegiances": [
-            187,
-            190,
-            11,
-            292
+            144,
+            145,
+            9,
+            223
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1,
-            17
+            15
         ],
         "culture": -1,
-        "house": 173,
+        "house": 137,
         "locations": [
-            47,
+            103,
+            75,
             34,
-            15,
-            56
+            123,
+            103,
+            34,
+            123,
+            144,
+            75
         ],
         "titles": [
-            469
+            321
         ],
         "houseRegion": 27
     },
@@ -1012,18 +1191,18 @@
         "male": true,
         "birth": 281,
         "age": 19,
-        "pageRank": 0.015574896930829134,
+        "pageRank": 0.018201284796573874,
         "numRelatives": 0,
         "allegiances": [
-            136
+            105
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
         "culture": -1,
-        "house": 122,
+        "house": 98,
         "locations": [],
         "titles": [],
         "houseRegion": 11
@@ -1033,16 +1212,16 @@
         "male": true,
         "birth": 220,
         "age": 80,
-        "pageRank": 0.002748511223087494,
+        "pageRank": 0.0032119914346895075,
         "numRelatives": 0,
         "allegiances": [
-            37
+            28
         ],
         "books": [
-            5
+            4
         ],
         "culture": -1,
-        "house": 28,
+        "house": 23,
         "locations": [],
         "titles": [],
         "houseRegion": 19
@@ -1052,35 +1231,44 @@
         "male": true,
         "birth": 243,
         "age": 57,
-        "pageRank": 0.10306917086578103,
+        "pageRank": 0.12044967880085652,
         "numRelatives": 0,
         "allegiances": [
-            316,
-            290,
-            34
+            240,
+            222,
+            26
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 44,
-        "house": 293,
+        "culture": 30,
+        "house": 225,
         "locations": [
-            78,
-            42,
-            3,
-            56,
+            175,
+            90,
             9,
-            6
+            123,
+            25,
+            21,
+            175,
+            90,
+            9,
+            123,
+            119,
+            25,
+            56,
+            15,
+            86
         ],
         "titles": [
-            469,
-            510,
-            161,
-            63
+            321,
+            343,
+            109,
+            48
         ],
         "houseRegion": 11
     },
@@ -1089,21 +1277,23 @@
         "male": false,
         "birth": 292,
         "age": 8,
-        "pageRank": 0.021071919377004124,
+        "pageRank": 0.02462526766595289,
         "numRelatives": 0,
         "allegiances": [
-            136
+            105
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
         "culture": -1,
-        "house": 122,
+        "house": 98,
         "locations": [
-            9,
-            6
+            25,
+            21,
+            25,
+            10
         ],
         "titles": [],
         "houseRegion": 11
@@ -1113,37 +1303,56 @@
         "male": false,
         "birth": 266,
         "age": 34,
-        "pageRank": 0.7324782409528172,
-        "numRelatives": 0.08695652173913043,
+        "pageRank": 0.8629550321199143,
+        "numRelatives": 0.18181818181818182,
         "allegiances": [
-            187,
-            46
+            144,
+            33
         ],
         "books": [
-            18,
-            4,
-            0,
-            5,
+            16,
             3,
+            0,
+            4,
+            2,
             1,
-            17
+            15
         ],
-        "culture": 54,
-        "house": 173,
+        "culture": 40,
+        "house": 137,
         "locations": [
-            24,
-            34,
-            81,
+            58,
             75,
+            178,
+            160,
+            123,
+            25,
+            178,
+            160,
+            123,
+            25,
             56,
-            9
+            15,
+            29,
+            144,
+            125,
+            58,
+            75,
+            82,
+            49,
+            155,
+            10,
+            86,
+            93,
+            108,
+            169
         ],
         "titles": [
-            216,
-            454,
-            450,
-            171,
-            456
+            148,
+            311,
+            307,
+            118,
+            313
         ],
         "houseRegion": 27
     },
@@ -1152,22 +1361,24 @@
         "male": true,
         "birth": 251,
         "age": 49,
-        "pageRank": 0.004122766834631242,
+        "pageRank": 0.004817987152034261,
         "numRelatives": 0,
         "allegiances": [
-            20
+            14
         ],
         "books": [
-            3
+            2
         ],
         "culture": -1,
-        "house": 17,
+        "house": 12,
         "locations": [
-            60,
-            53
+            129,
+            117,
+            129,
+            117
         ],
         "titles": [
-            11
+            10
         ],
         "houseRegion": -1
     },
@@ -1176,26 +1387,31 @@
         "male": true,
         "birth": 240,
         "age": 60,
-        "pageRank": 0.015574896930829134,
+        "pageRank": 0.018201284796573874,
         "numRelatives": 0,
         "allegiances": [
-            367
+            279
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
         "culture": -1,
-        "house": 338,
+        "house": 260,
         "locations": [
-            4,
-            43,
-            11,
-            42,
-            50
+            16,
+            91,
+            28,
+            90,
+            112,
+            16,
+            91,
+            28,
+            90,
+            112
         ],
         "titles": [],
         "houseRegion": -1
@@ -1205,19 +1421,19 @@
         "male": true,
         "birth": 288,
         "age": 12,
-        "pageRank": 0.008245533669262483,
+        "pageRank": 0.009635974304068522,
         "numRelatives": 0,
         "allegiances": [
-            136
+            105
         ],
         "books": [
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
         "culture": -1,
-        "house": 122,
+        "house": 98,
         "locations": [],
         "titles": [],
         "houseRegion": 11
@@ -1227,21 +1443,25 @@
         "male": true,
         "birth": 249,
         "age": 51,
-        "pageRank": 0.016491067338524967,
+        "pageRank": 0.019271948608137045,
         "numRelatives": 0,
         "allegiances": [
-            183
+            142
         ],
         "books": [
             1
         ],
-        "culture": 33,
-        "house": 169,
+        "culture": 23,
+        "house": 135,
         "locations": [
-            4,
-            33,
-            75,
-            41
+            16,
+            73,
+            160,
+            87,
+            16,
+            73,
+            160,
+            87
         ],
         "titles": [],
         "houseRegion": 8
@@ -1251,19 +1471,20 @@
         "male": true,
         "birth": 240,
         "age": 60,
-        "pageRank": 0.00961978928080623,
+        "pageRank": 0.011241970021413276,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
-            3
+            2
         ],
         "culture": -1,
         "house": -1,
         "locations": [
-            13
+            31,
+            31
         ],
         "titles": [
-            469
+            321
         ],
         "houseRegion": -1
     },
@@ -1272,21 +1493,23 @@
         "male": false,
         "birth": 290,
         "age": 10,
-        "pageRank": 0.026110856619331196,
+        "pageRank": 0.030513918629550323,
         "numRelatives": 0,
         "allegiances": [
-            136
+            105
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
         "culture": -1,
-        "house": 122,
+        "house": 98,
         "locations": [
-            9,
-            6
+            25,
+            21,
+            25,
+            10
         ],
         "titles": [],
         "houseRegion": 11
@@ -1296,25 +1519,31 @@
         "male": true,
         "birth": 275,
         "age": 25,
-        "pageRank": 0.01923957856161246,
+        "pageRank": 0.022483940042826552,
         "numRelatives": 0,
         "allegiances": [
-            31
+            23
         ],
         "books": [
-            5,
-            3,
+            4,
+            2,
             1,
-            17
+            15
         ],
-        "culture": 14,
-        "house": 23,
+        "culture": 9,
+        "house": 18,
         "locations": [
-            34,
-            75
+            75,
+            160,
+            41,
+            160,
+            75,
+            179,
+            43,
+            155
         ],
         "titles": [
-            469
+            321
         ],
         "houseRegion": 3
     },
@@ -1323,16 +1552,38 @@
         "male": false,
         "birth": 284,
         "age": 16,
-        "pageRank": 0.7810352725606963,
-        "numRelatives": 0.06521739130434782,
+        "pageRank": 0.9122055674518201,
+        "numRelatives": 0.13636363636363635,
         "allegiances": [],
         "books": [],
-        "culture": 17,
-        "house": 283,
+        "culture": 12,
+        "house": 219,
         "locations": [
-            46,
-            34,
-            9
+            101,
+            75,
+            25,
+            114,
+            101,
+            25,
+            29,
+            75,
+            102,
+            10,
+            165,
+            86,
+            93,
+            108,
+            42,
+            97,
+            170,
+            169,
+            158,
+            89,
+            180,
+            3,
+            94,
+            167,
+            113
         ],
         "titles": [],
         "houseRegion": 2
@@ -1342,25 +1593,27 @@
         "male": true,
         "birth": 257,
         "age": 43,
-        "pageRank": 0.01694915254237288,
-        "numRelatives": 0.06521739130434782,
+        "pageRank": 0.01980728051391863,
+        "numRelatives": 0.13636363636363635,
         "allegiances": [
-            187
+            144
         ],
         "books": [
-            18,
-            5,
-            3,
+            16,
+            4,
+            2,
             1
         ],
-        "culture": 54,
-        "house": 173,
+        "culture": 40,
+        "house": 137,
         "locations": [
-            6
+            21,
+            15,
+            93
         ],
         "titles": [
-            469,
-            52
+            321,
+            39
         ],
         "houseRegion": 27
     },
@@ -1369,18 +1622,19 @@
         "male": true,
         "birth": 244,
         "age": 56,
-        "pageRank": 0.013284470911589555,
-        "numRelatives": 0.043478260869565216,
+        "pageRank": 0.015524625267665952,
+        "numRelatives": 0.09090909090909091,
         "allegiances": [
-            187
+            144
         ],
         "books": [
-            18
+            16
         ],
-        "culture": 54,
-        "house": 173,
+        "culture": 40,
+        "house": 137,
         "locations": [
-            6
+            21,
+            93
         ],
         "titles": [],
         "houseRegion": 27
@@ -1390,23 +1644,24 @@
         "male": false,
         "birth": 284,
         "age": 16,
-        "pageRank": 0.02565277141548328,
+        "pageRank": 0.029978586723768737,
         "numRelatives": 0,
         "allegiances": [
-            332
+            255
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
-        "culture": 44,
-        "house": 308,
+        "culture": 30,
+        "house": 239,
         "locations": [
-            73
+            157,
+            157
         ],
         "titles": [
-            469
+            321
         ],
         "houseRegion": 11
     },
@@ -1415,28 +1670,33 @@
         "male": true,
         "birth": 252,
         "age": 48,
-        "pageRank": 0.03344021988089785,
-        "numRelatives": 0.021739130434782608,
+        "pageRank": 0.03907922912205567,
+        "numRelatives": 0.045454545454545456,
         "allegiances": [
-            136
+            105
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
         "culture": -1,
-        "house": 122,
+        "house": 98,
         "locations": [
-            34,
+            75,
+            123,
+            25,
+            21,
+            123,
+            25,
             56,
-            9,
-            6
+            75,
+            10
         ],
         "titles": [
-            469
+            321
         ],
         "houseRegion": 11
     },
@@ -1445,29 +1705,33 @@
         "male": true,
         "birth": 273,
         "age": 27,
-        "pageRank": 0.04764086120018323,
+        "pageRank": 0.055674518201284794,
         "numRelatives": 0,
         "allegiances": [
-            187
+            144
         ],
         "books": [
-            18,
-            4,
-            0,
-            5,
+            16,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 54,
-        "house": 173,
+        "culture": 40,
+        "house": 137,
         "locations": [
-            47,
-            56,
-            6
+            103,
+            123,
+            21,
+            103,
+            123,
+            44,
+            93
         ],
         "titles": [
-            469,
-            513
+            321,
+            345
         ],
         "houseRegion": 27
     },
@@ -1476,37 +1740,53 @@
         "male": true,
         "birth": 260,
         "age": 40,
-        "pageRank": 0.3032524049473202,
-        "numRelatives": 0.17391304347826086,
+        "pageRank": 0.3576017130620985,
+        "numRelatives": 0.36363636363636365,
         "allegiances": [
-            278,
-            45
+            212,
+            32
         ],
         "books": [
-            18,
+            16,
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
-        "culture": 55,
-        "house": 257,
+        "culture": 41,
+        "house": 199,
         "locations": [
-            78,
-            66,
-            24,
-            34,
-            4,
-            81,
-            21,
-            50,
-            41
+            175,
+            138,
+            58,
+            75,
+            16,
+            178,
+            53,
+            112,
+            87,
+            16,
+            178,
+            175,
+            138,
+            53,
+            112,
+            87,
+            56,
+            29,
+            144,
+            58,
+            75,
+            151,
+            165,
+            86,
+            169
         ],
         "titles": [
-            469,
-            347,
-            3,
-            121
+            321,
+            235,
+            2,
+            81
         ],
         "houseRegion": 18
     },
@@ -1515,19 +1795,21 @@
         "male": false,
         "birth": 296,
         "age": 4,
-        "pageRank": 0.009161704076958314,
+        "pageRank": 0.010706638115631691,
         "numRelatives": 0,
         "allegiances": [
-            136
+            105
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
         "culture": -1,
-        "house": 122,
-        "locations": [],
+        "house": 98,
+        "locations": [
+            125
+        ],
         "titles": [],
         "houseRegion": 11
     },
@@ -1536,21 +1818,24 @@
         "male": false,
         "birth": 250,
         "age": 50,
-        "pageRank": 0.005038937242327073,
-        "numRelatives": 0.021739130434782608,
+        "pageRank": 0.005888650963597431,
+        "numRelatives": 0.045454545454545456,
         "allegiances": [
-            31
+            23
         ],
         "books": [
-            5,
-            3,
+            4,
+            2,
             1
         ],
-        "culture": 12,
-        "house": 23,
-        "locations": [],
+        "culture": 8,
+        "house": 18,
+        "locations": [
+            179,
+            43
+        ],
         "titles": [
-            180
+            122
         ],
         "houseRegion": 3
     },
@@ -1559,16 +1844,18 @@
         "male": true,
         "birth": 287,
         "age": 13,
-        "pageRank": 0.0036646816307833257,
+        "pageRank": 0.004282655246252677,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
-            3
+            2
         ],
-        "culture": 7,
+        "culture": 4,
         "house": -1,
         "locations": [
-            60
+            129,
+            129,
+            10
         ],
         "titles": [],
         "houseRegion": -1
@@ -1578,33 +1865,40 @@
         "male": true,
         "birth": 245,
         "age": 55,
-        "pageRank": 0.03160787906550618,
+        "pageRank": 0.03693790149892934,
         "numRelatives": 0,
         "allegiances": [
-            208,
-            367
+            157,
+            279
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 44,
-        "house": 190,
+        "culture": 30,
+        "house": 148,
         "locations": [
-            63,
-            4,
-            7,
-            43,
-            75,
-            50,
-            62
+            134,
+            16,
+            22,
+            91,
+            160,
+            112,
+            132,
+            134,
+            16,
+            22,
+            91,
+            160,
+            112,
+            132
         ],
         "titles": [
-            469,
-            90
+            321,
+            62
         ],
         "houseRegion": 11
     },
@@ -1613,30 +1907,33 @@
         "male": true,
         "birth": 237,
         "age": 63,
-        "pageRank": 0.016491067338524967,
+        "pageRank": 0.019271948608137045,
         "numRelatives": 0,
         "allegiances": [
-            151,
-            367
+            117,
+            279
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 44,
-        "house": 137,
+        "culture": 30,
+        "house": 111,
         "locations": [
-            41,
-            73,
-            56
+            87,
+            157,
+            123,
+            87,
+            157,
+            123
         ],
         "titles": [
-            469,
-            428,
-            62
+            321,
+            291,
+            47
         ],
         "houseRegion": 11
     },
@@ -1645,22 +1942,25 @@
         "male": true,
         "birth": 287,
         "age": 13,
-        "pageRank": 0.02153000458085204,
+        "pageRank": 0.025160599571734475,
         "numRelatives": 0,
         "allegiances": [
-            278,
-            45
+            212,
+            32
         ],
         "books": [
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
         "culture": -1,
-        "house": 257,
+        "house": 199,
         "locations": [
-            4
+            16,
+            16,
+            29,
+            86
         ],
         "titles": [],
         "houseRegion": 18
@@ -1670,18 +1970,18 @@
         "male": true,
         "birth": 294,
         "age": 6,
-        "pageRank": 0.015116811726981219,
+        "pageRank": 0.017665952890792293,
         "numRelatives": 0,
         "allegiances": [
-            136
+            105
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
-        "culture": -1,
-        "house": 122,
+        "culture": 30,
+        "house": 98,
         "locations": [],
         "titles": [],
         "houseRegion": 11
@@ -1691,20 +1991,23 @@
         "male": true,
         "birth": 287,
         "age": 13,
-        "pageRank": 0.0233623453962437,
-        "numRelatives": 0.021739130434782608,
+        "pageRank": 0.027301927194860815,
+        "numRelatives": 0.045454545454545456,
         "allegiances": [
-            306
+            234
         ],
         "books": [
-            4,
             3,
+            2,
             1
         ],
-        "culture": 40,
-        "house": 284,
+        "culture": 28,
+        "house": 220,
         "locations": [
-            41
+            87,
+            87,
+            63,
+            67
         ],
         "titles": [],
         "houseRegion": 9
@@ -1714,16 +2017,16 @@
         "male": true,
         "birth": 255,
         "age": 45,
-        "pageRank": 0.010077874484654145,
+        "pageRank": 0.011777301927194861,
         "numRelatives": 0,
         "allegiances": [
-            152
+            118
         ],
         "books": [
-            3
+            2
         ],
-        "culture": 21,
-        "house": 139,
+        "culture": 15,
+        "house": 112,
         "locations": [],
         "titles": [],
         "houseRegion": 4
@@ -1733,23 +2036,24 @@
         "male": true,
         "birth": 255,
         "age": 45,
-        "pageRank": 0.017865322950068714,
+        "pageRank": 0.0208779443254818,
         "numRelatives": 0,
         "allegiances": [
-            154
+            120
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
-        "culture": 44,
-        "house": 141,
+        "culture": 30,
+        "house": 114,
         "locations": [
-            60
+            129,
+            129
         ],
         "titles": [
-            469
+            321
         ],
         "houseRegion": 11
     },
@@ -1758,28 +2062,32 @@
         "male": true,
         "birth": 277,
         "age": 23,
-        "pageRank": 0.01282638570774164,
+        "pageRank": 0.014989293361884369,
         "numRelatives": 0,
         "allegiances": [
-            336
+            258
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 52,
-        "house": 312,
+        "culture": 38,
+        "house": 242,
         "locations": [
-            32,
-            3,
-            15
+            72,
+            9,
+            34,
+            72,
+            34,
+            9,
+            86
         ],
         "titles": [
-            469,
-            160
+            321,
+            108
         ],
         "houseRegion": 19
     },
@@ -1788,30 +2096,46 @@
         "male": true,
         "birth": 247,
         "age": 53,
-        "pageRank": 0.16765918460833715,
-        "numRelatives": 0.08695652173913043,
+        "pageRank": 0.19914346895074947,
+        "numRelatives": 0.18181818181818182,
         "allegiances": [
-            232
+            176
         ],
         "books": [
-            18,
-            4,
-            0,
-            5,
+            16,
             3,
+            0,
+            4,
+            2,
             1,
-            17
+            15
         ],
-        "culture": 14,
-        "house": 214,
+        "culture": 9,
+        "house": 167,
         "locations": [
-            34,
             75,
-            9
+            160,
+            25,
+            128,
+            160,
+            25,
+            29,
+            125,
+            75,
+            62,
+            179,
+            155,
+            172,
+            10,
+            165,
+            86,
+            93,
+            97,
+            170
         ],
         "titles": [
-            439,
-            325
+            298,
+            219
         ],
         "houseRegion": -1
     },
@@ -1820,21 +2144,24 @@
         "male": false,
         "birth": 291,
         "age": 9,
-        "pageRank": 0.021071919377004124,
+        "pageRank": 0.02462526766595289,
         "numRelatives": 0,
         "allegiances": [
-            213
+            162
         ],
         "books": [
-            5,
-            3,
+            4,
+            2,
             1,
-            17
+            15
         ],
-        "culture": 14,
-        "house": 195,
+        "culture": 9,
+        "house": 153,
         "locations": [
-            75
+            160,
+            60,
+            160,
+            172
         ],
         "titles": [],
         "houseRegion": 3
@@ -1844,26 +2171,30 @@
         "male": true,
         "birth": 212,
         "age": 88,
-        "pageRank": 0.017865322950068714,
-        "numRelatives": 0.043478260869565216,
+        "pageRank": 0.0208779443254818,
+        "numRelatives": 0.09090909090909091,
         "allegiances": [
-            112
+            90
         ],
         "books": [
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
-        "culture": 21,
-        "house": 99,
+        "culture": 15,
+        "house": 83,
         "locations": [
-            40,
-            50
+            85,
+            112,
+            85,
+            112,
+            56,
+            169
         ],
         "titles": [
-            299,
-            44
+            203,
+            34
         ],
         "houseRegion": 4
     },
@@ -1872,23 +2203,25 @@
         "male": true,
         "birth": 284,
         "age": 16,
-        "pageRank": 0.005038937242327073,
+        "pageRank": 0.005888650963597431,
         "numRelatives": 0,
         "allegiances": [
-            43
+            30
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
         "culture": -1,
-        "house": 32,
+        "house": 24,
         "locations": [
-            65
+            136,
+            29,
+            136
         ],
         "titles": [
-            314
+            210
         ],
         "houseRegion": 2
     },
@@ -1897,25 +2230,27 @@
         "male": true,
         "birth": 289,
         "age": 11,
-        "pageRank": 0.008703618873110398,
+        "pageRank": 0.010171306209850108,
         "numRelatives": 0,
         "allegiances": [
-            303
+            231
         ],
         "books": [
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
-        "culture": 33,
-        "house": 282,
+        "culture": 23,
+        "house": 218,
         "locations": [
-            29,
-            74
+            69,
+            159,
+            69,
+            159
         ],
         "titles": [
-            210
+            143
         ],
         "houseRegion": 8
     },
@@ -1924,33 +2259,46 @@
         "male": true,
         "birth": 267,
         "age": 33,
-        "pageRank": 0.1690334402198809,
-        "numRelatives": 0.043478260869565216,
+        "pageRank": 0.2012847965738758,
+        "numRelatives": 0.09090909090909091,
         "allegiances": [
-            316
+            240
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 44,
-        "house": 293,
+        "culture": 30,
+        "house": 225,
         "locations": [
-            34,
-            1,
-            42,
             75,
+            5,
+            90,
+            160,
+            34,
+            132,
+            123,
+            90,
+            160,
+            34,
+            132,
+            123,
+            146,
+            56,
+            14,
+            44,
             15,
-            62,
-            56
+            75,
+            5,
+            86
         ],
         "titles": [
-            469,
-            371,
-            306
+            321,
+            251,
+            207
         ],
         "houseRegion": 11
     },
@@ -1959,26 +2307,32 @@
         "male": true,
         "birth": 287,
         "age": 13,
-        "pageRank": 0.022904260192395786,
+        "pageRank": 0.02676659528907923,
         "numRelatives": 0,
         "allegiances": [
-            107,
-            7
+            85,
+            6
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 14,
-        "house": 94,
+        "culture": 9,
+        "house": 78,
         "locations": [
-            34
+            75,
+            56,
+            92,
+            75,
+            7,
+            143,
+            93
         ],
         "titles": [
-            318
+            212
         ],
         "houseRegion": 3
     },
@@ -1987,23 +2341,29 @@
         "male": true,
         "birth": 287,
         "age": 13,
-        "pageRank": 0.06459001374255612,
+        "pageRank": 0.07708779443254818,
         "numRelatives": 0,
         "allegiances": [
-            44
+            31
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
         "culture": -1,
-        "house": 33,
+        "house": 25,
         "locations": [
-            34,
-            50
+            75,
+            112,
+            112,
+            29,
+            75,
+            151,
+            86,
+            93
         ],
         "titles": [],
         "houseRegion": 13
@@ -2013,26 +2373,32 @@
         "male": true,
         "birth": 259,
         "age": 41,
-        "pageRank": 0.03756298671552909,
-        "numRelatives": 0.043478260869565216,
+        "pageRank": 0.043897216274089934,
+        "numRelatives": 0.09090909090909091,
         "allegiances": [
-            136
+            105
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
-        "culture": 44,
-        "house": 122,
+        "culture": 30,
+        "house": 98,
         "locations": [
-            46,
-            47,
-            81,
-            62,
-            16,
-            56,
-            6
+            101,
+            103,
+            178,
+            132,
+            35,
+            123,
+            21,
+            103,
+            178,
+            132,
+            101,
+            35,
+            123
         ],
         "titles": [],
         "houseRegion": 11
@@ -2042,23 +2408,25 @@
         "male": true,
         "birth": 255,
         "age": 45,
-        "pageRank": 0.017865322950068714,
+        "pageRank": 0.0208779443254818,
         "numRelatives": 0,
         "allegiances": [
-            20
+            14
         ],
         "books": [
-            3
+            2
         ],
         "culture": -1,
-        "house": 17,
+        "house": 12,
         "locations": [
-            60,
-            53
+            129,
+            117,
+            129,
+            117
         ],
         "titles": [
-            103,
-            469
+            70,
+            321
         ],
         "houseRegion": -1
     },
@@ -2067,23 +2435,26 @@
         "male": true,
         "birth": 228,
         "age": 72,
-        "pageRank": 0.012368300503893724,
-        "numRelatives": 0.06521739130434782,
+        "pageRank": 0.014453961456102784,
+        "numRelatives": 0.13636363636363635,
         "allegiances": [
-            117
+            93
         ],
         "books": [
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
-        "culture": 47,
-        "house": 105,
-        "locations": [],
+        "culture": 33,
+        "house": 86,
+        "locations": [
+            49,
+            93
+        ],
         "titles": [
-            469,
-            271
+            321,
+            185
         ],
         "houseRegion": 13
     },
@@ -2092,21 +2463,23 @@
         "male": true,
         "birth": 286,
         "age": 14,
-        "pageRank": 0.008703618873110398,
-        "numRelatives": 0.021739130434782608,
+        "pageRank": 0.010171306209850108,
+        "numRelatives": 0.045454545454545456,
         "allegiances": [
-            221,
-            306
+            167,
+            234
         ],
         "books": [
-            3,
+            2,
             1
         ],
-        "culture": 44,
-        "house": 203,
+        "culture": 30,
+        "house": 158,
         "locations": [
-            13,
-            41
+            31,
+            87,
+            87,
+            31
         ],
         "titles": [],
         "houseRegion": 11
@@ -2116,20 +2489,22 @@
         "male": false,
         "birth": 287,
         "age": 13,
-        "pageRank": 0.010535959688502062,
+        "pageRank": 0.012312633832976445,
         "numRelatives": 0,
         "allegiances": [
-            340
+            260
         ],
         "books": [
-            5,
-            3
+            4,
+            2
         ],
-        "culture": 54,
-        "house": 316,
+        "culture": 40,
+        "house": 244,
         "locations": [
-            73,
-            56
+            157,
+            123,
+            157,
+            123
         ],
         "titles": [],
         "houseRegion": 27
@@ -2139,22 +2514,27 @@
         "male": false,
         "birth": 285,
         "age": 15,
-        "pageRank": 0.024736601007787448,
+        "pageRank": 0.028907922912205567,
         "numRelatives": 0,
         "allegiances": [
-            213
+            162
         ],
         "books": [
-            5,
-            3,
+            4,
+            2,
             1,
-            17
+            15
         ],
-        "culture": 14,
-        "house": 195,
+        "culture": 9,
+        "house": 153,
         "locations": [
-            34,
-            75
+            75,
+            160,
+            41,
+            160,
+            75,
+            155,
+            172
         ],
         "titles": [],
         "houseRegion": 3
@@ -2164,20 +2544,22 @@
         "male": false,
         "birth": 286,
         "age": 14,
-        "pageRank": 0.030233623453962438,
+        "pageRank": 0.035331905781584586,
         "numRelatives": 0,
         "allegiances": [
-            318
+            242
         ],
         "books": [
-            5,
-            3,
+            4,
+            2,
             1
         ],
         "culture": -1,
-        "house": 295,
+        "house": 227,
         "locations": [
-            34
+            75,
+            75,
+            86
         ],
         "titles": [],
         "houseRegion": 9
@@ -2187,21 +2569,23 @@
         "male": true,
         "birth": 290,
         "age": 10,
-        "pageRank": 0.015116811726981219,
+        "pageRank": 0.017665952890792293,
         "numRelatives": 0,
         "allegiances": [
-            136
+            105
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 44,
-        "house": 122,
-        "locations": [],
+        "culture": 30,
+        "house": 98,
+        "locations": [
+            56
+        ],
         "titles": [],
         "houseRegion": 11
     },
@@ -2210,25 +2594,29 @@
         "male": true,
         "birth": 278,
         "age": 22,
-        "pageRank": 0.00961978928080623,
+        "pageRank": 0.011241970021413276,
         "numRelatives": 0,
         "allegiances": [
-            215,
-            45
+            164,
+            32
         ],
         "books": [
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
-        "culture": 41,
-        "house": 197,
-        "locations": [],
+        "culture": 29,
+        "house": 155,
+        "locations": [
+            29,
+            47,
+            151
+        ],
         "titles": [
-            269,
-            65,
-            464
+            183,
+            50,
+            318
         ],
         "houseRegion": 9
     },
@@ -2237,19 +2625,19 @@
         "male": false,
         "birth": 264,
         "age": 36,
-        "pageRank": 0.02565277141548328,
-        "numRelatives": 0.043478260869565216,
+        "pageRank": 0.029978586723768737,
+        "numRelatives": 0.09090909090909091,
         "allegiances": [
-            332,
-            348
+            255,
+            266
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
-        "culture": -1,
-        "house": 308,
+        "culture": 30,
+        "house": 239,
         "locations": [],
         "titles": [],
         "houseRegion": 11
@@ -2259,18 +2647,18 @@
         "male": false,
         "birth": 296,
         "age": 4,
-        "pageRank": 0.01282638570774164,
+        "pageRank": 0.014989293361884369,
         "numRelatives": 0,
         "allegiances": [
-            136
+            105
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
         "culture": -1,
-        "house": 122,
+        "house": 98,
         "locations": [],
         "titles": [],
         "houseRegion": 11
@@ -2280,15 +2668,17 @@
         "male": false,
         "birth": 260,
         "age": 40,
-        "pageRank": 0.00320659642693541,
+        "pageRank": 0.003747323340471092,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
-            3
+            2
         ],
         "culture": -1,
         "house": -1,
-        "locations": [],
+        "locations": [
+            102
+        ],
         "titles": [],
         "houseRegion": -1
     },
@@ -2297,31 +2687,36 @@
         "male": true,
         "birth": 237,
         "age": 63,
-        "pageRank": 0.06367384333486029,
-        "numRelatives": 0.10869565217391304,
+        "pageRank": 0.07869379014989293,
+        "numRelatives": 0.22727272727272727,
         "allegiances": [
-            136,
-            137,
-            187
+            105,
+            106,
+            144
         ],
         "books": [
-            18,
-            4,
-            0,
-            5,
+            16,
             3,
+            0,
+            4,
+            2,
             1
         ],
         "culture": -1,
-        "house": 122,
+        "house": 98,
         "locations": [
-            34,
+            75,
+            123,
+            25,
+            21,
+            123,
+            25,
             56,
-            9,
-            6
+            15,
+            75
         ],
         "titles": [
-            305
+            206
         ],
         "houseRegion": 11
     },
@@ -2330,23 +2725,26 @@
         "male": false,
         "birth": 297,
         "age": 3,
-        "pageRank": 0.012368300503893724,
+        "pageRank": 0.014453961456102784,
         "numRelatives": 0,
         "allegiances": [
-            141
+            108
         ],
         "books": [
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
-        "culture": 33,
-        "house": 127,
+        "culture": 23,
+        "house": 102,
         "locations": [
-            11,
-            75,
-            72
+            28,
+            160,
+            156,
+            28,
+            160,
+            156
         ],
         "titles": [],
         "houseRegion": 8
@@ -2356,24 +2754,25 @@
         "male": true,
         "birth": 211,
         "age": 89,
-        "pageRank": 0.024278515803939534,
-        "numRelatives": 0.021739130434782608,
+        "pageRank": 0.028372591006423982,
+        "numRelatives": 0.045454545454545456,
         "allegiances": [
-            179,
-            152
+            139,
+            118
         ],
         "books": [
-            3,
+            2,
             1
         ],
-        "culture": 21,
-        "house": 166,
+        "culture": 15,
+        "house": 133,
         "locations": [
-            50
+            112,
+            112
         ],
         "titles": [
-            376,
-            61
+            255,
+            46
         ],
         "houseRegion": 4
     },
@@ -2382,27 +2781,30 @@
         "male": false,
         "birth": 298,
         "age": 2,
-        "pageRank": 0.024278515803939534,
-        "numRelatives": 0.021739130434782608,
+        "pageRank": 0.028372591006423982,
+        "numRelatives": 0.045454545454545456,
         "allegiances": [
-            165,
-            187
+            129,
+            144
         ],
         "books": [
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
-        "culture": 9,
-        "house": 152,
+        "culture": 6,
+        "house": 123,
         "locations": [
-            24,
-            34,
-            56
+            58,
+            75,
+            123,
+            123,
+            58,
+            75
         ],
         "titles": [
-            184
+            125
         ],
         "houseRegion": 2
     },
@@ -2411,14 +2813,21 @@
         "male": true,
         "birth": 256,
         "age": 44,
-        "pageRank": 0.19056344480073292,
-        "numRelatives": 0.06521739130434782,
+        "pageRank": 0.22805139186295503,
+        "numRelatives": 0.13636363636363635,
         "allegiances": [],
         "books": [],
-        "culture": 21,
-        "house": 139,
+        "culture": 15,
+        "house": 112,
         "locations": [
-            50
+            112,
+            112,
+            63,
+            102,
+            93,
+            169,
+            89,
+            113
         ],
         "titles": [],
         "houseRegion": 4
@@ -2428,18 +2837,18 @@
         "male": true,
         "birth": 281,
         "age": 19,
-        "pageRank": 0.008245533669262483,
+        "pageRank": 0.009635974304068522,
         "numRelatives": 0,
         "allegiances": [
-            168
+            131
         ],
         "books": [
-            3,
+            2,
             1,
-            17
+            15
         ],
         "culture": -1,
-        "house": 155,
+        "house": 125,
         "locations": [],
         "titles": [],
         "houseRegion": 17
@@ -2449,28 +2858,33 @@
         "male": true,
         "birth": 277,
         "age": 23,
-        "pageRank": 0.030233623453962438,
-        "numRelatives": 0.08695652173913043,
+        "pageRank": 0.035331905781584586,
+        "numRelatives": 0.18181818181818182,
         "allegiances": [
-            67
+            50
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 54,
-        "house": 54,
+        "culture": 40,
+        "house": 43,
         "locations": [
-            24,
-            34,
+            58,
+            75,
+            123,
+            21,
+            123,
             56,
-            6
+            68,
+            58,
+            75
         ],
         "titles": [
-            469
+            321
         ],
         "houseRegion": 27
     },
@@ -2479,20 +2893,25 @@
         "male": false,
         "birth": 217,
         "age": 83,
-        "pageRank": 0.02244617498854787,
+        "pageRank": 0.02569593147751606,
         "numRelatives": 0,
         "allegiances": [
-            25,
-            236
+            17,
+            179
         ],
         "books": [
             1
         ],
-        "culture": 19,
-        "house": 20,
-        "locations": [],
+        "culture": 14,
+        "house": 15,
+        "locations": [
+            93,
+            89,
+            180,
+            99
+        ],
         "titles": [
-            120
+            80
         ],
         "houseRegion": -1
     },
@@ -2501,28 +2920,33 @@
         "male": true,
         "birth": 277,
         "age": 23,
-        "pageRank": 0.0641319285387082,
-        "numRelatives": 0.021739130434782608,
+        "pageRank": 0.07548179871520343,
+        "numRelatives": 0.045454545454545456,
         "allegiances": [
-            320,
-            319
+            244,
+            243
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 41,
-        "house": 296,
+        "culture": 29,
+        "house": 228,
         "locations": [
-            34,
-            75
+            75,
+            160,
+            160,
+            75,
+            63,
+            11,
+            86
         ],
         "titles": [
-            469,
-            244
+            321,
+            166
         ],
         "houseRegion": -1
     },
@@ -2531,23 +2955,26 @@
         "male": true,
         "birth": 295,
         "age": 5,
-        "pageRank": 0.010535959688502062,
+        "pageRank": 0.012312633832976445,
         "numRelatives": 0,
         "allegiances": [
-            141
+            108
         ],
         "books": [
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
-        "culture": 33,
-        "house": 127,
+        "culture": 23,
+        "house": 102,
         "locations": [
-            11,
-            75,
-            72
+            28,
+            160,
+            156,
+            28,
+            160,
+            156
         ],
         "titles": [],
         "houseRegion": 8
@@ -2557,26 +2984,31 @@
         "male": true,
         "birth": 284,
         "age": 16,
-        "pageRank": 0.09573980760421438,
+        "pageRank": 0.11134903640256959,
         "numRelatives": 0,
         "allegiances": [
-            7
+            6
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
         "culture": -1,
-        "house": 6,
+        "house": 5,
         "locations": [
-            34,
-            56
+            75,
+            123,
+            123,
+            56,
+            150,
+            75,
+            93
         ],
         "titles": [
-            469
+            321
         ],
         "houseRegion": -1
     },
@@ -2585,31 +3017,36 @@
         "male": false,
         "birth": 245,
         "age": 55,
-        "pageRank": 0.05771873568483738,
-        "numRelatives": 0.10869565217391304,
+        "pageRank": 0.06745182012847965,
+        "numRelatives": 0.22727272727272727,
         "allegiances": [
-            187,
-            137
+            144,
+            106
         ],
         "books": [
-            18,
-            4,
-            0,
-            5,
+            16,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 54,
-        "house": 173,
+        "culture": 40,
+        "house": 137,
         "locations": [
-            24,
-            56,
-            9,
-            6
+            58,
+            123,
+            25,
+            21,
+            123,
+            25,
+            15,
+            58,
+            93
         ],
         "titles": [
-            165,
-            194
+            112,
+            132
         ],
         "houseRegion": 27
     },
@@ -2618,25 +3055,31 @@
         "male": true,
         "birth": 270,
         "age": 30,
-        "pageRank": 0.021071919377004124,
+        "pageRank": 0.02462526766595289,
         "numRelatives": 0,
         "allegiances": [
-            108
+            86
         ],
         "books": [
-            3,
+            2,
             1,
-            17
+            15
         ],
-        "culture": 11,
-        "house": 95,
+        "culture": 9,
+        "house": 79,
         "locations": [
-            64,
-            75
+            135,
+            160,
+            135,
+            160,
+            62,
+            143,
+            155,
+            93
         ],
         "titles": [
-            469,
-            155
+            321,
+            106
         ],
         "houseRegion": 3
     },
@@ -2645,21 +3088,29 @@
         "male": true,
         "birth": 275,
         "age": 25,
-        "pageRank": 0.03985341273476867,
+        "pageRank": 0.046573875802997856,
         "numRelatives": 0,
         "allegiances": [
-            111,
-            354,
-            399
+            89,
+            270,
+            297
         ],
         "books": [
             1
         ],
-        "culture": 14,
-        "house": 98,
-        "locations": [],
+        "culture": 9,
+        "house": 82,
+        "locations": [
+            179,
+            108,
+            170,
+            169,
+            89,
+            180,
+            3
+        ],
         "titles": [
-            469
+            321
         ],
         "houseRegion": 3
     },
@@ -2668,26 +3119,37 @@
         "male": false,
         "birth": 282,
         "age": 18,
-        "pageRank": 0.07100320659642693,
-        "numRelatives": 0.043478260869565216,
+        "pageRank": 0.08297644539614561,
+        "numRelatives": 0.09090909090909091,
         "allegiances": [],
         "books": [
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
-        "culture": 18,
+        "culture": 13,
         "house": -1,
         "locations": [
-            63,
-            44,
-            10,
-            52,
-            4,
-            17,
-            7,
-            75
+            134,
+            95,
+            27,
+            116,
+            16,
+            39,
+            22,
+            160,
+            134,
+            95,
+            27,
+            116,
+            16,
+            39,
+            22,
+            160,
+            67,
+            102,
+            10
         ],
         "titles": [],
         "houseRegion": -1
@@ -2697,25 +3159,27 @@
         "male": true,
         "birth": 250,
         "age": 50,
-        "pageRank": 0.010535959688502062,
+        "pageRank": 0.012312633832976445,
         "numRelatives": 0,
         "allegiances": [
-            177
+            137
         ],
         "books": [
-            5,
-            3,
+            4,
+            2,
             1
         ],
         "culture": -1,
-        "house": 164,
+        "house": 131,
         "locations": [
-            38,
-            15
+            81,
+            34,
+            81,
+            34
         ],
         "titles": [
-            469,
-            290
+            321,
+            200
         ],
         "houseRegion": 19
     },
@@ -2724,18 +3188,19 @@
         "male": true,
         "birth": 282,
         "age": 18,
-        "pageRank": 0.008703618873110398,
+        "pageRank": 0.010171306209850108,
         "numRelatives": 0,
         "allegiances": [
-            143
+            110
         ],
         "books": [
-            3
+            2
         ],
-        "culture": 21,
-        "house": 129,
+        "culture": 15,
+        "house": 104,
         "locations": [
-            22
+            54,
+            54
         ],
         "titles": [],
         "houseRegion": 4
@@ -2745,18 +3210,19 @@
         "male": true,
         "birth": 282,
         "age": 18,
-        "pageRank": 0.005955107650022904,
+        "pageRank": 0.006959314775160599,
         "numRelatives": 0,
         "allegiances": [
-            143
+            110
         ],
         "books": [
-            3
+            2
         ],
-        "culture": 21,
-        "house": 129,
+        "culture": 15,
+        "house": 104,
         "locations": [
-            22
+            54,
+            54
         ],
         "titles": [],
         "houseRegion": 4
@@ -2766,26 +3232,32 @@
         "male": true,
         "birth": 281,
         "age": 19,
-        "pageRank": 0.04443426477324782,
+        "pageRank": 0.05192719486081371,
         "numRelatives": 0,
         "allegiances": [
-            367
+            279
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 55,
-        "house": 338,
+        "culture": 41,
+        "house": 260,
         "locations": [
-            34,
-            4,
-            17,
-            7,
-            43
+            75,
+            16,
+            39,
+            22,
+            91,
+            16,
+            39,
+            22,
+            91,
+            75,
+            169
         ],
         "titles": [],
         "houseRegion": -1
@@ -2795,18 +3267,19 @@
         "male": true,
         "birth": 282,
         "age": 18,
-        "pageRank": 0.00961978928080623,
+        "pageRank": 0.011241970021413276,
         "numRelatives": 0,
         "allegiances": [
-            143
+            110
         ],
         "books": [
-            3
+            2
         ],
-        "culture": 21,
-        "house": 129,
+        "culture": 15,
+        "house": 104,
         "locations": [
-            22
+            54,
+            54
         ],
         "titles": [],
         "houseRegion": 4
@@ -2816,20 +3289,22 @@
         "male": true,
         "birth": 259,
         "age": 41,
-        "pageRank": 0.009161704076958314,
-        "numRelatives": 0.043478260869565216,
+        "pageRank": 0.010706638115631691,
+        "numRelatives": 0.09090909090909091,
         "allegiances": [
-            301
+            229
         ],
         "books": [
             0,
-            5
+            4
         ],
-        "culture": 27,
-        "house": 280,
-        "locations": [],
+        "culture": 19,
+        "house": 216,
+        "locations": [
+            149
+        ],
         "titles": [
-            321
+            215
         ],
         "houseRegion": 13
     },
@@ -2838,19 +3313,21 @@
         "male": true,
         "birth": 271,
         "age": 29,
-        "pageRank": 0.011452130096197893,
-        "numRelatives": 0.021739130434782608,
+        "pageRank": 0.013383297644539615,
+        "numRelatives": 0.045454545454545456,
         "allegiances": [
-            169
+            132
         ],
         "books": [
-            3
+            2
         ],
-        "culture": 41,
-        "house": 156,
-        "locations": [],
+        "culture": 29,
+        "house": 126,
+        "locations": [
+            102
+        ],
         "titles": [
-            469
+            321
         ],
         "houseRegion": 9
     },
@@ -2859,18 +3336,19 @@
         "male": false,
         "birth": 282,
         "age": 18,
-        "pageRank": 0.005038937242327073,
+        "pageRank": 0.005888650963597431,
         "numRelatives": 0,
         "allegiances": [
-            143
+            110
         ],
         "books": [
-            3
+            2
         ],
-        "culture": 21,
-        "house": 129,
+        "culture": 15,
+        "house": 104,
         "locations": [
-            22
+            54,
+            54
         ],
         "titles": [],
         "houseRegion": 4
@@ -2880,18 +3358,19 @@
         "male": false,
         "birth": 282,
         "age": 18,
-        "pageRank": 0.005038937242327073,
+        "pageRank": 0.005888650963597431,
         "numRelatives": 0,
         "allegiances": [
-            143
+            110
         ],
         "books": [
-            3
+            2
         ],
-        "culture": 21,
-        "house": 129,
+        "culture": 15,
+        "house": 104,
         "locations": [
-            22
+            54,
+            54
         ],
         "titles": [],
         "houseRegion": 4
@@ -2901,25 +3380,29 @@
         "male": true,
         "birth": 281,
         "age": 19,
-        "pageRank": 0.011910215300045808,
+        "pageRank": 0.013918629550321198,
         "numRelatives": 0,
         "allegiances": [
-            367
+            279
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
         "culture": -1,
-        "house": 338,
+        "house": 260,
         "locations": [
-            63,
-            4,
-            43,
-            75
+            134,
+            16,
+            91,
+            160,
+            134,
+            16,
+            91,
+            160
         ],
         "titles": [],
         "houseRegion": -1
@@ -2929,19 +3412,20 @@
         "male": true,
         "birth": 253,
         "age": 47,
-        "pageRank": 0.011910215300045808,
+        "pageRank": 0.013918629550321198,
         "numRelatives": 0,
         "allegiances": [
-            152
+            118
         ],
         "books": [
-            3,
-            17
+            2,
+            15
         ],
-        "culture": 21,
-        "house": 139,
+        "culture": 15,
+        "house": 112,
         "locations": [
-            50
+            112,
+            112
         ],
         "titles": [],
         "houseRegion": 4
@@ -2951,29 +3435,37 @@
         "male": true,
         "birth": 281,
         "age": 19,
-        "pageRank": 0.03160787906550618,
-        "numRelatives": 0.043478260869565216,
+        "pageRank": 0.03693790149892934,
+        "numRelatives": 0.09090909090909091,
         "allegiances": [
-            157,
-            34
+            122,
+            26
         ],
         "books": [
-            3,
+            2,
             1,
-            17
+            15
         ],
-        "culture": 52,
-        "house": 144,
+        "culture": 38,
+        "house": 116,
         "locations": [
-            32,
-            58,
-            81,
-            75,
-            15,
-            21
+            72,
+            126,
+            178,
+            160,
+            34,
+            53,
+            178,
+            160,
+            72,
+            126,
+            34,
+            53,
+            86,
+            93
         ],
         "titles": [
-            469
+            321
         ],
         "houseRegion": 19
     },
@@ -2982,23 +3474,25 @@
         "male": true,
         "birth": 271,
         "age": 29,
-        "pageRank": 0.0320659642693541,
+        "pageRank": 0.03800856531049251,
         "numRelatives": 0,
         "allegiances": [
-            290,
-            7
+            222,
+            6
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 33,
-        "house": 269,
+        "culture": 23,
+        "house": 209,
         "locations": [
-            81
+            178,
+            178,
+            93
         ],
         "titles": [],
         "houseRegion": 8
@@ -3008,25 +3502,28 @@
         "male": true,
         "birth": 254,
         "age": 46,
-        "pageRank": 0.019697663765460376,
-        "numRelatives": 0.043478260869565216,
+        "pageRank": 0.023019271948608137,
+        "numRelatives": 0.09090909090909091,
         "allegiances": [
-            154,
-            136
+            120,
+            105
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
-        "culture": 44,
-        "house": 141,
+        "culture": 30,
+        "house": 114,
         "locations": [
-            60,
-            73
+            129,
+            157,
+            129,
+            157,
+            56
         ],
         "titles": [
-            469
+            321
         ],
         "houseRegion": 11
     },
@@ -3035,29 +3532,35 @@
         "male": true,
         "birth": 249,
         "age": 51,
-        "pageRank": 0.05451213925790197,
-        "numRelatives": 0.043478260869565216,
+        "pageRank": 0.06370449678800856,
+        "numRelatives": 0.09090909090909091,
         "allegiances": [
-            136
+            105
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
         "culture": -1,
-        "house": 122,
+        "house": 98,
         "locations": [
-            78,
-            34,
-            81,
-            9,
-            6
+            175,
+            75,
+            178,
+            25,
+            21,
+            178,
+            175,
+            25,
+            56,
+            75,
+            10
         ],
         "titles": [
-            469
+            321
         ],
         "houseRegion": 11
     },
@@ -3066,18 +3569,18 @@
         "male": true,
         "birth": 287,
         "age": 13,
-        "pageRank": 0.015116811726981219,
+        "pageRank": 0.017665952890792293,
         "numRelatives": 0,
         "allegiances": [
-            136
+            105
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
         "culture": -1,
-        "house": 122,
+        "house": 98,
         "locations": [],
         "titles": [],
         "houseRegion": 11
@@ -3087,29 +3590,36 @@
         "male": true,
         "birth": 241,
         "age": 59,
-        "pageRank": 0.038021071919377,
+        "pageRank": 0.04443254817987152,
         "numRelatives": 0,
         "allegiances": [
-            323
+            247
         ],
         "books": [
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
-        "culture": 33,
-        "house": 299,
+        "culture": 23,
+        "house": 231,
         "locations": [
-            36,
-            12,
-            81,
-            29,
-            42,
-            56
+            78,
+            30,
+            178,
+            69,
+            90,
+            123,
+            78,
+            30,
+            178,
+            69,
+            90,
+            123,
+            102
         ],
         "titles": [
-            60
+            45
         ],
         "houseRegion": 8
     },
@@ -3118,29 +3628,36 @@
         "male": true,
         "birth": 260,
         "age": 40,
-        "pageRank": 0.04260192395785616,
-        "numRelatives": 0.06521739130434782,
+        "pageRank": 0.04978586723768737,
+        "numRelatives": 0.13636363636363635,
         "allegiances": [
-            262
+            201
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 8,
-        "house": 241,
+        "culture": 5,
+        "house": 189,
         "locations": [
-            20,
-            34,
-            81,
-            42,
-            56
+            51,
+            75,
+            178,
+            90,
+            123,
+            178,
+            90,
+            51,
+            123,
+            56,
+            75,
+            151
         ],
         "titles": [
-            273
+            187
         ],
         "houseRegion": 8
     },
@@ -3149,21 +3666,23 @@
         "male": false,
         "birth": 232,
         "age": 68,
-        "pageRank": 0.0036646816307833257,
+        "pageRank": 0.004282655246252677,
         "numRelatives": 0,
         "allegiances": [
-            334,
-            148
+            257,
+            114
         ],
         "books": [
-            3
+            2
         ],
-        "culture": 47,
-        "house": 310,
-        "locations": [],
+        "culture": 33,
+        "house": 241,
+        "locations": [
+            46
+        ],
         "titles": [
-            469,
-            56
+            321,
+            42
         ],
         "houseRegion": 13
     },
@@ -3172,19 +3691,20 @@
         "male": true,
         "birth": 240,
         "age": 60,
-        "pageRank": 0.008245533669262483,
+        "pageRank": 0.009635974304068522,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
-            3
+            2
         ],
         "culture": -1,
         "house": -1,
         "locations": [
-            13
+            31,
+            31
         ],
         "titles": [
-            469
+            321
         ],
         "houseRegion": -1
     },
@@ -3193,21 +3713,24 @@
         "male": false,
         "birth": 283,
         "age": 17,
-        "pageRank": 0.03481447549244159,
+        "pageRank": 0.04068522483940043,
         "numRelatives": 0,
         "allegiances": [
-            305
+            233
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 15,
-        "house": 283,
-        "locations": [],
+        "culture": 10,
+        "house": 219,
+        "locations": [
+            89,
+            3
+        ],
         "titles": [],
         "houseRegion": 2
     },
@@ -3216,19 +3739,21 @@
         "male": true,
         "birth": 299,
         "age": 1,
-        "pageRank": 0.021071919377004124,
+        "pageRank": 0.02462526766595289,
         "numRelatives": 0,
         "allegiances": [
-            136
+            105
         ],
         "books": [
-            3
+            2
         ],
         "culture": -1,
-        "house": 122,
+        "house": 98,
         "locations": [
-            9,
-            6
+            25,
+            21,
+            25,
+            10
         ],
         "titles": [],
         "houseRegion": 11
@@ -3238,41 +3763,67 @@
         "male": true,
         "birth": 266,
         "age": 34,
-        "pageRank": 0.8538708199725149,
-        "numRelatives": 0.06521739130434782,
+        "pageRank": 1,
+        "numRelatives": 0.13636363636363635,
         "allegiances": [
-            187,
-            360
+            144,
+            274
         ],
         "books": [
-            18,
-            4,
-            0,
-            5,
+            16,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 54,
-        "house": 173,
+        "culture": 40,
+        "house": 137,
         "locations": [
-            78,
-            13,
-            24,
-            34,
+            175,
             31,
-            49,
-            81,
-            29,
+            58,
             75,
-            41,
+            71,
+            107,
+            178,
+            69,
+            160,
+            87,
+            123,
+            25,
+            21,
+            71,
+            107,
+            178,
+            69,
+            175,
+            160,
+            87,
+            123,
+            119,
+            25,
             56,
-            9,
-            6
+            14,
+            44,
+            74,
+            15,
+            29,
+            31,
+            144,
+            125,
+            58,
+            75,
+            102,
+            49,
+            86,
+            93,
+            169
         ],
         "titles": [
-            469,
-            221,
-            506
+            321,
+            151,
+            339
         ],
         "houseRegion": 27
     },
@@ -3281,22 +3832,22 @@
         "male": true,
         "birth": 266,
         "age": 34,
-        "pageRank": 0.018781493357764543,
-        "numRelatives": 0.08695652173913043,
+        "pageRank": 0.021948608137044967,
+        "numRelatives": 0.18181818181818182,
         "allegiances": [
-            136
+            105
         ],
         "books": [
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
         "culture": -1,
-        "house": 122,
+        "house": 98,
         "locations": [],
         "titles": [
-            469
+            321
         ],
         "houseRegion": 11
     },
@@ -3305,24 +3856,27 @@
         "male": false,
         "birth": 296,
         "age": 4,
-        "pageRank": 0.01832340815391663,
+        "pageRank": 0.021413276231263382,
         "numRelatives": 0,
         "allegiances": [
-            187
+            144
         ],
         "books": [
-            18,
-            4,
-            0,
-            5,
+            16,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 54,
-        "house": 173,
+        "culture": 40,
+        "house": 137,
         "locations": [
-            24,
-            56
+            58,
+            123,
+            123,
+            58,
+            93
         ],
         "titles": [],
         "houseRegion": 27
@@ -3332,18 +3886,18 @@
         "male": false,
         "birth": 293,
         "age": 7,
-        "pageRank": 0.011452130096197893,
+        "pageRank": 0.013383297644539615,
         "numRelatives": 0,
         "allegiances": [
-            142
+            109
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
-        "culture": 44,
-        "house": 128,
+        "culture": 30,
+        "house": 103,
         "locations": [],
         "titles": [],
         "houseRegion": 11
@@ -3353,18 +3907,19 @@
         "male": false,
         "birth": 281,
         "age": 19,
-        "pageRank": 0.00641319285387082,
+        "pageRank": 0.007494646680942184,
         "numRelatives": 0,
         "allegiances": [
-            7
+            6
         ],
         "books": [
-            3
+            2
         ],
         "culture": -1,
-        "house": 6,
+        "house": 5,
         "locations": [
-            8
+            23,
+            23
         ],
         "titles": [],
         "houseRegion": -1
@@ -3374,33 +3929,41 @@
         "male": false,
         "birth": 286,
         "age": 14,
-        "pageRank": 0.08978469995419149,
-        "numRelatives": 0.021739130434782608,
+        "pageRank": 0.10492505353319058,
+        "numRelatives": 0.045454545454545456,
         "allegiances": [
-            253,
-            290,
-            61
+            193,
+            222,
+            46
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
-            1,
-            17
-        ],
-        "culture": 33,
-        "house": 232,
-        "locations": [
-            34,
-            4,
-            11,
-            81,
             0,
-            42
+            4,
+            2,
+            1,
+            15
+        ],
+        "culture": 23,
+        "house": 181,
+        "locations": [
+            75,
+            16,
+            28,
+            178,
+            4,
+            90,
+            16,
+            28,
+            178,
+            4,
+            90,
+            75,
+            10,
+            93
         ],
         "titles": [
-            212
+            145
         ],
         "houseRegion": 8
     },
@@ -3409,26 +3972,33 @@
         "male": false,
         "birth": 283,
         "age": 17,
-        "pageRank": 0.0842876775080165,
-        "numRelatives": 0.021739130434782608,
+        "pageRank": 0.09850107066381156,
+        "numRelatives": 0.045454545454545456,
         "allegiances": [
-            340,
-            290
+            260,
+            222
         ],
         "books": [
-            5,
-            3,
+            4,
+            2,
             1
         ],
-        "culture": 54,
-        "house": 316,
+        "culture": 40,
+        "house": 244,
         "locations": [
-            81,
-            62,
-            56
+            178,
+            132,
+            123,
+            178,
+            132,
+            123,
+            56,
+            14,
+            108,
+            170
         ],
         "titles": [
-            452
+            309
         ],
         "houseRegion": 27
     },
@@ -3437,21 +4007,24 @@
         "male": false,
         "birth": 284,
         "age": 16,
-        "pageRank": 0.024278515803939534,
+        "pageRank": 0.028372591006423982,
         "numRelatives": 0,
         "allegiances": [
-            305
+            233
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 15,
-        "house": 283,
-        "locations": [],
+        "culture": 10,
+        "house": 219,
+        "locations": [
+            89,
+            3
+        ],
         "titles": [],
         "houseRegion": 2
     },
@@ -3460,24 +4033,30 @@
         "male": true,
         "birth": 281,
         "age": 19,
-        "pageRank": 0.03756298671552909,
+        "pageRank": 0.043897216274089934,
         "numRelatives": 0,
         "allegiances": [
-            305
+            233
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 15,
-        "house": 283,
-        "locations": [],
+        "culture": 10,
+        "house": 219,
+        "locations": [
+            89,
+            180,
+            3,
+            167,
+            113
+        ],
         "titles": [
-            163,
-            6
+            110,
+            5
         ],
         "houseRegion": 2
     },
@@ -3486,28 +4065,36 @@
         "male": true,
         "birth": 286,
         "age": 14,
-        "pageRank": 0.07329363261566652,
+        "pageRank": 0.08565310492505353,
         "numRelatives": 0,
         "allegiances": [
-            262
+            201
         ],
         "books": [
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
-        "culture": 8,
-        "house": 241,
+        "culture": 5,
+        "house": 189,
         "locations": [
-            20,
-            76,
-            47,
-            44,
             51,
-            81,
-            29,
-            75
+            162,
+            103,
+            95,
+            115,
+            178,
+            69,
+            160,
+            103,
+            95,
+            115,
+            162,
+            178,
+            69,
+            51,
+            160
         ],
         "titles": [],
         "houseRegion": 8
@@ -3517,18 +4104,18 @@
         "male": false,
         "birth": 296,
         "age": 4,
-        "pageRank": 0.018781493357764543,
+        "pageRank": 0.021948608137044967,
         "numRelatives": 0,
         "allegiances": [
-            67
+            50
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
-        "culture": 54,
-        "house": 54,
+        "culture": 40,
+        "house": 43,
         "locations": [],
         "titles": [],
         "houseRegion": 27
@@ -3538,31 +4125,49 @@
         "male": true,
         "birth": 260,
         "age": 40,
-        "pageRank": 0.23087494273934953,
+        "pageRank": 0.2698072805139186,
         "numRelatives": 0,
         "allegiances": [
-            95,
-            305,
-            23
+            75,
+            233,
+            15
         ],
         "books": [
-            18,
-            5,
-            3,
+            16,
+            4,
+            2,
             1
         ],
-        "culture": 46,
-        "house": 82,
+        "culture": 32,
+        "house": 68,
         "locations": [
-            24,
-            34,
+            58,
             75,
-            9
+            160,
+            25,
+            141,
+            160,
+            25,
+            56,
+            150,
+            144,
+            125,
+            58,
+            75,
+            2,
+            151,
+            52,
+            86,
+            93,
+            133,
+            171,
+            170,
+            89
         ],
         "titles": [
-            274,
-            121,
-            125
+            188,
+            81,
+            83
         ],
         "houseRegion": 13
     },
@@ -3571,44 +4176,68 @@
         "male": true,
         "birth": 283,
         "age": 17,
-        "pageRank": 0.6880439761795694,
+        "pageRank": 0.8083511777301927,
         "numRelatives": 0,
         "allegiances": [
-            290,
-            367
+            222,
+            279
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 33,
-        "house": 269,
+        "culture": 23,
+        "house": 209,
         "locations": [
-            34,
-            63,
-            19,
-            44,
-            4,
-            37,
-            17,
-            7,
-            79,
-            23,
-            43,
-            51,
-            33,
-            11,
-            12,
-            81,
             75,
+            134,
             50,
-            56
+            95,
+            16,
+            80,
+            39,
+            22,
+            176,
+            55,
+            91,
+            115,
+            73,
+            28,
+            30,
+            178,
+            160,
+            112,
+            123,
+            134,
+            50,
+            95,
+            16,
+            80,
+            39,
+            22,
+            176,
+            55,
+            91,
+            115,
+            73,
+            28,
+            30,
+            178,
+            160,
+            112,
+            123,
+            29,
+            75,
+            143,
+            10,
+            86,
+            169
         ],
         "titles": [
-            223
+            153
         ],
         "houseRegion": 8
     },
@@ -3617,29 +4246,35 @@
         "male": false,
         "birth": 267,
         "age": 33,
-        "pageRank": 0.007787448465414567,
+        "pageRank": 0.009100642398286937,
         "numRelatives": 0,
         "allegiances": [
-            82
+            65
         ],
         "books": [
-            4,
-            5,
             3,
+            4,
+            2,
             1
         ],
-        "culture": 33,
-        "house": 69,
+        "culture": 23,
+        "house": 58,
         "locations": [
+            16,
+            28,
+            178,
+            17,
             4,
-            11,
-            81,
-            5,
-            0,
-            42
+            90,
+            16,
+            28,
+            178,
+            17,
+            4,
+            90
         ],
         "titles": [
-            172
+            119
         ],
         "houseRegion": 8
     },
@@ -3648,18 +4283,18 @@
         "male": false,
         "birth": 291,
         "age": 9,
-        "pageRank": 0.010535959688502062,
+        "pageRank": 0.012312633832976445,
         "numRelatives": 0,
         "allegiances": [
-            136
+            105
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
         "culture": -1,
-        "house": 122,
+        "house": 98,
         "locations": [],
         "titles": [],
         "houseRegion": 11
@@ -3669,32 +4304,50 @@
         "male": true,
         "birth": 254,
         "age": 46,
-        "pageRank": 0.19193770041227667,
-        "numRelatives": 0.043478260869565216,
+        "pageRank": 0.22537473233404712,
+        "numRelatives": 0.09090909090909091,
         "allegiances": [
-            223,
-            305,
-            379
+            168,
+            233,
+            289
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
-            1,
-            17
-        ],
-        "culture": 33,
-        "house": 205,
-        "locations": [
-            34,
+            0,
             4,
-            7,
-            50
+            2,
+            1,
+            15
+        ],
+        "culture": 23,
+        "house": 159,
+        "locations": [
+            75,
+            16,
+            22,
+            112,
+            114,
+            16,
+            22,
+            112,
+            75,
+            102,
+            10,
+            165,
+            86,
+            108,
+            133,
+            170,
+            169,
+            89,
+            180,
+            3,
+            167,
+            113
         ],
         "titles": [
-            469,
-            237
+            321,
+            160
         ],
         "houseRegion": 8
     },
@@ -3703,17 +4356,17 @@
         "male": false,
         "birth": 278,
         "age": 22,
-        "pageRank": 0.009161704076958314,
+        "pageRank": 0.010706638115631691,
         "numRelatives": 0,
         "allegiances": [
-            223
+            168
         ],
         "books": [
-            3,
+            2,
             1
         ],
-        "culture": 33,
-        "house": 205,
+        "culture": 23,
+        "house": 159,
         "locations": [],
         "titles": [],
         "houseRegion": 8
@@ -3723,23 +4376,27 @@
         "male": true,
         "birth": 284,
         "age": 16,
-        "pageRank": 0.007787448465414567,
+        "pageRank": 0.009100642398286937,
         "numRelatives": 0,
         "allegiances": [
-            247
+            188
         ],
         "books": [
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
         "culture": -1,
-        "house": 226,
+        "house": 176,
         "locations": [
-            49,
-            56,
-            9
+            107,
+            123,
+            25,
+            107,
+            123,
+            119,
+            25
         ],
         "titles": [],
         "houseRegion": 21
@@ -3749,24 +4406,28 @@
         "male": false,
         "birth": 288,
         "age": 12,
-        "pageRank": 0.021071919377004124,
+        "pageRank": 0.025160599571734475,
         "numRelatives": 0,
         "allegiances": [
-            187
+            144
         ],
         "books": [
-            18,
-            4,
-            0,
-            5,
+            16,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 54,
-        "house": 173,
+        "culture": 40,
+        "house": 137,
         "locations": [
-            24,
-            56
+            58,
+            123,
+            123,
+            15,
+            58,
+            93
         ],
         "titles": [],
         "houseRegion": 27
@@ -3776,24 +4437,24 @@
         "male": true,
         "birth": 282,
         "age": 18,
-        "pageRank": 0.00961978928080623,
-        "numRelatives": 0.043478260869565216,
+        "pageRank": 0.011241970021413276,
+        "numRelatives": 0.09090909090909091,
         "allegiances": [
-            115,
-            136
+            92,
+            105
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
         "culture": -1,
-        "house": 103,
+        "house": 85,
         "locations": [],
         "titles": [
-            203
+            137
         ],
         "houseRegion": 11
     },
@@ -3802,22 +4463,25 @@
         "male": true,
         "birth": 251,
         "age": 49,
-        "pageRank": 0.007329363261566651,
+        "pageRank": 0.008565310492505354,
         "numRelatives": 0,
         "allegiances": [
-            367
+            279
         ],
         "books": [
-            5,
-            3,
+            4,
+            2,
             1
         ],
         "culture": -1,
-        "house": 338,
+        "house": 260,
         "locations": [
-            4,
-            17,
-            7
+            16,
+            39,
+            22,
+            16,
+            39,
+            22
         ],
         "titles": [],
         "houseRegion": -1
@@ -3827,18 +4491,18 @@
         "male": false,
         "birth": 262,
         "age": 38,
-        "pageRank": 0.014200641319285386,
-        "numRelatives": 0.06521739130434782,
+        "pageRank": 0.016595289079229122,
+        "numRelatives": 0.13636363636363635,
         "allegiances": [
-            136
+            105
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
         "culture": -1,
-        "house": 122,
+        "house": 98,
         "locations": [],
         "titles": [],
         "houseRegion": 11
@@ -3848,32 +4512,38 @@
         "male": true,
         "birth": 282,
         "age": 18,
-        "pageRank": 0.10535959688502061,
-        "numRelatives": 0.021739130434782608,
+        "pageRank": 0.12312633832976445,
+        "numRelatives": 0.045454545454545456,
         "allegiances": [
-            191,
-            192,
-            369
+            146,
+            147,
+            281
         ],
         "books": [
-            18,
-            4,
-            0,
-            5,
+            16,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 54,
-        "house": 174,
+        "culture": 40,
+        "house": 138,
         "locations": [
-            24,
-            34,
-            56,
-            9
+            58,
+            75,
+            123,
+            25,
+            123,
+            25,
+            15,
+            58,
+            75,
+            93
         ],
         "titles": [
-            469,
-            257
+            321,
+            175
         ],
         "houseRegion": -1
     },
@@ -3882,18 +4552,20 @@
         "male": false,
         "birth": 285,
         "age": 15,
-        "pageRank": 0.005038937242327073,
+        "pageRank": 0.005888650963597431,
         "numRelatives": 0,
         "allegiances": [
-            29
+            21
         ],
         "books": [
-            3,
+            2,
             1
         ],
-        "culture": 7,
-        "house": 22,
-        "locations": [],
+        "culture": 4,
+        "house": 17,
+        "locations": [
+            10
+        ],
         "titles": [],
         "houseRegion": -1
     },
@@ -3902,25 +4574,26 @@
         "male": false,
         "birth": 271,
         "age": 29,
-        "pageRank": 0.013742556115437472,
-        "numRelatives": 0.043478260869565216,
+        "pageRank": 0.016059957173447537,
+        "numRelatives": 0.09090909090909091,
         "allegiances": [
-            187,
-            181
+            144,
+            141
         ],
         "books": [
-            18,
-            5,
-            3,
+            16,
+            4,
+            2,
             1
         ],
-        "culture": 54,
-        "house": 173,
+        "culture": 40,
+        "house": 137,
         "locations": [
-            6
+            21,
+            93
         ],
         "titles": [
-            165
+            112
         ],
         "houseRegion": 27
     },
@@ -3929,23 +4602,26 @@
         "male": true,
         "birth": 286,
         "age": 14,
-        "pageRank": 0.012368300503893724,
+        "pageRank": 0.014453961456102784,
         "numRelatives": 0,
         "allegiances": [
-            173,
-            141
+            135,
+            108
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
-        "culture": 33,
-        "house": 160,
+        "culture": 23,
+        "house": 129,
         "locations": [
-            11,
-            81,
-            29
+            28,
+            178,
+            69,
+            28,
+            178,
+            69
         ],
         "titles": [],
         "houseRegion": 8
@@ -3955,7 +4631,7 @@
         "male": false,
         "birth": 279,
         "age": 21,
-        "pageRank": 0.0036646816307833257,
+        "pageRank": 0.004282655246252677,
         "numRelatives": 0,
         "allegiances": [],
         "books": [
@@ -3963,7 +4639,9 @@
         ],
         "culture": -1,
         "house": -1,
-        "locations": [],
+        "locations": [
+            56
+        ],
         "titles": [],
         "houseRegion": -1
     },
@@ -3972,16 +4650,16 @@
         "male": false,
         "birth": 299,
         "age": 1,
-        "pageRank": 0.011910215300045808,
+        "pageRank": 0.013918629550321198,
         "numRelatives": 0,
         "allegiances": [
-            136
+            105
         ],
         "books": [
-            3
+            2
         ],
         "culture": -1,
-        "house": 122,
+        "house": 98,
         "locations": [],
         "titles": [],
         "houseRegion": 11
@@ -3991,24 +4669,27 @@
         "male": true,
         "birth": 259,
         "age": 41,
-        "pageRank": 0.01282638570774164,
-        "numRelatives": 0.021739130434782608,
+        "pageRank": 0.014989293361884369,
+        "numRelatives": 0.045454545454545456,
         "allegiances": [
-            364,
-            367
+            276,
+            279
         ],
         "books": [
             1
         ],
-        "culture": 18,
-        "house": 336,
+        "culture": 13,
+        "house": 258,
         "locations": [
-            4,
-            43,
-            81
+            16,
+            91,
+            178,
+            16,
+            91,
+            178
         ],
         "titles": [
-            423
+            287
         ],
         "houseRegion": -1
     },
@@ -4017,26 +4698,33 @@
         "male": false,
         "birth": 265,
         "age": 35,
-        "pageRank": 0.0320659642693541,
-        "numRelatives": 0.043478260869565216,
+        "pageRank": 0.03747323340471092,
+        "numRelatives": 0.09090909090909091,
         "allegiances": [
-            292
+            223
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 9,
-        "house": 271,
+        "culture": 6,
+        "house": 210,
         "locations": [
-            34,
-            28
+            75,
+            65,
+            65,
+            65,
+            15,
+            144,
+            125,
+            75,
+            93
         ],
         "titles": [
-            198
+            134
         ],
         "houseRegion": 2
     },
@@ -4045,31 +4733,40 @@
         "male": true,
         "birth": 282,
         "age": 18,
-        "pageRank": 0.16491067338524965,
+        "pageRank": 0.19218415417558887,
         "numRelatives": 0,
         "allegiances": [
-            318,
-            374,
-            360
+            242,
+            286,
+            274
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 40,
-        "house": 295,
+        "culture": 28,
+        "house": 227,
         "locations": [
-            34,
-            1,
             75,
-            9
+            5,
+            160,
+            25,
+            160,
+            25,
+            29,
+            75,
+            5,
+            63,
+            151,
+            86,
+            169
         ],
         "titles": [
-            469,
-            225
+            321,
+            155
         ],
         "houseRegion": 9
     },
@@ -4078,16 +4775,16 @@
         "male": true,
         "birth": 241,
         "age": 59,
-        "pageRank": 0.0022904260192395786,
+        "pageRank": 0.0026766595289079227,
         "numRelatives": 0,
         "allegiances": [
-            387
+            293
         ],
         "books": [
-            3
+            2
         ],
         "culture": -1,
-        "house": 350,
+        "house": 267,
         "locations": [],
         "titles": [
             0
@@ -4099,20 +4796,22 @@
         "male": false,
         "birth": 293,
         "age": 7,
-        "pageRank": 0.02244617498854787,
+        "pageRank": 0.026231263383297645,
         "numRelatives": 0,
         "allegiances": [
-            213
+            162
         ],
         "books": [
-            5,
-            3,
+            4,
+            2,
             1,
-            17
+            15
         ],
-        "culture": 14,
-        "house": 195,
-        "locations": [],
+        "culture": 9,
+        "house": 153,
+        "locations": [
+            60
+        ],
         "titles": [],
         "houseRegion": 3
     },
@@ -4121,26 +4820,29 @@
         "male": true,
         "birth": 264,
         "age": 36,
-        "pageRank": 0.03664681630783326,
-        "numRelatives": 0.10869565217391304,
+        "pageRank": 0.042826552462526764,
+        "numRelatives": 0.22727272727272727,
         "allegiances": [
-            136
+            105
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 44,
-        "house": 122,
+        "culture": 30,
+        "house": 98,
         "locations": [
-            81,
-            56
+            178,
+            123,
+            178,
+            123,
+            14
         ],
         "titles": [
-            483
+            326
         ],
         "houseRegion": 11
     },
@@ -4149,25 +4851,26 @@
         "male": true,
         "birth": 249,
         "age": 51,
-        "pageRank": 0.014200641319285386,
+        "pageRank": 0.016595289079229122,
         "numRelatives": 0,
         "allegiances": [
-            20,
-            366
+            14,
+            278
         ],
         "books": [
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
         "culture": -1,
-        "house": 17,
+        "house": 12,
         "locations": [
-            34
+            75,
+            75
         ],
         "titles": [
-            468
+            320
         ],
         "houseRegion": -1
     },
@@ -4176,24 +4879,25 @@
         "male": false,
         "birth": 270,
         "age": 30,
-        "pageRank": 0.01282638570774164,
+        "pageRank": 0.014989293361884369,
         "numRelatives": 0,
         "allegiances": [
-            187
+            144
         ],
         "books": [
-            18,
-            5,
-            3,
+            16,
+            4,
+            2,
             1
         ],
-        "culture": 54,
-        "house": 173,
+        "culture": 40,
+        "house": 137,
         "locations": [
-            6
+            21,
+            93
         ],
         "titles": [
-            469
+            321
         ],
         "houseRegion": 27
     },
@@ -4202,20 +4906,20 @@
         "male": true,
         "birth": 283,
         "age": 17,
-        "pageRank": 0.004580852038479157,
+        "pageRank": 0.0053533190578158455,
         "numRelatives": 0,
         "allegiances": [
-            86
+            67
         ],
         "books": [
-            5,
-            3
+            4,
+            2
         ],
-        "culture": -1,
-        "house": 73,
+        "culture": 6,
+        "house": 60,
         "locations": [],
         "titles": [
-            217
+            149
         ],
         "houseRegion": 2
     },
@@ -4224,17 +4928,17 @@
         "male": false,
         "birth": 290,
         "age": 10,
-        "pageRank": 0.01282638570774164,
+        "pageRank": 0.014989293361884369,
         "numRelatives": 0,
         "allegiances": [
-            223
+            168
         ],
         "books": [
-            3,
+            2,
             1
         ],
-        "culture": 33,
-        "house": 205,
+        "culture": 23,
+        "house": 159,
         "locations": [],
         "titles": [],
         "houseRegion": 8
@@ -4244,22 +4948,28 @@
         "male": true,
         "birth": 272,
         "age": 28,
-        "pageRank": 0.028401282638570773,
-        "numRelatives": 0.043478260869565216,
+        "pageRank": 0.033190578158458245,
+        "numRelatives": 0.09090909090909091,
         "allegiances": [
-            169,
-            223
+            132,
+            168
         ],
         "books": [
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
         "culture": -1,
-        "house": 156,
+        "house": 126,
         "locations": [
-            81
+            178,
+            178,
+            102,
+            10,
+            165,
+            86,
+            170
         ],
         "titles": [],
         "houseRegion": 9
@@ -4269,24 +4979,26 @@
         "male": true,
         "birth": 260,
         "age": 40,
-        "pageRank": 0.015574896930829134,
-        "numRelatives": 0.06521739130434782,
+        "pageRank": 0.018201284796573874,
+        "numRelatives": 0.13636363636363635,
         "allegiances": [
-            96
+            76
         ],
         "books": [
-            3,
+            2,
             1,
-            17
+            15
         ],
-        "culture": 52,
-        "house": 83,
+        "culture": 38,
+        "house": 69,
         "locations": [
-            25,
-            21
+            59,
+            53,
+            59,
+            53
         ],
         "titles": [
-            279
+            192
         ],
         "houseRegion": 24
     },
@@ -4295,26 +5007,28 @@
         "male": false,
         "birth": 259,
         "age": 41,
-        "pageRank": 0.016491067338524967,
-        "numRelatives": 0.021739130434782608,
+        "pageRank": 0.019271948608137045,
+        "numRelatives": 0.045454545454545456,
         "allegiances": [
-            137
+            106
         ],
         "books": [
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
         "culture": -1,
-        "house": 123,
+        "house": 99,
         "locations": [
-            56,
-            9,
-            6
+            123,
+            25,
+            21,
+            123,
+            25
         ],
         "titles": [
-            469
+            321
         ],
         "houseRegion": 11
     },
@@ -4323,17 +5037,17 @@
         "male": false,
         "birth": 277,
         "age": 23,
-        "pageRank": 0.008703618873110398,
+        "pageRank": 0.010171306209850108,
         "numRelatives": 0,
         "allegiances": [
-            223
+            168
         ],
         "books": [
-            3,
+            2,
             1
         ],
-        "culture": 33,
-        "house": 205,
+        "culture": 23,
+        "house": 159,
         "locations": [],
         "titles": [],
         "houseRegion": 8
@@ -4343,21 +5057,23 @@
         "male": false,
         "birth": 251,
         "age": 49,
-        "pageRank": 0.02565277141548328,
-        "numRelatives": 0.06521739130434782,
+        "pageRank": 0.029978586723768737,
+        "numRelatives": 0.13636363636363635,
         "allegiances": [
-            136
+            105
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
         "culture": -1,
-        "house": 122,
+        "house": 98,
         "locations": [
-            9,
-            6
+            25,
+            21,
+            25,
+            10
         ],
         "titles": [],
         "houseRegion": 11
@@ -4367,38 +5083,56 @@
         "male": true,
         "birth": 256,
         "age": 44,
-        "pageRank": 0.3174530462666056,
-        "numRelatives": 0.10869565217391304,
+        "pageRank": 0.3752676659528908,
+        "numRelatives": 0.22727272727272727,
         "allegiances": [
-            318
+            242
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 41,
-        "house": 295,
+        "culture": 29,
+        "house": 227,
         "locations": [
-            24,
-            34,
-            1,
-            81,
-            42,
+            58,
             75,
-            41,
-            9
+            5,
+            178,
+            90,
+            160,
+            87,
+            25,
+            178,
+            90,
+            160,
+            87,
+            25,
+            163,
+            150,
+            144,
+            125,
+            58,
+            75,
+            5,
+            2,
+            63,
+            151,
+            86,
+            93,
+            171
         ],
         "titles": [
-            281,
-            368,
-            99,
-            127,
-            509,
-            417,
-            121
+            194,
+            248,
+            67,
+            84,
+            342,
+            282,
+            81
         ],
         "houseRegion": 9
     },
@@ -4407,31 +5141,39 @@
         "male": false,
         "birth": 239,
         "age": 61,
-        "pageRank": 0.03344021988089785,
-        "numRelatives": 0.10869565217391304,
+        "pageRank": 0.03907922912205567,
+        "numRelatives": 0.22727272727272727,
         "allegiances": [
-            223
+            168
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 33,
-        "house": 205,
+        "culture": 23,
+        "house": 159,
         "locations": [
-            20,
-            47,
-            81,
-            42,
-            73,
-            62,
-            56
+            51,
+            103,
+            178,
+            90,
+            157,
+            132,
+            123,
+            103,
+            178,
+            90,
+            51,
+            157,
+            132,
+            123,
+            169
         ],
         "titles": [
-            167
+            114
         ],
         "houseRegion": 8
     },
@@ -4440,18 +5182,18 @@
         "male": false,
         "birth": 249,
         "age": 51,
-        "pageRank": 0.01832340815391663,
-        "numRelatives": 0.08695652173913043,
+        "pageRank": 0.021413276231263382,
+        "numRelatives": 0.18181818181818182,
         "allegiances": [
-            136
+            105
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
         "culture": -1,
-        "house": 122,
+        "house": 98,
         "locations": [],
         "titles": [],
         "houseRegion": 11
@@ -4461,21 +5203,24 @@
         "male": true,
         "birth": 284,
         "age": 16,
-        "pageRank": 0.02153000458085204,
+        "pageRank": 0.025160599571734475,
         "numRelatives": 0,
         "allegiances": [
-            136
+            105
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
         "culture": -1,
-        "house": 122,
+        "house": 98,
         "locations": [
-            9,
-            6
+            25,
+            21,
+            25,
+            10,
+            86
         ],
         "titles": [],
         "houseRegion": 11
@@ -4485,21 +5230,22 @@
         "male": false,
         "birth": 280,
         "age": 20,
-        "pageRank": 0.006871278057718736,
+        "pageRank": 0.008029978586723769,
         "numRelatives": 0,
         "allegiances": [
-            9
+            7
         ],
         "books": [
             0,
-            5,
-            3,
+            4,
+            2,
             1
         ],
         "culture": -1,
-        "house": 8,
+        "house": 6,
         "locations": [
-            34
+            75,
+            75
         ],
         "titles": [],
         "houseRegion": -1
@@ -4509,28 +5255,39 @@
         "male": false,
         "birth": 283,
         "age": 17,
-        "pageRank": 0.27530920751259735,
-        "numRelatives": 0.06521739130434782,
+        "pageRank": 0.32066381156316914,
+        "numRelatives": 0.13636363636363635,
         "allegiances": [
-            318
+            242
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 40,
-        "house": 295,
+        "culture": 28,
+        "house": 227,
         "locations": [
-            34,
-            1,
             75,
-            41
+            5,
+            160,
+            87,
+            160,
+            87,
+            15,
+            29,
+            75,
+            5,
+            63,
+            151,
+            86,
+            93,
+            108
         ],
         "titles": [
-            453
+            310
         ],
         "houseRegion": 9
     },
@@ -4539,19 +5296,19 @@
         "male": false,
         "birth": 262,
         "age": 38,
-        "pageRank": 0.015574896930829134,
+        "pageRank": 0.018201284796573874,
         "numRelatives": 0,
         "allegiances": [
-            325,
-            136
+            249,
+            105
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
-        "culture": 44,
-        "house": 301,
+        "culture": 30,
+        "house": 233,
         "locations": [],
         "titles": [],
         "houseRegion": -1
@@ -4561,21 +5318,23 @@
         "male": false,
         "birth": 286,
         "age": 14,
-        "pageRank": 0.025194686211635363,
+        "pageRank": 0.029443254817987152,
         "numRelatives": 0,
         "allegiances": [
-            136
+            105
         ],
         "books": [
             0,
-            5,
-            3
+            4,
+            2
         ],
         "culture": -1,
-        "house": 122,
+        "house": 98,
         "locations": [
-            9,
-            6
+            25,
+            21,
+            25,
+            10
         ],
         "titles": [],
         "houseRegion": 11
@@ -4585,22 +5344,22 @@
         "male": true,
         "birth": 283,
         "age": 17,
-        "pageRank": 0.027485112230874943,
+        "pageRank": 0.032119914346895075,
         "numRelatives": 0,
         "allegiances": [
-            331
+            254
         ],
         "books": [
-            5,
-            3,
+            4,
+            2,
             1
         ],
-        "culture": 21,
-        "house": 307,
+        "culture": 15,
+        "house": 238,
         "locations": [],
         "titles": [
-            360,
-            270
+            242,
+            184
         ],
         "houseRegion": 4
     },
@@ -4609,2675 +5368,35 @@
         "male": true,
         "birth": 285,
         "age": 15,
-        "pageRank": 0.029317453046266605,
+        "pageRank": 0.034261241970021415,
         "numRelatives": 0,
         "allegiances": [
-            187
+            144
         ],
         "books": [
-            4,
-            0,
-            5,
             3,
+            0,
+            4,
+            2,
             1
         ],
-        "culture": 54,
-        "house": 173,
+        "culture": 40,
+        "house": 137,
         "locations": [
-            47,
-            13,
-            24,
-            56,
-            9
+            103,
+            31,
+            58,
+            123,
+            25,
+            103,
+            123,
+            25,
+            44,
+            31,
+            58,
+            93
         ],
         "titles": [],
         "houseRegion": 27
-    },
-    {
-        "name": "Mathis Frey",
-        "male": false,
-        "birth": 294,
-        "age": 6,
-        "pageRank": 0.014658726523133303,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Meera Reed",
-        "male": false,
-        "birth": 283,
-        "age": 17,
-        "pageRank": 0.06504809894640404,
-        "numRelatives": 0,
-        "allegiances": [
-            262
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": 8,
-        "house": 241,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 8
-    },
-    {
-        "name": "Meribald",
-        "male": true,
-        "birth": 247,
-        "age": 53,
-        "pageRank": 0.02565277141548328,
-        "numRelatives": 0,
-        "allegiances": [
-            20
-        ],
-        "books": [
-            3
-        ],
-        "culture": -1,
-        "house": 17,
-        "locations": [],
-        "titles": [
-            468
-        ],
-        "houseRegion": -1
-    },
-    {
-        "name": "Mors Umber",
-        "male": true,
-        "birth": 235,
-        "age": 65,
-        "pageRank": 0.03527256069628951,
-        "numRelatives": 0.06521739130434782,
-        "allegiances": [
-            323
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": 33,
-        "house": 299,
-        "locations": [],
-        "titles": [
-            60
-        ],
-        "houseRegion": 8
-    },
-    {
-        "name": "Osmund Frey",
-        "male": false,
-        "birth": 297,
-        "age": 3,
-        "pageRank": 0.00961978928080623,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Patrek Vance",
-        "male": false,
-        "birth": 264,
-        "age": 36,
-        "pageRank": 0.01603298213467705,
-        "numRelatives": 0,
-        "allegiances": [
-            325
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": -1,
-        "house": 301,
-        "locations": [],
-        "titles": [],
-        "houseRegion": -1
-    },
-    {
-        "name": "Perra Frey",
-        "male": false,
-        "birth": 294,
-        "age": 6,
-        "pageRank": 0.01832340815391663,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Robert Frey (son of Raymund)",
-        "male": true,
-        "birth": 283,
-        "age": 17,
-        "pageRank": 0.024278515803939534,
-        "numRelatives": 0,
-        "allegiances": [
-            136,
-            387
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Robin Greyjoy",
-        "male": true,
-        "birth": 269,
-        "age": 31,
-        "pageRank": 0.013742556115437472,
-        "numRelatives": 0,
-        "allegiances": [
-            152
-        ],
-        "books": [
-            3,
-            17
-        ],
-        "culture": 21,
-        "house": 139,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 4
-    },
-    {
-        "name": "Robin Ryger",
-        "male": true,
-        "birth": 237,
-        "age": 63,
-        "pageRank": 0.014200641319285386,
-        "numRelatives": 0,
-        "allegiances": [
-            272,
-            316,
-            367
-        ],
-        "books": [
-            4,
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": -1,
-        "house": 251,
-        "locations": [],
-        "titles": [
-            469,
-            31
-        ],
-        "houseRegion": 11
-    },
-    {
-        "name": "Roose Bolton",
-        "male": true,
-        "birth": 260,
-        "age": 40,
-        "pageRank": 0.27256069628950985,
-        "numRelatives": 0.13043478260869565,
-        "allegiances": [
-            60
-        ],
-        "books": [
-            4,
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": 33,
-        "house": 49,
-        "locations": [],
-        "titles": [
-            333,
-            507
-        ],
-        "houseRegion": 8
-    },
-    {
-        "name": "Samwell Tarly",
-        "male": true,
-        "birth": 283,
-        "age": 17,
-        "pageRank": 0.26110856619331196,
-        "numRelatives": 0,
-        "allegiances": [
-            306,
-            367
-        ],
-        "books": [
-            4,
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": 41,
-        "house": 284,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 9
-    },
-    {
-        "name": "Shireen Baratheon",
-        "male": false,
-        "birth": 289,
-        "age": 11,
-        "pageRank": 0.06184150251946862,
-        "numRelatives": 0,
-        "allegiances": [
-            45
-        ],
-        "books": [
-            4,
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": -1,
-        "house": 34,
-        "locations": [],
-        "titles": [
-            447
-        ],
-        "houseRegion": 2
-    },
-    {
-        "name": "Stonesnake",
-        "male": true,
-        "birth": 250,
-        "age": 50,
-        "pageRank": 0.010077874484654145,
-        "numRelatives": 0,
-        "allegiances": [
-            367
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": -1,
-        "house": 338,
-        "locations": [],
-        "titles": [],
-        "houseRegion": -1
-    },
-    {
-        "name": "Taena of Myr",
-        "male": false,
-        "birth": 276,
-        "age": 24,
-        "pageRank": 0.025194686211635363,
-        "numRelatives": 0.043478260869565216,
-        "allegiances": [
-            217
-        ],
-        "books": [
-            5,
-            3,
-            1
-        ],
-        "culture": 30,
-        "house": 199,
-        "locations": [],
-        "titles": [
-            191
-        ],
-        "houseRegion": 9
-    },
-    {
-        "name": "Timett",
-        "male": true,
-        "birth": 278,
-        "age": 22,
-        "pageRank": 0.014200641319285386,
-        "numRelatives": 0,
-        "allegiances": [
-            8
-        ],
-        "books": [
-            4,
-            0,
-            5,
-            1
-        ],
-        "culture": 51,
-        "house": 7,
-        "locations": [],
-        "titles": [
-            457
-        ],
-        "houseRegion": -1
-    },
-    {
-        "name": "Tyene Sand",
-        "male": false,
-        "birth": 276,
-        "age": 24,
-        "pageRank": 0.03939532753092075,
-        "numRelatives": 0,
-        "allegiances": [
-            213
-        ],
-        "books": [
-            5,
-            3,
-            1
-        ],
-        "culture": 14,
-        "house": 195,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 3
-    },
-    {
-        "name": "Tyrion Lannister",
-        "male": true,
-        "birth": 273,
-        "age": 27,
-        "pageRank": 1,
-        "numRelatives": 0.043478260869565216,
-        "allegiances": [
-            187,
-            379
-        ],
-        "books": [
-            18,
-            4,
-            0,
-            5,
-            3,
-            1,
-            17
-        ],
-        "culture": 54,
-        "house": 173,
-        "locations": [],
-        "titles": [
-            1,
-            407,
-            248
-        ],
-        "houseRegion": 27
-    },
-    {
-        "name": "Tywin Frey (son of Raymund)",
-        "male": true,
-        "birth": 299,
-        "age": 1,
-        "pageRank": 0.02153000458085204,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            3
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Victarion Greyjoy",
-        "male": true,
-        "birth": 257,
-        "age": 43,
-        "pageRank": 0.19697663765460377,
-        "numRelatives": 0.08695652173913043,
-        "allegiances": [
-            152
-        ],
-        "books": [
-            18,
-            4,
-            0,
-            5,
-            3,
-            1,
-            17
-        ],
-        "culture": 21,
-        "house": 139,
-        "locations": [],
-        "titles": [
-            219,
-            418
-        ],
-        "houseRegion": 4
-    },
-    {
-        "name": "Walda Frey (daughter of Walton)",
-        "male": false,
-        "birth": 280,
-        "age": 20,
-        "pageRank": 0.016491067338524967,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Walder Brax",
-        "male": false,
-        "birth": 293,
-        "age": 7,
-        "pageRank": 0.01923957856161246,
-        "numRelatives": 0,
-        "allegiances": [
-            67
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": 54,
-        "house": 54,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 27
-    },
-    {
-        "name": "Walder Frey",
-        "male": true,
-        "birth": 208,
-        "age": 92,
-        "pageRank": 0.24095281722400366,
-        "numRelatives": 1,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            18,
-            12,
-            4,
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": 44,
-        "house": 122,
-        "locations": [],
-        "titles": [
-            331
-        ],
-        "houseRegion": 11
-    },
-    {
-        "name": "Whalen Frey",
-        "male": true,
-        "birth": 267,
-        "age": 33,
-        "pageRank": 0.018781493357764543,
-        "numRelatives": 0.06521739130434782,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            4,
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [
-            469
-        ],
-        "houseRegion": 11
-    },
-    {
-        "name": "Willem Frey",
-        "male": false,
-        "birth": 289,
-        "age": 11,
-        "pageRank": 0.017407237746220796,
-        "numRelatives": 0,
-        "allegiances": [
-            136,
-            137
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Zachery Frey",
-        "male": true,
-        "birth": 287,
-        "age": 13,
-        "pageRank": 0.00961978928080623,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Moreo Tumitis",
-        "male": true,
-        "birth": 268,
-        "age": 32,
-        "pageRank": 0.002748511223087494,
-        "numRelatives": 0,
-        "allegiances": [],
-        "books": [
-            4
-        ],
-        "culture": -1,
-        "house": -1,
-        "locations": [],
-        "titles": [],
-        "houseRegion": -1
-    },
-    {
-        "name": "Olyvar Frey",
-        "male": true,
-        "birth": 281,
-        "age": 19,
-        "pageRank": 0.017407237746220796,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            4,
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Perriane Frey",
-        "male": false,
-        "birth": 241,
-        "age": 59,
-        "pageRank": 0.015116811726981219,
-        "numRelatives": 0.08695652173913043,
-        "allegiances": [
-            136,
-            154
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Petyr Baelish",
-        "male": true,
-        "birth": 268,
-        "age": 32,
-        "pageRank": 0.3825011452130096,
-        "numRelatives": 0.021739130434782608,
-        "allegiances": [
-            40,
-            39
-        ],
-        "books": [
-            4,
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": 52,
-        "house": 29,
-        "locations": [],
-        "titles": [
-            408,
-            370,
-            278,
-            372
-        ],
-        "houseRegion": -1
-    },
-    {
-        "name": "Pylos",
-        "male": true,
-        "birth": 273,
-        "age": 27,
-        "pageRank": 0.018781493357764543,
-        "numRelatives": 0,
-        "allegiances": [
-            387,
-            45
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": -1,
-        "house": 350,
-        "locations": [],
-        "titles": [
-            380
-        ],
-        "houseRegion": -1
-    },
-    {
-        "name": "Quenton Greyjoy",
-        "male": true,
-        "birth": 254,
-        "age": 46,
-        "pageRank": 0.010535959688502062,
-        "numRelatives": 0,
-        "allegiances": [
-            152
-        ],
-        "books": [
-            3
-        ],
-        "culture": 21,
-        "house": 139,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 4
-    },
-    {
-        "name": "Ramsay Snow",
-        "male": true,
-        "birth": 282,
-        "age": 18,
-        "pageRank": 0.17544663307375172,
-        "numRelatives": 0.043478260869565216,
-        "allegiances": [
-            62,
-            63
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": 33,
-        "house": 50,
-        "locations": [],
-        "titles": [
-            339,
-            365,
-            68
-        ],
-        "houseRegion": -1
-    },
-    {
-        "name": "Rickard Wylde",
-        "male": false,
-        "birth": 295,
-        "age": 5,
-        "pageRank": 0.024736601007787448,
-        "numRelatives": 0,
-        "allegiances": [
-            348
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": -1,
-        "house": 324,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 13
-    },
-    {
-        "name": "Rollam Westerling",
-        "male": true,
-        "birth": 290,
-        "age": 10,
-        "pageRank": 0.011910215300045808,
-        "numRelatives": 0,
-        "allegiances": [
-            340
-        ],
-        "books": [
-            5,
-            3
-        ],
-        "culture": 54,
-        "house": 316,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 27
-    },
-    {
-        "name": "Rosey",
-        "male": false,
-        "birth": 284,
-        "age": 16,
-        "pageRank": 0.007329363261566651,
-        "numRelatives": 0,
-        "allegiances": [],
-        "books": [
-            3
-        ],
-        "culture": -1,
-        "house": -1,
-        "locations": [],
-        "titles": [],
-        "houseRegion": -1
-    },
-    {
-        "name": "Sarra Frey",
-        "male": false,
-        "birth": 285,
-        "age": 15,
-        "pageRank": 0.021071919377004124,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": 44,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Shirei Frey",
-        "male": false,
-        "birth": 292,
-        "age": 8,
-        "pageRank": 0.007329363261566651,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Stannis Baratheon",
-        "male": true,
-        "birth": 264,
-        "age": 36,
-        "pageRank": 0.7100320659642694,
-        "numRelatives": 0.08695652173913043,
-        "allegiances": [],
-        "books": [],
-        "culture": -1,
-        "house": 34,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 2
-    },
-    {
-        "name": "Steffon Seaworth",
-        "male": true,
-        "birth": 293,
-        "age": 7,
-        "pageRank": 0.010535959688502062,
-        "numRelatives": 0,
-        "allegiances": [
-            278
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": -1,
-        "house": 257,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 18
-    },
-    {
-        "name": "Tyrion Tanner",
-        "male": true,
-        "birth": 300,
-        "age": 0,
-        "pageRank": 0.012368300503893724,
-        "numRelatives": 0,
-        "allegiances": [
-            292
-        ],
-        "books": [
-            3,
-            1
-        ],
-        "culture": 9,
-        "house": 271,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 2
-    },
-    {
-        "name": "Tytos Brax",
-        "male": true,
-        "birth": 275,
-        "age": 25,
-        "pageRank": 0.011452130096197893,
-        "numRelatives": 0,
-        "allegiances": [
-            67
-        ],
-        "books": [
-            4,
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": 54,
-        "house": 54,
-        "locations": [],
-        "titles": [
-            469,
-            284
-        ],
-        "houseRegion": 27
-    },
-    {
-        "name": "Utherydes Wayn",
-        "male": false,
-        "birth": 237,
-        "age": 63,
-        "pageRank": 0.005038937242327073,
-        "numRelatives": 0,
-        "allegiances": [
-            335,
-            316
-        ],
-        "books": [
-            4,
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": 44,
-        "house": 311,
-        "locations": [],
-        "titles": [
-            478
-        ],
-        "houseRegion": 11
-    },
-    {
-        "name": "Walda Frey (daughter of Merrett)",
-        "male": false,
-        "birth": 283,
-        "age": 17,
-        "pageRank": 0.03893724232707284,
-        "numRelatives": 0.021739130434782608,
-        "allegiances": [
-            136,
-            60
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Walder Frey (son of Jammos)",
-        "male": true,
-        "birth": 291,
-        "age": 9,
-        "pageRank": 0.05130554283096656,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            4,
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Walder Goodbrook",
-        "male": true,
-        "birth": 290,
-        "age": 10,
-        "pageRank": 0.012368300503893724,
-        "numRelatives": 0,
-        "allegiances": [
-            142
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": 44,
-        "house": 128,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Wylis Manderly",
-        "male": true,
-        "birth": 252,
-        "age": 48,
-        "pageRank": 0.03985341273476867,
-        "numRelatives": 0.043478260869565216,
-        "allegiances": [
-            209
-        ],
-        "books": [
-            4,
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": -1,
-        "house": 191,
-        "locations": [],
-        "titles": [
-            469
-        ],
-        "houseRegion": 8
-    },
-    {
-        "name": "Wynafryd Manderly",
-        "male": false,
-        "birth": 280,
-        "age": 20,
-        "pageRank": 0.014658726523133303,
-        "numRelatives": 0,
-        "allegiances": [
-            209
-        ],
-        "books": [
-            3,
-            1
-        ],
-        "culture": -1,
-        "house": 191,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 8
-    },
-    {
-        "name": "Zia Frey",
-        "male": false,
-        "birth": 285,
-        "age": 15,
-        "pageRank": 0.008245533669262483,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Monster",
-        "male": true,
-        "birth": 299,
-        "age": 1,
-        "pageRank": 0.017865322950068714,
-        "numRelatives": 0,
-        "allegiances": [],
-        "books": [
-            5,
-            3,
-            1
-        ],
-        "culture": 18,
-        "house": -1,
-        "locations": [],
-        "titles": [],
-        "houseRegion": -1
-    },
-    {
-        "name": "Morya Frey",
-        "male": false,
-        "birth": 268,
-        "age": 32,
-        "pageRank": 0.02153000458085204,
-        "numRelatives": 0.08695652173913043,
-        "allegiances": [
-            136,
-            67
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": 44,
-        "house": 122,
-        "locations": [],
-        "titles": [
-            165
-        ],
-        "houseRegion": 11
-    },
-    {
-        "name": "Myranda Royce",
-        "male": false,
-        "birth": 279,
-        "age": 21,
-        "pageRank": 0.012368300503893724,
-        "numRelatives": 0.021739130434782608,
-        "allegiances": [
-            270
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1,
-            17
-        ],
-        "culture": 52,
-        "house": 249,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 23
-    },
-    {
-        "name": "Obella Sand",
-        "male": false,
-        "birth": 287,
-        "age": 13,
-        "pageRank": 0.021988089784699953,
-        "numRelatives": 0,
-        "allegiances": [
-            213
-        ],
-        "books": [
-            5,
-            3,
-            1
-        ],
-        "culture": 14,
-        "house": 195,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 3
-    },
-    {
-        "name": "Perwyn Frey",
-        "male": true,
-        "birth": 269,
-        "age": 31,
-        "pageRank": 0.018781493357764543,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            4,
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": 44,
-        "house": 122,
-        "locations": [],
-        "titles": [
-            469
-        ],
-        "houseRegion": 11
-    },
-    {
-        "name": "Penny",
-        "male": false,
-        "birth": 281,
-        "age": 19,
-        "pageRank": 0.04260192395785616,
-        "numRelatives": 0,
-        "allegiances": [
-            379
-        ],
-        "books": [
-            5,
-            1,
-            17
-        ],
-        "culture": -1,
-        "house": 345,
-        "locations": [],
-        "titles": [],
-        "houseRegion": -1
-    },
-    {
-        "name": "Roone",
-        "male": true,
-        "birth": 286,
-        "age": 14,
-        "pageRank": 0.008245533669262483,
-        "numRelatives": 0,
-        "allegiances": [],
-        "books": [
-            3
-        ],
-        "culture": -1,
-        "house": -1,
-        "locations": [],
-        "titles": [],
-        "houseRegion": -1
-    },
-    {
-        "name": "Robert Arryn",
-        "male": true,
-        "birth": 292,
-        "age": 8,
-        "pageRank": 0.09894640403114979,
-        "numRelatives": 0,
-        "allegiances": [
-            34
-        ],
-        "books": [
-            4,
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": 52,
-        "house": 26,
-        "locations": [],
-        "titles": [
-            335,
-            100,
-            505
-        ],
-        "houseRegion": 24
-    },
-    {
-        "name": "Ryon Allyrion",
-        "male": true,
-        "birth": 263,
-        "age": 37,
-        "pageRank": 0.01282638570774164,
-        "numRelatives": 0.06521739130434782,
-        "allegiances": [
-            31
-        ],
-        "books": [
-            5,
-            3,
-            1
-        ],
-        "culture": 14,
-        "house": 23,
-        "locations": [],
-        "titles": [
-            469
-        ],
-        "houseRegion": 3
-    },
-    {
-        "name": "Satin",
-        "male": true,
-        "birth": 280,
-        "age": 20,
-        "pageRank": 0.021988089784699953,
-        "numRelatives": 0,
-        "allegiances": [
-            367
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": 41,
-        "house": 338,
-        "locations": [],
-        "titles": [],
-        "houseRegion": -1
-    },
-    {
-        "name": "Sansa Stark",
-        "male": false,
-        "birth": 286,
-        "age": 14,
-        "pageRank": 0.5029775538250114,
-        "numRelatives": 0.021739130434782608,
-        "allegiances": [
-            290,
-            189,
-            35,
-            38
-        ],
-        "books": [
-            4,
-            0,
-            5,
-            3,
-            1,
-            17
-        ],
-        "culture": 33,
-        "house": 269,
-        "locations": [],
-        "titles": [
-            447
-        ],
-        "houseRegion": 8
-    },
-    {
-        "name": "Tom of Sevenstreams",
-        "male": true,
-        "birth": 240,
-        "age": 60,
-        "pageRank": 0.038021071919377,
-        "numRelatives": 0,
-        "allegiances": [
-            7
-        ],
-        "books": [
-            5,
-            3
-        ],
-        "culture": -1,
-        "house": 6,
-        "locations": [],
-        "titles": [],
-        "houseRegion": -1
-    },
-    {
-        "name": "Walda Rivers",
-        "male": false,
-        "birth": 294,
-        "age": 6,
-        "pageRank": 0.005955107650022904,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Tysha",
-        "male": true,
-        "birth": 272,
-        "age": 28,
-        "pageRank": 0.023820430600091615,
-        "numRelatives": 0.021739130434782608,
-        "allegiances": [],
-        "books": [
-            4,
-            0,
-            5,
-            1
-        ],
-        "culture": -1,
-        "house": -1,
-        "locations": [],
-        "titles": [],
-        "houseRegion": -1
-    },
-    {
-        "name": "Walda Frey (daughter of Edwyn)",
-        "male": false,
-        "birth": 290,
-        "age": 10,
-        "pageRank": 0.019697663765460376,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Willas Tyrell",
-        "male": true,
-        "birth": 270,
-        "age": 30,
-        "pageRank": 0.055886394869445716,
-        "numRelatives": 0,
-        "allegiances": [
-            318
-        ],
-        "books": [
-            4,
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": 41,
-        "house": 295,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 9
-    },
-    {
-        "name": "Wylla Manderly",
-        "male": false,
-        "birth": 284,
-        "age": 16,
-        "pageRank": 0.021071919377004124,
-        "numRelatives": 0,
-        "allegiances": [
-            209
-        ],
-        "books": [
-            3,
-            1
-        ],
-        "culture": -1,
-        "house": 191,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 8
-    },
-    {
-        "name": "Megga Tyrell",
-        "male": false,
-        "birth": 286,
-        "age": 14,
-        "pageRank": 0.029317453046266605,
-        "numRelatives": 0,
-        "allegiances": [
-            318
-        ],
-        "books": [
-            5,
-            3,
-            1
-        ],
-        "culture": 41,
-        "house": 295,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 9
-    },
-    {
-        "name": "Missandei",
-        "male": false,
-        "birth": 288,
-        "age": 12,
-        "pageRank": 0.04489234997709574,
-        "numRelatives": 0,
-        "allegiances": [
-            305
-        ],
-        "books": [
-            5,
-            3,
-            1
-        ],
-        "culture": 31,
-        "house": 283,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 2
-    },
-    {
-        "name": "Mylenda Caron",
-        "male": true,
-        "birth": 265,
-        "age": 35,
-        "pageRank": 0.017865322950068714,
-        "numRelatives": 0.043478260869565216,
-        "allegiances": [
-            78,
-            136
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": 46,
-        "house": 65,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 13
-    },
-    {
-        "name": "Obara Sand",
-        "male": false,
-        "birth": 271,
-        "age": 29,
-        "pageRank": 0.04214383875400825,
-        "numRelatives": 0,
-        "allegiances": [
-            213
-        ],
-        "books": [
-            5,
-            3,
-            1
-        ],
-        "culture": 14,
-        "house": 195,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 3
-    },
-    {
-        "name": "Podrick Payne",
-        "male": true,
-        "birth": 286,
-        "age": 14,
-        "pageRank": 0.05955107650022904,
-        "numRelatives": 0,
-        "allegiances": [
-            245
-        ],
-        "books": [
-            4,
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": 54,
-        "house": 224,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 21
-    },
-    {
-        "name": "Qyburn",
-        "male": true,
-        "birth": 217,
-        "age": 83,
-        "pageRank": 0.12780577187356848,
-        "numRelatives": 0,
-        "allegiances": [
-            387,
-            5,
-            187
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": -1,
-        "house": 350,
-        "locations": [],
-        "titles": [
-            381,
-            421
-        ],
-        "houseRegion": -1
-    },
-    {
-        "name": "Robert Brax (son of Flement)",
-        "male": true,
-        "birth": 290,
-        "age": 10,
-        "pageRank": 0.02015574896930829,
-        "numRelatives": 0,
-        "allegiances": [
-            67
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": 54,
-        "house": 54,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 27
-    },
-    {
-        "name": "Roslin Frey",
-        "male": true,
-        "birth": 282,
-        "age": 18,
-        "pageRank": 0.06184150251946862,
-        "numRelatives": 0.021739130434782608,
-        "allegiances": [
-            136,
-            316
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": 44,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Rickon Stark",
-        "male": true,
-        "birth": 295,
-        "age": 5,
-        "pageRank": 0.11360513055428309,
-        "numRelatives": 0,
-        "allegiances": [
-            290
-        ],
-        "books": [
-            4,
-            0,
-            7,
-            3,
-            1
-        ],
-        "culture": 33,
-        "house": 269,
-        "locations": [],
-        "titles": [
-            437
-        ],
-        "houseRegion": 8
-    },
-    {
-        "name": "Sandor Frey",
-        "male": false,
-        "birth": 287,
-        "age": 13,
-        "pageRank": 0.02702702702702703,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Serra Frey",
-        "male": false,
-        "birth": 285,
-        "age": 15,
-        "pageRank": 0.021071919377004124,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": 44,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Selwyn Tarth",
-        "male": true,
-        "birth": 245,
-        "age": 55,
-        "pageRank": 0.01832340815391663,
-        "numRelatives": 0.08695652173913043,
-        "allegiances": [
-            307
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": 46,
-        "house": 285,
-        "locations": [],
-        "titles": [
-            489,
-            261,
-            328
-        ],
-        "houseRegion": 13
-    },
-    {
-        "name": "Ronnet Connington",
-        "male": true,
-        "birth": 274,
-        "age": 26,
-        "pageRank": 0.02702702702702703,
-        "numRelatives": 0.021739130434782608,
-        "allegiances": [
-            95
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": 47,
-        "house": 82,
-        "locations": [],
-        "titles": [
-            469,
-            152
-        ],
-        "houseRegion": 13
-    },
-    {
-        "name": "Stannis Seaworth",
-        "male": true,
-        "birth": 289,
-        "age": 11,
-        "pageRank": 0.010535959688502062,
-        "numRelatives": 0,
-        "allegiances": [
-            278
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": -1,
-        "house": 257,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 18
-    },
-    {
-        "name": "Trystane Martell",
-        "male": true,
-        "birth": 287,
-        "age": 13,
-        "pageRank": 0.03939532753092075,
-        "numRelatives": 0,
-        "allegiances": [
-            213
-        ],
-        "books": [
-            4,
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": 14,
-        "house": 195,
-        "locations": [],
-        "titles": [
-            437
-        ],
-        "houseRegion": 3
-    },
-    {
-        "name": "Theon Greyjoy",
-        "male": true,
-        "birth": 278,
-        "age": 22,
-        "pageRank": 0.40907008703618875,
-        "numRelatives": 0,
-        "allegiances": [
-            152
-        ],
-        "books": [
-            4,
-            0,
-            5,
-            3,
-            1,
-            17
-        ],
-        "culture": 22,
-        "house": 139,
-        "locations": [],
-        "titles": [
-            39,
-            365,
-            445
-        ],
-        "houseRegion": 4
-    },
-    {
-        "name": "Tybolt Hetherspoon",
-        "male": true,
-        "birth": 252,
-        "age": 48,
-        "pageRank": 0.0022904260192395786,
-        "numRelatives": 0.043478260869565216,
-        "allegiances": [
-            167
-        ],
-        "books": [
-            3,
-            1
-        ],
-        "culture": 54,
-        "house": 154,
-        "locations": [],
-        "titles": [
-            469
-        ],
-        "houseRegion": 21
-    },
-    {
-        "name": "Tysane Frey",
-        "male": false,
-        "birth": 292,
-        "age": 8,
-        "pageRank": 0.013284470911589555,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Tommen Baratheon",
-        "male": true,
-        "birth": 291,
-        "age": 9,
-        "pageRank": 0.3229500687127806,
-        "numRelatives": 0.06521739130434782,
-        "allegiances": [],
-        "books": [],
-        "culture": -1,
-        "house": -1,
-        "locations": [],
-        "titles": [],
-        "houseRegion": -1
-    },
-    {
-        "name": "Waif",
-        "male": true,
-        "birth": 263,
-        "age": 37,
-        "pageRank": 0.011452130096197893,
-        "numRelatives": 0,
-        "allegiances": [
-            17
-        ],
-        "books": [
-            3,
-            1
-        ],
-        "culture": 6,
-        "house": 15,
-        "locations": [],
-        "titles": [],
-        "houseRegion": -1
-    },
-    {
-        "name": "Walder Frey (son of Ryman)",
-        "male": true,
-        "birth": 260,
-        "age": 40,
-        "pageRank": 0.04764086120018323,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            4,
-            0,
-            5,
-            3
-        ],
-        "culture": 44,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Wallace Waynwood",
-        "male": true,
-        "birth": 278,
-        "age": 22,
-        "pageRank": 0.006871278057718736,
-        "numRelatives": 0,
-        "allegiances": [
-            336
-        ],
-        "books": [
-            3,
-            1,
-            17
-        ],
-        "culture": -1,
-        "house": 312,
-        "locations": [],
-        "titles": [
-            469
-        ],
-        "houseRegion": 19
-    },
-    {
-        "name": "Walda Frey (daughter of Rhaegar)",
-        "male": false,
-        "birth": 288,
-        "age": 12,
-        "pageRank": 0.010535959688502062,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Waltyr Frey",
-        "male": true,
-        "birth": 289,
-        "age": 11,
-        "pageRank": 0.009161704076958314,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Wynton Stout",
-        "male": true,
-        "birth": 219,
-        "age": 81,
-        "pageRank": 0.007329363261566651,
-        "numRelatives": 0,
-        "allegiances": [
-            295,
-            367
-        ],
-        "books": [
-            5,
-            3
-        ],
-        "culture": 33,
-        "house": 274,
-        "locations": [],
-        "titles": [
-            469
-        ],
-        "houseRegion": 8
-    },
-    {
-        "name": "Walder Haigh",
-        "male": false,
-        "birth": 294,
-        "age": 6,
-        "pageRank": 0.012368300503893724,
-        "numRelatives": 0,
-        "allegiances": [
-            154
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": 44,
-        "house": 141,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Willamen Frey",
-        "male": true,
-        "birth": 272,
-        "age": 28,
-        "pageRank": 0.01282638570774164,
-        "numRelatives": 0,
-        "allegiances": [
-            136,
-            387,
-            177
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": 44,
-        "house": 122,
-        "locations": [],
-        "titles": [
-            390
-        ],
-        "houseRegion": 11
-    },
-    {
-        "name": "Merianne Frey",
-        "male": false,
-        "birth": 288,
-        "age": 12,
-        "pageRank": 0.01282638570774164,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Myrcella Baratheon",
-        "male": false,
-        "birth": 290,
-        "age": 10,
-        "pageRank": 0.14200641319285387,
-        "numRelatives": 0,
-        "allegiances": [
-            46
-        ],
-        "books": [
-            18,
-            4,
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": 9,
-        "house": 35,
-        "locations": [],
-        "titles": [
-            447
-        ],
-        "houseRegion": 2
-    },
-    {
-        "name": "Monterys Velaryon",
-        "male": true,
-        "birth": 293,
-        "age": 7,
-        "pageRank": 0.006871278057718736,
-        "numRelatives": 0,
-        "allegiances": [
-            329
-        ],
-        "books": [
-            5,
-            3
-        ],
-        "culture": 9,
-        "house": 305,
-        "locations": [],
-        "titles": [
-            356,
-            410
-        ],
-        "houseRegion": 0
-    },
-    {
-        "name": "Mya Stone",
-        "male": false,
-        "birth": 279,
-        "age": 21,
-        "pageRank": 0.024278515803939534,
-        "numRelatives": 0,
-        "allegiances": [
-            270
-        ],
-        "books": [
-            4,
-            0,
-            5,
-            3,
-            1,
-            17
-        ],
-        "culture": -1,
-        "house": 249,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 23
-    },
-    {
-        "name": "Nymeria Sand",
-        "male": false,
-        "birth": 274,
-        "age": 26,
-        "pageRank": 0.09757214841960604,
-        "numRelatives": 0,
-        "allegiances": [
-            213
-        ],
-        "books": [
-            5,
-            3,
-            1
-        ],
-        "culture": 14,
-        "house": 195,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 3
-    },
-    {
-        "name": "Renly Norcross",
-        "male": true,
-        "birth": 296,
-        "age": 4,
-        "pageRank": 0.013742556115437472,
-        "numRelatives": 0,
-        "allegiances": [
-            229
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": -1,
-        "house": 211,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 9
-    },
-    {
-        "name": "Raymund Frey",
-        "male": true,
-        "birth": 264,
-        "age": 36,
-        "pageRank": 0.03298213467704993,
-        "numRelatives": 0.17391304347826086,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": 44,
-        "house": 122,
-        "locations": [],
-        "titles": [
-            469
-        ],
-        "houseRegion": 11
-    },
-    {
-        "name": "Rhae Targaryen",
-        "male": false,
-        "birth": 201,
-        "age": 99,
-        "pageRank": 0.016491067338524967,
-        "numRelatives": 0,
-        "allegiances": [
-            305
-        ],
-        "books": [
-            18,
-            16
-        ],
-        "culture": 9,
-        "house": 283,
-        "locations": [],
-        "titles": [
-            447
-        ],
-        "houseRegion": 2
-    },
-    {
-        "name": "Ryella Frey",
-        "male": false,
-        "birth": 294,
-        "age": 6,
-        "pageRank": 0.02244617498854787,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Sarella Sand",
-        "male": false,
-        "birth": 280,
-        "age": 20,
-        "pageRank": 0.02153000458085204,
-        "numRelatives": 0,
-        "allegiances": [
-            213
-        ],
-        "books": [
-            5,
-            3,
-            1
-        ],
-        "culture": 14,
-        "house": 195,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 3
-    },
-    {
-        "name": "Steffon Frey",
-        "male": false,
-        "birth": 263,
-        "age": 37,
-        "pageRank": 0.015116811726981219,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Sylva Santagar",
-        "male": false,
-        "birth": 276,
-        "age": 24,
-        "pageRank": 0.010535959688502062,
-        "numRelatives": 0.021739130434782608,
-        "allegiances": [
-            275,
-            117
-        ],
-        "books": [
-            3
-        ],
-        "culture": 14,
-        "house": 254,
-        "locations": [],
-        "titles": [
-            182
-        ],
-        "houseRegion": 3
-    },
-    {
-        "name": "Walder Vance",
-        "male": true,
-        "birth": 263,
-        "age": 37,
-        "pageRank": 0.01694915254237288,
-        "numRelatives": 0,
-        "allegiances": [
-            325
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": -1,
-        "house": 301,
-        "locations": [],
-        "titles": [],
-        "houseRegion": -1
-    },
-    {
-        "name": "Tywin Frey",
-        "male": true,
-        "birth": 287,
-        "age": 13,
-        "pageRank": 0.017407237746220796,
-        "numRelatives": 0,
-        "allegiances": [
-            136,
-            137
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": 44,
-        "house": 122,
-        "locations": [],
-        "titles": [
-            471
-        ],
-        "houseRegion": 11
-    },
-    {
-        "name": "Tyta Frey",
-        "male": false,
-        "birth": 269,
-        "age": 31,
-        "pageRank": 0.013284470911589555,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Walder Frey (son of Emmon)",
-        "male": true,
-        "birth": 285,
-        "age": 15,
-        "pageRank": 0.016491067338524967,
-        "numRelatives": 0,
-        "allegiances": [
-            137
-        ],
-        "books": [
-            4,
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": -1,
-        "house": 123,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Wyman Manderly",
-        "male": true,
-        "birth": 239,
-        "age": 61,
-        "pageRank": 0.09711406321575813,
-        "numRelatives": 0.043478260869565216,
-        "allegiances": [
-            209
-        ],
-        "books": [
-            4,
-            0,
-            5,
-            3,
-            1,
-            17
-        ],
-        "culture": 33,
-        "house": 191,
-        "locations": [],
-        "titles": [
-            362,
-            514,
-            474,
-            97,
-            230,
-            162
-        ],
-        "houseRegion": 8
-    },
-    {
-        "name": "Victaria Tyrell",
-        "male": false,
-        "birth": 278,
-        "age": 22,
-        "pageRank": 0.021071919377004124,
-        "numRelatives": 0.043478260869565216,
-        "allegiances": [
-            318,
-            72
-        ],
-        "books": [
-            5,
-            3
-        ],
-        "culture": 41,
-        "house": 295,
-        "locations": [],
-        "titles": [
-            101
-        ],
-        "houseRegion": 9
-    },
-    {
-        "name": "Wex Pyke",
-        "male": true,
-        "birth": 286,
-        "age": 14,
-        "pageRank": 0.024278515803939534,
-        "numRelatives": 0,
-        "allegiances": [
-            65,
-            152
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": 21,
-        "house": 52,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 4
-    },
-    {
-        "name": "Walda Frey (daughter of Lothar)",
-        "male": false,
-        "birth": 294,
-        "age": 6,
-        "pageRank": 0.014200641319285386,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Walda Rivers (daughter of Aemon)",
-        "male": false,
-        "birth": 295,
-        "age": 5,
-        "pageRank": 0.005497022446174988,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            5
-        ],
-        "culture": 44,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Walton Frey",
-        "male": true,
-        "birth": 249,
-        "age": 51,
-        "pageRank": 0.018781493357764543,
-        "numRelatives": 0.08695652173913043,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            0,
-            5,
-            3
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Weasel",
-        "male": true,
-        "birth": 296,
-        "age": 4,
-        "pageRank": 0.00320659642693541,
-        "numRelatives": 0,
-        "allegiances": [],
-        "books": [
-            0,
-            3
-        ],
-        "culture": -1,
-        "house": -1,
-        "locations": [],
-        "titles": [],
-        "houseRegion": -1
-    },
-    {
-        "name": "Wendel Frey",
-        "male": true,
-        "birth": 286,
-        "age": 14,
-        "pageRank": 0.00961978928080623,
-        "numRelatives": 0,
-        "allegiances": [
-            136
-        ],
-        "books": [
-            0,
-            5,
-            3,
-            1
-        ],
-        "culture": -1,
-        "house": 122,
-        "locations": [],
-        "titles": [],
-        "houseRegion": 11
-    },
-    {
-        "name": "Willow Heddle",
-        "male": false,
-        "birth": 289,
-        "age": 11,
-        "pageRank": 0.006871278057718736,
-        "numRelatives": 0,
-        "allegiances": [
-            386
-        ],
-        "books": [
-            3
-        ],
-        "culture": -1,
-        "house": 349,
-        "locations": [],
-        "titles": [],
-        "houseRegion": -1
     }
 ]

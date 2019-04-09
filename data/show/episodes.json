@@ -1,7 +1,7 @@
 [
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec36",
+        "_id": "5cabf96bc5a20b7549c039ab",
         "characters": [
             "Will",
             "Waymar Royce",
@@ -54,8 +54,7 @@
             "Jorah Mormont",
             "Mago"
         ],
-        "createdAt": "2019-03-24T23:49:57.147Z",
-        "date": "2011-04-17T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.104Z",
         "deaths": [
             "Waymar Royce",
             "Gared",
@@ -65,8 +64,6 @@
         ],
         "directed_by": "Tim Van Patten",
         "episode": 1,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/7/7d/101_WIC.jpg/revision/latest/scale-to-width-down/120?cb=20170526151156",
-        "number": 1,
         "places": [
             "Beyond the Wall",
             "In Pentos",
@@ -76,17 +73,15 @@
             "Deaths",
             "Cast notes"
         ],
-        "preview_text": "Lord Stark is troubled by reports from a Night's Watch deserter; King Robert and the Lannisters arrive at Winterfell; Viserys Targaryen forges a new alliance.",
         "runtime": 62,
         "season": 1,
         "title": "Winter Is Coming",
-        "updatedAt": "2019-03-24T23:49:57.147Z",
-        "viewers": 2.22,
+        "updatedAt": "2019-04-09T01:46:19.104Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec37",
+        "_id": "5cabf96bc5a20b7549c039ac",
         "characters": [
             "Doreah",
             "Irri",
@@ -97,8 +92,7 @@
             "Mycah",
             "Lannister guardsman"
         ],
-        "createdAt": "2019-03-24T23:49:57.147Z",
-        "date": "2011-04-24T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.104Z",
         "deaths": [
             "Catspaw assassin",
             "Mycah",
@@ -106,8 +100,6 @@
         ],
         "directed_by": "Tim Van Patten",
         "episode": 2,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/2/2a/102_TK.jpg/revision/latest/scale-to-width-down/120?cb=20170526151057",
-        "number": 2,
         "places": [
             "In the Dothraki Sea",
             "In the North",
@@ -116,17 +108,15 @@
             "Characters",
             "Cast notes"
         ],
-        "preview_text": "The Lannisters plot to ensure Bran's silence; Jon and Tyrion head to the Wall; Ned faces a family crisis en route to King's Landing.",
         "runtime": 56,
         "season": 1,
         "title": "The Kingsroad",
-        "updatedAt": "2019-03-24T23:49:57.147Z",
-        "viewers": 2.2,
+        "updatedAt": "2019-04-09T01:46:19.104Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec38",
+        "_id": "5cabf96bc5a20b7549c039ad",
         "characters": [
             "Royal Steward",
             "Petyr Baelish",
@@ -149,13 +139,10 @@
             "Aemon",
             "Syrio Forel"
         ],
-        "createdAt": "2019-03-24T23:49:57.148Z",
-        "date": "2011-05-01T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.104Z",
         "deaths": [],
         "directed_by": "Brian Kirk",
         "episode": 3,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/8/8e/103_LS.jpg/revision/latest/scale-to-width-down/120?cb=20170526151049",
-        "number": 3,
         "places": [
             "In King's Landing",
             "At Winterfell",
@@ -165,17 +152,15 @@
             "Cast",
             "Cast notes"
         ],
-        "preview_text": "Jon impresses Tyrion at Castle Black; Ned confronts his past and future at King's Landing; Daenerys finds herself at odds with Viserys.",
         "runtime": 58,
         "season": 1,
         "title": "Lord Snow",
-        "updatedAt": "2019-03-24T23:49:57.148Z",
-        "viewers": 2.44,
+        "updatedAt": "2019-04-09T01:46:19.104Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec39",
+        "_id": "5cabf96bc5a20b7549c039ae",
         "characters": [
             "Samwell Tarly",
             "Janos Slynt",
@@ -191,15 +176,12 @@
             "Kurleket",
             "Knight of House Frey"
         ],
-        "createdAt": "2019-03-24T23:49:57.148Z",
-        "date": "2011-05-08T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.104Z",
         "deaths": [
             "Hugh"
         ],
         "directed_by": "Brian Kirk",
         "episode": 4,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/f/fe/104_CBABT.jpg/revision/latest/scale-to-width-down/120?cb=20170526150954",
-        "number": 4,
         "places": [
             "In the North",
             "At the Wall",
@@ -210,17 +192,15 @@
             "Deaths",
             "Cast notes"
         ],
-        "preview_text": "Ned probes Arryn's death; Jon takes measures to protect Sam; Tyrion is caught in the wrong place.",
         "runtime": 56,
         "season": 1,
         "title": "Cripples, Bastards, and Broken Things",
-        "updatedAt": "2019-03-24T23:49:57.148Z",
-        "viewers": 2.45,
+        "updatedAt": "2019-04-09T01:46:19.104Z",
         "written_by": "Bryan Cogman"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec3a",
+        "_id": "5cabf96bc5a20b7549c039af",
         "characters": [
             "Loras Tyrell",
             "Joss Stilwood",
@@ -233,8 +213,7 @@
             "Heward",
             "Mord"
         ],
-        "createdAt": "2019-03-24T23:49:57.148Z",
-        "date": "2011-05-15T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.104Z",
         "deaths": [
             "Kurleket",
             "Willis Wode",
@@ -244,8 +223,6 @@
         ],
         "directed_by": "Brian Kirk",
         "episode": 5,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/3/38/105_TWATL.jpg/revision/latest/scale-to-width-down/120?cb=20170526150941",
-        "number": 5,
         "places": [
             "In the Vale",
             "In the North",
@@ -254,17 +231,15 @@
             "Deaths",
             "Cast Notes"
         ],
-        "preview_text": "Ned refuses an order from the King; Tyrion escapes one perilous encounter, only to find himself in another.",
         "runtime": 55,
         "season": 1,
         "title": "The Wolf and the Lion",
-        "updatedAt": "2019-03-24T23:49:57.148Z",
-        "viewers": 2.58,
+        "updatedAt": "2019-04-09T01:46:19.104Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec3b",
+        "_id": "5cabf96bc5a20b7549c039b0",
         "characters": [
             "Osha",
             "Stiv",
@@ -276,8 +251,7 @@
             "Steffon",
             "Joss"
         ],
-        "createdAt": "2019-03-24T23:49:57.149Z",
-        "date": "2011-05-22T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.104Z",
         "deaths": [
             "Wallen",
             "Stiv",
@@ -286,8 +260,6 @@
         ],
         "directed_by": "Daniel Minahan",
         "episode": 6,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/e/e3/106_AGC.jpg/revision/latest/scale-to-width-down/120?cb=20170526150829",
-        "number": 6,
         "places": [
             "In the Crownlands",
             "In the North",
@@ -297,17 +269,15 @@
             "Deaths",
             "Cast Notes"
         ],
-        "preview_text": "Ned makes a controversial decree; Tyrion confesses to his \"crimes\"; Viserys receives final payment for Daenerys.",
         "runtime": 53,
         "season": 1,
         "title": "A Golden Crown",
-        "updatedAt": "2019-03-24T23:49:57.149Z",
-        "viewers": 2.44,
+        "updatedAt": "2019-04-09T01:46:19.104Z",
         "written_by": "Jane Espenson, David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec3c",
+        "_id": "5cabf96bc5a20b7549c039b1",
         "characters": [
             "Tywin Lannister",
             "Armeca",
@@ -339,16 +309,13 @@
             "Clydas",
             "Varly"
         ],
-        "createdAt": "2019-03-24T23:49:57.149Z",
-        "date": "2011-05-29T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.105Z",
         "deaths": [
             "Robert Baratheon",
             "Varly"
         ],
         "directed_by": "Daniel Minahan",
         "episode": 7,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/b/b3/107_YWOYD.jpg/revision/latest/scale-to-width-down/120?cb=20170526150820",
-        "number": 7,
         "places": [
             "At the Lannister Camp",
             "At Winterfell",
@@ -359,17 +326,15 @@
             "Deaths",
             "Cast Notes"
         ],
-        "preview_text": "Ned confronts Cersei about her secrets; Jon takes his Night's Watch vows; Drogo promises to lead the Dothraki to King's Landing.",
         "runtime": 58,
         "season": 1,
         "title": "You Win or You Die",
-        "updatedAt": "2019-03-24T23:49:57.149Z",
-        "viewers": 2.4,
+        "updatedAt": "2019-04-09T01:46:19.105Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec3d",
+        "_id": "5cabf96bc5a20b7549c039b2",
         "characters": [
             "Vayon Poole",
             "Meryn Trant",
@@ -385,8 +350,7 @@
             "Maege Mormont",
             "Aron Santagar"
         ],
-        "createdAt": "2019-03-24T23:49:57.149Z",
-        "date": "2011-06-05T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.105Z",
         "deaths": [
             "Vayon Poole",
             "Mordane",
@@ -398,8 +362,6 @@
         ],
         "directed_by": "Daniel Minahan",
         "episode": 8,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/2/23/108_TPE.jpg/revision/latest/scale-to-width-down/120?cb=20170526150730",
-        "number": 8,
         "places": [
             "At the Wall",
             "At the Eyrie",
@@ -412,17 +374,15 @@
             "Deaths",
             "Cast notes"
         ],
-        "preview_text": "The Lannisters press their advantage over the Starks; Robb rallies his father's northern allies and heads south to war.",
         "runtime": 59,
         "season": 1,
         "title": "The Pointy End",
-        "updatedAt": "2019-03-24T23:49:57.149Z",
-        "viewers": 2.72,
+        "updatedAt": "2019-04-09T01:46:19.105Z",
         "written_by": "George R.R. Martin"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec3e",
+        "_id": "5cabf96bc5a20b7549c039b3",
         "characters": [
             "Walder Frey",
             "Leo Lefford",
@@ -432,16 +392,13 @@
             "Arwaya Frey",
             "Shae"
         ],
-        "createdAt": "2019-03-24T23:49:57.150Z",
-        "date": "2011-06-12T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.105Z",
         "deaths": [
             "Qotho",
             "Eddard Stark"
         ],
         "directed_by": "Alan Taylor",
         "episode": 9,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/3/3b/109_B.jpg/revision/latest/scale-to-width-down/120?cb=20170526150718",
-        "number": 9,
         "places": [
             "In the Riverlands",
             "At the Wall",
@@ -451,17 +408,15 @@
             "Deaths",
             "Cast notes"
         ],
-        "preview_text": "Ned makes a fateful decision; Robb takes a prized prisoner; Dany finds her reign imperiled.",
         "runtime": 57,
         "season": 1,
         "title": "Baelor",
-        "updatedAt": "2019-03-24T23:49:57.150Z",
-        "viewers": 2.66,
+        "updatedAt": "2019-04-09T01:46:19.105Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec3f",
+        "_id": "5cabf96bc5a20b7549c039b4",
         "characters": [
             "Rickard Karstark",
             "Jonos Bracken",
@@ -476,8 +431,7 @@
             "Viserion",
             "Rhaegal"
         ],
-        "createdAt": "2019-03-24T23:49:57.150Z",
-        "date": "2011-06-19T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.105Z",
         "deaths": [
             "Rhaego",
             "Drogo",
@@ -485,8 +439,6 @@
         ],
         "directed_by": "Alan Taylor",
         "episode": 10,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/0/07/110_FAB.jpg/revision/latest/scale-to-width-down/120?cb=20170526150612",
-        "number": 10,
         "places": [
             "In King's Landing",
             "In the North",
@@ -497,17 +449,15 @@
             "Deaths",
             "Cast"
         ],
-        "preview_text": "A new king rises in the North; a Khaleesi finds new hope.",
         "runtime": 53,
         "season": 1,
         "title": "Fire and Blood",
-        "updatedAt": "2019-03-24T23:49:57.150Z",
-        "viewers": 3.04,
+        "updatedAt": "2019-04-09T01:46:19.105Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec40",
+        "_id": "5cabf96bc5a20b7549c039b5",
         "characters": [
             "Lothor Brune",
             "Dontos Hollard",
@@ -530,8 +480,7 @@
             "Stark Officer 2",
             "Daisy"
         ],
-        "createdAt": "2019-03-24T23:49:57.150Z",
-        "date": "2012-04-01T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.105Z",
         "deaths": [
             "Silver",
             "Cressen",
@@ -540,8 +489,6 @@
         ],
         "directed_by": "Alan Taylor",
         "episode": 1,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/6/63/201_TNR.jpg/revision/latest/scale-to-width-down/120?cb=20170526150600",
-        "number": 11,
         "places": [
             "At Craster's Keep",
             "In King's Landing",
@@ -553,17 +500,15 @@
             "Deaths",
             "Cast notes"
         ],
-        "preview_text": "Tyrion arrives to save Joffrey's crown; Daenerys searches for allies and water in the Red Waste; Jon Snow faces the wilderness beyond the Wall.",
         "runtime": 53,
         "season": 2,
         "title": "The North Remembers",
-        "updatedAt": "2019-03-24T23:49:57.150Z",
-        "viewers": 3.86,
+        "updatedAt": "2019-04-09T01:46:19.105Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec41",
+        "_id": "5cabf96bc5a20b7549c039b6",
         "characters": [
             "Jaqen H'ghar",
             "Rorge",
@@ -574,15 +519,12 @@
             "Yara Greyjoy",
             "Salladhor Saan"
         ],
-        "createdAt": "2019-03-24T23:49:57.151Z",
-        "date": "2012-04-08T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.106Z",
         "deaths": [
             "Rakharo"
         ],
         "directed_by": "Alan Taylor",
         "episode": 2,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/7/78/202_TNL.jpg/revision/latest/scale-to-width-down/120?cb=20170526150441",
-        "number": 12,
         "places": [
             "On the Kingsroad",
             "In King's Landing",
@@ -594,17 +536,15 @@
             "Deaths",
             "Cast notes"
         ],
-        "preview_text": "Arya shares a secret; a scout returns to Dany with disturbing news; Theon comes home to the Iron Islands; Tyrion administers justice; Jon witnesses a terrible crime.",
         "runtime": 54,
         "season": 2,
         "title": "The Night Lands",
-        "updatedAt": "2019-03-24T23:49:57.151Z",
-        "viewers": 3.76,
+        "updatedAt": "2019-04-09T01:46:19.106Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec42",
+        "_id": "5cabf96bc5a20b7549c039b7",
         "characters": [
             "Brienne of Tarth",
             "Margaery Tyrell",
@@ -613,16 +553,13 @@
             "Amory Lorch",
             "Polliver"
         ],
-        "createdAt": "2019-03-24T23:49:57.151Z",
-        "date": "2012-04-15T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.106Z",
         "deaths": [
             "Yoren",
             "Lommy Greenhands"
         ],
         "directed_by": "Alik Sakharov",
         "episode": 3,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/5/5a/203_WIDMND.jpg/revision/latest/scale-to-width-down/120?cb=20170526150427",
-        "number": 13,
         "places": [
             "At Craster's Keep",
             "At Winterfell",
@@ -635,17 +572,15 @@
             "Deaths",
             "Cast notes"
         ],
-        "preview_text": "Tyrion roots out a spy; Catelyn meets a new king and queen; Bran dreams; Theon drowns.",
         "runtime": 53,
         "season": 2,
         "title": "What Is Dead May Never Die",
-        "updatedAt": "2019-03-24T23:49:57.151Z",
-        "viewers": 3.77,
+        "updatedAt": "2019-04-09T01:46:19.106Z",
         "written_by": "Bryan Cogman"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec43",
+        "_id": "5cabf96bc5a20b7549c039b8",
         "characters": [
             "Rennick",
             "Lannister guardsman",
@@ -660,8 +595,7 @@
             "Xaro Xhoan Daxos",
             "Copper King"
         ],
-        "createdAt": "2019-03-24T23:49:57.151Z",
-        "date": "2012-04-22T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.106Z",
         "deaths": [
             "Rennick",
             "Lannister guardsman",
@@ -670,8 +604,6 @@
         ],
         "directed_by": "David Petrarca",
         "episode": 4,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/3/3c/204_GOB.jpg/revision/latest/scale-to-width-down/120?cb=20170526150310",
-        "number": 14,
         "places": [
             "At Oxcross",
             "At Harrenhal",
@@ -682,17 +614,15 @@
             "Deaths",
             "Cast Notes"
         ],
-        "preview_text": "Catelyn tries to save two kings from themselves; Tyrion practices coercion; Robb meets a foreigner; Dany finds her ally; Melisandre casts a shadow on the Stormlands.",
         "runtime": 51,
         "season": 2,
         "title": "Garden of Bones",
-        "updatedAt": "2019-03-24T23:49:57.151Z",
-        "viewers": 3.65,
+        "updatedAt": "2019-04-09T01:46:19.106Z",
         "written_by": "Vanessa Taylor"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec44",
+        "_id": "5cabf96bc5a20b7549c039b9",
         "characters": [
             "Emmon Cuy",
             "Robar Royce",
@@ -708,8 +638,7 @@
             "Stonesnake",
             "Borba"
         ],
-        "createdAt": "2019-03-24T23:49:57.152Z",
-        "date": "2012-04-29T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.106Z",
         "deaths": [
             "Renly Baratheon",
             "Emmon Cuy",
@@ -718,8 +647,6 @@
         ],
         "directed_by": "David Petrarca",
         "episode": 5,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/3/31/205_TGOH.jpg/revision/latest/scale-to-width-down/120?cb=20170526150302",
-        "number": 15,
         "places": [
             "In the Stormlands",
             "In King's Landing",
@@ -732,17 +659,15 @@
             "Deaths",
             "Cast notes"
         ],
-        "preview_text": "The Baratheon rivalry ends; Tyrion learns of Cersei's secret weapon; Dany suffers a loss; Arya collects a debt she didn't know was owed; Jon Snow meets a legend.",
         "runtime": 55,
         "season": 2,
         "title": "The Ghost of Harrenhal",
-        "updatedAt": "2019-03-24T23:49:57.152Z",
-        "viewers": 3.9,
+        "updatedAt": "2019-04-09T01:46:19.106Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec45",
+        "_id": "5cabf96bc5a20b7549c039ba",
         "characters": [
             "Farlen",
             "Palla",
@@ -751,8 +676,7 @@
             "Jacks",
             "Quent"
         ],
-        "createdAt": "2019-03-24T23:49:57.152Z",
-        "date": "2012-05-06T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.106Z",
         "deaths": [
             "Rodrik Cassel",
             "High Septon",
@@ -764,8 +688,6 @@
         ],
         "directed_by": "David Nutter",
         "episode": 6,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/7/75/206_TOGATN.jpg/revision/latest/scale-to-width-down/120?cb=20170526150156",
-        "number": 16,
         "places": [
             "At Winterfell",
             "In the Westerlands",
@@ -779,20 +701,17 @@
             "Image Gallery",
             "Video Gallery"
         ],
-        "preview_text": "Arya has a surprise visitor; Dany vows to take what is hers; Joffrey meets his subjects; Qhorin gives Jon a chance to prove himself.",
         "runtime": 54,
         "season": 2,
         "title": "The Old Gods and the New",
-        "updatedAt": "2019-03-24T23:49:57.152Z",
-        "viewers": 3.88,
+        "updatedAt": "2019-04-09T01:46:19.106Z",
         "written_by": "Vanessa Taylor"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec46",
+        "_id": "5cabf96bc5a20b7549c039bb",
         "characters": [],
-        "createdAt": "2019-03-24T23:49:57.153Z",
-        "date": "2012-05-13T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.106Z",
         "deaths": [
             "Alton Lannister",
             "Torrhen Karstark",
@@ -807,8 +726,6 @@
         ],
         "directed_by": "David Nutter",
         "episode": 7,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/c/c2/207_AMWH.jpg/revision/latest/scale-to-width-down/120?cb=20170526150124",
-        "number": 17,
         "places": [
             "At Winterfell",
             "At Harrenhal",
@@ -822,22 +739,19 @@
             "Image Gallery",
             "Video Gallery"
         ],
-        "preview_text": "Jaime meets a relative; Theon hunts; Dany receives an invitation.",
         "runtime": 56,
         "season": 2,
         "title": "A Man Without Honor",
-        "updatedAt": "2019-03-24T23:49:57.153Z",
-        "viewers": 3.7,
+        "updatedAt": "2019-04-09T01:46:19.106Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec47",
+        "_id": "5cabf96bc5a20b7549c039bc",
         "characters": [
             "Lord of Bones"
         ],
-        "createdAt": "2019-03-24T23:49:57.153Z",
-        "date": "2012-05-20T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.106Z",
         "deaths": [
             "Borba",
             "Harker",
@@ -845,8 +759,6 @@
         ],
         "directed_by": "Alan Taylor",
         "episode": 8,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/1/1f/Tyrion_and_Varys_2x08.jpg/revision/latest/scale-to-width-down/120?cb=20120521021224",
-        "number": 18,
         "places": [
             "Beyond the Wall",
             "In Qarth",
@@ -861,24 +773,21 @@
             "Image Gallery",
             "Video Gallery"
         ],
-        "preview_text": "Theon holds down the fort; Arya calls in her debt with Jaqen; Robb is betrayed; Stannis and Davos approach their destination.",
         "runtime": 54,
         "season": 2,
         "title": "The Prince of Winterfell",
-        "updatedAt": "2019-03-24T23:49:57.153Z",
-        "viewers": 3.86,
+        "updatedAt": "2019-04-09T01:46:19.106Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec48",
+        "_id": "5cabf96bc5a20b7549c039bd",
         "characters": [
             "Boros Blount",
             "Imry Florent",
             "Baratheon Officer"
         ],
-        "createdAt": "2019-03-24T23:49:57.153Z",
-        "date": "2012-05-27T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.107Z",
         "deaths": [
             "Matthos Seaworth",
             "Baratheon Officer",
@@ -886,8 +795,6 @@
         ],
         "directed_by": "Neil Marshall",
         "episode": 9,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/5/5c/209_B.jpg/revision/latest/scale-to-width-down/120?cb=20170526150010",
-        "number": 19,
         "places": [
             "In King's Landing",
             "First",
@@ -896,25 +803,22 @@
             "Image Gallery",
             "Video Gallery"
         ],
-        "preview_text": "Tyrion and the Lannisters fight for their lives as Stannis' fleet assaults King's Landing.",
         "runtime": 55,
         "season": 2,
         "title": "Blackwater",
-        "updatedAt": "2019-03-24T23:49:57.153Z",
-        "viewers": 3.38,
+        "updatedAt": "2019-04-09T01:46:19.107Z",
         "written_by": "George R.R. Martin"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec49",
+        "_id": "5cabf96bc5a20b7549c039be",
         "characters": [
             "Gelmarr",
             "Stygg",
             "Rhaego",
             "Tom"
         ],
-        "createdAt": "2019-03-24T23:49:57.154Z",
-        "date": "2012-06-03T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.107Z",
         "deaths": [
             "Tom",
             "Maester",
@@ -925,8 +829,6 @@
         ],
         "directed_by": "Alan Taylor",
         "episode": 10,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/f/fb/210_VM.jpg/revision/latest/scale-to-width-down/120?cb=20170526145957",
-        "number": 20,
         "places": [
             "In King's Landing",
             "At Dragonstone",
@@ -939,17 +841,15 @@
             "Deaths",
             "Cast"
         ],
-        "preview_text": "Arya receives a gift from Jaqen; Dany goes to a strange place; Jon proves himself.",
         "runtime": 64,
         "season": 2,
         "title": "Valar Morghulis",
-        "updatedAt": "2019-03-24T23:49:57.154Z",
-        "viewers": 4.2,
+        "updatedAt": "2019-04-09T01:46:19.107Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec4a",
+        "_id": "5cabf96bc5a20b7549c039bf",
         "characters": [
             "Dongo",
             "Tormund Giantsbane",
@@ -965,15 +865,12 @@
             "Unsullied",
             "Unidentified Warlock"
         ],
-        "createdAt": "2019-03-24T23:49:57.154Z",
-        "date": "2013-03-31T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.107Z",
         "deaths": [
             "Jaremy Mallister"
         ],
         "directed_by": "Daniel Minahan",
         "episode": 1,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/d/d7/301_VD.jpg/revision/latest/scale-to-width-down/120?cb=20170526145848",
-        "number": 21,
         "places": [
             "Beyond the Wall",
             "In King's Landing",
@@ -984,17 +881,15 @@
             "Deaths",
             "Cast"
         ],
-        "preview_text": "Jon is tested by the wildling king; Tyrion asks for his reward; Daenerys sails into Slaver's Bay.",
         "runtime": 55,
         "season": 3,
         "title": "Valar Dohaeris",
-        "updatedAt": "2019-03-24T23:49:57.154Z",
-        "viewers": 4.37,
+        "updatedAt": "2019-04-09T01:46:19.107Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec4b",
+        "_id": "5cabf96bc5a20b7549c039c0",
         "characters": [
             "Jojen Reed",
             "Riverrun traveller",
@@ -1010,15 +905,12 @@
             "Ramsay Snow",
             "Locke"
         ],
-        "createdAt": "2019-03-24T23:49:57.155Z",
-        "date": "2013-04-07T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.107Z",
         "deaths": [
             "Hoster Tully"
         ],
         "directed_by": "Daniel Minahan",
         "episode": 2,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/7/7e/302_DWDW.jpg/revision/latest/scale-to-width-down/120?cb=20170526145839",
-        "number": 22,
         "places": [
             "Beyond the Wall",
             "In the North",
@@ -1029,17 +921,15 @@
             "Deaths",
             "Cast"
         ],
-        "preview_text": "Arya runs into the Brotherhood Without Banners; Jaime finds a way to pass the time.",
         "runtime": 57,
         "season": 3,
         "title": "Dark Wings, Dark Words",
-        "updatedAt": "2019-03-24T23:49:57.155Z",
-        "viewers": 4.27,
+        "updatedAt": "2019-04-09T01:46:19.107Z",
         "written_by": "Vanessa Taylor"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec4c",
+        "_id": "5cabf96bc5a20b7549c039c1",
         "characters": [
             "Hoster Tully",
             "Brynden \"The Blackfish\" Tully",
@@ -1054,15 +944,12 @@
             "Genna",
             "Kayla"
         ],
-        "createdAt": "2019-03-24T23:49:57.155Z",
-        "date": "2013-04-14T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.107Z",
         "deaths": [
             "Master Torturer"
         ],
         "directed_by": "David Benioff & D.B. Weiss",
         "episode": 3,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/3/37/303_WOP.jpg/revision/latest/scale-to-width-down/120?cb=20170526145741",
-        "number": 23,
         "places": [
             "In Astapor",
             "Beyond the Wall",
@@ -1075,24 +962,21 @@
             "Deaths",
             "Cast"
         ],
-        "preview_text": "Dany hears the price; Jaime strikes a deal with his captors.",
         "runtime": 57,
         "season": 3,
         "title": "Walk of Punishment",
-        "updatedAt": "2019-03-24T23:49:57.155Z",
-        "viewers": 4.72,
+        "updatedAt": "2019-04-09T01:46:19.107Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec4d",
+        "_id": "5cabf96bc5a20b7549c039c2",
         "characters": [
             "Sorcerer",
             "Bolton soldier",
             "Tyrell lady"
         ],
-        "createdAt": "2019-03-24T23:49:57.155Z",
-        "date": "2013-04-21T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.108Z",
         "deaths": [
             "Bannen",
             "Craster",
@@ -1102,8 +986,6 @@
         ],
         "directed_by": "Alex Graves",
         "episode": 4,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/4/44/304_ANHWIE.jpg/revision/latest/scale-to-width-down/120?cb=20170526145728",
-        "number": 24,
         "places": [
             "In the Riverlands",
             "In King's Landing",
@@ -1114,17 +996,15 @@
             "Deaths",
             "Cast"
         ],
-        "preview_text": "The Night's Watch takes stock; Dany exchanges a chain for a whip.",
         "runtime": 57,
         "season": 3,
         "title": "And Now His Watch Is Ended",
-        "updatedAt": "2019-03-24T23:49:57.155Z",
-        "viewers": 4.87,
+        "updatedAt": "2019-04-09T01:46:19.108Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec4e",
+        "_id": "5cabf96bc5a20b7549c039c3",
         "characters": [
             "Karstark lookout",
             "Petyr Baratheon",
@@ -1134,8 +1014,7 @@
             "Grey Worm",
             "Olyvar"
         ],
-        "createdAt": "2019-03-24T23:49:57.157Z",
-        "date": "2013-04-28T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.108Z",
         "deaths": [
             "Beric Dondarrion",
             "Willem Lannister",
@@ -1145,8 +1024,6 @@
         ],
         "directed_by": "Alex Graves",
         "episode": 5,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/a/a5/305_KBF.jpg/revision/latest/scale-to-width-down/120?cb=20170526145629",
-        "number": 25,
         "places": [
             "Beyond the Wall",
             "In Slaver's Bay",
@@ -1157,30 +1034,25 @@
             "Deaths",
             "Cast"
         ],
-        "preview_text": "The Hound\u00a0is judged; Jon proves himself; Robb is betrayed.",
         "runtime": 57,
         "season": 3,
         "title": "Kissed by Fire",
-        "updatedAt": "2019-03-24T23:49:57.157Z",
-        "viewers": 5.35,
+        "updatedAt": "2019-04-09T01:46:19.108Z",
         "written_by": "Bryan Cogman"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec4f",
+        "_id": "5cabf96bc5a20b7549c039c4",
         "characters": [
             "Lothar Frey",
             "Black Walder Rivers"
         ],
-        "createdAt": "2019-03-24T23:49:57.157Z",
-        "date": "2013-05-05T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.108Z",
         "deaths": [
             "Ros"
         ],
         "directed_by": "Alik Sakharov",
         "episode": 6,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/0/0e/306_TC.jpg/revision/latest/scale-to-width-down/120?cb=20170526145612",
-        "number": 26,
         "places": [
             "In King's Landing",
             "In the Riverlands",
@@ -1190,17 +1062,15 @@
             "Deaths",
             "Cast"
         ],
-        "preview_text": "Four Houses consider make-or-break alliances; Jon and the wildlings face a daunting climb.",
         "runtime": 57,
         "season": 3,
         "title": "The Climb",
-        "updatedAt": "2019-03-24T23:49:57.157Z",
-        "viewers": 5.5,
+        "updatedAt": "2019-04-09T01:46:19.108Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec50",
+        "_id": "5cabf96bc5a20b7549c039c5",
         "characters": [
             "Razdal mo Eraz",
             "Myranda",
@@ -1208,13 +1078,10 @@
             "Steelshanks",
             "Balon Swann"
         ],
-        "createdAt": "2019-03-24T23:49:57.158Z",
-        "date": "2013-05-12T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.108Z",
         "deaths": [],
         "directed_by": "Michelle MacLaren",
         "episode": 7,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/e/e3/307_TBATMF.jpg/revision/latest/scale-to-width-down/120?cb=20170526145458",
-        "number": 27,
         "places": [
             "In the North",
             "In Yunkai",
@@ -1225,25 +1092,22 @@
             "First",
             "Cast"
         ],
-        "preview_text": "Dany exchanges gifts in Yunkai; Brienne faces a formidable foe in Harrenhal.",
         "runtime": 57,
         "season": 3,
         "title": "The Bear and the Maiden Fair",
-        "updatedAt": "2019-03-24T23:49:57.158Z",
-        "viewers": 4.84,
+        "updatedAt": "2019-04-09T01:46:19.108Z",
         "written_by": "George R.R. Martin"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec51",
+        "_id": "5cabf96bc5a20b7549c039c6",
         "characters": [
             "Daario Naharis",
             "Mero",
             "Prendahl na Ghezn",
             "High Septon"
         ],
-        "createdAt": "2019-03-24T23:49:57.158Z",
-        "date": "2013-05-19T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.108Z",
         "deaths": [
             "Mero",
             "Prendahl na Ghezn",
@@ -1251,8 +1115,6 @@
         ],
         "directed_by": "Michelle MacLaren",
         "episode": 8,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/6/62/308_SS.jpg/revision/latest/scale-to-width-down/120?cb=20170526145444",
-        "number": 28,
         "places": [
             "In Yunkai",
             "Beyond the Wall",
@@ -1263,17 +1125,15 @@
             "Deaths",
             "Cast"
         ],
-        "preview_text": "Dany meets the Titan's Bastard; King's Landing hosts a royal wedding.",
         "runtime": 57,
         "season": 3,
         "title": "Second Sons",
-        "updatedAt": "2019-03-24T23:49:57.158Z",
-        "viewers": 5.13,
+        "updatedAt": "2019-04-09T01:46:19.108Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec52",
+        "_id": "5cabf96bc5a20b7549c039c7",
         "characters": [
             "Walda Frey",
             "Arwaya Frey",
@@ -1294,8 +1154,7 @@
             "Roslin Frey",
             "Drummer"
         ],
-        "createdAt": "2019-03-24T23:49:57.158Z",
-        "date": "2013-06-02T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.109Z",
         "deaths": [
             "Old man",
             "Orell",
@@ -1308,8 +1167,6 @@
         ],
         "directed_by": "David Nutter",
         "episode": 9,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/d/d0/309_TROC.jpg/revision/latest/scale-to-width-down/120?cb=20170526145347",
-        "number": 29,
         "places": [
             "In Yunkai",
             "At the Wall",
@@ -1320,17 +1177,15 @@
             "Deaths",
             "Cast"
         ],
-        "preview_text": "House Frey joins forces with House Tully; Jon faces his most difficult test yet.",
         "runtime": 57,
         "season": 3,
         "title": "The Rains of Castamere",
-        "updatedAt": "2019-03-24T23:49:57.158Z",
-        "viewers": 5.22,
+        "updatedAt": "2019-04-09T01:46:19.109Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec53",
+        "_id": "5cabf96bc5a20b7549c039c8",
         "characters": [
             "Frey soldier #1",
             "Frey soldier #2",
@@ -1344,13 +1199,10 @@
             "Yunkai'i slave #4",
             "Yunkai'i slave #5"
         ],
-        "createdAt": "2019-03-24T23:49:57.159Z",
-        "date": "2013-06-09T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.109Z",
         "deaths": [],
         "directed_by": "David Nutter",
         "episode": 10,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/5/51/310_M.jpg/revision/latest/scale-to-width-down/120?cb=20170526145336",
-        "number": 30,
         "places": [
             "At the Twins",
             "In the North",
@@ -1364,17 +1216,15 @@
             "Deaths",
             "Cast"
         ],
-        "preview_text": "Joffrey challenges Tywin; Dany waits to see if she is a conqueror or a liberator.",
         "runtime": 63,
         "season": 3,
         "title": "Mhysa",
-        "updatedAt": "2019-03-24T23:49:57.159Z",
-        "viewers": 5.39,
+        "updatedAt": "2019-04-09T01:46:19.109Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec54",
+        "_id": "5cabf96bc5a20b7549c039c9",
         "characters": [
             "Oberyn Martell",
             "Ellaria Sand",
@@ -1386,16 +1236,13 @@
             "Thenn Warg",
             "Lowell"
         ],
-        "createdAt": "2019-03-24T23:49:57.159Z",
-        "date": "2014-04-06T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.109Z",
         "deaths": [
             "Lowell",
             "Polliver"
         ],
         "directed_by": "David Benioff & D.B. Weiss",
         "episode": 1,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/6/6f/401_TS.jpg/revision/latest/scale-to-width-down/120?cb=20170526145226",
-        "number": 31,
         "places": [
             "In King's Landing",
             "In the North",
@@ -1408,17 +1255,15 @@
             "Image Gallery",
             "Video Gallery"
         ],
-        "preview_text": "King's Landing prepares for a royal wedding; Dany finds the way to Meereen; the Night's Watch braces for a new threat.",
         "runtime": 59,
         "season": 4,
         "title": "Two Swords",
-        "updatedAt": "2019-03-24T23:49:57.159Z",
-        "viewers": 6.64,
+        "updatedAt": "2019-04-09T01:46:19.109Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec55",
+        "_id": "5cabf96bc5a20b7549c039ca",
         "characters": [
             "Tansy",
             "Axell Florent",
@@ -1430,8 +1275,7 @@
             "Dwarf 4",
             "Dwarf 5"
         ],
-        "createdAt": "2019-03-24T23:49:57.159Z",
-        "date": "2014-04-13T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.109Z",
         "deaths": [
             "Tansy",
             "Axell Florent",
@@ -1439,8 +1283,6 @@
         ],
         "directed_by": "Alex Graves",
         "episode": 2,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/4/4a/Thelionandtherose1.jpg/revision/latest/scale-to-width-down/120?cb=20150130045007",
-        "number": 32,
         "places": [
             "At Dragonstone",
             "At the Dreadfort",
@@ -1452,17 +1294,15 @@
             "Image Gallery",
             "Video Gallery"
         ],
-        "preview_text": "The Lannisters and their guests gather in King's Landing.",
         "runtime": 53,
         "season": 4,
         "title": "The Lion and the Rose",
-        "updatedAt": "2019-03-24T23:49:57.159Z",
-        "viewers": 6.31,
+        "updatedAt": "2019-04-09T01:46:19.109Z",
         "written_by": "George R.R. Martin"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec56",
+        "_id": "5cabf96bc5a20b7549c039cb",
         "characters": [
             "Farmer",
             "Sally",
@@ -1480,8 +1320,7 @@
             "Slave",
             "Slave master"
         ],
-        "createdAt": "2019-03-24T23:49:57.160Z",
-        "date": "2014-04-20T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.109Z",
         "deaths": [
             "Dontos Hollard",
             "Guymon",
@@ -1490,8 +1329,6 @@
         ],
         "directed_by": "Alex Graves",
         "episode": 3,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/5/59/403_BOC.jpg/revision/latest/scale-to-width-down/120?cb=20170526145121",
-        "number": 33,
         "places": [
             "At King's Landing",
             "In the Riverlands",
@@ -1503,17 +1340,15 @@
             "Cast",
             "The Jaime/Cersei sex scene in the Great Sept"
         ],
-        "preview_text": "Tyrion ponders his options; Tywin extends an olive branch; Jon proposes a bold plan.",
         "runtime": 57,
         "season": 4,
         "title": "Breaker of Chains",
-        "updatedAt": "2019-03-24T23:49:57.160Z",
-        "viewers": 6.59,
+        "updatedAt": "2019-04-09T01:46:19.109Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec57",
+        "_id": "5cabf96bc5a20b7549c039cc",
         "characters": [
             "Ser Pounce",
             "Morag",
@@ -1522,13 +1357,10 @@
             "Night King",
             "Mossador"
         ],
-        "createdAt": "2019-03-24T23:49:57.173Z",
-        "date": "2014-04-27T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.109Z",
         "deaths": [],
         "directed_by": "Michelle MacLaren",
         "episode": 4,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/b/be/404_O.jpg/revision/latest/scale-to-width-down/120?cb=20170526145107",
-        "number": 34,
         "places": [
             "In Meereen",
             "At the Wall",
@@ -1542,22 +1374,19 @@
             "Image Gallery",
             "Video Gallery"
         ],
-        "preview_text": "Dany balances justice and mercy; Jaime turns to Brienne; Jon readies his men.",
         "runtime": 56,
         "season": 4,
         "title": "Oathkeeper",
-        "updatedAt": "2019-03-24T23:49:57.173Z",
-        "viewers": 6.95,
+        "updatedAt": "2019-04-09T01:46:19.109Z",
         "written_by": "Bryan Cogman"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec58",
+        "_id": "5cabf96bc5a20b7549c039cd",
         "characters": [
             "Donnel Waynwood"
         ],
-        "createdAt": "2019-03-24T23:49:57.173Z",
-        "date": "2014-05-04T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.109Z",
         "deaths": [
             "Mutineers",
             "Karl",
@@ -1567,8 +1396,6 @@
         ],
         "directed_by": "Michelle MacLaren",
         "episode": 5,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/1/16/405_FOHN.jpg/revision/latest/scale-to-width-down/120?cb=20170526145017",
-        "number": 35,
         "places": [
             "In Meereen",
             "At King's Landing",
@@ -1580,29 +1407,24 @@
             "Cast",
             "Image Gallery"
         ],
-        "preview_text": "Cersei and Tywin plot the Crown's next move; Jon embarks on a new mission.",
         "runtime": 54,
         "season": 4,
         "title": "First of His Name",
-        "updatedAt": "2019-03-24T23:49:57.173Z",
-        "viewers": 7.16,
+        "updatedAt": "2019-04-09T01:46:19.109Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec59",
+        "_id": "5cabf96bc5a20b7549c039ce",
         "characters": [
             "Tycho Nestoris",
             "Lhara",
             "Goatherd"
         ],
-        "createdAt": "2019-03-24T23:49:57.174Z",
-        "date": "2014-05-11T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.110Z",
         "deaths": [],
         "directed_by": "Alik Sakharov",
         "episode": 6,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/5/50/406_TLOGAM.jpg/revision/latest/scale-to-width-down/120?cb=20170526145006",
-        "number": 36,
         "places": [
             "At the Dreadfort",
             "At King's Landing",
@@ -1614,22 +1436,19 @@
             "Image gallery",
             "Video gallery"
         ],
-        "preview_text": "Tyrion faces down his father in the Throne Room.",
         "runtime": 51,
         "season": 4,
         "title": "The Laws of Gods and Men",
-        "updatedAt": "2019-03-24T23:49:57.174Z",
-        "viewers": 6.4,
+        "updatedAt": "2019-04-09T01:46:19.110Z",
         "written_by": "Bryan Cogman"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec5a",
+        "_id": "5cabf96bc5a20b7549c039cf",
         "characters": [
             "Dying man"
         ],
-        "createdAt": "2019-03-24T23:49:57.174Z",
-        "date": "2014-05-18T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.110Z",
         "deaths": [
             "Dying man",
             "Biter",
@@ -1638,8 +1457,6 @@
         ],
         "directed_by": "Alik Sakharov",
         "episode": 7,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/e/e3/407_M.jpg/revision/latest/scale-to-width-down/120?cb=20170526144912",
-        "number": 37,
         "places": [
             "At King's Landing",
             "In Meereen",
@@ -1653,17 +1470,15 @@
             "Image Gallery",
             "Video gallery"
         ],
-        "preview_text": "Tyrion enlists an unlikely ally.",
         "runtime": 52,
         "season": 4,
         "title": "Mockingbird",
-        "updatedAt": "2019-03-24T23:49:57.174Z",
-        "viewers": 7.2,
+        "updatedAt": "2019-04-09T01:46:19.110Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec5b",
+        "_id": "5cabf96bc5a20b7549c039d0",
         "characters": [
             "Kegs",
             "Black Jack Bulwer",
@@ -1675,8 +1490,7 @@
             "Vance Corbray",
             "Daemon Sand"
         ],
-        "createdAt": "2019-03-24T23:49:57.175Z",
-        "date": "2014-06-01T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.110Z",
         "deaths": [
             "Kegs",
             "Black Jack Bulwer",
@@ -1688,8 +1502,6 @@
         ],
         "directed_by": "Alex Graves",
         "episode": 8,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/0/06/408_TMATV.jpg/revision/latest/scale-to-width-down/120?cb=20170526144858",
-        "number": 38,
         "places": [
             "In the North",
             "At the Wall",
@@ -1700,17 +1512,15 @@
             "Deaths",
             "Cast"
         ],
-        "preview_text": "Mole's Town receives unexpected visitors; Tyrion's fate is decided.",
         "runtime": 53,
         "season": 4,
         "title": "The Mountain and the Viper",
-        "updatedAt": "2019-03-24T23:49:57.175Z",
-        "viewers": 7.17,
+        "updatedAt": "2019-04-09T01:46:19.110Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec5c",
+        "_id": "5cabf96bc5a20b7549c039d1",
         "characters": [
             "Mag Mar Tun Doh Weg",
             "Cooper",
@@ -1718,8 +1528,7 @@
             "Hobb",
             "Smitty"
         ],
-        "createdAt": "2019-03-24T23:49:57.175Z",
-        "date": "2014-06-08T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.110Z",
         "deaths": [
             "Dongo",
             "Smitty",
@@ -1734,8 +1543,6 @@
         ],
         "directed_by": "Neil Marshall",
         "episode": 9,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/8/8f/409_TWOTW.jpg/revision/latest/scale-to-width-down/120?cb=20170526144805",
-        "number": 39,
         "places": [
             "At the Wall",
             "First",
@@ -1744,17 +1551,15 @@
             "Image Gallery",
             "Video Gallery"
         ],
-        "preview_text": "The Night's Watch face their biggest challenge.",
         "runtime": 51,
         "season": 4,
         "title": "The Watchers on the Wall",
-        "updatedAt": "2019-03-24T23:49:57.175Z",
-        "viewers": 6.95,
+        "updatedAt": "2019-04-09T01:46:19.110Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec5d",
+        "_id": "5cabf96bc5a20b7549c039d2",
         "characters": [
             "Kullback",
             "Fennesz",
@@ -1765,8 +1570,7 @@
             "Ternesio Terys",
             "Child of the Forest"
         ],
-        "createdAt": "2019-03-24T23:49:57.175Z",
-        "date": "2014-06-15T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.110Z",
         "deaths": [
             "Zalla",
             "Jojen Reed",
@@ -1775,8 +1579,6 @@
         ],
         "directed_by": "Alex Graves",
         "episode": 10,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/e/e9/410_TC.jpg/revision/latest/scale-to-width-down/120?cb=20170526144752",
-        "number": 40,
         "places": [
             "At the Wall, and Beyond",
             "In Meereen",
@@ -1789,17 +1591,15 @@
             "Image Gallery",
             "Video Gallery"
         ],
-        "preview_text": "Dany faces some harsh realities; Tyrion sees the truth of his situation.",
         "runtime": 66,
         "season": 4,
         "title": "The Children",
-        "updatedAt": "2019-03-24T23:49:57.175Z",
-        "viewers": 7.1,
+        "updatedAt": "2019-04-09T01:46:19.110Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec5e",
+        "_id": "5cabf96bc5a20b7549c039d3",
         "characters": [
             "Melara Hetherspoon",
             "Maggy",
@@ -1808,16 +1608,13 @@
             "Bowen Marsh",
             "Samwell Stone"
         ],
-        "createdAt": "2019-03-24T23:49:57.176Z",
-        "date": "2015-04-12T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.110Z",
         "deaths": [
             "White Rat",
             "Mance Rayder"
         ],
         "directed_by": "Michael Slovis",
         "episode": 1,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/9/9c/501_TWTC.jpg/revision/latest/scale-to-width-down/120?cb=20170526144648",
-        "number": 41,
         "places": [
             "Prologue - about 25 years ago, In the Westerlands",
             "In King's Landing",
@@ -1829,17 +1626,15 @@
             "Deaths",
             "Cast"
         ],
-        "preview_text": "Tyrion learns of a conspiracy; Jon is caught between two kings.",
         "runtime": 53,
         "season": 5,
         "title": "The Wars To Come",
-        "updatedAt": "2019-03-24T23:49:57.176Z",
-        "viewers": 8,
+        "updatedAt": "2019-04-09T01:46:19.110Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec5f",
+        "_id": "5cabf96bc5a20b7549c039d4",
         "characters": [
             "Areo Hotah",
             "Denys Mallister",
@@ -1847,8 +1642,7 @@
             "Trystane Martell",
             "Lollys Stokeworth"
         ],
-        "createdAt": "2019-03-24T23:49:57.176Z",
-        "date": "2015-04-19T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.110Z",
         "deaths": [
             "Dwarf",
             "Son of the Harpy",
@@ -1856,8 +1650,6 @@
         ],
         "directed_by": "Michael Slovis",
         "episode": 2,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/d/dc/502_THOBAW.jpg/revision/latest/scale-to-width-down/120?cb=20170526144634",
-        "number": 42,
         "places": [
             "In Braavos",
             "In the Flatlands",
@@ -1872,17 +1664,15 @@
             "Image Gallery",
             "Video Gallery"
         ],
-        "preview_text": "Arya arrives in Braavos; Stannis tempts Jon.",
         "runtime": 56,
         "season": 5,
         "title": "The House of Black and White",
-        "updatedAt": "2019-03-24T23:49:57.176Z",
-        "viewers": 6.81,
+        "updatedAt": "2019-04-09T01:46:19.110Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec60",
+        "_id": "5cabf96bc5a20b7549c039d5",
         "characters": [
             "Medger Cerwyn",
             "Waif",
@@ -1890,8 +1680,7 @@
             "Red Priestess",
             "Clea"
         ],
-        "createdAt": "2019-03-24T23:49:57.176Z",
-        "date": "2015-04-26T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.111Z",
         "deaths": [
             "Despondent man",
             "Medger Cerwyn",
@@ -1899,8 +1688,6 @@
         ],
         "directed_by": "Mark Mylod",
         "episode": 3,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/2/25/503_HS.jpg/revision/latest/scale-to-width-down/120?cb=20170526144554",
-        "number": 43,
         "places": [
             "In King's Landing",
             "In the North",
@@ -1914,17 +1701,15 @@
             "Sansa Stark's storyline",
             "Image Gallery"
         ],
-        "preview_text": "Cersei does justice; Tyrion walks the Long Bridge of Volantis.",
         "runtime": 60,
         "season": 5,
         "title": "High Sparrow",
-        "updatedAt": "2019-03-24T23:49:57.176Z",
-        "viewers": 6.71,
+        "updatedAt": "2019-04-09T01:46:19.111Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec61",
+        "_id": "5cabf96bc5a20b7549c039d6",
         "characters": [
             "Boake",
             "Merchant captain",
@@ -1933,8 +1718,7 @@
             "Nymeria Sand",
             "Tyene Sand"
         ],
-        "createdAt": "2019-03-24T23:49:57.177Z",
-        "date": "2015-05-03T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.111Z",
         "deaths": [
             "Lead Dornish Guard",
             "Merchant captain",
@@ -1942,8 +1726,6 @@
         ],
         "directed_by": "Mark Mylod",
         "episode": 4,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/8/8f/504_SOTH.jpg/revision/latest/scale-to-width-down/120?cb=20170526144444",
-        "number": 44,
         "places": [
             "In King's Landing",
             "In Dorne",
@@ -1955,31 +1737,26 @@
             "Deaths",
             "Cast"
         ],
-        "preview_text": "The Faith Militant grow increasingly aggressive; Jaime and Bronn head south; Ellaria and the Sand Snakes vow vengeance.",
         "runtime": 51,
         "season": 5,
         "title": "Sons of the Harpy",
-        "updatedAt": "2019-03-24T23:49:57.177Z",
-        "viewers": 6.82,
+        "updatedAt": "2019-04-09T01:46:19.111Z",
         "written_by": "Dave Hill"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec62",
+        "_id": "5cabf96bc5a20b7549c039d7",
         "characters": [
             "Stone men",
             "Eaton",
             "Elboneno"
         ],
-        "createdAt": "2019-03-24T23:49:57.177Z",
-        "date": "2015-05-10T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.111Z",
         "deaths": [
             "Eaton"
         ],
         "directed_by": "Jeremy Podeswa",
         "episode": 5,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/f/fa/505_KTB.jpg/revision/latest/scale-to-width-down/120?cb=20170526144423",
-        "number": 45,
         "places": [
             "In Meereen",
             "At the Wall",
@@ -1989,31 +1766,26 @@
             "Deaths",
             "Cast"
         ],
-        "preview_text": "Dany makes a difficult decision in Meereen; Jon recruits the help of an unexpected ally; Brienne searches for Sansa; Theon remains under Ramsay's control.",
         "runtime": 57,
         "season": 5,
         "title": "Kill the Boy",
-        "updatedAt": "2019-03-24T23:49:57.177Z",
-        "viewers": 6.56,
+        "updatedAt": "2019-04-09T01:46:19.111Z",
         "written_by": "Bryan Cogman"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec63",
+        "_id": "5cabf96bc5a20b7549c039d8",
         "characters": [
             "Joss",
             "Ghita",
             "Malko"
         ],
-        "createdAt": "2019-03-24T23:49:57.177Z",
-        "date": "2015-05-17T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.111Z",
         "deaths": [
             "Ghita"
         ],
         "directed_by": "Jeremy Podeswa",
         "episode": 6,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/f/fe/506_UUU.jpg/revision/latest/scale-to-width-down/120?cb=20170526144256",
-        "number": 46,
         "places": [
             "In Braavos",
             "In Slaver's Bay",
@@ -2027,17 +1799,15 @@
             "The Sand Snakes fight scene",
             "Sansa's wedding night scene with Ramsay"
         ],
-        "preview_text": "Arya trains; Jorah and Tyrion run into slavers; Trystane and Myrcella make plans; Jaime and Bronn reach their destination; The Sand Snakes attack.",
         "runtime": 54,
         "season": 5,
         "title": "Unbowed, Unbent, Unbroken",
-        "updatedAt": "2019-03-24T23:49:57.177Z",
-        "viewers": 6.24,
+        "updatedAt": "2019-04-09T01:46:19.111Z",
         "written_by": "Bryan Cogman"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec64",
+        "_id": "5cabf96bc5a20b7549c039d9",
         "characters": [
             "Brant",
             "Derek",
@@ -2049,16 +1819,13 @@
             "Moelle",
             "Scolera"
         ],
-        "createdAt": "2019-03-24T23:49:57.178Z",
-        "date": "2015-05-24T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.111Z",
         "deaths": [
             "Aemon",
             "Old woman"
         ],
         "directed_by": "Miguel Sapochnik",
         "episode": 7,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/a/a5/507_TG.jpg/revision/latest/scale-to-width-down/120?cb=20170526144210",
-        "number": 47,
         "places": [
             "At the Wall",
             "In the North",
@@ -2070,17 +1837,15 @@
             "Cast",
             "Cast notes"
         ],
-        "preview_text": "Jon prepares for conflict; Sansa tries to talk to Theon; Brienne waits for a sign; Stannis remains stubborn; Jaime attempts to reconnect with family.",
         "runtime": 59,
         "season": 5,
         "title": "The Gift",
-        "updatedAt": "2019-03-24T23:49:57.178Z",
-        "viewers": 5.4,
+        "updatedAt": "2019-04-09T01:46:19.111Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec65",
+        "_id": "5cabf96bc5a20b7549c039da",
         "characters": [
             "Thin Man",
             "Karsi",
@@ -2092,8 +1857,7 @@
             "Willa",
             "Dim Dalba"
         ],
-        "createdAt": "2019-03-24T23:49:57.178Z",
-        "date": "2015-05-31T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.111Z",
         "deaths": [
             "Lord of Bones",
             "Loboda",
@@ -2102,8 +1866,6 @@
         ],
         "directed_by": "Miguel Sapochnik",
         "episode": 8,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/d/d7/508_H.jpg/revision/latest/scale-to-width-down/120?cb=20170526144101",
-        "number": 48,
         "places": [
             "In Meereen",
             "In Braavos",
@@ -2116,17 +1878,15 @@
             "Cast",
             "Cast notes"
         ],
-        "preview_text": "Arya makes progress in her training; Sansa confronts an old friend; Cersei struggles; Jon travels.",
         "runtime": 60,
         "season": 5,
         "title": "Hardhome",
-        "updatedAt": "2019-03-24T23:49:57.178Z",
-        "viewers": 7.01,
+        "updatedAt": "2019-04-09T01:46:19.111Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec66",
+        "_id": "5cabf96bc5a20b7549c039db",
         "characters": [
             "Brusco",
             "Braavosi madam",
@@ -2134,8 +1894,7 @@
             "Anara",
             "Aya"
         ],
-        "createdAt": "2019-03-24T23:49:57.178Z",
-        "date": "2015-06-07T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.111Z",
         "deaths": [
             "Shireen Baratheon",
             "Dothraki pit fighter",
@@ -2147,8 +1906,6 @@
         ],
         "directed_by": "David Nutter",
         "episode": 9,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/b/b7/509_TDOD.jpg/revision/latest/scale-to-width-down/120?cb=20170526144017",
-        "number": 49,
         "places": [
             "At the Wall",
             "In the North",
@@ -2160,23 +1917,20 @@
             "Cast",
             "Cast notes"
         ],
-        "preview_text": "Stannis confronts a troubling decision; Arya encounters someone from her past; Dany reluctantly observes a custom.",
         "runtime": 53,
         "season": 5,
         "title": "The Dance of Dragons",
-        "updatedAt": "2019-03-24T23:49:57.178Z",
-        "viewers": 7.14,
+        "updatedAt": "2019-04-09T01:46:19.111Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec67",
+        "_id": "5cabf96bc5a20b7549c039dc",
         "characters": [
             "Gordy",
             "Simpson"
         ],
-        "createdAt": "2019-03-24T23:49:57.179Z",
-        "date": "2015-06-14T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.111Z",
         "deaths": [
             "Selyse Baratheon",
             "Baratheon General",
@@ -2190,8 +1944,6 @@
         ],
         "directed_by": "David Nutter",
         "episode": 10,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/7/74/510_MM.jpg/revision/latest/scale-to-width-down/120?cb=20170526143838",
-        "number": 50,
         "places": [
             "In the North",
             "In Braavos",
@@ -2209,17 +1961,15 @@
             "Jon Snow's fate",
             "Catching up with the books"
         ],
-        "preview_text": "Stannis marches; Dany is surrounded by strangers; Cersei seeks forgiveness; Jon is challenged.",
         "runtime": 61,
         "season": 5,
         "title": "Mother's Mercy",
-        "updatedAt": "2019-03-24T23:49:57.179Z",
-        "viewers": 8.11,
+        "updatedAt": "2019-04-09T01:46:19.111Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec68",
+        "_id": "5cabf96bc5a20b7549c039dd",
         "characters": [
             "Maester",
             "Maester",
@@ -2231,8 +1981,7 @@
             "Khal Moro's 2nd wife",
             "Zanrush"
         ],
-        "createdAt": "2019-03-24T23:49:57.179Z",
-        "date": "2016-04-24T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.112Z",
         "deaths": [
             "Bolton Officer",
             "Areo Hotah",
@@ -2242,8 +1991,6 @@
         ],
         "directed_by": "Jeremy Podeswa",
         "episode": 1,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/6/64/601_TRW.jpg/revision/latest/scale-to-width-down/120?cb=20170526143740",
-        "number": 51,
         "places": [
             "In the North",
             "In Braavos",
@@ -2260,17 +2007,15 @@
             "Dorne",
             "Catching up with the novels in Season 6"
         ],
-        "preview_text": "Jon Snow is dead; Daenerys meets a strong man; Cersei sees her daughter again.",
         "runtime": 50,
         "season": 6,
         "title": "The Red Woman",
-        "updatedAt": "2019-03-24T23:49:57.179Z",
-        "viewers": 7.94,
+        "updatedAt": "2019-04-09T01:46:19.112Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec69",
+        "_id": "5cabf96bc5a20b7549c039de",
         "characters": [
             "King's Landing boaster",
             "Lyanna Stark",
@@ -2279,8 +2024,7 @@
             "Euron Greyjoy",
             "Aeron Greyjoy"
         ],
-        "createdAt": "2019-03-24T23:49:57.183Z",
-        "date": "2016-05-01T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.112Z",
         "deaths": [
             "Roose Bolton",
             "Walda Bolton",
@@ -2290,8 +2034,6 @@
         ],
         "directed_by": "Jeremy Podeswa",
         "episode": 2,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/2/27/602_H.jpg/revision/latest/scale-to-width-down/120?cb=20170526143635",
-        "number": 52,
         "places": [
             "Beyond the Wall",
             "At King's Landing",
@@ -2306,17 +2048,15 @@
             "Cast notes",
             "The Mutiny at Castle Black"
         ],
-        "preview_text": "Bran goes home; The Night's Watch stands behind Thorne.",
         "runtime": 54,
         "season": 6,
         "title": "Home",
-        "updatedAt": "2019-03-24T23:49:57.183Z",
-        "viewers": 7.29,
+        "updatedAt": "2019-04-09T01:46:19.112Z",
         "written_by": "Dave Hill"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec6a",
+        "_id": "5cabf96bc5a20b7549c039df",
         "characters": [
             "Arthur Dayne",
             "Gerold Hightower",
@@ -2325,8 +2065,7 @@
             "High Priestess of the Dosh Khaleen",
             "Ornela"
         ],
-        "createdAt": "2019-03-24T23:49:57.183Z",
-        "date": "2016-05-08T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.112Z",
         "deaths": [
             "Arthur Dayne",
             "Gerold Hightower",
@@ -2339,8 +2078,6 @@
         ],
         "directed_by": "Daniel Sackheim",
         "episode": 3,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/d/dd/603_O.jpg/revision/latest/scale-to-width-down/120?cb=20170526143459",
-        "number": 53,
         "places": [
             "At the Wall",
             "In the Narrow Sea",
@@ -2358,17 +2095,15 @@
             "Gilly's baby and the TV timeline",
             "Heraldry"
         ],
-        "preview_text": "Daenerys meets her future; Arya trains to be No One.",
         "runtime": 53,
         "season": 6,
         "title": "Oathbreaker",
-        "updatedAt": "2019-03-24T23:49:57.184Z",
-        "viewers": 7.28,
+        "updatedAt": "2019-04-09T01:46:19.112Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec6b",
+        "_id": "5cabf96bc5a20b7549c039e0",
         "characters": [
             "Belicho Paenymion",
             "Ash",
@@ -2379,8 +2114,7 @@
             "Brozho",
             "Qorro"
         ],
-        "createdAt": "2019-03-24T23:49:57.184Z",
-        "date": "2016-05-15T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.112Z",
         "deaths": [
             "Iggo",
             "Akho",
@@ -2394,8 +2128,6 @@
         ],
         "directed_by": "Daniel Sackheim",
         "episode": 4,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/d/d5/604_BOTS.jpg/revision/latest/scale-to-width-down/120?cb=20170526143428",
-        "number": 54,
         "places": [
             "In King's Landing",
             "At the Wall",
@@ -2410,17 +2142,15 @@
             "Cast notes",
             "The Bastard Letter"
         ],
-        "preview_text": "Tyrion strikes a deal; Jorah and Daario undertake a difficult task.",
         "runtime": 59,
         "season": 6,
         "title": "Book of the Stranger",
-        "updatedAt": "2019-03-24T23:49:57.184Z",
-        "viewers": 7.82,
+        "updatedAt": "2019-04-09T01:46:19.112Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec6c",
+        "_id": "5cabf96bc5a20b7549c039e1",
         "characters": [
             "Izembaro",
             "Clarenzo",
@@ -2431,8 +2161,7 @@
             "Kinvara",
             "Rickard Stark"
         ],
-        "createdAt": "2019-03-24T23:49:57.184Z",
-        "date": "2016-05-22T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.118Z",
         "deaths": [
             "White Walker",
             "Summer",
@@ -2442,8 +2171,6 @@
         ],
         "directed_by": "Jack Bender",
         "episode": 5,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/d/d2/605_TD.jpg/revision/latest/scale-to-width-down/120?cb=20170526143326",
-        "number": 55,
         "places": [
             "At the Wall",
             "In Braavos",
@@ -2465,17 +2192,15 @@
             "Arya in Braavos, and The Bloody Hand",
             "Daenerys and Meereen"
         ],
-        "preview_text": "Tyrion seeks a strange ally; Bran learns a great deal.",
         "runtime": 57,
         "season": 6,
         "title": "The Door",
-        "updatedAt": "2019-03-24T23:49:57.184Z",
-        "viewers": 7.89,
+        "updatedAt": "2019-04-09T01:46:19.118Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec6d",
+        "_id": "5cabf96bc5a20b7549c039e2",
         "characters": [
             "Aerys II Targaryen",
             "Melessa Tarly",
@@ -2485,15 +2210,12 @@
             "Tyrell bannerman",
             "Kitty Frey"
         ],
-        "createdAt": "2019-03-24T23:49:57.184Z",
-        "date": "2016-05-29T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.118Z",
         "deaths": [
             "Aerys II Targaryen"
         ],
         "directed_by": "Jack Bender",
         "episode": 6,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/3/30/606_BOMB.jpg/revision/latest/scale-to-width-down/120?cb=20170526143231",
-        "number": 56,
         "places": [
             "Beyond the Wall",
             "At Horn Hill",
@@ -2513,17 +2235,15 @@
             "Arya in Braavos",
             "Daenerys and the Dothraki"
         ],
-        "preview_text": "Jaime challenges the High Sparrow; Arya faces a difficult choice.",
         "runtime": 52,
         "season": 6,
         "title": "Blood of My Blood",
-        "updatedAt": "2019-03-24T23:49:57.184Z",
-        "viewers": 6.71,
+        "updatedAt": "2019-04-09T01:46:19.118Z",
         "written_by": "Bryan Cogman"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec6e",
+        "_id": "5cabf96bc5a20b7549c039e3",
         "characters": [
             "Ray",
             "Lyanna Mormont",
@@ -2533,16 +2253,13 @@
             "Morgan",
             "Gatins"
         ],
-        "createdAt": "2019-03-24T23:49:57.185Z",
-        "date": "2016-06-05T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.119Z",
         "deaths": [
             "Maege Mormont",
             "Ray"
         ],
         "directed_by": "Mark Mylod",
         "episode": 7,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/6/6d/607_TBM.jpg/revision/latest/scale-to-width-down/120?cb=20170526143129",
-        "number": 57,
         "places": [
             "In the Riverlands",
             "In King's Landing",
@@ -2562,17 +2279,15 @@
             "In the Free Cities",
             "Timeline issues"
         ],
-        "preview_text": "The High Sparrow eyes another target; The North is reminded.",
         "runtime": 51,
         "season": 6,
         "title": "The Broken Man",
-        "updatedAt": "2019-03-24T23:49:57.185Z",
-        "viewers": 7.8,
+        "updatedAt": "2019-04-09T01:46:19.119Z",
         "written_by": "Bryan Cogman"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec6f",
+        "_id": "5cabf96bc5a20b7549c039e4",
         "characters": [
             "Steve",
             "Riddell",
@@ -2580,8 +2295,7 @@
             "Lannister soldier",
             "Tully Bannerman"
         ],
-        "createdAt": "2019-03-24T23:49:57.185Z",
-        "date": "2016-06-12T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.119Z",
         "deaths": [
             "Steve",
             "Riddell",
@@ -2595,8 +2309,6 @@
         ],
         "directed_by": "Mark Mylod",
         "episode": 8,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/0/09/Varys_and_Tyrion_in_No_One.jpg/revision/latest/scale-to-width-down/120?cb=20160606070942",
-        "number": 58,
         "places": [
             "In Braavos",
             "In the Riverlands",
@@ -2616,23 +2328,20 @@
             "Braavos",
             "Timeline issues"
         ],
-        "preview_text": "Jaime weighs his options; Tyrion's plans bear fruit.",
         "runtime": 59,
         "season": 6,
         "title": "No One",
-        "updatedAt": "2019-03-24T23:49:57.185Z",
-        "viewers": 7.6,
+        "updatedAt": "2019-04-09T01:46:19.119Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec70",
+        "_id": "5cabf96bc5a20b7549c039e5",
         "characters": [
             "Bolton general",
             "Captain of the Bolton archers"
         ],
-        "createdAt": "2019-03-24T23:49:57.185Z",
-        "date": "2016-06-19T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.119Z",
         "deaths": [
             "Belicho Paenymion",
             "Razdal mo Eraz",
@@ -2643,8 +2352,6 @@
         ],
         "directed_by": "Miguel Sapochnik",
         "episode": 9,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/f/f0/Battle_of_the_bastards_jon_snow.jpg/revision/latest/scale-to-width-down/120?cb=20160614054135",
-        "number": 59,
         "places": [
             "In Meereen",
             "In the North",
@@ -2657,24 +2364,21 @@
             "In the North",
             "In Meereen"
         ],
-        "preview_text": "Terms of surrender are rejected and accepted.",
         "runtime": 60,
         "season": 6,
         "title": "Battle of the Bastards",
-        "updatedAt": "2019-03-24T23:49:57.185Z",
-        "viewers": 7.66,
+        "updatedAt": "2019-04-09T01:46:19.119Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec71",
+        "_id": "5cabf96bc5a20b7549c039e6",
         "characters": [
             "Citadel maester",
             "Cley Cerwyn",
             "Wyman Manderly"
         ],
-        "createdAt": "2019-03-24T23:49:57.186Z",
-        "date": "2016-06-26T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.119Z",
         "deaths": [
             "Pycelle",
             "Lancel Lannister",
@@ -2691,8 +2395,6 @@
         ],
         "directed_by": "Miguel Sapochnik",
         "episode": 10,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/4/42/610_TWOW.jpg/revision/latest/scale-to-width-down/120?cb=20170526140521",
-        "number": 60,
         "places": [
             "At the Twins",
             "In King's Landing",
@@ -2714,24 +2416,21 @@
             "In Dorne",
             "In Meereen"
         ],
-        "preview_text": "Cersei faces a day of reckoning.",
         "runtime": 68,
         "season": 6,
         "title": "The Winds of Winter",
-        "updatedAt": "2019-03-24T23:49:57.186Z",
-        "viewers": 8.89,
+        "updatedAt": "2019-04-09T01:46:19.119Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec72",
+        "_id": "5cabf96bc5a20b7549c039e7",
         "characters": [
             "Ned Umber",
             "Alys Karstark",
             "Archmaester"
         ],
-        "createdAt": "2019-03-24T23:49:57.186Z",
-        "date": "2017-07-16T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.119Z",
         "deaths": [
             "Harald Karstark",
             "Sally",
@@ -2740,8 +2439,6 @@
         ],
         "directed_by": "Jeremy Podeswa",
         "episode": 1,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/2/23/Dragonstone_ep_Dany_in_sand.jpg/revision/latest/scale-to-width-down/120?cb=20170717021250",
-        "number": 61,
         "places": [
             "In the Riverlands",
             "At Winterfell",
@@ -2762,22 +2459,19 @@
             "At Dragonstone",
             "The Abandonment of Dragonstone"
         ],
-        "preview_text": "Arya makes a lasting impression; the Hound sees a vision; Daenerys comes ashore.",
         "runtime": 59,
         "season": 7,
         "title": "Dragonstone",
-        "updatedAt": "2019-03-24T23:49:57.186Z",
-        "viewers": 10.11,
+        "updatedAt": "2019-04-09T01:46:19.119Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec73",
+        "_id": "5cabf96bc5a20b7549c039e8",
         "characters": [
             "Harrag"
         ],
-        "createdAt": "2019-03-24T23:49:57.186Z",
-        "date": "2017-07-23T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.119Z",
         "deaths": [
             "Obara Sand",
             "Nymeria Sand",
@@ -2785,8 +2479,6 @@
         ],
         "directed_by": "Mark Mylod",
         "episode": 2,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/8/86/702_S.jpg/revision/latest/scale-to-width-down/120?cb=20171210083726",
-        "number": 62,
         "places": [
             "On Dragonstone",
             "In King's Landing",
@@ -2807,22 +2499,19 @@
             "On the Narrow Sea",
             "Missandei/Grey Worm sex scene"
         ],
-        "preview_text": "Melisandre visits a familiar place; Jon makes a decision.",
         "runtime": 59,
         "season": 7,
         "title": "Stormborn",
-        "updatedAt": "2019-03-24T23:49:57.186Z",
-        "viewers": 9.27,
+        "updatedAt": "2019-04-09T01:46:19.119Z",
         "written_by": "Bryan Cogman"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec74",
+        "_id": "5cabf96bc5a20b7549c039e9",
         "characters": [
             "Stark soldier"
         ],
-        "createdAt": "2019-03-24T23:49:57.188Z",
-        "date": "2017-07-30T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.120Z",
         "deaths": [
             "Tyene Sand",
             "Olenna Tyrell",
@@ -2832,8 +2521,6 @@
         ],
         "directed_by": "Mark Mylod",
         "episode": 3,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/9/97/Jon_meets_Dany_Queens_Justice_s7.jpg/revision/latest/scale-to-width-down/120?cb=20170829191511",
-        "number": 63,
         "places": [
             "In King's Landing",
             "At Winterfell",
@@ -2852,23 +2539,20 @@
             "In the Westerlands",
             "In the Reach"
         ],
-        "preview_text": "Jon attempts to form a new alliance; Jaime makes a strategic maneuver; Euron brings Cersei a gift.",
         "runtime": 63,
         "season": 7,
         "title": "The Queen's Justice",
-        "updatedAt": "2019-03-24T23:49:57.188Z",
-        "viewers": 9.25,
+        "updatedAt": "2019-04-09T01:46:19.120Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec75",
+        "_id": "5cabf96bc5a20b7549c039ea",
         "characters": [
             "Henk",
             "Koner"
         ],
-        "createdAt": "2019-03-24T23:49:57.188Z",
-        "date": "2017-08-06T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.120Z",
         "deaths": [
             "Lannister",
             "Tarly",
@@ -2876,8 +2560,6 @@
         ],
         "directed_by": "Matt Shakman",
         "episode": 4,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/d/d6/704_TSOW.jpg/revision/latest/scale-to-width-down/120?cb=20170731220809",
-        "number": 64,
         "places": [
             "At Winterfell",
             "In King's Landing",
@@ -2893,33 +2575,28 @@
             "At Dragonstone",
             "In the Reach"
         ],
-        "preview_text": "Daenerys takes action; Littlefinger offers Bran something from his past.",
         "runtime": 50,
         "season": 7,
         "title": "The Spoils of War",
-        "updatedAt": "2019-03-24T23:49:57.188Z",
-        "viewers": 10.17,
+        "updatedAt": "2019-04-09T01:46:19.120Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec76",
+        "_id": "5cabf96bc5a20b7549c039eb",
         "characters": [
             "Gold Cloak #1",
             "Gold Cloak #2",
             "Sandhu",
             "Unnamed Archmaester"
         ],
-        "createdAt": "2019-03-24T23:49:57.194Z",
-        "date": "2017-08-13T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.121Z",
         "deaths": [
             "Randyll Tarly",
             "Dickon Tarly"
         ],
         "directed_by": "Matt Shakman",
         "episode": 5,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/a/a0/Dany_and_Jorah_Eastwatch.jpg/revision/latest/scale-to-width-down/120?cb=20170829184415",
-        "number": 65,
         "places": [
             "In the Reach",
             "At Winterfell",
@@ -2939,24 +2616,21 @@
             "In King's Landing",
             "At Eastwatch"
         ],
-        "preview_text": "Tyrion has concerns about Daenerys; Jon sets out for a mission.",
         "runtime": 59,
         "season": 7,
         "title": "Eastwatch",
-        "updatedAt": "2019-03-24T23:49:57.194Z",
-        "viewers": 10.72,
+        "updatedAt": "2019-04-09T01:46:19.121Z",
         "written_by": "Dave Hill"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec77",
+        "_id": "5cabf96bc5a20b7549c039ec",
         "characters": [
             "White Walker 1 (Beyond the Wall)",
             "Captured wight",
             "White Walker 2 (Beyond the Wall)"
         ],
-        "createdAt": "2019-03-24T23:49:57.195Z",
-        "date": "2017-08-20T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.121Z",
         "deaths": [
             "Thoros",
             "Viserion",
@@ -2967,8 +2641,6 @@
         ],
         "directed_by": "Alan Taylor",
         "episode": 6,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/e/e9/706_BTW.jpg/revision/latest/scale-to-width-down/120?cb=20170817002118",
-        "number": 66,
         "places": [
             "At Winterfell",
             "The Wight Hunt",
@@ -2983,23 +2655,20 @@
             "The Wight Hunt - Jon's group heading north, and back",
             "The Wight Hunt \u2013 the battle"
         ],
-        "preview_text": "Jon and his companions run into trouble in the North.",
         "runtime": 70,
         "season": 7,
         "title": "Beyond the Wall",
-        "updatedAt": "2019-03-24T23:49:57.195Z",
-        "viewers": 10.24,
+        "updatedAt": "2019-04-09T01:46:19.121Z",
         "written_by": "David Benioff,D.B. Weiss"
     },
     {
         "__v": 0,
-        "_id": "5c9817a54d1c4e54abc7ec78",
+        "_id": "5cabf96bc5a20b7549c039ed",
         "characters": [
             "Rhaegar Targaryen",
             "High Septon (Robert's Rebellion)"
         ],
-        "createdAt": "2019-03-24T23:49:57.195Z",
-        "date": "2017-08-27T00:00:00.000Z",
+        "createdAt": "2019-04-09T01:46:19.121Z",
         "deaths": [
             "Petyr Baelish",
             "Captured wight",
@@ -3008,8 +2677,6 @@
         ],
         "directed_by": "Jeremy Podeswa",
         "episode": 7,
-        "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/8/89/Jon_and_Dany_707.jpg/revision/latest/scale-to-width-down/120?cb=20170830014650",
-        "number": 67,
         "places": [
             "In King's Landing",
             "At Winterfell",
@@ -3027,12 +2694,10 @@
             "Jon Snow's real name",
             "At the Wall"
         ],
-        "preview_text": "King's Landing hosts a gathering; Sansa breaks ties.",
         "runtime": 80,
         "season": 7,
         "title": "The Dragon and the Wolf",
-        "updatedAt": "2019-03-24T23:49:57.195Z",
-        "viewers": 12.1,
+        "updatedAt": "2019-04-09T01:46:19.121Z",
         "written_by": "David Benioff,D.B. Weiss"
     }
 ]

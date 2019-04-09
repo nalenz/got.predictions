@@ -52,18 +52,18 @@ To create a new branch to add your changes to, please execute the following comm
 
 ### Book predictions
 
-- number of characters: 484
-  - used for training (i.e. dead): 188, predicted on (i.e. alive): 296
-- number of training datapoints: 18800
-  - used for training itself: 15040, used for validation: 3760
-  - final training accuracy: 88.75%, final validation accuracy: 89.92% (from [Keras log](workers/predictors-neural/predictor-neural-v2/models/keras-log))
-- number of dimensions per datapoint: 1561
+- number of characters: 303
+  - used for training (i.e. dead): 125, predicted on (i.e. alive): 178
+- number of training datapoints: 11250
+  - used for training itself: 9000, used for validation: 2250
+  - final training accuracy: 79.34%, final validation accuracy: 82.58% (from [Keras log](workers/predictors-neural/predictor-neural-v2/models/keras-log))
+- number of dimensions per datapoint: 1273
   - scalar values
     - male: 1, page rank (normalized): 1, number of relatives (normalized): 1
   - one hot vectors
-    - age: 100, culture: 57, house: 360, house region: 29
+    - age: 90, culture: 43, house: 269, house region: 29
   - multiple hot vectors
-    - allegiances: 396, books: 19, locations: 82, titles: 515
+    - allegiances: 295, books: 17, locations: 181, titles: 346
 - number of output dimensions: 1
   - 1.0 if alive, 0.0 otherwise
 
@@ -73,13 +73,13 @@ To create a new branch to add your changes to, please execute the following comm
   - used for training (i.e. dead): 82, predicted on (i.e. alive): 64
 - number of training datapoints: 7052
   - used for training itself: 6346, used for validation: 706
-  - final training accuracy: 81.00%, final validation accuracy: 84.56% (from [Keras log](workers/predictors-neural/predictor-neural-show-v1/models/keras-log))
-- number of dimensions per datapoint: 413
+  - final training accuracy: 81.28%, final validation accuracy: 86.26% (from [Keras log](workers/predictors-neural/predictor-neural-show-v1/models/keras-log))
+- number of dimensions per datapoint: 417
   - scalar values
     - male: 1, is bastard: 1, page rank (normalized): 1, number of relatives (normalized): 1, number of commanded battles (normalized): 1
   - one hot vectors
     - age: 86
   - multiple hot vectors
-    - allegiances: 130, appearances: 74, titles: 118
+    - allegiances: 130, appearances: 74, titles: 122
 - number of output dimensions: 1
   - 1.0 if alive, 0.0 otherwise
