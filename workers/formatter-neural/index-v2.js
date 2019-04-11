@@ -1,5 +1,4 @@
 const utils = require('../common/utils');
-const config = require('../common/config');
 
 (async () => {
   // attributes for data
@@ -14,15 +13,8 @@ const config = require('../common/config');
 
   // create final data and labels
   const johv = new utils.JoinedOneHotVector(charsTrain.concat(charsPredict), dataScalarAttrs, dataVectorAttrs);
-  const [dataTrain, labelsTrain] = utils.shuffleTwoArrays(
-    johv.createMultipleUnfolded(charsTrain, 'age', (char, currAge) => [char.age >= currAge ? 1.0 : 0.0]),
-  );
-  const dataPredict = johv.createMultipleUnfoldedOnlyData(
-    charsPredict,
-    'age',
-    { min: config.GOT_CURRENT_YEAR_BOOK, max: config.GOT_CURRENT_YEAR_BOOK + config.PREDICTIONS_NUM_YEARS },
-    (char, currYear, ageRange) => utils.clamp(currYear - char.birth, ageRange),
-  );
+  const dataTrain = johv.createMultiple(charsTrain);
+  const dataPredict = johv.createMultiple(charsPredict);
 
   // output some final statistics
   console.log(`number of training datapoints      : ${dataTrain.length}`);
@@ -31,5 +23,4 @@ const config = require('../common/config');
   // write data and labels to output file
   await utils.writeOutputDataBinary('v2-data-train', dataTrain, true);
   await utils.writeOutputDataBinary('v2-data-predict', dataPredict, true);
-  await utils.writeOutputDataBinary('v2-labels-train', labelsTrain, true);
 })();
