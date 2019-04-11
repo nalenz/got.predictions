@@ -1,1742 +1,3772 @@
 {
-    "Pypar": [
-        "Marillion",
-        "Karl",
-        "Joyeuse Erenford",
-        "Jojen Reed",
-        "Hot Pie",
-        "Hodor",
-        "Mance Rayder",
-        "Three-Eyed Raven",
-        "Lommy Greenhands",
-        "Steelshanks"
-    ],
-    "Khal Drogo": [
-        "Marillion",
-        "Shagga",
-        "Illyrio Mopatis",
-        "Lommy Greenhands",
-        "Mordane",
-        "Rakharo",
-        "Viserys Targaryen",
-        "Jory Cassel",
-        "Joyeuse Erenford",
-        "Luwin"
-    ],
-    "Rickon Stark": [
-        "Osha",
-        "Hodor",
-        "Bran Stark",
-        "Robb Stark",
-        "Three-Eyed Raven",
-        "Catelyn Stark",
-        "Old Nan",
-        "Gendry",
-        "Walder Frey",
-        "\"Lame Lothar\" Frey"
-    ],
-    "Ramsay Snow": [
-        "Myranda",
-        "Daario Naharis",
-        "Grey Worm",
-        "Olyvar",
-        "Olenna Redwyne",
-        "Tormund Giantsbane",
-        "Qyburn",
-        "Olly",
-        "Shireen Baratheon",
-        "Missandei"
-    ],
-    "Loboda": [
-        "Karsi",
-        "Malko",
-        "Mag Mar Tun Doh Weg",
-        "Denys Mallister",
-        "Wun Weg Wun Dar Wun",
-        "Styr",
-        "Dim Dalba",
-        "\"Black Walder\" Frey",
-        "Cressen",
-        "Roslin Frey"
-    ],
-    "Selyse Baratheon": [
-        "Margaery Tyrell",
-        "Shireen Baratheon",
-        "Marei",
-        "Ygritte",
-        "Stannis Baratheon",
-        "Salladhor Saan",
-        "Talisa Maegyr",
-        "Gilly",
-        "Olyvar",
-        "Shae"
-    ],
-    "Tyene Sand": [
-        "Nymeria Sand",
-        "Obara Sand",
-        "Unella",
-        "The Waif",
-        "Dim Dalba",
-        "Izembaro",
-        "Yezzan zo Qaggaz",
-        "Wun Weg Wun Dar Wun",
-        "Lady Crane",
-        "High Sparrow"
-    ],
-    "Hallyne": [
-        "Lorren",
-        "Dagmer",
-        "Xaro Xhoan Daxos",
-        "Pyat Pree",
-        "Kovarro",
-        "Dontos Hollard",
-        "Alton Lannister",
-        "Craster",
-        "Cressen",
-        "Luwin"
-    ],
-    "Anguy": [
-        "Steelshanks",
-        "Orell",
-        "Prendahl na Ghezn",
-        "Karl",
-        "Joyeuse Erenford",
-        "Jojen Reed",
-        "\"Black Walder\" Frey",
-        "Roslin Frey",
-        "Cressen",
-        "Locke"
-    ],
-    "Robert Baratheon": [
-        "Viserys Targaryen",
-        "Shagga",
-        "Eddard Stark",
-        "Marillion",
-        "Khal Drogo",
-        "Jory Cassel",
-        "Illyrio Mopatis",
-        "Lommy Greenhands",
-        "Mordane",
-        "Cressen"
-    ],
-    "Melessa Tarly": [
-        "Izembaro",
-        "Wyman Manderly",
-        "Smalljon Umber",
-        "Lady Crane",
-        "Ornela",
-        "Ray",
-        "Dickon Tarly",
-        "Kinvara",
-        "Randyll Tarly",
-        "Dim Dalba"
-    ],
-    "Robett Glover": [
-        "Dickon Tarly",
-        "Randyll Tarly",
-        "Lyanna Mormont",
-        "Euron Greyjoy",
-        "Smalljon Umber",
-        "Melessa Tarly",
-        "Wyman Manderly",
-        "Alys Karstark",
-        "Ned Umber",
-        "Ray"
-    ],
-    "Theon Greyjoy": [
-        "Samwell Tarly",
-        "Arya Stark",
-        "Bronn",
-        "Jorah Mormont",
-        "Jaime Lannister",
-        "Petyr Baelish",
-        "Varys",
-        "Sansa Stark",
-        "Jon Snow",
-        "Bran Stark"
-    ],
-    "Eddard Stark": [
-        "Marillion",
-        "Robert Baratheon",
-        "Shagga",
-        "Khal Drogo",
-        "Illyrio Mopatis",
-        "Viserys Targaryen",
-        "Mordane",
-        "Lommy Greenhands",
-        "Jory Cassel",
-        "Robb Stark"
-    ],
-    "Luwin": [
-        "Armeca",
-        "Doreah",
-        "Lommy Greenhands",
-        "Ilyn Payne",
-        "Marillion",
-        "Dagmer",
-        "Lorren",
-        "Shagga",
-        "Osha",
-        "Jeor Mormont"
-    ],
-    "Mordane": [
-        "Marillion",
-        "Shagga",
-        "Roslin Frey",
-        "\"Black Walder\" Frey",
-        "Old Nan",
-        "Lommy Greenhands",
-        "Armeca",
-        "Lady Crane",
-        "Jory Cassel",
-        "Illyrio Mopatis"
-    ],
-    "Olyvar": [
-        "Jojen Reed",
-        "Shireen Baratheon",
-        "Grey Worm",
-        "Olly",
-        "Myranda",
-        "Malko",
-        "Tycho Nestoris",
-        "Karl",
-        "Salladhor Saan",
-        "Mance Rayder"
-    ],
-    "Qyburn": [
-        "Tormund Giantsbane",
-        "Grey Worm",
-        "Missandei",
-        "Podrick Payne",
-        "Olenna Redwyne",
-        "Daario Naharis",
-        "Myranda",
-        "Eddison Tollett",
-        "Yohn Royce",
-        "Olyvar"
-    ],
-    "Alliser Thorne": [
-        "Olly",
-        "Robin Arryn",
-        "Denys Mallister",
-        "Pypar",
-        "Mossador",
-        "Tycho Nestoris",
-        "Marillion",
-        "Malko",
-        "Illyrio Mopatis",
-        "Lommy Greenhands"
-    ],
-    "Denys Mallister": [
-        "Malko",
-        "Loboda",
-        "Doran Martell",
-        "Karsi",
-        "Olly",
-        "Alton Lannister",
-        "Wun Weg Wun Dar Wun",
-        "Dim Dalba",
-        "Cressen",
-        "Roslin Frey"
-    ],
-    "Archmaester": [
-        "Ned Umber",
-        "Alys Karstark",
-        "Cressen",
-        "\"Black Walder\" Frey",
-        "Roslin Frey",
-        "Malko",
-        "Marillion",
-        "Prendahl na Ghezn",
-        "Ray",
-        "Orell"
-    ],
-    "\"Lame Lothar\" Frey": [
-        "Brynden Tully",
-        "Edmure Tully",
-        "Steelshanks",
-        "Anguy",
-        "Thoros of Myr",
-        "Smalljon Umber",
-        "Orell",
-        "Melessa Tarly",
-        "Prendahl na Ghezn",
-        "Izembaro"
-    ],
-    "Olenna Redwyne": [
-        "Missandei",
-        "Myranda",
-        "Grey Worm",
-        "Tormund Giantsbane",
-        "Marei",
-        "Gilly",
-        "Meera Reed",
-        "Daario Naharis",
-        "Olyvar",
-        "Shireen Baratheon"
-    ],
-    "Eddison Tollett": [
-        "Podrick Payne",
-        "Gilly",
-        "Davos Seaworth",
-        "Grey Worm",
-        "Tormund Giantsbane",
-        "Samwell Tarly",
-        "Marei",
-        "Missandei",
-        "Bronn",
-        "Karl"
-    ],
-    "Lommy Greenhands": [
-        "Marillion",
-        "Shagga",
-        "Luwin",
-        "Illyrio Mopatis",
-        "Khal Drogo",
-        "\"Black Walder\" Frey",
-        "Armeca",
-        "Roslin Frey",
-        "Mordane",
-        "Rakharo"
-    ],
-    "Yara Greyjoy": [
-        "Gilly",
-        "Euron Greyjoy",
-        "Balon Greyjoy",
-        "Meera Reed",
-        "Ygritte",
-        "Marei",
-        "Bran Stark",
-        "Missandei",
-        "Margaery Tyrell",
-        "Podrick Payne"
-    ],
-    "Shae": [
-        "Ygritte",
-        "Hodor",
-        "Hot Pie",
-        "Three-Eyed Raven",
-        "Doreah",
-        "Salladhor Saan",
-        "Pypar",
-        "Armeca",
-        "Osha",
-        "Catelyn Stark"
-    ],
-    "Unella": [
-        "Yezzan zo Qaggaz",
-        "The Waif",
-        "Dim Dalba",
-        "High Sparrow",
-        "Wun Weg Wun Dar Wun",
-        "Izembaro",
-        "Lady Crane",
-        "Obara Sand",
-        "Nymeria Sand",
-        "Malko"
-    ],
-    "Dickon Tarly": [
-        "Randyll Tarly",
-        "Robett Glover",
-        "Euron Greyjoy",
-        "Melessa Tarly",
-        "Lyanna Mormont",
-        "Izembaro",
-        "Lady Crane",
-        "Ray",
-        "Wyman Manderly",
-        "Thoros of Myr"
-    ],
-    "Gendry": [
-        "Osha",
-        "Hot Pie",
-        "Craster",
-        "Hodor",
-        "Rickon Stark",
-        "Robb Stark",
-        "Luwin",
-        "Joffrey Baratheon",
-        "Joyeuse Erenford",
-        "Ygritte"
-    ],
-    "Oberyn Martell": [
-        "Mag Mar Tun Doh Weg",
-        "Styr",
-        "Mossador",
-        "Anya Waynwood",
-        "Cressen",
-        "Jojen Reed",
-        "Roslin Frey",
-        "\"Black Walder\" Frey",
-        "Olly",
-        "Karl"
-    ],
-    "Xaro Xhoan Daxos": [
-        "Dagmer",
-        "Lorren",
-        "Pyat Pree",
-        "Hallyne",
-        "Kovarro",
-        "Alton Lannister",
-        "Dontos Hollard",
-        "Craster",
-        "Luwin",
-        "Cressen"
-    ],
-    "Daario Naharis": [
-        "Myranda",
-        "Grey Worm",
-        "Olenna Redwyne",
-        "Tormund Giantsbane",
-        "Olyvar",
-        "Missandei",
-        "Ramsay Snow",
-        "Pypar",
-        "Olly",
-        "Marei"
-    ],
-    "Balon Greyjoy": [
-        "Dagmer",
-        "Lorren",
-        "Euron Greyjoy",
-        "Talisa Maegyr",
-        "Yara Greyjoy",
-        "Osha",
-        "Craster",
-        "Salladhor Saan",
-        "Steelshanks",
-        "Anguy"
-    ],
-    "Smalljon Umber": [
-        "Melessa Tarly",
-        "Wyman Manderly",
-        "Izembaro",
-        "Ornela",
-        "Ray",
-        "Lady Crane",
-        "Robett Glover",
-        "\"Lame Lothar\" Frey",
-        "Kinvara",
-        "Ned Umber"
-    ],
-    "Petyr Baelish": [
-        "Varys",
-        "Samwell Tarly",
-        "Theon Greyjoy",
-        "Bronn",
-        "Jorah Mormont",
-        "Jaime Lannister",
-        "Arya Stark",
-        "Tyrion Lannister",
-        "Cersei Lannister",
-        "Sansa Stark"
-    ],
-    "Bran Stark": [
-        "Sandor Clegane",
-        "Rickon Stark",
-        "Hodor",
-        "Hot Pie",
-        "Arya Stark",
-        "Samwell Tarly",
-        "Osha",
-        "Theon Greyjoy",
-        "Robb Stark",
-        "Three-Eyed Raven"
-    ],
-    "Davos Seaworth": [
-        "Eddison Tollett",
-        "Podrick Payne",
-        "Gilly",
-        "Grey Worm",
-        "Jorah Mormont",
-        "Tormund Giantsbane",
-        "Bronn",
-        "Marei",
-        "Samwell Tarly",
-        "Qyburn"
-    ],
-    "Talisa Maegyr": [
-        "Catelyn Stark",
-        "Ygritte",
-        "Pyat Pree",
-        "Selyse Baratheon",
-        "Roslin Frey",
-        "Osha",
-        "Dagmer",
-        "Lorren",
-        "\"Black Walder\" Frey",
-        "Orell"
-    ],
-    "Karl": [
-        "Locke",
-        "Steelshanks",
-        "Anguy",
-        "Orell",
-        "Jojen Reed",
-        "Prendahl na Ghezn",
-        "Pypar",
-        "Mance Rayder",
-        "Salladhor Saan",
-        "Olyvar"
-    ],
-    "Meera Reed": [
-        "Jojen Reed",
-        "Grey Worm",
-        "Missandei",
-        "Olenna Redwyne",
-        "Myranda",
-        "Roslin Frey",
-        "Gilly",
-        "Thoros of Myr",
-        "Tormund Giantsbane",
-        "Olyvar"
-    ],
-    "Illyrio Mopatis": [
-        "Marillion",
-        "Shagga",
-        "Khal Drogo",
-        "Lommy Greenhands",
-        "Viserys Targaryen",
-        "Rakharo",
-        "Mordane",
-        "Jory Cassel",
-        "Joyeuse Erenford",
-        "Luwin"
-    ],
-    "Malko": [
-        "Denys Mallister",
-        "Loboda",
-        "Prendahl na Ghezn",
-        "Karsi",
-        "\"Black Walder\" Frey",
-        "Roslin Frey",
-        "Doran Martell",
-        "Marillion",
-        "Wun Weg Wun Dar Wun",
-        "Lommy Greenhands"
-    ],
-    "\"Black Walder\" Frey": [
-        "Roslin Frey",
-        "Lady Crane",
-        "Izembaro",
-        "Cressen",
-        "Malko",
-        "Marillion",
-        "Mordane",
-        "Karsi",
-        "Pyat Pree",
-        "Lommy Greenhands"
-    ],
-    "Varys": [
-        "Samwell Tarly",
-        "Bronn",
-        "Petyr Baelish",
-        "Jorah Mormont",
-        "Tyrion Lannister",
-        "Theon Greyjoy",
-        "Jaime Lannister",
-        "Pycelle",
-        "Arya Stark",
-        "Cersei Lannister"
-    ],
-    "Jaqen H'ghar": [
-        "Lancel Lannister",
-        "Kevan Lannister",
-        "The Waif",
-        "Luwin",
-        "Lommy Greenhands",
-        "Malko",
-        "Dim Dalba",
-        "Myrcella Baratheon",
-        "Wun Weg Wun Dar Wun",
-        "Marillion"
-    ],
-    "Prendahl na Ghezn": [
-        "Orell",
-        "Anguy",
-        "Steelshanks",
-        "Malko",
-        "Karl",
-        "\"Black Walder\" Frey",
-        "Roslin Frey",
-        "Cressen",
-        "Joyeuse Erenford",
-        "Marillion"
-    ],
-    "Barristan Selmy": [
-        "Pypar",
-        "Mance Rayder",
-        "Jojen Reed",
-        "Olyvar",
-        "Joyeuse Erenford",
-        "Hodor",
-        "Jaime Lannister",
-        "Hot Pie",
-        "Loras Tyrell",
-        "Karl"
-    ],
-    "Myranda": [
-        "Marei",
-        "Olenna Redwyne",
-        "Missandei",
-        "Olyvar",
-        "Daario Naharis",
-        "Gilly",
-        "Tormund Giantsbane",
-        "Shireen Baratheon",
-        "Grey Worm",
-        "Unella"
-    ],
-    "Doreah": [
-        "Armeca",
-        "Luwin",
-        "Shae",
-        "Pyat Pree",
-        "Ilyn Payne",
-        "Lommy Greenhands",
-        "Mordane",
-        "Marillion",
-        "Shagga",
-        "Dagmer"
-    ],
-    "Shireen Baratheon": [
-        "Olyvar",
-        "Selyse Baratheon",
-        "Myranda",
-        "Salladhor Saan",
-        "Jojen Reed",
-        "Olenna Redwyne",
-        "Ygritte",
-        "Missandei",
-        "Mance Rayder",
-        "Olly"
-    ],
-    "Old Nan": [
-        "Izembaro",
-        "Mordane",
-        "Lady Crane",
-        "Marillion",
-        "Roslin Frey",
-        "\"Black Walder\" Frey",
-        "Lommy Greenhands",
-        "Shagga",
-        "Unella",
-        "Armeca"
-    ],
-    "Robin Arryn": [
-        "Yohn Royce",
-        "Olly",
-        "Tommen Baratheon",
-        "Alliser Thorne",
-        "Old Nan",
-        "Jaqen H'ghar",
-        "Dim Dalba",
-        "Wun Weg Wun Dar Wun",
-        "Hodor",
-        "Marillion"
-    ],
-    "Jaime Lannister": [
-        "Samwell Tarly",
-        "Cersei Lannister",
-        "Jorah Mormont",
-        "Bronn",
-        "Theon Greyjoy",
-        "Arya Stark",
-        "Loras Tyrell",
-        "Tyrion Lannister",
-        "Varys",
-        "Petyr Baelish"
-    ],
-    "Dagmer": [
-        "Lorren",
-        "Xaro Xhoan Daxos",
-        "Pyat Pree",
-        "Hallyne",
-        "Kovarro",
-        "Dontos Hollard",
-        "Alton Lannister",
-        "Craster",
-        "Luwin",
-        "Cressen"
-    ],
-    "Cersei Lannister": [
-        "Jaime Lannister",
-        "Arya Stark",
-        "Sansa Stark",
-        "Daenerys Targaryen",
-        "Tyrion Lannister",
-        "Samwell Tarly",
-        "Varys",
-        "Bronn",
-        "Theon Greyjoy",
-        "Petyr Baelish"
-    ],
-    "Daenerys Targaryen": [
-        "Cersei Lannister",
-        "Arya Stark",
-        "Sansa Stark",
-        "Samwell Tarly",
-        "Tyrion Lannister",
-        "Varys",
-        "Jaime Lannister",
-        "Bronn",
-        "Theon Greyjoy",
-        "Jorah Mormont"
-    ],
-    "Joyeuse Erenford": [
-        "Marillion",
-        "Shagga",
-        "Lommy Greenhands",
-        "Orell",
-        "Pypar",
-        "Prendahl na Ghezn",
-        "Anguy",
-        "Steelshanks",
-        "Osha",
-        "Karl"
-    ],
-    "Bronn": [
-        "Samwell Tarly",
-        "Varys",
-        "Jaime Lannister",
-        "Jorah Mormont",
-        "Theon Greyjoy",
-        "Petyr Baelish",
-        "Arya Stark",
-        "Tyrion Lannister",
-        "Cersei Lannister",
-        "Sansa Stark"
-    ],
-    "Grey Worm": [
-        "Tormund Giantsbane",
-        "Missandei",
-        "Olyvar",
-        "Qyburn",
-        "Olenna Redwyne",
-        "Meera Reed",
-        "Podrick Payne",
-        "Daario Naharis",
-        "Myranda",
-        "Jojen Reed"
-    ],
-    "Anya Waynwood": [
-        "Mag Mar Tun Doh Weg",
-        "Mossador",
-        "\"Black Walder\" Frey",
-        "Roslin Frey",
-        "Mordane",
-        "Styr",
-        "Oberyn Martell",
-        "Lady Crane",
-        "Izembaro",
-        "Jojen Reed"
-    ],
-    "Alton Lannister": [
-        "Dagmer",
-        "Lorren",
-        "Xaro Xhoan Daxos",
-        "Kovarro",
-        "Hallyne",
-        "Dontos Hollard",
-        "Cressen",
-        "Pyat Pree",
-        "Roslin Frey",
-        "\"Black Walder\" Frey"
-    ],
-    "Shagga": [
-        "Marillion",
-        "Lommy Greenhands",
-        "Illyrio Mopatis",
-        "Khal Drogo",
-        "Mordane",
-        "Joyeuse Erenford",
-        "Luwin",
-        "\"Black Walder\" Frey",
-        "Roslin Frey",
-        "Cressen"
-    ],
-    "Viserys Targaryen": [
-        "Illyrio Mopatis",
-        "Robert Baratheon",
-        "Marillion",
-        "Jory Cassel",
-        "Shagga",
-        "Khal Drogo",
-        "Lommy Greenhands",
-        "Mordane",
-        "Roslin Frey",
-        "\"Black Walder\" Frey"
-    ],
-    "The Waif": [
-        "Unella",
-        "Wun Weg Wun Dar Wun",
-        "Lady Crane",
-        "Dim Dalba",
-        "Izembaro",
-        "Yezzan zo Qaggaz",
-        "Malko",
-        "Karsi",
-        "\"Black Walder\" Frey",
-        "Roslin Frey"
-    ],
-    "Hot Pie": [
-        "Hodor",
-        "Shae",
-        "Three-Eyed Raven",
-        "Salladhor Saan",
-        "Pypar",
-        "Osha",
-        "Lommy Greenhands",
-        "Sandor Clegane",
-        "Gendry",
-        "Marillion"
-    ],
-    "Cressen": [
-        "\"Black Walder\" Frey",
-        "Roslin Frey",
-        "Lorren",
-        "Prendahl na Ghezn",
-        "Dagmer",
-        "Marillion",
-        "Malko",
-        "Orell",
-        "Lommy Greenhands",
-        "Loboda"
-    ],
-    "Gilly": [
-        "Podrick Payne",
-        "Missandei",
-        "Eddison Tollett",
-        "Marei",
-        "Margaery Tyrell",
-        "Davos Seaworth",
-        "Olenna Redwyne",
-        "Myranda",
-        "Samwell Tarly",
-        "Arya Stark"
-    ],
-    "Randyll Tarly": [
-        "Dickon Tarly",
-        "Robett Glover",
-        "Euron Greyjoy",
-        "Lyanna Mormont",
-        "Melessa Tarly",
-        "Wyman Manderly",
-        "Ray",
-        "Izembaro",
-        "Smalljon Umber",
-        "Alys Karstark"
-    ],
-    "Lorren": [
-        "Dagmer",
-        "Xaro Xhoan Daxos",
-        "Pyat Pree",
-        "Hallyne",
-        "Kovarro",
-        "Dontos Hollard",
-        "Alton Lannister",
-        "Craster",
-        "Luwin",
-        "Cressen"
-    ],
-    "Ned Umber": [
-        "Alys Karstark",
-        "Archmaester",
-        "Cressen",
-        "\"Black Walder\" Frey",
-        "Roslin Frey",
-        "Robett Glover",
-        "Smalljon Umber",
-        "Marillion",
-        "Malko",
-        "Ray"
-    ],
-    "Jon Snow": [
-        "Tyrion Lannister",
-        "Theon Greyjoy",
-        "Samwell Tarly",
-        "Arya Stark",
-        "Sansa Stark",
-        "Jaime Lannister",
-        "Jorah Mormont",
-        "Varys",
-        "Daenerys Targaryen",
-        "Bronn"
-    ],
-    "Lady Crane": [
-        "\"Black Walder\" Frey",
-        "Izembaro",
-        "Roslin Frey",
-        "Ray",
-        "Ornela",
-        "Melessa Tarly",
-        "The Waif",
-        "Unella",
-        "Old Nan",
-        "Wyman Manderly"
-    ],
-    "Podrick Payne": [
-        "Gilly",
-        "Eddison Tollett",
-        "Davos Seaworth",
-        "Tormund Giantsbane",
-        "Marei",
-        "Grey Worm",
-        "Samwell Tarly",
-        "Missandei",
-        "Bronn",
-        "Hodor"
-    ],
-    "Nymeria Sand": [
-        "Obara Sand",
-        "Tyene Sand",
-        "Unella",
-        "The Waif",
-        "Dim Dalba",
-        "Yezzan zo Qaggaz",
-        "Wun Weg Wun Dar Wun",
-        "Izembaro",
-        "Lady Crane",
-        "High Sparrow"
-    ],
-    "Benjen Stark": [
-        "Old Nan",
-        "Marillion",
-        "Shagga",
-        "Robett Glover",
-        "Lommy Greenhands",
-        "Dickon Tarly",
-        "Khal Drogo",
-        "Randyll Tarly",
-        "Melessa Tarly",
-        "Wyman Manderly"
-    ],
-    "Orell": [
-        "Steelshanks",
-        "Anguy",
-        "Prendahl na Ghezn",
-        "Karl",
-        "Joyeuse Erenford",
-        "\"Black Walder\" Frey",
-        "Roslin Frey",
-        "Cressen",
-        "Mag Mar Tun Doh Weg",
-        "Jojen Reed"
-    ],
-    "Locke": [
-        "Karl",
-        "Steelshanks",
-        "Anguy",
-        "Orell",
-        "Mance Rayder",
-        "Jojen Reed",
-        "Prendahl na Ghezn",
-        "Pypar",
-        "Dagmer",
-        "Salladhor Saan"
-    ],
-    "Jorah Mormont": [
-        "Samwell Tarly",
-        "Jaime Lannister",
-        "Bronn",
-        "Varys",
-        "Theon Greyjoy",
-        "Petyr Baelish",
-        "Arya Stark",
-        "Tyrion Lannister",
-        "Sansa Stark",
-        "Loras Tyrell"
-    ],
-    "Ygritte": [
-        "Salladhor Saan",
-        "Shae",
-        "Orell",
-        "Talisa Maegyr",
-        "Jojen Reed",
-        "Marei",
-        "Selyse Baratheon",
-        "Pyat Pree",
-        "Hot Pie",
-        "Roslin Frey"
-    ],
-    "Rakharo": [
-        "Marillion",
-        "Kovarro",
-        "Lommy Greenhands",
-        "Illyrio Mopatis",
-        "Shagga",
-        "Khal Drogo",
-        "Luwin",
-        "Rodrik Cassel",
-        "Pypar",
-        "Mordane"
-    ],
-    "Marei": [
-        "Myranda",
-        "Margaery Tyrell",
-        "Gilly",
-        "Olenna Redwyne",
-        "Podrick Payne",
-        "Missandei",
-        "Ygritte",
-        "Selyse Baratheon",
-        "Eddison Tollett",
-        "Unella"
-    ],
-    "Missandei": [
-        "Grey Worm",
-        "Tormund Giantsbane",
-        "Gilly",
-        "Olenna Redwyne",
-        "Myranda",
-        "Meera Reed",
-        "Qyburn",
-        "Marei",
-        "Podrick Payne",
-        "Daario Naharis"
-    ],
-    "Obara Sand": [
-        "Nymeria Sand",
-        "Tyene Sand",
-        "Unella",
-        "The Waif",
-        "Dim Dalba",
-        "Roslin Frey",
-        "Yezzan zo Qaggaz",
-        "Wun Weg Wun Dar Wun",
-        "Izembaro",
-        "Lady Crane"
-    ],
-    "Tycho Nestoris": [
-        "Olly",
-        "Malko",
-        "Mossador",
-        "Olyvar",
-        "Dim Dalba",
-        "Mag Mar Tun Doh Weg",
-        "Loboda",
-        "Yohn Royce",
-        "Tormund Giantsbane",
-        "Grey Worm"
-    ],
-    "Lysa Arryn": [
-        "Mordane",
-        "Marillion",
-        "Shagga",
-        "Anya Waynwood",
-        "Roslin Frey",
-        "\"Black Walder\" Frey",
-        "Lommy Greenhands",
-        "Khal Drogo",
-        "Old Nan",
-        "Illyrio Mopatis"
-    ],
-    "High Sparrow": [
-        "Unella",
-        "Dim Dalba",
-        "Yezzan zo Qaggaz",
-        "Wun Weg Wun Dar Wun",
-        "The Waif",
-        "Malko",
-        "Melessa Tarly",
-        "Loboda",
-        "Ray",
-        "Denys Mallister"
-    ],
-    "Yohn Royce": [
-        "Tycho Nestoris",
-        "Tormund Giantsbane",
-        "Grey Worm",
-        "Olly",
-        "Robin Arryn",
-        "Missandei",
-        "Dim Dalba",
-        "Wun Weg Wun Dar Wun",
-        "Podrick Payne",
-        "Yezzan zo Qaggaz"
-    ],
-    "Edmure Tully": [
-        "Brynden Tully",
-        "\"Lame Lothar\" Frey",
-        "Walder Frey",
-        "Karl",
-        "Thoros of Myr",
-        "Wyman Manderly",
-        "Steelshanks",
-        "Anguy",
-        "Melessa Tarly",
-        "Orell"
-    ],
-    "Tormund Giantsbane": [
-        "Grey Worm",
-        "Missandei",
-        "Qyburn",
-        "Dim Dalba",
-        "Wun Weg Wun Dar Wun",
-        "Olenna Redwyne",
-        "Podrick Payne",
-        "Myranda",
-        "Olyvar",
-        "Tycho Nestoris"
-    ],
-    "Roslin Frey": [
-        "\"Black Walder\" Frey",
-        "Lady Crane",
-        "Izembaro",
-        "Cressen",
-        "Marillion",
-        "Malko",
-        "Mordane",
-        "Pyat Pree",
-        "Karsi",
-        "Lommy Greenhands"
-    ],
-    "Myrcella Baratheon": [
-        "Lancel Lannister",
-        "Kevan Lannister",
-        "Jaqen H'ghar",
-        "Tommen Baratheon",
-        "Nymeria Sand",
-        "Obara Sand",
-        "Tyene Sand",
-        "Old Nan",
-        "Unella",
-        "Armeca"
-    ],
-    "Wun Weg Wun Dar Wun": [
-        "Dim Dalba",
-        "Yezzan zo Qaggaz",
-        "The Waif",
-        "Unella",
-        "High Sparrow",
-        "Malko",
-        "Loboda",
-        "Orell",
-        "Tormund Giantsbane",
-        "Melessa Tarly"
-    ],
-    "Catelyn Stark": [
-        "Talisa Maegyr",
-        "Robb Stark",
-        "Osha",
-        "Armeca",
-        "Shae",
-        "Doreah",
-        "Rickon Stark",
-        "Luwin",
-        "Mordane",
-        "Jeor Mormont"
-    ],
-    "Ray": [
-        "Lady Crane",
-        "Izembaro",
-        "Melessa Tarly",
-        "Wyman Manderly",
-        "\"Black Walder\" Frey",
-        "Roslin Frey",
-        "Smalljon Umber",
-        "Marillion",
-        "Malko",
-        "Lommy Greenhands"
-    ],
-    "Wyman Manderly": [
-        "Melessa Tarly",
-        "Smalljon Umber",
-        "Izembaro",
-        "Ornela",
-        "Ray",
-        "Lady Crane",
-        "Kinvara",
-        "Robett Glover",
-        "Old Nan",
-        "Dickon Tarly"
-    ],
-    "Joffrey Baratheon": [
-        "Robb Stark",
-        "Gendry",
-        "Osha",
-        "Craster",
-        "Tommen Baratheon",
-        "Catelyn Stark",
-        "Rickon Stark",
-        "Jeor Mormont",
-        "Robert Baratheon",
-        "Hot Pie"
-    ],
-    "Armeca": [
-        "Doreah",
-        "Luwin",
-        "Lommy Greenhands",
-        "Pyat Pree",
-        "Ilyn Payne",
-        "Marillion",
-        "Mordane",
-        "\"Black Walder\" Frey",
-        "Roslin Frey",
-        "Lorren"
-    ],
-    "Mag Mar Tun Doh Weg": [
-        "Styr",
-        "Mossador",
-        "Loboda",
-        "Oberyn Martell",
-        "Anya Waynwood",
-        "Orell",
-        "Cressen",
-        "\"Black Walder\" Frey",
-        "Roslin Frey",
-        "Jojen Reed"
-    ],
-    "Alys Karstark": [
-        "Ned Umber",
-        "Archmaester",
-        "Cressen",
-        "\"Black Walder\" Frey",
-        "Roslin Frey",
-        "Robett Glover",
-        "Marillion",
-        "Malko",
-        "Ray",
-        "Joyeuse Erenford"
-    ],
-    "Sandor Clegane": [
-        "Bran Stark",
-        "Hot Pie",
-        "Hodor",
-        "Three-Eyed Raven",
-        "Samwell Tarly",
-        "Osha",
-        "Podrick Payne",
-        "Bronn",
-        "Pycelle",
-        "Shae"
-    ],
-    "Brynden Tully": [
-        "Edmure Tully",
-        "\"Lame Lothar\" Frey",
-        "Walder Frey",
-        "Steelshanks",
-        "Anguy",
-        "Thoros of Myr",
-        "Orell",
-        "Melessa Tarly",
-        "Prendahl na Ghezn",
-        "Ray"
-    ],
-    "Izembaro": [
-        "Lady Crane",
-        "Ornela",
-        "Melessa Tarly",
-        "\"Black Walder\" Frey",
-        "Roslin Frey",
-        "Wyman Manderly",
-        "Ray",
-        "Kinvara",
-        "Smalljon Umber",
-        "Unella"
-    ],
-    "Doran Martell": [
-        "Malko",
-        "Denys Mallister",
-        "Loboda",
-        "Lorren",
-        "Karsi",
-        "Olly",
-        "Wun Weg Wun Dar Wun",
-        "Dim Dalba",
-        "Yezzan zo Qaggaz",
-        "The Waif"
-    ],
-    "Tywin Lannister": [
-        "Shae",
-        "Hodor",
-        "Hot Pie",
-        "Three-Eyed Raven",
-        "Joffrey Baratheon",
-        "Robb Stark",
-        "Salladhor Saan",
-        "Pypar",
-        "Osha",
-        "Bran Stark"
-    ],
-    "Salladhor Saan": [
-        "Ygritte",
-        "Jojen Reed",
-        "Hot Pie",
-        "Hodor",
-        "Three-Eyed Raven",
-        "Karl",
-        "Shae",
-        "Dagmer",
-        "Lorren",
-        "Steelshanks"
-    ],
-    "Sansa Stark": [
-        "Arya Stark",
-        "Cersei Lannister",
-        "Samwell Tarly",
-        "Daenerys Targaryen",
-        "Theon Greyjoy",
-        "Tyrion Lannister",
-        "Jaime Lannister",
-        "Bronn",
-        "Jorah Mormont",
-        "Bran Stark"
-    ],
-    "Kevan Lannister": [
-        "Lancel Lannister",
-        "Myrcella Baratheon",
-        "Jaqen H'ghar",
-        "Ilyn Payne",
-        "Tommen Baratheon",
-        "Pycelle",
-        "Rickon Stark",
-        "Luwin",
-        "Lommy Greenhands",
-        "Osha"
-    ],
-    "Jeor Mormont": [
-        "Luwin",
-        "Osha",
-        "Armeca",
-        "Lommy Greenhands",
-        "Marillion",
-        "Ilyn Payne",
-        "Doreah",
-        "Shagga",
-        "Robb Stark",
-        "Dagmer"
-    ],
-    "Stannis Baratheon": [
-        "Selyse Baratheon",
-        "Salladhor Saan",
-        "Olyvar",
-        "Shireen Baratheon",
-        "Margaery Tyrell",
-        "Ygritte",
-        "Marei",
-        "Joffrey Baratheon",
-        "Gilly",
-        "Jojen Reed"
-    ],
-    "Rodrik Cassel": [
-        "Lommy Greenhands",
-        "Jory Cassel",
-        "Marillion",
-        "Luwin",
-        "Shagga",
-        "Ilyn Payne",
-        "Illyrio Mopatis",
-        "Armeca",
-        "Khal Drogo",
-        "Rakharo"
-    ],
-    "Kovarro": [
-        "Dagmer",
-        "Lorren",
-        "Rakharo",
-        "Hallyne",
-        "Xaro Xhoan Daxos",
-        "Alton Lannister",
-        "Pyat Pree",
-        "Dontos Hollard",
-        "Craster",
-        "Luwin"
-    ],
-    "Jojen Reed": [
-        "Olyvar",
-        "Meera Reed",
-        "Mance Rayder",
-        "Karl",
-        "Salladhor Saan",
-        "Steelshanks",
-        "Anguy",
-        "Pypar",
-        "Orell",
-        "Prendahl na Ghezn"
-    ],
-    "Craster": [
-        "Dagmer",
-        "Lorren",
-        "Xaro Xhoan Daxos",
-        "Pyat Pree",
-        "Alton Lannister",
-        "Lommy Greenhands",
-        "Dontos Hollard",
-        "Roslin Frey",
-        "Hallyne",
-        "Prendahl na Ghezn"
-    ],
-    "Robb Stark": [
-        "Osha",
-        "Rickon Stark",
-        "Joffrey Baratheon",
-        "Catelyn Stark",
-        "Hodor",
-        "Jeor Mormont",
-        "Bran Stark",
-        "Gendry",
-        "Luwin",
-        "Joyeuse Erenford"
-    ],
-    "Tyrion Lannister": [
-        "Cersei Lannister",
-        "Varys",
-        "Samwell Tarly",
-        "Jaime Lannister",
-        "Arya Stark",
-        "Daenerys Targaryen",
-        "Jon Snow",
-        "Sansa Stark",
-        "Bronn",
-        "Theon Greyjoy"
-    ],
-    "Styr": [
-        "Mag Mar Tun Doh Weg",
-        "Loboda",
-        "Mossador",
-        "Oberyn Martell",
-        "Anya Waynwood",
-        "Cressen",
-        "Orell",
-        "Mance Rayder",
-        "\"Black Walder\" Frey",
-        "Jojen Reed"
-    ],
-    "Pycelle": [
-        "Loras Tyrell",
-        "Varys",
-        "Samwell Tarly",
-        "Hodor",
-        "Bronn",
-        "Three-Eyed Raven",
-        "Marei",
-        "Jorah Mormont",
-        "Podrick Payne",
-        "Sandor Clegane"
-    ],
-    "Osha": [
-        "Hodor",
-        "Rickon Stark",
-        "Robb Stark",
-        "Three-Eyed Raven",
-        "Gendry",
-        "Luwin",
-        "Joyeuse Erenford",
-        "Hot Pie",
-        "Lommy Greenhands",
-        "Marillion"
-    ],
-    "Three-Eyed Raven": [
-        "Hodor",
-        "Hot Pie",
-        "Shae",
-        "Osha",
-        "Salladhor Saan",
-        "Pypar",
-        "Sandor Clegane",
-        "Ygritte",
-        "Luwin",
-        "Lommy Greenhands"
-    ],
-    "Tommen Baratheon": [
-        "Robin Arryn",
-        "Myrcella Baratheon",
-        "Joffrey Baratheon",
-        "Kevan Lannister",
-        "Pycelle",
-        "Lancel Lannister",
-        "Jaqen H'ghar",
-        "Samwell Tarly",
-        "Loras Tyrell",
-        "Varys"
-    ],
-    "Karsi": [
-        "Loboda",
-        "Malko",
-        "\"Black Walder\" Frey",
-        "Roslin Frey",
-        "The Waif",
-        "Unella",
-        "Denys Mallister",
-        "Wun Weg Wun Dar Wun",
-        "Lady Crane",
-        "Dim Dalba"
-    ],
-    "Marillion": [
-        "Shagga",
-        "Lommy Greenhands",
-        "Illyrio Mopatis",
-        "Khal Drogo",
-        "Rakharo",
-        "Mordane",
-        "Pypar",
-        "\"Black Walder\" Frey",
-        "Roslin Frey",
-        "Malko"
-    ],
-    "Yezzan zo Qaggaz": [
-        "Unella",
-        "Dim Dalba",
-        "Wun Weg Wun Dar Wun",
-        "High Sparrow",
-        "The Waif",
-        "Malko",
-        "Melessa Tarly",
-        "Loboda",
-        "Izembaro",
-        "Lady Crane"
-    ],
-    "Thoros of Myr": [
-        "\"Lame Lothar\" Frey",
-        "Anguy",
-        "Brynden Tully",
-        "Steelshanks",
-        "Orell",
-        "Prendahl na Ghezn",
-        "Meera Reed",
-        "Melessa Tarly",
-        "Dickon Tarly",
-        "Robett Glover"
-    ],
-    "Hodor": [
-        "Three-Eyed Raven",
-        "Osha",
-        "Hot Pie",
-        "Shae",
-        "Rickon Stark",
-        "Salladhor Saan",
-        "Pypar",
-        "Bran Stark",
-        "Armeca",
-        "Jojen Reed"
-    ],
-    "Loras Tyrell": [
-        "Pycelle",
-        "Jaime Lannister",
-        "Samwell Tarly",
-        "Marei",
-        "Jorah Mormont",
-        "Bronn",
-        "Hodor",
-        "Theon Greyjoy",
-        "Lancel Lannister",
-        "Three-Eyed Raven"
-    ],
-    "Margaery Tyrell": [
-        "Marei",
-        "Gilly",
-        "Selyse Baratheon",
-        "Olenna Redwyne",
-        "Myranda",
-        "Missandei",
-        "Podrick Payne",
-        "Ygritte",
-        "Pycelle",
-        "Eddison Tollett"
-    ],
-    "Ilyn Payne": [
-        "Luwin",
-        "Armeca",
-        "Doreah",
-        "Lommy Greenhands",
-        "Rodrik Cassel",
-        "Marillion",
-        "Jeor Mormont",
-        "Dagmer",
-        "Lorren",
-        "Shagga"
-    ],
-    "Samwell Tarly": [
-        "Bronn",
-        "Theon Greyjoy",
-        "Jaime Lannister",
-        "Arya Stark",
-        "Jorah Mormont",
-        "Varys",
-        "Petyr Baelish",
-        "Tyrion Lannister",
-        "Sansa Stark",
-        "Gilly"
-    ],
-    "Steelshanks": [
-        "Anguy",
-        "Orell",
-        "Prendahl na Ghezn",
-        "Karl",
-        "Locke",
-        "Jojen Reed",
-        "Joyeuse Erenford",
-        "\"Black Walder\" Frey",
-        "Roslin Frey",
-        "Cressen"
-    ],
-    "Mossador": [
-        "Mag Mar Tun Doh Weg",
-        "Olly",
-        "Styr",
-        "Anya Waynwood",
-        "Tycho Nestoris",
-        "Jojen Reed",
-        "Malko",
-        "Oberyn Martell",
-        "Cressen",
-        "Roslin Frey"
-    ],
-    "Walder Frey": [
-        "Brynden Tully",
-        "Edmure Tully",
-        "Joyeuse Erenford",
-        "\"Lame Lothar\" Frey",
-        "Rickon Stark",
-        "Osha",
-        "Old Nan",
-        "Marillion",
-        "Pypar",
-        "Shagga"
-    ],
-    "Ornela": [
-        "Izembaro",
-        "Lady Crane",
-        "Melessa Tarly",
-        "Wyman Manderly",
-        "Kinvara",
-        "Smalljon Umber",
-        "Ray",
-        "\"Black Walder\" Frey",
-        "Roslin Frey",
-        "Unella"
-    ],
-    "Dontos Hollard": [
-        "Lorren",
-        "Dagmer",
-        "Xaro Xhoan Daxos",
-        "Hallyne",
-        "Alton Lannister",
-        "Pyat Pree",
-        "Kovarro",
-        "Craster",
-        "Luwin",
-        "Cressen"
-    ],
-    "Lyanna Mormont": [
-        "Robett Glover",
-        "Dickon Tarly",
-        "Randyll Tarly",
-        "Izembaro",
-        "Euron Greyjoy",
-        "Lady Crane",
-        "Ornela",
-        "Old Nan",
-        "Wyman Manderly",
-        "Roslin Frey"
-    ],
-    "Pyat Pree": [
-        "Dagmer",
-        "Lorren",
-        "Xaro Xhoan Daxos",
-        "Hallyne",
-        "\"Black Walder\" Frey",
-        "Roslin Frey",
-        "Armeca",
-        "Kovarro",
-        "Dontos Hollard",
-        "Alton Lannister"
-    ],
-    "Lancel Lannister": [
-        "Kevan Lannister",
-        "Jaqen H'ghar",
-        "Myrcella Baratheon",
-        "Alton Lannister",
-        "High Sparrow",
-        "Luwin",
-        "Denys Mallister",
-        "Rickon Stark",
-        "Podrick Payne",
-        "Osha"
-    ],
-    "Olly": [
-        "Tycho Nestoris",
-        "Malko",
-        "Olyvar",
-        "Mossador",
-        "Mag Mar Tun Doh Weg",
-        "Denys Mallister",
-        "Loboda",
-        "Pypar",
-        "Wun Weg Wun Dar Wun",
-        "Dim Dalba"
-    ],
-    "Mance Rayder": [
-        "Jojen Reed",
-        "Karl",
-        "Pypar",
-        "Orell",
-        "Locke",
-        "Olyvar",
-        "Mag Mar Tun Doh Weg",
-        "Salladhor Saan",
-        "Steelshanks",
-        "Anguy"
-    ],
-    "Euron Greyjoy": [
-        "Robett Glover",
-        "Dickon Tarly",
-        "Randyll Tarly",
-        "Lyanna Mormont",
-        "Melessa Tarly",
-        "Yara Greyjoy",
-        "Ray",
-        "Wyman Manderly",
-        "Balon Greyjoy",
-        "Izembaro"
-    ],
-    "Kinvara": [
-        "Izembaro",
-        "Ornela",
-        "Lady Crane",
-        "Melessa Tarly",
-        "Wyman Manderly",
-        "Smalljon Umber",
-        "Ray",
-        "\"Black Walder\" Frey",
-        "Roslin Frey",
-        "Unella"
-    ],
-    "Dim Dalba": [
-        "Wun Weg Wun Dar Wun",
-        "Yezzan zo Qaggaz",
-        "Unella",
-        "High Sparrow",
-        "The Waif",
-        "Malko",
-        "Loboda",
-        "Tormund Giantsbane",
-        "Melessa Tarly",
-        "Tycho Nestoris"
-    ],
-    "Jory Cassel": [
-        "Marillion",
-        "Shagga",
-        "Mordane",
-        "Viserys Targaryen",
-        "Lommy Greenhands",
-        "Rodrik Cassel",
-        "Illyrio Mopatis",
-        "Roslin Frey",
-        "\"Black Walder\" Frey",
-        "Cressen"
-    ],
-    "Arya Stark": [
-        "Sansa Stark",
-        "Samwell Tarly",
-        "Theon Greyjoy",
-        "Cersei Lannister",
-        "Daenerys Targaryen",
-        "Jaime Lannister",
-        "Bronn",
-        "Gilly",
-        "Jorah Mormont",
-        "Tyrion Lannister"
-    ]
+    "Obara Sand": {
+        "dead": [
+            "Nymeria Sand",
+            "Tyene Sand",
+            "The Waif",
+            "Wun Weg Wun Dar Wun",
+            "Lady Crane",
+            "High Sparrow",
+            "Karsi",
+            "Myrcella Baratheon",
+            "Old Nan",
+            "Myranda"
+        ],
+        "alive": [
+            "Unella",
+            "Dim Dalba",
+            "Roslin Frey",
+            "Yezzan zo Qaggaz",
+            "Izembaro",
+            "Malko",
+            "\"Black Walder\" Frey",
+            "Meera Reed",
+            "Melessa Tarly",
+            "Ornela"
+        ]
+    },
+    "Jaime Lannister": {
+        "dead": [
+            "Loras Tyrell",
+            "Petyr Baelish",
+            "Pycelle",
+            "Barristan Selmy",
+            "Hodor",
+            "Three-Eyed Raven",
+            "Lancel Lannister",
+            "Kevan Lannister",
+            "Margaery Tyrell",
+            "Rickon Stark"
+        ],
+        "alive": [
+            "Samwell Tarly",
+            "Cersei Lannister",
+            "Jorah Mormont",
+            "Bronn",
+            "Theon Greyjoy",
+            "Arya Stark",
+            "Tyrion Lannister",
+            "Varys",
+            "Sansa Stark",
+            "Daenerys Targaryen"
+        ]
+    },
+    "Lorren": {
+        "dead": [
+            "Dagmer",
+            "Xaro Xhoan Daxos",
+            "Pyat Pree",
+            "Dontos Hollard",
+            "Alton Lannister",
+            "Craster",
+            "Luwin",
+            "Cressen",
+            "Lommy Greenhands",
+            "Prendahl na Ghezn"
+        ],
+        "alive": [
+            "Hallyne",
+            "Kovarro",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Marillion",
+            "Malko",
+            "Armeca",
+            "Steelshanks",
+            "Anguy",
+            "Salladhor Saan"
+        ]
+    },
+    "Three-Eyed Raven": {
+        "dead": [
+            "Hodor",
+            "Shae",
+            "Osha",
+            "Pypar",
+            "Ygritte",
+            "Luwin",
+            "Lommy Greenhands",
+            "Rickon Stark",
+            "Jojen Reed",
+            "Pycelle"
+        ],
+        "alive": [
+            "Hot Pie",
+            "Salladhor Saan",
+            "Sandor Clegane",
+            "Marillion",
+            "Bran Stark",
+            "Samwell Tarly",
+            "Steelshanks",
+            "Anguy",
+            "Olyvar",
+            "Marei"
+        ]
+    },
+    "Dim Dalba": {
+        "dead": [
+            "Wun Weg Wun Dar Wun",
+            "High Sparrow",
+            "The Waif",
+            "Loboda",
+            "Karsi",
+            "Lady Crane",
+            "Olly",
+            "Ray",
+            "Mag Mar Tun Doh Weg",
+            "Obara Sand"
+        ],
+        "alive": [
+            "Yezzan zo Qaggaz",
+            "Unella",
+            "Malko",
+            "Tormund Giantsbane",
+            "Melessa Tarly",
+            "Tycho Nestoris",
+            "Izembaro",
+            "Wyman Manderly",
+            "Denys Mallister",
+            "Jaqen H'ghar"
+        ]
+    },
+    "Izembaro": {
+        "dead": [
+            "Lady Crane",
+            "Ray",
+            "Smalljon Umber",
+            "Old Nan",
+            "The Waif",
+            "Dickon Tarly",
+            "Mordane",
+            "Lommy Greenhands",
+            "Pyat Pree",
+            "Karsi"
+        ],
+        "alive": [
+            "Ornela",
+            "Melessa Tarly",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Wyman Manderly",
+            "Kinvara",
+            "Unella",
+            "Lyanna Mormont",
+            "Malko",
+            "Marillion"
+        ]
+    },
+    "Jeor Mormont": {
+        "dead": [
+            "Luwin",
+            "Osha",
+            "Lommy Greenhands",
+            "Doreah",
+            "Robb Stark",
+            "Dagmer",
+            "Lorren",
+            "Xaro Xhoan Daxos",
+            "Rodrik Cassel",
+            "Joyeuse Erenford"
+        ],
+        "alive": [
+            "Armeca",
+            "Marillion",
+            "Ilyn Payne",
+            "Shagga",
+            "Illyrio Mopatis",
+            "Hot Pie",
+            "Hallyne",
+            "Gendry",
+            "Salladhor Saan",
+            "Steelshanks"
+        ]
+    },
+    "Doreah": {
+        "dead": [
+            "Luwin",
+            "Shae",
+            "Pyat Pree",
+            "Lommy Greenhands",
+            "Mordane",
+            "Dagmer",
+            "Lorren",
+            "Old Nan",
+            "Jeor Mormont",
+            "Osha"
+        ],
+        "alive": [
+            "Armeca",
+            "Ilyn Payne",
+            "Marillion",
+            "Shagga",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Illyrio Mopatis",
+            "Hallyne",
+            "Izembaro",
+            "Kovarro"
+        ]
+    },
+    "Styr": {
+        "dead": [
+            "Mag Mar Tun Doh Weg",
+            "Loboda",
+            "Mossador",
+            "Oberyn Martell",
+            "Cressen",
+            "Orell",
+            "Mance Rayder",
+            "Jojen Reed",
+            "Olly",
+            "Karl"
+        ],
+        "alive": [
+            "Anya Waynwood",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Marillion",
+            "Malko",
+            "Tycho Nestoris",
+            "Steelshanks",
+            "Anguy",
+            "Shagga",
+            "Salladhor Saan"
+        ]
+    },
+    "Dontos Hollard": {
+        "dead": [
+            "Lorren",
+            "Dagmer",
+            "Xaro Xhoan Daxos",
+            "Alton Lannister",
+            "Pyat Pree",
+            "Craster",
+            "Luwin",
+            "Cressen",
+            "Lommy Greenhands",
+            "Mag Mar Tun Doh Weg"
+        ],
+        "alive": [
+            "Hallyne",
+            "Kovarro",
+            "Salladhor Saan",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Marillion",
+            "Malko",
+            "Armeca",
+            "Steelshanks",
+            "Anguy"
+        ]
+    },
+    "Tywin Lannister": {
+        "dead": [
+            "Shae",
+            "Hodor",
+            "Three-Eyed Raven",
+            "Joffrey Baratheon",
+            "Robb Stark",
+            "Pypar",
+            "Osha",
+            "Pycelle",
+            "Rickon Stark",
+            "Ygritte"
+        ],
+        "alive": [
+            "Hot Pie",
+            "Salladhor Saan",
+            "Bran Stark",
+            "Varys",
+            "Tyrion Lannister",
+            "Ilyn Payne",
+            "Sandor Clegane",
+            "Cersei Lannister",
+            "Samwell Tarly",
+            "Gendry"
+        ]
+    },
+    "Benjen Stark": {
+        "dead": [
+            "Old Nan",
+            "Lommy Greenhands",
+            "Dickon Tarly",
+            "Khal Drogo",
+            "Randyll Tarly",
+            "Karl",
+            "Smalljon Umber",
+            "Mordane",
+            "Ray",
+            "Jory Cassel"
+        ],
+        "alive": [
+            "Marillion",
+            "Shagga",
+            "Robett Glover",
+            "Melessa Tarly",
+            "Wyman Manderly",
+            "Illyrio Mopatis",
+            "Alys Karstark",
+            "Ned Umber",
+            "Edmure Tully",
+            "Yezzan zo Qaggaz"
+        ]
+    },
+    "Sandor Clegane": {
+        "dead": [
+            "Hodor",
+            "Three-Eyed Raven",
+            "Osha",
+            "Pycelle",
+            "Shae",
+            "Pypar",
+            "Thoros of Myr",
+            "Dagmer",
+            "Rickon Stark",
+            "Petyr Baelish"
+        ],
+        "alive": [
+            "Bran Stark",
+            "Hot Pie",
+            "Samwell Tarly",
+            "Podrick Payne",
+            "Bronn",
+            "Salladhor Saan",
+            "Jaime Lannister",
+            "Varys",
+            "Jorah Mormont",
+            "Meera Reed"
+        ]
+    },
+    "Brynden Tully": {
+        "dead": [
+            "\"Lame Lothar\" Frey",
+            "Walder Frey",
+            "Thoros of Myr",
+            "Orell",
+            "Prendahl na Ghezn",
+            "Ray",
+            "Smalljon Umber",
+            "Lady Crane",
+            "Karl",
+            "Alton Lannister"
+        ],
+        "alive": [
+            "Edmure Tully",
+            "Steelshanks",
+            "Anguy",
+            "Melessa Tarly",
+            "Robett Glover",
+            "Izembaro",
+            "Wyman Manderly",
+            "Ornela",
+            "Roslin Frey",
+            "Marillion"
+        ]
+    },
+    "Daenerys Targaryen": {
+        "dead": [
+            "Petyr Baelish",
+            "Pycelle",
+            "Margaery Tyrell",
+            "Olenna Redwyne",
+            "Loras Tyrell",
+            "Shae",
+            "Myranda",
+            "Selyse Baratheon",
+            "Hodor",
+            "Rickon Stark"
+        ],
+        "alive": [
+            "Cersei Lannister",
+            "Arya Stark",
+            "Sansa Stark",
+            "Samwell Tarly",
+            "Tyrion Lannister",
+            "Varys",
+            "Jaime Lannister",
+            "Bronn",
+            "Theon Greyjoy",
+            "Jorah Mormont"
+        ]
+    },
+    "Kinvara": {
+        "dead": [
+            "Lady Crane",
+            "Smalljon Umber",
+            "Ray",
+            "Old Nan",
+            "Karsi",
+            "The Waif",
+            "Alton Lannister",
+            "Randyll Tarly",
+            "Mordane",
+            "Dickon Tarly"
+        ],
+        "alive": [
+            "Izembaro",
+            "Ornela",
+            "Melessa Tarly",
+            "Wyman Manderly",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Unella",
+            "Lyanna Mormont",
+            "Euron Greyjoy",
+            "Robett Glover"
+        ]
+    },
+    "Jorah Mormont": {
+        "dead": [
+            "Petyr Baelish",
+            "Loras Tyrell",
+            "Pycelle",
+            "Hodor",
+            "Three-Eyed Raven",
+            "Osha",
+            "Rickon Stark",
+            "Alliser Thorne",
+            "Olenna Redwyne",
+            "Margaery Tyrell"
+        ],
+        "alive": [
+            "Samwell Tarly",
+            "Jaime Lannister",
+            "Bronn",
+            "Varys",
+            "Theon Greyjoy",
+            "Arya Stark",
+            "Tyrion Lannister",
+            "Sansa Stark",
+            "Davos Seaworth",
+            "Daenerys Targaryen"
+        ]
+    },
+    "Davos Seaworth": {
+        "dead": [
+            "Margaery Tyrell",
+            "Pycelle",
+            "Hodor",
+            "Petyr Baelish",
+            "Olenna Redwyne",
+            "Selyse Baratheon",
+            "Myranda",
+            "Ramsay Snow",
+            "Stannis Baratheon",
+            "Loras Tyrell"
+        ],
+        "alive": [
+            "Eddison Tollett",
+            "Podrick Payne",
+            "Gilly",
+            "Grey Worm",
+            "Jorah Mormont",
+            "Tormund Giantsbane",
+            "Bronn",
+            "Marei",
+            "Samwell Tarly",
+            "Qyburn"
+        ]
+    },
+    "Varys": {
+        "dead": [
+            "Petyr Baelish",
+            "Pycelle",
+            "Loras Tyrell",
+            "Hodor",
+            "Three-Eyed Raven",
+            "Kevan Lannister",
+            "Margaery Tyrell",
+            "Osha",
+            "Tommen Baratheon",
+            "Tywin Lannister"
+        ],
+        "alive": [
+            "Samwell Tarly",
+            "Bronn",
+            "Jorah Mormont",
+            "Tyrion Lannister",
+            "Theon Greyjoy",
+            "Jaime Lannister",
+            "Arya Stark",
+            "Cersei Lannister",
+            "Daenerys Targaryen",
+            "Sansa Stark"
+        ]
+    },
+    "Eddison Tollett": {
+        "dead": [
+            "Karl",
+            "Pycelle",
+            "Margaery Tyrell",
+            "Olenna Redwyne",
+            "Olly",
+            "Myranda",
+            "Hodor",
+            "Three-Eyed Raven",
+            "Mance Rayder",
+            "Selyse Baratheon"
+        ],
+        "alive": [
+            "Podrick Payne",
+            "Gilly",
+            "Davos Seaworth",
+            "Grey Worm",
+            "Tormund Giantsbane",
+            "Samwell Tarly",
+            "Marei",
+            "Missandei",
+            "Bronn",
+            "Qyburn"
+        ]
+    },
+    "Salladhor Saan": {
+        "dead": [
+            "Ygritte",
+            "Jojen Reed",
+            "Hodor",
+            "Three-Eyed Raven",
+            "Karl",
+            "Shae",
+            "Dagmer",
+            "Lorren",
+            "Orell",
+            "Pypar"
+        ],
+        "alive": [
+            "Hot Pie",
+            "Steelshanks",
+            "Anguy",
+            "Olyvar",
+            "Marei",
+            "Marillion",
+            "Malko",
+            "Hallyne",
+            "Tycho Nestoris",
+            "\"Black Walder\" Frey"
+        ]
+    },
+    "Tyene Sand": {
+        "dead": [
+            "Nymeria Sand",
+            "Obara Sand",
+            "The Waif",
+            "Wun Weg Wun Dar Wun",
+            "Lady Crane",
+            "High Sparrow",
+            "Karsi",
+            "Myrcella Baratheon",
+            "Old Nan",
+            "Olenna Redwyne"
+        ],
+        "alive": [
+            "Unella",
+            "Dim Dalba",
+            "Izembaro",
+            "Yezzan zo Qaggaz",
+            "Malko",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Melessa Tarly",
+            "Lyanna Mormont",
+            "Ornela"
+        ]
+    },
+    "Rickon Stark": {
+        "dead": [
+            "Osha",
+            "Hodor",
+            "Robb Stark",
+            "Three-Eyed Raven",
+            "Catelyn Stark",
+            "Old Nan",
+            "Walder Frey",
+            "\"Lame Lothar\" Frey",
+            "Luwin",
+            "Lommy Greenhands"
+        ],
+        "alive": [
+            "Bran Stark",
+            "Gendry",
+            "Hot Pie",
+            "Arya Stark",
+            "Marillion",
+            "Edmure Tully",
+            "Jaqen H'ghar",
+            "Sandor Clegane",
+            "Ned Umber",
+            "Shagga"
+        ]
+    },
+    "Tyrion Lannister": {
+        "dead": [
+            "Petyr Baelish",
+            "Pycelle",
+            "Loras Tyrell",
+            "Tywin Lannister",
+            "Hodor",
+            "Rickon Stark",
+            "Kevan Lannister",
+            "Lancel Lannister",
+            "Ramsay Snow",
+            "Three-Eyed Raven"
+        ],
+        "alive": [
+            "Cersei Lannister",
+            "Varys",
+            "Samwell Tarly",
+            "Jaime Lannister",
+            "Arya Stark",
+            "Daenerys Targaryen",
+            "Jon Snow",
+            "Sansa Stark",
+            "Bronn",
+            "Theon Greyjoy"
+        ]
+    },
+    "Yara Greyjoy": {
+        "dead": [
+            "Balon Greyjoy",
+            "Ygritte",
+            "Margaery Tyrell",
+            "Shae",
+            "Olenna Redwyne",
+            "Myranda",
+            "Selyse Baratheon",
+            "Hodor",
+            "Dagmer",
+            "Talisa Maegyr"
+        ],
+        "alive": [
+            "Gilly",
+            "Euron Greyjoy",
+            "Meera Reed",
+            "Marei",
+            "Bran Stark",
+            "Missandei",
+            "Podrick Payne",
+            "Eddison Tollett",
+            "Hot Pie",
+            "Salladhor Saan"
+        ]
+    },
+    "Gendry": {
+        "dead": [
+            "Osha",
+            "Craster",
+            "Hodor",
+            "Rickon Stark",
+            "Robb Stark",
+            "Luwin",
+            "Joffrey Baratheon",
+            "Joyeuse Erenford",
+            "Ygritte",
+            "Lommy Greenhands"
+        ],
+        "alive": [
+            "Hot Pie",
+            "Marillion",
+            "Shagga",
+            "Armeca",
+            "Salladhor Saan",
+            "Steelshanks",
+            "Anguy",
+            "Bran Stark",
+            "Sandor Clegane",
+            "Samwell Tarly"
+        ]
+    },
+    "Karl": {
+        "dead": [
+            "Locke",
+            "Orell",
+            "Jojen Reed",
+            "Prendahl na Ghezn",
+            "Pypar",
+            "Mance Rayder",
+            "Mag Mar Tun Doh Weg",
+            "Mossador",
+            "Joyeuse Erenford",
+            "Cressen"
+        ],
+        "alive": [
+            "Steelshanks",
+            "Anguy",
+            "Salladhor Saan",
+            "Olyvar",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Marillion",
+            "Malko",
+            "Shagga",
+            "Edmure Tully"
+        ]
+    },
+    "Locke": {
+        "dead": [
+            "Karl",
+            "Orell",
+            "Mance Rayder",
+            "Jojen Reed",
+            "Prendahl na Ghezn",
+            "Pypar",
+            "Dagmer",
+            "Mag Mar Tun Doh Weg",
+            "Mossador",
+            "Joyeuse Erenford"
+        ],
+        "alive": [
+            "Steelshanks",
+            "Anguy",
+            "Salladhor Saan",
+            "Olyvar",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Marillion",
+            "Malko",
+            "Denys Mallister",
+            "Shagga"
+        ]
+    },
+    "Shireen Baratheon": {
+        "dead": [
+            "Selyse Baratheon",
+            "Myranda",
+            "Jojen Reed",
+            "Olenna Redwyne",
+            "Ygritte",
+            "Mance Rayder",
+            "Olly",
+            "Oberyn Martell",
+            "Karl",
+            "Shae"
+        ],
+        "alive": [
+            "Olyvar",
+            "Salladhor Saan",
+            "Missandei",
+            "Marei",
+            "Gilly",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Anya Waynwood",
+            "Meera Reed",
+            "Malko"
+        ]
+    },
+    "Shagga": {
+        "dead": [
+            "Lommy Greenhands",
+            "Khal Drogo",
+            "Mordane",
+            "Joyeuse Erenford",
+            "Luwin",
+            "Cressen",
+            "Robert Baratheon",
+            "Jory Cassel",
+            "Rakharo",
+            "Old Nan"
+        ],
+        "alive": [
+            "Marillion",
+            "Illyrio Mopatis",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Malko",
+            "Armeca",
+            "Anguy",
+            "Steelshanks",
+            "Melessa Tarly",
+            "Izembaro"
+        ]
+    },
+    "Hodor": {
+        "dead": [
+            "Three-Eyed Raven",
+            "Osha",
+            "Shae",
+            "Rickon Stark",
+            "Pypar",
+            "Jojen Reed",
+            "Ygritte",
+            "Luwin",
+            "Lommy Greenhands",
+            "Robb Stark"
+        ],
+        "alive": [
+            "Hot Pie",
+            "Salladhor Saan",
+            "Bran Stark",
+            "Armeca",
+            "Sandor Clegane",
+            "Gendry",
+            "Marillion",
+            "Samwell Tarly",
+            "Podrick Payne",
+            "Steelshanks"
+        ]
+    },
+    "Bran Stark": {
+        "dead": [
+            "Rickon Stark",
+            "Hodor",
+            "Osha",
+            "Robb Stark",
+            "Three-Eyed Raven",
+            "Petyr Baelish",
+            "Pycelle",
+            "Shae",
+            "Joyeuse Erenford",
+            "Pypar"
+        ],
+        "alive": [
+            "Sandor Clegane",
+            "Hot Pie",
+            "Arya Stark",
+            "Samwell Tarly",
+            "Theon Greyjoy",
+            "Sansa Stark",
+            "Bronn",
+            "Gilly",
+            "Jorah Mormont",
+            "Jaime Lannister"
+        ]
+    },
+    "Armeca": {
+        "dead": [
+            "Doreah",
+            "Luwin",
+            "Lommy Greenhands",
+            "Pyat Pree",
+            "Mordane",
+            "Lorren",
+            "Dagmer",
+            "Old Nan",
+            "Hodor",
+            "Shae"
+        ],
+        "alive": [
+            "Ilyn Payne",
+            "Marillion",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Shagga",
+            "Izembaro",
+            "Marei",
+            "Illyrio Mopatis",
+            "Hallyne",
+            "Hot Pie"
+        ]
+    },
+    "Tormund Giantsbane": {
+        "dead": [
+            "Wun Weg Wun Dar Wun",
+            "Olenna Redwyne",
+            "Myranda",
+            "\"Lame Lothar\" Frey",
+            "Olly",
+            "Mag Mar Tun Doh Weg",
+            "Thoros of Myr",
+            "Jojen Reed",
+            "Orell",
+            "Mance Rayder"
+        ],
+        "alive": [
+            "Grey Worm",
+            "Missandei",
+            "Qyburn",
+            "Dim Dalba",
+            "Podrick Payne",
+            "Olyvar",
+            "Tycho Nestoris",
+            "Meera Reed",
+            "Gilly",
+            "Yohn Royce"
+        ]
+    },
+    "Illyrio Mopatis": {
+        "dead": [
+            "Khal Drogo",
+            "Lommy Greenhands",
+            "Viserys Targaryen",
+            "Rakharo",
+            "Mordane",
+            "Jory Cassel",
+            "Joyeuse Erenford",
+            "Luwin",
+            "Rodrik Cassel",
+            "Cressen"
+        ],
+        "alive": [
+            "Marillion",
+            "Shagga",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Malko",
+            "Armeca",
+            "Steelshanks",
+            "Anguy",
+            "Alys Karstark",
+            "Ned Umber"
+        ]
+    },
+    "Ilyn Payne": {
+        "dead": [
+            "Luwin",
+            "Doreah",
+            "Lommy Greenhands",
+            "Rodrik Cassel",
+            "Jeor Mormont",
+            "Dagmer",
+            "Lorren",
+            "Alton Lannister",
+            "Dontos Hollard",
+            "Xaro Xhoan Daxos"
+        ],
+        "alive": [
+            "Armeca",
+            "Marillion",
+            "Shagga",
+            "Illyrio Mopatis",
+            "Hallyne",
+            "Kovarro",
+            "Hot Pie",
+            "Jaqen H'ghar",
+            "Roslin Frey",
+            "\"Black Walder\" Frey"
+        ]
+    },
+    "Loboda": {
+        "dead": [
+            "Karsi",
+            "Mag Mar Tun Doh Weg",
+            "Wun Weg Wun Dar Wun",
+            "Styr",
+            "Cressen",
+            "Doran Martell",
+            "Prendahl na Ghezn",
+            "Olly",
+            "Orell",
+            "The Waif"
+        ],
+        "alive": [
+            "Malko",
+            "Denys Mallister",
+            "Dim Dalba",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Marillion",
+            "Yezzan zo Qaggaz",
+            "Anguy",
+            "Steelshanks",
+            "Shagga"
+        ]
+    },
+    "Jojen Reed": {
+        "dead": [
+            "Mance Rayder",
+            "Karl",
+            "Pypar",
+            "Orell",
+            "Prendahl na Ghezn",
+            "Mag Mar Tun Doh Weg",
+            "Mossador",
+            "Locke",
+            "Ygritte",
+            "Hodor"
+        ],
+        "alive": [
+            "Olyvar",
+            "Meera Reed",
+            "Salladhor Saan",
+            "Steelshanks",
+            "Anguy",
+            "Roslin Frey",
+            "Grey Worm",
+            "Hot Pie",
+            "Marillion",
+            "\"Black Walder\" Frey"
+        ]
+    },
+    "Lysa Arryn": {
+        "dead": [
+            "Mordane",
+            "Lommy Greenhands",
+            "Khal Drogo",
+            "Old Nan",
+            "Pypar",
+            "Shae",
+            "Doreah",
+            "Orell",
+            "Mag Mar Tun Doh Weg",
+            "Lady Crane"
+        ],
+        "alive": [
+            "Marillion",
+            "Shagga",
+            "Anya Waynwood",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Illyrio Mopatis",
+            "Armeca",
+            "Izembaro",
+            "Ornela",
+            "Malko"
+        ]
+    },
+    "Ramsay Snow": {
+        "dead": [
+            "Myranda",
+            "Olenna Redwyne",
+            "Olly",
+            "Shireen Baratheon",
+            "\"Lame Lothar\" Frey",
+            "Margaery Tyrell",
+            "Locke",
+            "Jojen Reed",
+            "Mance Rayder",
+            "Brynden Tully"
+        ],
+        "alive": [
+            "Daario Naharis",
+            "Grey Worm",
+            "Olyvar",
+            "Tormund Giantsbane",
+            "Qyburn",
+            "Missandei",
+            "Steelshanks",
+            "Gilly",
+            "Eddison Tollett",
+            "Marei"
+        ]
+    },
+    "Balon Greyjoy": {
+        "dead": [
+            "Dagmer",
+            "Lorren",
+            "Talisa Maegyr",
+            "Osha",
+            "Craster",
+            "Xaro Xhoan Daxos",
+            "Orell",
+            "Prendahl na Ghezn",
+            "Alton Lannister",
+            "Dontos Hollard"
+        ],
+        "alive": [
+            "Euron Greyjoy",
+            "Yara Greyjoy",
+            "Salladhor Saan",
+            "Steelshanks",
+            "Anguy",
+            "Hallyne",
+            "Kovarro",
+            "Hot Pie",
+            "Edmure Tully",
+            "Roslin Frey"
+        ]
+    },
+    "Talisa Maegyr": {
+        "dead": [
+            "Catelyn Stark",
+            "Ygritte",
+            "Pyat Pree",
+            "Selyse Baratheon",
+            "Osha",
+            "Dagmer",
+            "Lorren",
+            "Orell",
+            "Balon Greyjoy",
+            "Craster"
+        ],
+        "alive": [
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Salladhor Saan",
+            "Steelshanks",
+            "Anguy",
+            "Armeca",
+            "Hallyne",
+            "Izembaro",
+            "Marei",
+            "Kovarro"
+        ]
+    },
+    "Stannis Baratheon": {
+        "dead": [
+            "Selyse Baratheon",
+            "Shireen Baratheon",
+            "Margaery Tyrell",
+            "Ygritte",
+            "Joffrey Baratheon",
+            "Jojen Reed",
+            "Mance Rayder",
+            "Olly",
+            "Hodor",
+            "Pycelle"
+        ],
+        "alive": [
+            "Salladhor Saan",
+            "Olyvar",
+            "Marei",
+            "Gilly",
+            "Davos Seaworth",
+            "Eddison Tollett",
+            "Podrick Payne",
+            "Hot Pie",
+            "Samwell Tarly",
+            "Daario Naharis"
+        ]
+    },
+    "Ygritte": {
+        "dead": [
+            "Shae",
+            "Orell",
+            "Talisa Maegyr",
+            "Jojen Reed",
+            "Selyse Baratheon",
+            "Pyat Pree",
+            "Hodor",
+            "Karl",
+            "Mance Rayder",
+            "Mag Mar Tun Doh Weg"
+        ],
+        "alive": [
+            "Salladhor Saan",
+            "Marei",
+            "Hot Pie",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Gilly",
+            "Steelshanks",
+            "Anguy",
+            "Armeca",
+            "Olyvar"
+        ]
+    },
+    "Robin Arryn": {
+        "dead": [
+            "Olly",
+            "Tommen Baratheon",
+            "Alliser Thorne",
+            "Old Nan",
+            "Wun Weg Wun Dar Wun",
+            "Hodor",
+            "High Sparrow",
+            "Pycelle",
+            "Lancel Lannister",
+            "Lommy Greenhands"
+        ],
+        "alive": [
+            "Yohn Royce",
+            "Jaqen H'ghar",
+            "Dim Dalba",
+            "Marillion",
+            "Tycho Nestoris",
+            "Malko",
+            "Yezzan zo Qaggaz",
+            "Daario Naharis",
+            "Olyvar",
+            "Shagga"
+        ]
+    },
+    "Tommen Baratheon": {
+        "dead": [
+            "Myrcella Baratheon",
+            "Joffrey Baratheon",
+            "Kevan Lannister",
+            "Pycelle",
+            "Lancel Lannister",
+            "Loras Tyrell",
+            "Craster",
+            "Hodor",
+            "Margaery Tyrell",
+            "Olly"
+        ],
+        "alive": [
+            "Robin Arryn",
+            "Jaqen H'ghar",
+            "Samwell Tarly",
+            "Varys",
+            "Bronn",
+            "Bran Stark",
+            "Theon Greyjoy",
+            "Gilly",
+            "Jaime Lannister",
+            "Marei"
+        ]
+    },
+    "Prendahl na Ghezn": {
+        "dead": [
+            "Orell",
+            "Karl",
+            "Cressen",
+            "Joyeuse Erenford",
+            "Jojen Reed",
+            "Lommy Greenhands",
+            "Lorren",
+            "Dagmer",
+            "Loboda",
+            "Locke"
+        ],
+        "alive": [
+            "Anguy",
+            "Steelshanks",
+            "Malko",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Marillion",
+            "Shagga",
+            "Melessa Tarly",
+            "Salladhor Saan",
+            "Olyvar"
+        ]
+    },
+    "Loras Tyrell": {
+        "dead": [
+            "Pycelle",
+            "Hodor",
+            "Lancel Lannister",
+            "Three-Eyed Raven",
+            "Margaery Tyrell",
+            "Myranda",
+            "Barristan Selmy",
+            "Rickon Stark",
+            "Petyr Baelish",
+            "Kevan Lannister"
+        ],
+        "alive": [
+            "Jaime Lannister",
+            "Samwell Tarly",
+            "Marei",
+            "Jorah Mormont",
+            "Bronn",
+            "Theon Greyjoy",
+            "Varys",
+            "Arya Stark",
+            "Sandor Clegane",
+            "Bran Stark"
+        ]
+    },
+    "Osha": {
+        "dead": [
+            "Hodor",
+            "Rickon Stark",
+            "Robb Stark",
+            "Three-Eyed Raven",
+            "Luwin",
+            "Joyeuse Erenford",
+            "Lommy Greenhands",
+            "Old Nan",
+            "Shae",
+            "Catelyn Stark"
+        ],
+        "alive": [
+            "Gendry",
+            "Hot Pie",
+            "Marillion",
+            "Armeca",
+            "Shagga",
+            "Salladhor Saan",
+            "Steelshanks",
+            "Anguy",
+            "Bran Stark",
+            "Jaqen H'ghar"
+        ]
+    },
+    "Yohn Royce": {
+        "dead": [
+            "Olly",
+            "Wun Weg Wun Dar Wun",
+            "High Sparrow",
+            "Mossador",
+            "The Waif",
+            "Randyll Tarly",
+            "Myranda",
+            "Dickon Tarly",
+            "Olenna Redwyne",
+            "Mag Mar Tun Doh Weg"
+        ],
+        "alive": [
+            "Tycho Nestoris",
+            "Tormund Giantsbane",
+            "Grey Worm",
+            "Robin Arryn",
+            "Missandei",
+            "Dim Dalba",
+            "Podrick Payne",
+            "Yezzan zo Qaggaz",
+            "Malko",
+            "Robett Glover"
+        ]
+    },
+    "Orell": {
+        "dead": [
+            "Prendahl na Ghezn",
+            "Karl",
+            "Joyeuse Erenford",
+            "Cressen",
+            "Mag Mar Tun Doh Weg",
+            "Jojen Reed",
+            "Wun Weg Wun Dar Wun",
+            "Locke",
+            "Mance Rayder",
+            "Ygritte"
+        ],
+        "alive": [
+            "Steelshanks",
+            "Anguy",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Marillion",
+            "Malko",
+            "Shagga",
+            "Salladhor Saan",
+            "Olyvar",
+            "Melessa Tarly"
+        ]
+    },
+    "Karsi": {
+        "dead": [
+            "Loboda",
+            "The Waif",
+            "Wun Weg Wun Dar Wun",
+            "Lady Crane",
+            "Mag Mar Tun Doh Weg",
+            "Mordane",
+            "Cressen",
+            "Pyat Pree",
+            "Orell",
+            "Alton Lannister"
+        ],
+        "alive": [
+            "Malko",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Unella",
+            "Denys Mallister",
+            "Dim Dalba",
+            "Izembaro",
+            "Marillion",
+            "Yezzan zo Qaggaz",
+            "Anguy"
+        ]
+    },
+    "Petyr Baelish": {
+        "dead": [
+            "Pycelle",
+            "Loras Tyrell",
+            "Hodor",
+            "Three-Eyed Raven",
+            "Margaery Tyrell",
+            "Osha",
+            "Rickon Stark",
+            "Tommen Baratheon",
+            "Kevan Lannister",
+            "Lancel Lannister"
+        ],
+        "alive": [
+            "Varys",
+            "Samwell Tarly",
+            "Theon Greyjoy",
+            "Bronn",
+            "Jorah Mormont",
+            "Jaime Lannister",
+            "Arya Stark",
+            "Tyrion Lannister",
+            "Cersei Lannister",
+            "Sansa Stark"
+        ]
+    },
+    "Randyll Tarly": {
+        "dead": [
+            "Dickon Tarly",
+            "Ray",
+            "Smalljon Umber",
+            "Lady Crane",
+            "Thoros of Myr",
+            "Alton Lannister",
+            "Cressen",
+            "Wun Weg Wun Dar Wun",
+            "Brynden Tully",
+            "\"Lame Lothar\" Frey"
+        ],
+        "alive": [
+            "Robett Glover",
+            "Euron Greyjoy",
+            "Lyanna Mormont",
+            "Melessa Tarly",
+            "Wyman Manderly",
+            "Izembaro",
+            "Alys Karstark",
+            "Ned Umber",
+            "Archmaester",
+            "Ornela"
+        ]
+    },
+    "Old Nan": {
+        "dead": [
+            "Mordane",
+            "Lady Crane",
+            "Lommy Greenhands",
+            "The Waif",
+            "Osha",
+            "Ray",
+            "Smalljon Umber",
+            "Doreah",
+            "Hodor",
+            "Benjen Stark"
+        ],
+        "alive": [
+            "Izembaro",
+            "Marillion",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Shagga",
+            "Unella",
+            "Armeca",
+            "Ornela",
+            "Melessa Tarly",
+            "Wyman Manderly"
+        ]
+    },
+    "Khal Drogo": {
+        "dead": [
+            "Lommy Greenhands",
+            "Mordane",
+            "Rakharo",
+            "Viserys Targaryen",
+            "Jory Cassel",
+            "Joyeuse Erenford",
+            "Luwin",
+            "Xaro Xhoan Daxos",
+            "Eddard Stark",
+            "Cressen"
+        ],
+        "alive": [
+            "Marillion",
+            "Shagga",
+            "Illyrio Mopatis",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Armeca",
+            "Malko",
+            "Steelshanks",
+            "Anguy",
+            "Melessa Tarly"
+        ]
+    },
+    "Walder Frey": {
+        "dead": [
+            "Brynden Tully",
+            "Joyeuse Erenford",
+            "\"Lame Lothar\" Frey",
+            "Rickon Stark",
+            "Osha",
+            "Old Nan",
+            "Pypar",
+            "Lommy Greenhands",
+            "Orell",
+            "Khal Drogo"
+        ],
+        "alive": [
+            "Edmure Tully",
+            "Marillion",
+            "Shagga",
+            "Steelshanks",
+            "Anguy",
+            "Melessa Tarly",
+            "Illyrio Mopatis",
+            "Wyman Manderly",
+            "Izembaro",
+            "Hot Pie"
+        ]
+    },
+    "Joyeuse Erenford": {
+        "dead": [
+            "Lommy Greenhands",
+            "Orell",
+            "Pypar",
+            "Prendahl na Ghezn",
+            "Osha",
+            "Karl",
+            "Khal Drogo",
+            "Mordane",
+            "Luwin",
+            "\"Lame Lothar\" Frey"
+        ],
+        "alive": [
+            "Marillion",
+            "Shagga",
+            "Anguy",
+            "Steelshanks",
+            "Illyrio Mopatis",
+            "Alys Karstark",
+            "Hot Pie",
+            "\"Black Walder\" Frey",
+            "Malko",
+            "Roslin Frey"
+        ]
+    },
+    "Gilly": {
+        "dead": [
+            "Margaery Tyrell",
+            "Olenna Redwyne",
+            "Myranda",
+            "Ygritte",
+            "Selyse Baratheon",
+            "Shireen Baratheon",
+            "Shae",
+            "Lady Crane",
+            "The Waif",
+            "Hodor"
+        ],
+        "alive": [
+            "Podrick Payne",
+            "Missandei",
+            "Eddison Tollett",
+            "Marei",
+            "Davos Seaworth",
+            "Samwell Tarly",
+            "Arya Stark",
+            "Meera Reed",
+            "Yara Greyjoy",
+            "Grey Worm"
+        ]
+    },
+    "Olyvar": {
+        "dead": [
+            "Jojen Reed",
+            "Shireen Baratheon",
+            "Olly",
+            "Myranda",
+            "Karl",
+            "Mance Rayder",
+            "Mossador",
+            "Orell",
+            "Pypar",
+            "Prendahl na Ghezn"
+        ],
+        "alive": [
+            "Grey Worm",
+            "Malko",
+            "Tycho Nestoris",
+            "Salladhor Saan",
+            "Steelshanks",
+            "Anguy",
+            "Roslin Frey",
+            "Tormund Giantsbane",
+            "Meera Reed",
+            "Daario Naharis"
+        ]
+    },
+    "Rakharo": {
+        "dead": [
+            "Lommy Greenhands",
+            "Khal Drogo",
+            "Luwin",
+            "Rodrik Cassel",
+            "Pypar",
+            "Mordane",
+            "Viserys Targaryen",
+            "Jory Cassel",
+            "Joyeuse Erenford",
+            "Doreah"
+        ],
+        "alive": [
+            "Marillion",
+            "Kovarro",
+            "Illyrio Mopatis",
+            "Shagga",
+            "Armeca",
+            "Ilyn Payne",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Malko",
+            "Hallyne"
+        ]
+    },
+    "Pypar": {
+        "dead": [
+            "Karl",
+            "Joyeuse Erenford",
+            "Jojen Reed",
+            "Hodor",
+            "Mance Rayder",
+            "Three-Eyed Raven",
+            "Lommy Greenhands",
+            "Shae",
+            "Orell",
+            "Olly"
+        ],
+        "alive": [
+            "Marillion",
+            "Hot Pie",
+            "Steelshanks",
+            "Anguy",
+            "Shagga",
+            "Salladhor Saan",
+            "Olyvar",
+            "Illyrio Mopatis",
+            "Malko",
+            "Roslin Frey"
+        ]
+    },
+    "Cersei Lannister": {
+        "dead": [
+            "Petyr Baelish",
+            "Margaery Tyrell",
+            "Pycelle",
+            "Loras Tyrell",
+            "Kevan Lannister",
+            "Shae",
+            "Olenna Redwyne",
+            "Myranda",
+            "Selyse Baratheon",
+            "Tywin Lannister"
+        ],
+        "alive": [
+            "Jaime Lannister",
+            "Arya Stark",
+            "Sansa Stark",
+            "Daenerys Targaryen",
+            "Tyrion Lannister",
+            "Samwell Tarly",
+            "Varys",
+            "Bronn",
+            "Theon Greyjoy",
+            "Gilly"
+        ]
+    },
+    "Luwin": {
+        "dead": [
+            "Doreah",
+            "Lommy Greenhands",
+            "Dagmer",
+            "Lorren",
+            "Osha",
+            "Jeor Mormont",
+            "Rodrik Cassel",
+            "Xaro Xhoan Daxos",
+            "Cressen",
+            "Pyat Pree"
+        ],
+        "alive": [
+            "Armeca",
+            "Ilyn Payne",
+            "Marillion",
+            "Shagga",
+            "Illyrio Mopatis",
+            "Hallyne",
+            "Hot Pie",
+            "Jaqen H'ghar",
+            "Roslin Frey",
+            "\"Black Walder\" Frey"
+        ]
+    },
+    "Robb Stark": {
+        "dead": [
+            "Osha",
+            "Rickon Stark",
+            "Joffrey Baratheon",
+            "Catelyn Stark",
+            "Hodor",
+            "Jeor Mormont",
+            "Luwin",
+            "Joyeuse Erenford",
+            "Lommy Greenhands",
+            "Craster"
+        ],
+        "alive": [
+            "Bran Stark",
+            "Gendry",
+            "Hot Pie",
+            "Marillion",
+            "Armeca",
+            "Shagga",
+            "Ilyn Payne",
+            "Salladhor Saan",
+            "Steelshanks",
+            "Anguy"
+        ]
+    },
+    "Missandei": {
+        "dead": [
+            "Olenna Redwyne",
+            "Myranda",
+            "Shireen Baratheon",
+            "The Waif",
+            "Olly",
+            "Lady Crane",
+            "Ygritte",
+            "Margaery Tyrell",
+            "Thoros of Myr",
+            "Jojen Reed"
+        ],
+        "alive": [
+            "Grey Worm",
+            "Tormund Giantsbane",
+            "Gilly",
+            "Meera Reed",
+            "Qyburn",
+            "Marei",
+            "Podrick Payne",
+            "Daario Naharis",
+            "Olyvar",
+            "Unella"
+        ]
+    },
+    "Hot Pie": {
+        "dead": [
+            "Hodor",
+            "Shae",
+            "Three-Eyed Raven",
+            "Pypar",
+            "Osha",
+            "Lommy Greenhands",
+            "Ygritte",
+            "Luwin",
+            "Jojen Reed",
+            "Joyeuse Erenford"
+        ],
+        "alive": [
+            "Salladhor Saan",
+            "Sandor Clegane",
+            "Gendry",
+            "Marillion",
+            "Bran Stark",
+            "Samwell Tarly",
+            "Steelshanks",
+            "Anguy",
+            "Olyvar",
+            "Shagga"
+        ]
+    },
+    "Ray": {
+        "dead": [
+            "Lady Crane",
+            "Smalljon Umber",
+            "Lommy Greenhands",
+            "Cressen",
+            "Prendahl na Ghezn",
+            "Orell",
+            "Lorren",
+            "Dagmer",
+            "Dickon Tarly",
+            "Wun Weg Wun Dar Wun"
+        ],
+        "alive": [
+            "Izembaro",
+            "Melessa Tarly",
+            "Wyman Manderly",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Marillion",
+            "Malko",
+            "Ornela",
+            "Anguy",
+            "Steelshanks"
+        ]
+    },
+    "Mordane": {
+        "dead": [
+            "Old Nan",
+            "Lommy Greenhands",
+            "Lady Crane",
+            "Jory Cassel",
+            "Khal Drogo",
+            "Doreah",
+            "Pyat Pree",
+            "Cressen",
+            "Karsi",
+            "Joyeuse Erenford"
+        ],
+        "alive": [
+            "Marillion",
+            "Shagga",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Armeca",
+            "Illyrio Mopatis",
+            "Izembaro",
+            "Anya Waynwood",
+            "Unella",
+            "Malko"
+        ]
+    },
+    "Mance Rayder": {
+        "dead": [
+            "Jojen Reed",
+            "Karl",
+            "Pypar",
+            "Orell",
+            "Locke",
+            "Mag Mar Tun Doh Weg",
+            "Mossador",
+            "Prendahl na Ghezn",
+            "Ygritte",
+            "Olly"
+        ],
+        "alive": [
+            "Olyvar",
+            "Salladhor Saan",
+            "Steelshanks",
+            "Anguy",
+            "Illyrio Mopatis",
+            "Hot Pie",
+            "Tormund Giantsbane",
+            "Anya Waynwood",
+            "Tycho Nestoris",
+            "Malko"
+        ]
+    },
+    "Jaqen H'ghar": {
+        "dead": [
+            "Lancel Lannister",
+            "Kevan Lannister",
+            "The Waif",
+            "Luwin",
+            "Lommy Greenhands",
+            "Myrcella Baratheon",
+            "Wun Weg Wun Dar Wun",
+            "Osha",
+            "Dagmer",
+            "Lorren"
+        ],
+        "alive": [
+            "Malko",
+            "Dim Dalba",
+            "Marillion",
+            "Yezzan zo Qaggaz",
+            "Unella",
+            "Armeca",
+            "Shagga",
+            "Melessa Tarly",
+            "Izembaro",
+            "Marei"
+        ]
+    },
+    "Barristan Selmy": {
+        "dead": [
+            "Pypar",
+            "Mance Rayder",
+            "Jojen Reed",
+            "Joyeuse Erenford",
+            "Hodor",
+            "Loras Tyrell",
+            "Karl",
+            "Three-Eyed Raven",
+            "Jeor Mormont",
+            "Shae"
+        ],
+        "alive": [
+            "Olyvar",
+            "Jaime Lannister",
+            "Hot Pie",
+            "Marillion",
+            "Salladhor Saan",
+            "Steelshanks",
+            "Anguy",
+            "Shagga",
+            "Illyrio Mopatis",
+            "Grey Worm"
+        ]
+    },
+    "Kovarro": {
+        "dead": [
+            "Dagmer",
+            "Lorren",
+            "Rakharo",
+            "Xaro Xhoan Daxos",
+            "Alton Lannister",
+            "Pyat Pree",
+            "Dontos Hollard",
+            "Craster",
+            "Luwin",
+            "Cressen"
+        ],
+        "alive": [
+            "Hallyne",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Armeca",
+            "Marillion",
+            "Malko",
+            "Ilyn Payne",
+            "Salladhor Saan",
+            "Steelshanks",
+            "Anguy"
+        ]
+    },
+    "Lancel Lannister": {
+        "dead": [
+            "Kevan Lannister",
+            "Myrcella Baratheon",
+            "Alton Lannister",
+            "High Sparrow",
+            "Luwin",
+            "Rickon Stark",
+            "Osha",
+            "Lommy Greenhands",
+            "Loras Tyrell",
+            "Wun Weg Wun Dar Wun"
+        ],
+        "alive": [
+            "Jaqen H'ghar",
+            "Denys Mallister",
+            "Podrick Payne",
+            "Dim Dalba",
+            "Yezzan zo Qaggaz",
+            "Marillion",
+            "Malko",
+            "Samwell Tarly",
+            "Shagga",
+            "Robin Arryn"
+        ]
+    },
+    "Alys Karstark": {
+        "dead": [
+            "Cressen",
+            "Ray",
+            "Joyeuse Erenford",
+            "Jory Cassel",
+            "Prendahl na Ghezn",
+            "Dickon Tarly",
+            "Orell",
+            "Randyll Tarly",
+            "Alton Lannister",
+            "Dagmer"
+        ],
+        "alive": [
+            "Ned Umber",
+            "Archmaester",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Robett Glover",
+            "Marillion",
+            "Malko",
+            "Shagga",
+            "Steelshanks",
+            "Anguy"
+        ]
+    },
+    "Wun Weg Wun Dar Wun": {
+        "dead": [
+            "The Waif",
+            "High Sparrow",
+            "Loboda",
+            "Orell",
+            "Karsi",
+            "Lady Crane",
+            "Olly",
+            "Ray",
+            "Mag Mar Tun Doh Weg",
+            "Smalljon Umber"
+        ],
+        "alive": [
+            "Dim Dalba",
+            "Yezzan zo Qaggaz",
+            "Unella",
+            "Malko",
+            "Tormund Giantsbane",
+            "Melessa Tarly",
+            "Izembaro",
+            "Denys Mallister",
+            "Wyman Manderly",
+            "Jaqen H'ghar"
+        ]
+    },
+    "Olenna Redwyne": {
+        "dead": [
+            "Myranda",
+            "Shireen Baratheon",
+            "Margaery Tyrell",
+            "The Waif",
+            "Olly",
+            "Ygritte",
+            "Lady Crane",
+            "Jojen Reed",
+            "Selyse Baratheon",
+            "Ramsay Snow"
+        ],
+        "alive": [
+            "Missandei",
+            "Grey Worm",
+            "Tormund Giantsbane",
+            "Marei",
+            "Gilly",
+            "Meera Reed",
+            "Daario Naharis",
+            "Olyvar",
+            "Unella",
+            "Podrick Payne"
+        ]
+    },
+    "Denys Mallister": {
+        "dead": [
+            "Loboda",
+            "Doran Martell",
+            "Karsi",
+            "Olly",
+            "Alton Lannister",
+            "Wun Weg Wun Dar Wun",
+            "Cressen",
+            "The Waif",
+            "High Sparrow",
+            "Ray"
+        ],
+        "alive": [
+            "Malko",
+            "Dim Dalba",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Yezzan zo Qaggaz",
+            "Tycho Nestoris",
+            "Marillion",
+            "Unella",
+            "Steelshanks",
+            "Anguy"
+        ]
+    },
+    "Podrick Payne": {
+        "dead": [
+            "Hodor",
+            "Olenna Redwyne",
+            "Myranda",
+            "Pycelle",
+            "Margaery Tyrell",
+            "Thoros of Myr",
+            "Three-Eyed Raven",
+            "Jojen Reed",
+            "Olly",
+            "Lancel Lannister"
+        ],
+        "alive": [
+            "Gilly",
+            "Eddison Tollett",
+            "Davos Seaworth",
+            "Tormund Giantsbane",
+            "Marei",
+            "Grey Worm",
+            "Samwell Tarly",
+            "Missandei",
+            "Bronn",
+            "Salladhor Saan"
+        ]
+    },
+    "Meera Reed": {
+        "dead": [
+            "Jojen Reed",
+            "Olenna Redwyne",
+            "Myranda",
+            "Thoros of Myr",
+            "Lady Crane",
+            "Ygritte",
+            "Old Nan",
+            "\"Lame Lothar\" Frey",
+            "Shae",
+            "Hodor"
+        ],
+        "alive": [
+            "Grey Worm",
+            "Missandei",
+            "Roslin Frey",
+            "Gilly",
+            "Tormund Giantsbane",
+            "Olyvar",
+            "Izembaro",
+            "Lyanna Mormont",
+            "Marei",
+            "Yara Greyjoy"
+        ]
+    },
+    "Euron Greyjoy": {
+        "dead": [
+            "Dickon Tarly",
+            "Randyll Tarly",
+            "Ray",
+            "Balon Greyjoy",
+            "Smalljon Umber",
+            "Lady Crane",
+            "Alton Lannister",
+            "Dagmer",
+            "Lorren",
+            "Thoros of Myr"
+        ],
+        "alive": [
+            "Robett Glover",
+            "Lyanna Mormont",
+            "Melessa Tarly",
+            "Yara Greyjoy",
+            "Wyman Manderly",
+            "Izembaro",
+            "Alys Karstark",
+            "Ned Umber",
+            "Kinvara",
+            "Archmaester"
+        ]
+    },
+    "Anya Waynwood": {
+        "dead": [
+            "Mag Mar Tun Doh Weg",
+            "Mossador",
+            "Mordane",
+            "Styr",
+            "Oberyn Martell",
+            "Lady Crane",
+            "Jojen Reed",
+            "Karsi",
+            "Pyat Pree",
+            "Ygritte"
+        ],
+        "alive": [
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Izembaro",
+            "Tycho Nestoris",
+            "Marillion",
+            "Malko",
+            "Ornela",
+            "Anguy",
+            "Armeca",
+            "Steelshanks"
+        ]
+    },
+    "Samwell Tarly": {
+        "dead": [
+            "Petyr Baelish",
+            "Pycelle",
+            "Loras Tyrell",
+            "Shae",
+            "Hodor",
+            "Three-Eyed Raven",
+            "Pypar",
+            "Osha",
+            "Olly",
+            "Rickon Stark"
+        ],
+        "alive": [
+            "Bronn",
+            "Theon Greyjoy",
+            "Jaime Lannister",
+            "Arya Stark",
+            "Jorah Mormont",
+            "Varys",
+            "Tyrion Lannister",
+            "Sansa Stark",
+            "Gilly",
+            "Cersei Lannister"
+        ]
+    },
+    "Marillion": {
+        "dead": [
+            "Lommy Greenhands",
+            "Khal Drogo",
+            "Rakharo",
+            "Mordane",
+            "Pypar",
+            "Joyeuse Erenford",
+            "Luwin",
+            "Cressen",
+            "Jory Cassel",
+            "Ray"
+        ],
+        "alive": [
+            "Shagga",
+            "Illyrio Mopatis",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Malko",
+            "Armeca",
+            "Steelshanks",
+            "Anguy",
+            "Izembaro",
+            "Melessa Tarly"
+        ]
+    },
+    "Sansa Stark": {
+        "dead": [
+            "Petyr Baelish",
+            "Margaery Tyrell",
+            "Pycelle",
+            "Loras Tyrell",
+            "Rickon Stark",
+            "Myranda",
+            "Shae",
+            "Hodor",
+            "Olenna Redwyne",
+            "Ramsay Snow"
+        ],
+        "alive": [
+            "Arya Stark",
+            "Cersei Lannister",
+            "Samwell Tarly",
+            "Daenerys Targaryen",
+            "Theon Greyjoy",
+            "Tyrion Lannister",
+            "Jaime Lannister",
+            "Bronn",
+            "Jorah Mormont",
+            "Bran Stark"
+        ]
+    },
+    "Wyman Manderly": {
+        "dead": [
+            "Smalljon Umber",
+            "Ray",
+            "Lady Crane",
+            "Old Nan",
+            "Dickon Tarly",
+            "Randyll Tarly",
+            "Cressen",
+            "Wun Weg Wun Dar Wun",
+            "Brynden Tully",
+            "High Sparrow"
+        ],
+        "alive": [
+            "Melessa Tarly",
+            "Izembaro",
+            "Ornela",
+            "Kinvara",
+            "Robett Glover",
+            "Dim Dalba",
+            "Lyanna Mormont",
+            "\"Black Walder\" Frey",
+            "Yezzan zo Qaggaz",
+            "Roslin Frey"
+        ]
+    },
+    "Ornela": {
+        "dead": [
+            "Lady Crane",
+            "Smalljon Umber",
+            "Ray",
+            "Old Nan",
+            "The Waif",
+            "Mordane",
+            "Dickon Tarly",
+            "Randyll Tarly",
+            "Karsi",
+            "Pyat Pree"
+        ],
+        "alive": [
+            "Izembaro",
+            "Melessa Tarly",
+            "Wyman Manderly",
+            "Kinvara",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Unella",
+            "Lyanna Mormont",
+            "Missandei",
+            "Dim Dalba"
+        ]
+    },
+    "Smalljon Umber": {
+        "dead": [
+            "Ray",
+            "Lady Crane",
+            "\"Lame Lothar\" Frey",
+            "Dickon Tarly",
+            "Randyll Tarly",
+            "Old Nan",
+            "Cressen",
+            "Wun Weg Wun Dar Wun",
+            "Dontos Hollard",
+            "Brynden Tully"
+        ],
+        "alive": [
+            "Melessa Tarly",
+            "Wyman Manderly",
+            "Izembaro",
+            "Ornela",
+            "Robett Glover",
+            "Kinvara",
+            "Ned Umber",
+            "Dim Dalba",
+            "Lyanna Mormont",
+            "Yezzan zo Qaggaz"
+        ]
+    },
+    "Kevan Lannister": {
+        "dead": [
+            "Lancel Lannister",
+            "Myrcella Baratheon",
+            "Tommen Baratheon",
+            "Pycelle",
+            "Rickon Stark",
+            "Luwin",
+            "Lommy Greenhands",
+            "Osha",
+            "Wun Weg Wun Dar Wun",
+            "High Sparrow"
+        ],
+        "alive": [
+            "Jaqen H'ghar",
+            "Ilyn Payne",
+            "Dim Dalba",
+            "Robin Arryn",
+            "Marillion",
+            "Malko",
+            "Yezzan zo Qaggaz",
+            "Shagga",
+            "Unella",
+            "Armeca"
+        ]
+    },
+    "Margaery Tyrell": {
+        "dead": [
+            "Selyse Baratheon",
+            "Olenna Redwyne",
+            "Myranda",
+            "Ygritte",
+            "Pycelle",
+            "Shireen Baratheon",
+            "Talisa Maegyr",
+            "Loras Tyrell",
+            "Catelyn Stark",
+            "Shae"
+        ],
+        "alive": [
+            "Marei",
+            "Gilly",
+            "Missandei",
+            "Podrick Payne",
+            "Eddison Tollett",
+            "Arya Stark",
+            "Yara Greyjoy",
+            "Samwell Tarly",
+            "Meera Reed",
+            "Daario Naharis"
+        ]
+    },
+    "Arya Stark": {
+        "dead": [
+            "Petyr Baelish",
+            "Rickon Stark",
+            "Margaery Tyrell",
+            "Pycelle",
+            "Shireen Baratheon",
+            "Hodor",
+            "Loras Tyrell",
+            "Shae",
+            "Olenna Redwyne",
+            "Myranda"
+        ],
+        "alive": [
+            "Sansa Stark",
+            "Samwell Tarly",
+            "Theon Greyjoy",
+            "Cersei Lannister",
+            "Daenerys Targaryen",
+            "Jaime Lannister",
+            "Bronn",
+            "Gilly",
+            "Jorah Mormont",
+            "Tyrion Lannister"
+        ]
+    },
+    "Catelyn Stark": {
+        "dead": [
+            "Talisa Maegyr",
+            "Robb Stark",
+            "Osha",
+            "Shae",
+            "Doreah",
+            "Rickon Stark",
+            "Luwin",
+            "Mordane",
+            "Jeor Mormont",
+            "Hodor"
+        ],
+        "alive": [
+            "Armeca",
+            "Gendry",
+            "Roslin Frey",
+            "Marillion",
+            "\"Black Walder\" Frey",
+            "Hot Pie",
+            "Shagga",
+            "Ilyn Payne",
+            "Salladhor Saan",
+            "Steelshanks"
+        ]
+    },
+    "Doran Martell": {
+        "dead": [
+            "Loboda",
+            "Lorren",
+            "Karsi",
+            "Olly",
+            "Wun Weg Wun Dar Wun",
+            "The Waif",
+            "High Sparrow",
+            "Cressen",
+            "Mossador",
+            "Ray"
+        ],
+        "alive": [
+            "Malko",
+            "Denys Mallister",
+            "Dim Dalba",
+            "Yezzan zo Qaggaz",
+            "Roslin Frey",
+            "Unella",
+            "\"Black Walder\" Frey",
+            "Tycho Nestoris",
+            "Marillion",
+            "Illyrio Mopatis"
+        ]
+    },
+    "Alton Lannister": {
+        "dead": [
+            "Dagmer",
+            "Lorren",
+            "Xaro Xhoan Daxos",
+            "Dontos Hollard",
+            "Cressen",
+            "Pyat Pree",
+            "Lommy Greenhands",
+            "Craster",
+            "Ray",
+            "Prendahl na Ghezn"
+        ],
+        "alive": [
+            "Kovarro",
+            "Hallyne",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Denys Mallister",
+            "Marillion",
+            "Malko",
+            "Shagga",
+            "Steelshanks",
+            "Anguy"
+        ]
+    },
+    "Pycelle": {
+        "dead": [
+            "Loras Tyrell",
+            "Hodor",
+            "Three-Eyed Raven",
+            "Osha",
+            "Margaery Tyrell",
+            "Petyr Baelish",
+            "Rickon Stark",
+            "Pypar",
+            "Shae",
+            "Tommen Baratheon"
+        ],
+        "alive": [
+            "Varys",
+            "Samwell Tarly",
+            "Bronn",
+            "Marei",
+            "Jorah Mormont",
+            "Podrick Payne",
+            "Sandor Clegane",
+            "Hot Pie",
+            "Jaqen H'ghar",
+            "Eddison Tollett"
+        ]
+    },
+    "Roslin Frey": {
+        "dead": [
+            "Lady Crane",
+            "Cressen",
+            "Mordane",
+            "Pyat Pree",
+            "Karsi",
+            "Lommy Greenhands",
+            "Ray",
+            "Prendahl na Ghezn",
+            "Orell",
+            "Dagmer"
+        ],
+        "alive": [
+            "\"Black Walder\" Frey",
+            "Izembaro",
+            "Marillion",
+            "Malko",
+            "Steelshanks",
+            "Anguy",
+            "Shagga",
+            "Unella",
+            "Armeca",
+            "Anya Waynwood"
+        ]
+    },
+    "Archmaester": {
+        "dead": [
+            "Cressen",
+            "Prendahl na Ghezn",
+            "Ray",
+            "Orell",
+            "Loboda",
+            "Lorren",
+            "Dagmer",
+            "Dickon Tarly",
+            "Lommy Greenhands",
+            "Randyll Tarly"
+        ],
+        "alive": [
+            "Ned Umber",
+            "Alys Karstark",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Malko",
+            "Marillion",
+            "Anguy",
+            "Steelshanks",
+            "Shagga",
+            "Robett Glover"
+        ]
+    },
+    "Alliser Thorne": {
+        "dead": [
+            "Olly",
+            "Pypar",
+            "Mossador",
+            "Lommy Greenhands",
+            "Mag Mar Tun Doh Weg",
+            "Doran Martell",
+            "Loboda",
+            "Pycelle",
+            "Khal Drogo",
+            "Mance Rayder"
+        ],
+        "alive": [
+            "Robin Arryn",
+            "Denys Mallister",
+            "Tycho Nestoris",
+            "Marillion",
+            "Malko",
+            "Illyrio Mopatis",
+            "Olyvar",
+            "Shagga",
+            "Wyman Manderly",
+            "Daario Naharis"
+        ]
+    },
+    "Steelshanks": {
+        "dead": [
+            "Orell",
+            "Prendahl na Ghezn",
+            "Karl",
+            "Locke",
+            "Jojen Reed",
+            "Joyeuse Erenford",
+            "Cressen",
+            "\"Lame Lothar\" Frey",
+            "Lommy Greenhands",
+            "Pypar"
+        ],
+        "alive": [
+            "Anguy",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Marillion",
+            "Malko",
+            "Salladhor Saan",
+            "Shagga",
+            "Olyvar",
+            "Melessa Tarly",
+            "Izembaro"
+        ]
+    },
+    "The Waif": {
+        "dead": [
+            "Wun Weg Wun Dar Wun",
+            "Lady Crane",
+            "Karsi",
+            "High Sparrow",
+            "Obara Sand",
+            "Nymeria Sand",
+            "Loboda",
+            "Tyene Sand",
+            "Old Nan",
+            "Ray"
+        ],
+        "alive": [
+            "Unella",
+            "Dim Dalba",
+            "Izembaro",
+            "Yezzan zo Qaggaz",
+            "Malko",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Jaqen H'ghar",
+            "Ornela",
+            "Melessa Tarly"
+        ]
+    },
+    "Bronn": {
+        "dead": [
+            "Petyr Baelish",
+            "Pycelle",
+            "Loras Tyrell",
+            "Hodor",
+            "Three-Eyed Raven",
+            "Lancel Lannister",
+            "Osha",
+            "Rickon Stark",
+            "Pypar",
+            "Margaery Tyrell"
+        ],
+        "alive": [
+            "Samwell Tarly",
+            "Varys",
+            "Jaime Lannister",
+            "Jorah Mormont",
+            "Theon Greyjoy",
+            "Arya Stark",
+            "Tyrion Lannister",
+            "Cersei Lannister",
+            "Sansa Stark",
+            "Podrick Payne"
+        ]
+    },
+    "Rodrik Cassel": {
+        "dead": [
+            "Lommy Greenhands",
+            "Jory Cassel",
+            "Luwin",
+            "Khal Drogo",
+            "Rakharo",
+            "Mordane",
+            "Osha",
+            "Alton Lannister",
+            "Jeor Mormont",
+            "Dagmer"
+        ],
+        "alive": [
+            "Marillion",
+            "Shagga",
+            "Ilyn Payne",
+            "Illyrio Mopatis",
+            "Armeca",
+            "Hallyne",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Robett Glover",
+            "Alys Karstark"
+        ]
+    },
+    "Dickon Tarly": {
+        "dead": [
+            "Randyll Tarly",
+            "Lady Crane",
+            "Ray",
+            "Thoros of Myr",
+            "Smalljon Umber",
+            "\"Lame Lothar\" Frey",
+            "Cressen",
+            "Wun Weg Wun Dar Wun",
+            "Prendahl na Ghezn",
+            "Lommy Greenhands"
+        ],
+        "alive": [
+            "Robett Glover",
+            "Euron Greyjoy",
+            "Melessa Tarly",
+            "Lyanna Mormont",
+            "Izembaro",
+            "Wyman Manderly",
+            "Alys Karstark",
+            "Ned Umber",
+            "Roslin Frey",
+            "\"Black Walder\" Frey"
+        ]
+    },
+    "Jon Snow": {
+        "dead": [
+            "Petyr Baelish",
+            "Pycelle",
+            "Loras Tyrell",
+            "Hodor",
+            "Rickon Stark",
+            "Robb Stark",
+            "Ramsay Snow",
+            "Three-Eyed Raven",
+            "Osha",
+            "Margaery Tyrell"
+        ],
+        "alive": [
+            "Tyrion Lannister",
+            "Theon Greyjoy",
+            "Samwell Tarly",
+            "Arya Stark",
+            "Sansa Stark",
+            "Jaime Lannister",
+            "Jorah Mormont",
+            "Varys",
+            "Daenerys Targaryen",
+            "Bronn"
+        ]
+    },
+    "High Sparrow": {
+        "dead": [
+            "Wun Weg Wun Dar Wun",
+            "The Waif",
+            "Loboda",
+            "Ray",
+            "Smalljon Umber",
+            "Lady Crane",
+            "Doran Martell",
+            "Olly",
+            "Nymeria Sand",
+            "Obara Sand"
+        ],
+        "alive": [
+            "Unella",
+            "Dim Dalba",
+            "Yezzan zo Qaggaz",
+            "Malko",
+            "Melessa Tarly",
+            "Denys Mallister",
+            "Wyman Manderly",
+            "Izembaro",
+            "Jaqen H'ghar",
+            "Ornela"
+        ]
+    },
+    "Myranda": {
+        "dead": [
+            "Olenna Redwyne",
+            "Shireen Baratheon",
+            "The Waif",
+            "Ramsay Snow",
+            "Mossador",
+            "Olly",
+            "Lady Crane",
+            "Ygritte",
+            "Margaery Tyrell",
+            "Jojen Reed"
+        ],
+        "alive": [
+            "Marei",
+            "Missandei",
+            "Olyvar",
+            "Daario Naharis",
+            "Gilly",
+            "Tormund Giantsbane",
+            "Grey Worm",
+            "Unella",
+            "Meera Reed",
+            "Steelshanks"
+        ]
+    },
+    "Lady Crane": {
+        "dead": [
+            "Ray",
+            "The Waif",
+            "Old Nan",
+            "Smalljon Umber",
+            "Mordane",
+            "Lommy Greenhands",
+            "Pyat Pree",
+            "Cressen",
+            "Karsi",
+            "Prendahl na Ghezn"
+        ],
+        "alive": [
+            "\"Black Walder\" Frey",
+            "Izembaro",
+            "Roslin Frey",
+            "Ornela",
+            "Melessa Tarly",
+            "Unella",
+            "Wyman Manderly",
+            "Kinvara",
+            "Marillion",
+            "Malko"
+        ]
+    },
+    "Cressen": {
+        "dead": [
+            "Lorren",
+            "Prendahl na Ghezn",
+            "Dagmer",
+            "Orell",
+            "Lommy Greenhands",
+            "Loboda",
+            "Mag Mar Tun Doh Weg",
+            "Ray",
+            "Alton Lannister",
+            "Lady Crane"
+        ],
+        "alive": [
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Marillion",
+            "Malko",
+            "Steelshanks",
+            "Anguy",
+            "Shagga",
+            "Melessa Tarly",
+            "Archmaester",
+            "Izembaro"
+        ]
+    },
+    "Malko": {
+        "dead": [
+            "Loboda",
+            "Prendahl na Ghezn",
+            "Karsi",
+            "Doran Martell",
+            "Wun Weg Wun Dar Wun",
+            "Lommy Greenhands",
+            "Olly",
+            "The Waif",
+            "Cressen",
+            "Ray"
+        ],
+        "alive": [
+            "Denys Mallister",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Marillion",
+            "Dim Dalba",
+            "Tycho Nestoris",
+            "Unella",
+            "Yezzan zo Qaggaz",
+            "Izembaro",
+            "Anguy"
+        ]
+    },
+    "Pyat Pree": {
+        "dead": [
+            "Dagmer",
+            "Lorren",
+            "Xaro Xhoan Daxos",
+            "Dontos Hollard",
+            "Alton Lannister",
+            "Lady Crane",
+            "Doreah",
+            "Craster",
+            "Talisa Maegyr",
+            "Cressen"
+        ],
+        "alive": [
+            "Hallyne",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Armeca",
+            "Kovarro",
+            "Izembaro",
+            "Marillion",
+            "Malko",
+            "Salladhor Saan",
+            "Steelshanks"
+        ]
+    },
+    "Myrcella Baratheon": {
+        "dead": [
+            "Lancel Lannister",
+            "Kevan Lannister",
+            "Tommen Baratheon",
+            "Nymeria Sand",
+            "Obara Sand",
+            "Tyene Sand",
+            "Old Nan",
+            "The Waif",
+            "Joffrey Baratheon",
+            "Doreah"
+        ],
+        "alive": [
+            "Jaqen H'ghar",
+            "Unella",
+            "Armeca",
+            "Izembaro",
+            "Gilly",
+            "Marei",
+            "Gendry",
+            "Roslin Frey",
+            "Dim Dalba",
+            "\"Black Walder\" Frey"
+        ]
+    },
+    "\"Lame Lothar\" Frey": {
+        "dead": [
+            "Brynden Tully",
+            "Thoros of Myr",
+            "Smalljon Umber",
+            "Orell",
+            "Prendahl na Ghezn",
+            "Lady Crane",
+            "Joyeuse Erenford",
+            "Karl",
+            "Ray",
+            "Walder Frey"
+        ],
+        "alive": [
+            "Edmure Tully",
+            "Steelshanks",
+            "Anguy",
+            "Melessa Tarly",
+            "Izembaro",
+            "Tormund Giantsbane",
+            "Wyman Manderly",
+            "Roslin Frey",
+            "Marillion",
+            "\"Black Walder\" Frey"
+        ]
+    },
+    "Robett Glover": {
+        "dead": [
+            "Dickon Tarly",
+            "Randyll Tarly",
+            "Smalljon Umber",
+            "Ray",
+            "Brynden Tully",
+            "Thoros of Myr",
+            "Lady Crane",
+            "Benjen Stark",
+            "Old Nan",
+            "Cressen"
+        ],
+        "alive": [
+            "Lyanna Mormont",
+            "Euron Greyjoy",
+            "Melessa Tarly",
+            "Wyman Manderly",
+            "Alys Karstark",
+            "Ned Umber",
+            "Izembaro",
+            "Archmaester",
+            "Ornela",
+            "Dim Dalba"
+        ]
+    },
+    "Thoros of Myr": {
+        "dead": [
+            "\"Lame Lothar\" Frey",
+            "Brynden Tully",
+            "Orell",
+            "Prendahl na Ghezn",
+            "Dickon Tarly",
+            "Lorren",
+            "Karl",
+            "Randyll Tarly",
+            "Jojen Reed",
+            "Lady Crane"
+        ],
+        "alive": [
+            "Anguy",
+            "Steelshanks",
+            "Meera Reed",
+            "Melessa Tarly",
+            "Robett Glover",
+            "Edmure Tully",
+            "Wyman Manderly",
+            "Izembaro",
+            "Tormund Giantsbane",
+            "Lyanna Mormont"
+        ]
+    },
+    "Anguy": {
+        "dead": [
+            "Orell",
+            "Prendahl na Ghezn",
+            "Karl",
+            "Joyeuse Erenford",
+            "Jojen Reed",
+            "Cressen",
+            "Locke",
+            "\"Lame Lothar\" Frey",
+            "Thoros of Myr",
+            "Lommy Greenhands"
+        ],
+        "alive": [
+            "Steelshanks",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Marillion",
+            "Malko",
+            "Salladhor Saan",
+            "Shagga",
+            "Olyvar",
+            "Melessa Tarly",
+            "Izembaro"
+        ]
+    },
+    "Robert Baratheon": {
+        "dead": [
+            "Viserys Targaryen",
+            "Eddard Stark",
+            "Khal Drogo",
+            "Jory Cassel",
+            "Lommy Greenhands",
+            "Mordane",
+            "Cressen",
+            "Rakharo",
+            "Joyeuse Erenford",
+            "Ray"
+        ],
+        "alive": [
+            "Shagga",
+            "Marillion",
+            "Illyrio Mopatis",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Malko",
+            "Alys Karstark",
+            "Ned Umber",
+            "Steelshanks",
+            "Anguy"
+        ]
+    },
+    "Theon Greyjoy": {
+        "dead": [
+            "Petyr Baelish",
+            "Pycelle",
+            "Loras Tyrell",
+            "Rickon Stark",
+            "Hodor",
+            "Three-Eyed Raven",
+            "Margaery Tyrell",
+            "Osha",
+            "Lancel Lannister",
+            "Tommen Baratheon"
+        ],
+        "alive": [
+            "Samwell Tarly",
+            "Arya Stark",
+            "Bronn",
+            "Jorah Mormont",
+            "Jaime Lannister",
+            "Varys",
+            "Sansa Stark",
+            "Jon Snow",
+            "Bran Stark",
+            "Tyrion Lannister"
+        ]
+    },
+    "Xaro Xhoan Daxos": {
+        "dead": [
+            "Dagmer",
+            "Lorren",
+            "Pyat Pree",
+            "Alton Lannister",
+            "Dontos Hollard",
+            "Craster",
+            "Luwin",
+            "Cressen",
+            "Lommy Greenhands",
+            "Khal Drogo"
+        ],
+        "alive": [
+            "Hallyne",
+            "Kovarro",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Marillion",
+            "Malko",
+            "Armeca",
+            "Shagga",
+            "Salladhor Saan",
+            "Steelshanks"
+        ]
+    },
+    "Nymeria Sand": {
+        "dead": [
+            "Obara Sand",
+            "Tyene Sand",
+            "The Waif",
+            "Wun Weg Wun Dar Wun",
+            "Lady Crane",
+            "High Sparrow",
+            "Karsi",
+            "Myrcella Baratheon",
+            "Old Nan",
+            "Myranda"
+        ],
+        "alive": [
+            "Unella",
+            "Dim Dalba",
+            "Yezzan zo Qaggaz",
+            "Izembaro",
+            "Malko",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Melessa Tarly",
+            "Ornela",
+            "Lyanna Mormont"
+        ]
+    },
+    "Tycho Nestoris": {
+        "dead": [
+            "Olly",
+            "Mossador",
+            "Mag Mar Tun Doh Weg",
+            "Loboda",
+            "Wun Weg Wun Dar Wun",
+            "Jojen Reed",
+            "Cressen",
+            "Lommy Greenhands",
+            "Prendahl na Ghezn",
+            "Karsi"
+        ],
+        "alive": [
+            "Malko",
+            "Olyvar",
+            "Dim Dalba",
+            "Yohn Royce",
+            "Tormund Giantsbane",
+            "Grey Worm",
+            "Denys Mallister",
+            "Marillion",
+            "\"Black Walder\" Frey",
+            "Roslin Frey"
+        ]
+    },
+    "Viserys Targaryen": {
+        "dead": [
+            "Robert Baratheon",
+            "Jory Cassel",
+            "Khal Drogo",
+            "Lommy Greenhands",
+            "Mordane",
+            "Cressen",
+            "Eddard Stark",
+            "Rakharo",
+            "Ray",
+            "Oberyn Martell"
+        ],
+        "alive": [
+            "Illyrio Mopatis",
+            "Marillion",
+            "Shagga",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Malko",
+            "Steelshanks",
+            "Anguy",
+            "Alys Karstark",
+            "Ned Umber"
+        ]
+    },
+    "Eddard Stark": {
+        "dead": [
+            "Robert Baratheon",
+            "Khal Drogo",
+            "Viserys Targaryen",
+            "Mordane",
+            "Lommy Greenhands",
+            "Jory Cassel",
+            "Robb Stark",
+            "Rodrik Cassel",
+            "Rakharo",
+            "Joyeuse Erenford"
+        ],
+        "alive": [
+            "Marillion",
+            "Shagga",
+            "Illyrio Mopatis",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Alys Karstark",
+            "Ned Umber",
+            "Ilyn Payne",
+            "Malko",
+            "Wyman Manderly"
+        ]
+    },
+    "Yezzan zo Qaggaz": {
+        "dead": [
+            "Wun Weg Wun Dar Wun",
+            "High Sparrow",
+            "The Waif",
+            "Loboda",
+            "Lady Crane",
+            "Olly",
+            "Ray",
+            "Obara Sand",
+            "Nymeria Sand",
+            "Smalljon Umber"
+        ],
+        "alive": [
+            "Unella",
+            "Dim Dalba",
+            "Malko",
+            "Melessa Tarly",
+            "Izembaro",
+            "Wyman Manderly",
+            "Denys Mallister",
+            "Jaqen H'ghar",
+            "Tycho Nestoris",
+            "Marillion"
+        ]
+    },
+    "Ned Umber": {
+        "dead": [
+            "Cressen",
+            "Smalljon Umber",
+            "Ray",
+            "Prendahl na Ghezn",
+            "Jory Cassel",
+            "Orell",
+            "Dickon Tarly",
+            "Randyll Tarly",
+            "Alton Lannister",
+            "Lorren"
+        ],
+        "alive": [
+            "Alys Karstark",
+            "Archmaester",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Robett Glover",
+            "Marillion",
+            "Malko",
+            "Shagga",
+            "Steelshanks",
+            "Anguy"
+        ]
+    },
+    "Mag Mar Tun Doh Weg": {
+        "dead": [
+            "Styr",
+            "Mossador",
+            "Loboda",
+            "Oberyn Martell",
+            "Orell",
+            "Cressen",
+            "Jojen Reed",
+            "Olly",
+            "Karl",
+            "Prendahl na Ghezn"
+        ],
+        "alive": [
+            "Anya Waynwood",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Marillion",
+            "Malko",
+            "Tycho Nestoris",
+            "Steelshanks",
+            "Anguy",
+            "Shagga",
+            "Salladhor Saan"
+        ]
+    },
+    "Joffrey Baratheon": {
+        "dead": [
+            "Robb Stark",
+            "Osha",
+            "Craster",
+            "Tommen Baratheon",
+            "Catelyn Stark",
+            "Rickon Stark",
+            "Jeor Mormont",
+            "Robert Baratheon",
+            "Myrcella Baratheon",
+            "Hodor"
+        ],
+        "alive": [
+            "Gendry",
+            "Hot Pie",
+            "Ilyn Payne",
+            "Salladhor Saan",
+            "Marillion",
+            "Armeca",
+            "Bran Stark",
+            "Shagga",
+            "Steelshanks",
+            "Anguy"
+        ]
+    },
+    "\"Black Walder\" Frey": {
+        "dead": [
+            "Lady Crane",
+            "Cressen",
+            "Mordane",
+            "Karsi",
+            "Pyat Pree",
+            "Lommy Greenhands",
+            "Ray",
+            "Prendahl na Ghezn",
+            "Orell",
+            "Lorren"
+        ],
+        "alive": [
+            "Roslin Frey",
+            "Izembaro",
+            "Malko",
+            "Marillion",
+            "Anguy",
+            "Steelshanks",
+            "Shagga",
+            "Armeca",
+            "Unella",
+            "Anya Waynwood"
+        ]
+    },
+    "Oberyn Martell": {
+        "dead": [
+            "Mag Mar Tun Doh Weg",
+            "Styr",
+            "Mossador",
+            "Cressen",
+            "Jojen Reed",
+            "Olly",
+            "Karl",
+            "Viserys Targaryen",
+            "Prendahl na Ghezn",
+            "Ray"
+        ],
+        "alive": [
+            "Anya Waynwood",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Marillion",
+            "Malko",
+            "Shagga",
+            "Steelshanks",
+            "Anguy",
+            "Archmaester",
+            "Tycho Nestoris"
+        ]
+    },
+    "Grey Worm": {
+        "dead": [
+            "Olenna Redwyne",
+            "Myranda",
+            "Jojen Reed",
+            "Olly",
+            "Thoros of Myr",
+            "Mossador",
+            "Ramsay Snow",
+            "Dickon Tarly",
+            "Wun Weg Wun Dar Wun",
+            "Karl"
+        ],
+        "alive": [
+            "Tormund Giantsbane",
+            "Missandei",
+            "Olyvar",
+            "Qyburn",
+            "Meera Reed",
+            "Podrick Payne",
+            "Daario Naharis",
+            "Eddison Tollett",
+            "Gilly",
+            "Tycho Nestoris"
+        ]
+    },
+    "Daario Naharis": {
+        "dead": [
+            "Myranda",
+            "Olenna Redwyne",
+            "Ramsay Snow",
+            "Pypar",
+            "Olly",
+            "Pycelle",
+            "Jojen Reed",
+            "Shireen Baratheon",
+            "Mance Rayder",
+            "Brynden Tully"
+        ],
+        "alive": [
+            "Grey Worm",
+            "Tormund Giantsbane",
+            "Olyvar",
+            "Missandei",
+            "Marei",
+            "Qyburn",
+            "Podrick Payne",
+            "Yohn Royce",
+            "Eddison Tollett",
+            "Dim Dalba"
+        ]
+    },
+    "Edmure Tully": {
+        "dead": [
+            "Brynden Tully",
+            "\"Lame Lothar\" Frey",
+            "Walder Frey",
+            "Karl",
+            "Thoros of Myr",
+            "Orell",
+            "Smalljon Umber",
+            "Prendahl na Ghezn",
+            "Ray",
+            "Benjen Stark"
+        ],
+        "alive": [
+            "Wyman Manderly",
+            "Steelshanks",
+            "Anguy",
+            "Melessa Tarly",
+            "Yezzan zo Qaggaz",
+            "Izembaro",
+            "Unella",
+            "Robett Glover",
+            "Meera Reed",
+            "Ornela"
+        ]
+    },
+    "Qyburn": {
+        "dead": [
+            "Olenna Redwyne",
+            "Myranda",
+            "Ramsay Snow",
+            "Thoros of Myr",
+            "Pycelle",
+            "Olly",
+            "Mance Rayder",
+            "Jojen Reed",
+            "Brynden Tully",
+            "Wun Weg Wun Dar Wun"
+        ],
+        "alive": [
+            "Tormund Giantsbane",
+            "Grey Worm",
+            "Missandei",
+            "Podrick Payne",
+            "Daario Naharis",
+            "Eddison Tollett",
+            "Yohn Royce",
+            "Olyvar",
+            "Davos Seaworth",
+            "Meera Reed"
+        ]
+    },
+    "Olly": {
+        "dead": [
+            "Mossador",
+            "Mag Mar Tun Doh Weg",
+            "Loboda",
+            "Pypar",
+            "Wun Weg Wun Dar Wun",
+            "The Waif",
+            "Karl",
+            "Jojen Reed",
+            "Myranda",
+            "Doran Martell"
+        ],
+        "alive": [
+            "Tycho Nestoris",
+            "Malko",
+            "Olyvar",
+            "Denys Mallister",
+            "Dim Dalba",
+            "Yezzan zo Qaggaz",
+            "Unella",
+            "Yohn Royce",
+            "Marillion",
+            "\"Black Walder\" Frey"
+        ]
+    },
+    "Marei": {
+        "dead": [
+            "Myranda",
+            "Margaery Tyrell",
+            "Olenna Redwyne",
+            "Ygritte",
+            "Selyse Baratheon",
+            "The Waif",
+            "Shae",
+            "Pycelle",
+            "Loras Tyrell",
+            "Lady Crane"
+        ],
+        "alive": [
+            "Gilly",
+            "Podrick Payne",
+            "Missandei",
+            "Eddison Tollett",
+            "Unella",
+            "Salladhor Saan",
+            "Olyvar",
+            "Armeca",
+            "Meera Reed",
+            "Tormund Giantsbane"
+        ]
+    },
+    "Jory Cassel": {
+        "dead": [
+            "Mordane",
+            "Viserys Targaryen",
+            "Lommy Greenhands",
+            "Rodrik Cassel",
+            "Cressen",
+            "Khal Drogo",
+            "Ray",
+            "Prendahl na Ghezn",
+            "Orell",
+            "Alton Lannister"
+        ],
+        "alive": [
+            "Marillion",
+            "Shagga",
+            "Illyrio Mopatis",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Alys Karstark",
+            "Ned Umber",
+            "Malko",
+            "Wyman Manderly",
+            "Steelshanks"
+        ]
+    },
+    "Dagmer": {
+        "dead": [
+            "Lorren",
+            "Xaro Xhoan Daxos",
+            "Pyat Pree",
+            "Dontos Hollard",
+            "Alton Lannister",
+            "Craster",
+            "Luwin",
+            "Cressen",
+            "Lommy Greenhands",
+            "Prendahl na Ghezn"
+        ],
+        "alive": [
+            "Hallyne",
+            "Kovarro",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Marillion",
+            "Malko",
+            "Armeca",
+            "Salladhor Saan",
+            "Steelshanks",
+            "Anguy"
+        ]
+    },
+    "Craster": {
+        "dead": [
+            "Dagmer",
+            "Lorren",
+            "Xaro Xhoan Daxos",
+            "Pyat Pree",
+            "Alton Lannister",
+            "Lommy Greenhands",
+            "Dontos Hollard",
+            "Prendahl na Ghezn",
+            "Orell",
+            "Luwin"
+        ],
+        "alive": [
+            "Roslin Frey",
+            "Hallyne",
+            "\"Black Walder\" Frey",
+            "Marillion",
+            "Malko",
+            "Salladhor Saan",
+            "Steelshanks",
+            "Gendry",
+            "Anguy",
+            "Kovarro"
+        ]
+    },
+    "Hallyne": {
+        "dead": [
+            "Lorren",
+            "Dagmer",
+            "Xaro Xhoan Daxos",
+            "Pyat Pree",
+            "Dontos Hollard",
+            "Alton Lannister",
+            "Craster",
+            "Cressen",
+            "Luwin",
+            "Lommy Greenhands"
+        ],
+        "alive": [
+            "Kovarro",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Armeca",
+            "Marillion",
+            "Malko",
+            "Steelshanks",
+            "Anguy",
+            "Salladhor Saan",
+            "Shagga"
+        ]
+    },
+    "Melessa Tarly": {
+        "dead": [
+            "Smalljon Umber",
+            "Lady Crane",
+            "Ray",
+            "Dickon Tarly",
+            "Randyll Tarly",
+            "Cressen",
+            "Wun Weg Wun Dar Wun",
+            "\"Lame Lothar\" Frey",
+            "Old Nan",
+            "Prendahl na Ghezn"
+        ],
+        "alive": [
+            "Izembaro",
+            "Wyman Manderly",
+            "Ornela",
+            "Kinvara",
+            "Dim Dalba",
+            "\"Black Walder\" Frey",
+            "Yezzan zo Qaggaz",
+            "Roslin Frey",
+            "Robett Glover",
+            "Marillion"
+        ]
+    },
+    "Mossador": {
+        "dead": [
+            "Mag Mar Tun Doh Weg",
+            "Olly",
+            "Styr",
+            "Jojen Reed",
+            "Oberyn Martell",
+            "Cressen",
+            "Loboda",
+            "Karl",
+            "Prendahl na Ghezn",
+            "Orell"
+        ],
+        "alive": [
+            "Anya Waynwood",
+            "Tycho Nestoris",
+            "Malko",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Olyvar",
+            "Marillion",
+            "Salladhor Saan",
+            "Steelshanks",
+            "Anguy"
+        ]
+    },
+    "Shae": {
+        "dead": [
+            "Ygritte",
+            "Hodor",
+            "Three-Eyed Raven",
+            "Doreah",
+            "Pypar",
+            "Osha",
+            "Catelyn Stark",
+            "Tywin Lannister",
+            "Jojen Reed",
+            "Selyse Baratheon"
+        ],
+        "alive": [
+            "Hot Pie",
+            "Salladhor Saan",
+            "Armeca",
+            "Marei",
+            "Samwell Tarly",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Gilly",
+            "Marillion",
+            "Meera Reed"
+        ]
+    },
+    "Lommy Greenhands": {
+        "dead": [
+            "Luwin",
+            "Khal Drogo",
+            "Mordane",
+            "Rakharo",
+            "Joyeuse Erenford",
+            "Lorren",
+            "Dagmer",
+            "Cressen",
+            "Rodrik Cassel",
+            "Ray"
+        ],
+        "alive": [
+            "Marillion",
+            "Shagga",
+            "Illyrio Mopatis",
+            "\"Black Walder\" Frey",
+            "Armeca",
+            "Roslin Frey",
+            "Malko",
+            "Anguy",
+            "Izembaro",
+            "Steelshanks"
+        ]
+    },
+    "Selyse Baratheon": {
+        "dead": [
+            "Margaery Tyrell",
+            "Shireen Baratheon",
+            "Ygritte",
+            "Stannis Baratheon",
+            "Talisa Maegyr",
+            "Shae",
+            "Myranda",
+            "Olenna Redwyne",
+            "Catelyn Stark",
+            "Prendahl na Ghezn"
+        ],
+        "alive": [
+            "Marei",
+            "Salladhor Saan",
+            "Gilly",
+            "Olyvar",
+            "Malko",
+            "Missandei",
+            "Podrick Payne",
+            "Hot Pie",
+            "Roslin Frey",
+            "\"Black Walder\" Frey"
+        ]
+    },
+    "Unella": {
+        "dead": [
+            "The Waif",
+            "High Sparrow",
+            "Wun Weg Wun Dar Wun",
+            "Lady Crane",
+            "Obara Sand",
+            "Nymeria Sand",
+            "Karsi",
+            "Tyene Sand",
+            "Old Nan",
+            "Myranda"
+        ],
+        "alive": [
+            "Yezzan zo Qaggaz",
+            "Dim Dalba",
+            "Izembaro",
+            "Malko",
+            "\"Black Walder\" Frey",
+            "Roslin Frey",
+            "Ornela",
+            "Melessa Tarly",
+            "Marei",
+            "Wyman Manderly"
+        ]
+    },
+    "Lyanna Mormont": {
+        "dead": [
+            "Dickon Tarly",
+            "Randyll Tarly",
+            "Lady Crane",
+            "Old Nan",
+            "Smalljon Umber",
+            "Ray",
+            "The Waif",
+            "Thoros of Myr",
+            "Mordane",
+            "Pyat Pree"
+        ],
+        "alive": [
+            "Robett Glover",
+            "Izembaro",
+            "Euron Greyjoy",
+            "Ornela",
+            "Wyman Manderly",
+            "Roslin Frey",
+            "\"Black Walder\" Frey",
+            "Melessa Tarly",
+            "Unella",
+            "Alys Karstark"
+        ]
+    }
 }

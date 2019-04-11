@@ -70,13 +70,18 @@ for charIdx in range(len(chars)):
   avgsMod = 1.0 - avgs / max(avgs)
   avgs[charIdx] = float("inf")
   currRes = dict(zip(charNames, avgsMod))
-  currRes["_min"] = [charNames[i] for i in np.argsort(avgs)[:NUM_MOST_SIMILAR]]
+
+  argsortRes = np.argsort(avgs)
+  currRes["_mostSimilarAlive"] = [charNames[i] for i in list(filter(lambda j: "death" not in chars[j], argsortRes))[:NUM_MOST_SIMILAR]]
+  currRes["_mostSimilarDead"] = [charNames[i] for i in list(filter(lambda j: "death" in chars[j], argsortRes))[:NUM_MOST_SIMILAR]]
+
   del currRes[charNames[charIdx]]
   res[charNames[charIdx]] = currRes
-  resOnlyMin[charNames[charIdx]] = currRes["_min"]
+  resOnlyMin[charNames[charIdx]] = { "alive": currRes["_mostSimilarAlive"], "dead": currRes["_mostSimilarDead"] }
 writeJSON(sys.argv[1] + "-char-distances-weighted", res, True)
 writeJSON(sys.argv[1] + "-char-distances-weighted-onlymin", resOnlyMin, True)
 
+'''
 res = {}
 resOnlyMin = {}
 for charIdx in range(len(chars)):
@@ -88,3 +93,4 @@ for charIdx in range(len(chars)):
   resOnlyMin[charNames[charIdx]] = currRes["_min"]
 writeJSON(sys.argv[1] + "-char-distances-simple", res, True)
 writeJSON(sys.argv[1] + "-char-distances-simple-onlymin", resOnlyMin, True)
+'''
