@@ -433,7 +433,7 @@ class APIUpdater {
         longevity,
         longevityStart,
         plod,
-        token: '123secure',
+        token: 'IgOtAnAcCeSsToKeNN99',
       },
     });
   }
@@ -455,7 +455,7 @@ class APIUpdater {
     return request.post(config.GOT_API_BASE_URL + `/${dataset}/bayesean-attributes/update`, {
       json: {
         attributes: attrs,
-        token: '123secure',
+        token: 'IgOtAnAcCeSsToKeNN99',
       },
     });
   }
