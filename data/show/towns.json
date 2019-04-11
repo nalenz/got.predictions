@@ -1,7 +1,7 @@
 [
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e99592",
+        "_id": "5cad97e0b0c0ef00108e5d7f",
         "location": "The Reach",
         "name": "Ashford",
         "religion": [
@@ -14,7 +14,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e99593",
+        "_id": "5cad97e0b0c0ef00108e5d80",
         "location": "Westeros",
         "name": "Barrowton",
         "religion": [
@@ -27,7 +27,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e99594",
+        "_id": "5cad97e0b0c0ef00108e5d81",
         "location": "The Crownlands",
         "name": "Duskendale",
         "religion": [
@@ -40,7 +40,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e99595",
+        "_id": "5cad97e0b0c0ef00108e5d82",
         "location": "the Riverlands",
         "name": "Fairmarket",
         "religion": [
@@ -51,7 +51,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e99596",
+        "_id": "5cad97e0b0c0ef00108e5d83",
         "location": "Storrold's Point",
         "name": "Hardhome",
         "religion": [
@@ -62,7 +62,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e99597",
+        "_id": "5cad97e0b0c0ef00108e5d84",
         "location": "Pyke",
         "name": "Lordsport",
         "religion": [
@@ -75,7 +75,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e99598",
+        "_id": "5cad97e0b0c0ef00108e5d85",
         "location": "Westeros",
         "name": "Maidenpool",
         "religion": [
@@ -88,7 +88,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e99599",
+        "_id": "5cad97e0b0c0ef00108e5d86",
         "location": "The Gift",
         "name": "Mole's Town",
         "religion": [
@@ -99,7 +99,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e9959a",
+        "_id": "5cad97e0b0c0ef00108e5d87",
         "location": "The Riverlands",
         "name": "Mummer's Ford",
         "religion": [
@@ -110,7 +110,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e9959b",
+        "_id": "5cad97e0b0c0ef00108e5d88",
         "location": "The Riverlands",
         "name": "Pennytree",
         "religion": [
@@ -121,7 +121,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e9959c",
+        "_id": "5cad97e0b0c0ef00108e5d89",
         "location": "Basilisk Isles",
         "name": "Port Plunder",
         "religion": [],
@@ -130,7 +130,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e9959d",
+        "_id": "5cad97e0b0c0ef00108e5d8a",
         "location": "The Iron Islands",
         "name": "Red Harbor",
         "religion": [
@@ -141,7 +141,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e9959e",
+        "_id": "5cad97e0b0c0ef00108e5d8b",
         "location": "The Crownlands",
         "name": "Rook's Rest",
         "religion": [],
@@ -150,7 +150,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e9959f",
+        "_id": "5cad97e0b0c0ef00108e5d8c",
         "location": "The Crownlands",
         "name": "Rosby",
         "religion": [
@@ -163,7 +163,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e995a0",
+        "_id": "5cad97e0b0c0ef00108e5d8d",
         "location": "Westeros",
         "name": "Salt Rock",
         "religion": [],
@@ -172,7 +172,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e995a1",
+        "_id": "5cad97e0b0c0ef00108e5d8e",
         "location": "The Riverlands",
         "name": "Saltpans",
         "religion": [
@@ -183,7 +183,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e995a2",
+        "_id": "5cad97e0b0c0ef00108e5d8f",
         "location": "Essos",
         "name": "Selhorys",
         "religion": [],
@@ -194,7 +194,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e995a3",
+        "_id": "5cad97e0b0c0ef00108e5d90",
         "location": "The Three Sisters",
         "name": "Sisterton",
         "religion": [
@@ -205,7 +205,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e995a4",
+        "_id": "5cad97e0b0c0ef00108e5d91",
         "location": "the Crownlands",
         "name": "Sow's Horn",
         "religion": [
@@ -216,7 +216,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e995a5",
+        "_id": "5cad97e0b0c0ef00108e5d92",
         "location": "Westeros",
         "name": "Stoney Sept",
         "religion": [
@@ -227,7 +227,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e995a6",
+        "_id": "5cad97e0b0c0ef00108e5d93",
         "location": "Basilisk Isles",
         "name": "Sty",
         "religion": [],
@@ -236,7 +236,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e995a7",
+        "_id": "5cad97e0b0c0ef00108e5d94",
         "location": "Essos",
         "name": "Valysar",
         "religion": [],
@@ -247,7 +247,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e995a8",
+        "_id": "5cad97e0b0c0ef00108e5d95",
         "location": "Essos",
         "name": "Volon Therys",
         "religion": [],
@@ -258,7 +258,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e995a9",
+        "_id": "5cad97e0b0c0ef00108e5d96",
         "location": "The Riverlands",
         "name": "Wendish Town",
         "religion": [
@@ -269,7 +269,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e995aa",
+        "_id": "5cad97e0b0c0ef00108e5d97",
         "location": "Westeros",
         "name": "White Tree",
         "religion": [
@@ -280,7 +280,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e995ab",
+        "_id": "5cad97e0b0c0ef00108e5d98",
         "location": "Basilisk Isles",
         "name": "Whore's Gash",
         "religion": [],
@@ -289,16 +289,18 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e995ac",
-        "location": "",
-        "name": "Wickendon",
-        "religion": [],
+        "_id": "5cad97e0b0c0ef00108e5d99",
+        "location": "The Vale of Arryn",
+        "name": "Wickenden",
+        "religion": [
+            "Faith of the Seven"
+        ],
         "rulers": [],
-        "type": ""
+        "type": "Town"
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e995ad",
+        "_id": "5cad97e0b0c0ef00108e5d9a",
         "location": "Outside the walls of Winterfell",
         "name": "Winter town",
         "religion": [

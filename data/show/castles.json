@@ -1,7 +1,7 @@
 [
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998b1",
+        "_id": "5cad9816b0c0ef00108e60d6",
         "founder": [],
         "location": "Westeros",
         "name": "Acorn Hall",
@@ -15,7 +15,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998b2",
+        "_id": "5cad9816b0c0ef00108e60d7",
         "founder": [],
         "location": "The Crownlands",
         "name": "Antlers",
@@ -29,7 +29,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998b3",
+        "_id": "5cad9816b0c0ef00108e60d8",
         "founder": [],
         "location": "The Westerlands",
         "name": "Ashemark",
@@ -43,7 +43,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998b4",
+        "_id": "5cad9816b0c0ef00108e60d9",
         "founder": [],
         "location": "The Reach",
         "name": "Ashford",
@@ -57,7 +57,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998b5",
+        "_id": "5cad9816b0c0ef00108e60da",
         "founder": [],
         "location": "Westeros",
         "name": "Bandallon",
@@ -69,7 +69,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998b6",
+        "_id": "5cad9816b0c0ef00108e60db",
         "founder": [],
         "location": "The Westerlands",
         "name": "The Banefort",
@@ -81,7 +81,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998b7",
+        "_id": "5cad9816b0c0ef00108e60dc",
         "founder": [],
         "location": "Westeros",
         "name": "Bitterbridge",
@@ -93,7 +93,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998b8",
+        "_id": "5cad9816b0c0ef00108e60dd",
         "founder": [],
         "location": "Westeros",
         "name": "Blackcrown",
@@ -107,7 +107,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998b9",
+        "_id": "5cad9816b0c0ef00108e60de",
         "founder": [],
         "location": "The Stormlands",
         "name": "Blackhaven",
@@ -121,7 +121,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998ba",
+        "_id": "5cad9816b0c0ef00108e60df",
         "founder": [],
         "location": "Dorne",
         "name": "Blackmont",
@@ -135,7 +135,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998bb",
+        "_id": "5cad9816b0c0ef00108e60e0",
         "founder": [],
         "location": "The Vale",
         "name": "Bloody Gate",
@@ -150,7 +150,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998bc",
+        "_id": "5cad9816b0c0ef00108e60e1",
         "founder": [],
         "location": "the Reach",
         "name": "Brightwater Keep",
@@ -164,7 +164,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998bd",
+        "_id": "5cad9816b0c0ef00108e60e2",
         "founder": [],
         "location": "The Stormlands",
         "name": "Bronzegate",
@@ -176,7 +176,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998be",
+        "_id": "5cad9816b0c0ef00108e60e3",
         "founder": [],
         "location": "The Westerlands",
         "name": "Castamere",
@@ -190,7 +190,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998bf",
+        "_id": "5cad9816b0c0ef00108e60e4",
         "age": 6000,
         "founder": [
             "Corlos"
@@ -209,7 +209,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998c0",
+        "_id": "5cad9816b0c0ef00108e60e5",
         "founder": [
             "Brandon Stark (the Builder)"
         ],
@@ -226,7 +226,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998c1",
+        "_id": "5cad9816b0c0ef00108e60e6",
         "founder": [],
         "location": "Westeros",
         "name": "Castle Cerwyn",
@@ -240,7 +240,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998c2",
+        "_id": "5cad9816b0c0ef00108e60e7",
         "founder": [],
         "location": "The Crownlands",
         "name": "Castle Stokeworth",
@@ -254,7 +254,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998c3",
+        "_id": "5cad9816b0c0ef00108e60e8",
         "founder": [],
         "location": "The Reach",
         "name": "Cider Hall",
@@ -268,7 +268,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998c4",
+        "_id": "5cad9816b0c0ef00108e60e9",
         "founder": [
             "Urrigon Hightower"
         ],
@@ -286,7 +286,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998c5",
+        "_id": "5cad9816b0c0ef00108e60ea",
         "founder": [
             "Clegane (founder)"
         ],
@@ -302,7 +302,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998c6",
+        "_id": "5cad9816b0c0ef00108e60eb",
         "founder": [],
         "location": "The Vale of Arryn",
         "name": "Coldwater",
@@ -312,7 +312,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998c7",
+        "_id": "5cad9816b0c0ef00108e60ec",
         "founder": [],
         "location": "Westeros",
         "name": "The Crag",
@@ -326,7 +326,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998c8",
+        "_id": "5cad9816b0c0ef00108e60ed",
         "founder": [],
         "location": "The Westerlands",
         "name": "Crakehall",
@@ -340,7 +340,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998c9",
+        "_id": "5cad9816b0c0ef00108e60ee",
         "founder": [],
         "location": "The Stormlands",
         "name": "Crow's Nest",
@@ -354,7 +354,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998ca",
+        "_id": "5cad9816b0c0ef00108e60ef",
         "founder": [],
         "location": "The Westerlands",
         "name": "Deep Den",
@@ -366,7 +366,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998cb",
+        "_id": "5cad9816b0c0ef00108e60f0",
         "founder": [],
         "location": "Westeros",
         "name": "Deep Lake",
@@ -381,7 +381,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998cc",
+        "_id": "5cad9816b0c0ef00108e60f1",
         "founder": [],
         "location": "The North",
         "name": "Deepwood Motte",
@@ -397,7 +397,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998cd",
+        "_id": "5cad9816b0c0ef00108e60f2",
         "age": 500,
         "founder": [
             "Valyrian Freehold"
@@ -416,7 +416,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998ce",
+        "_id": "5cad9816b0c0ef00108e60f3",
         "founder": [],
         "location": "The North",
         "name": "The Dreadfort",
@@ -430,7 +430,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998cf",
+        "_id": "5cad9816b0c0ef00108e60f4",
         "founder": [],
         "location": "Crackclaw Point",
         "name": "Dyre Den",
@@ -440,7 +440,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998d0",
+        "_id": "5cad9816b0c0ef00108e60f5",
         "founder": [],
         "location": "The Wall",
         "name": "Eastwatch-by-the-Sea",
@@ -455,7 +455,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998d1",
+        "_id": "5cad9816b0c0ef00108e60f6",
         "founder": [],
         "location": "Tarth",
         "name": "Evenfall Hall",
@@ -469,7 +469,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998d2",
+        "_id": "5cad9816b0c0ef00108e60f7",
         "age": 6000,
         "founder": [
             "Mountain King"
@@ -486,7 +486,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998d3",
+        "_id": "5cad9816b0c0ef00108e60f8",
         "founder": [],
         "location": "Fair Isle",
         "name": "Faircastle",
@@ -498,7 +498,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998d4",
+        "_id": "5cad9816b0c0ef00108e60f9",
         "founder": [],
         "location": "The Westerlands",
         "name": "Feastfires",
@@ -510,7 +510,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998d5",
+        "_id": "5cad9816b0c0ef00108e60fa",
         "founder": [],
         "location": "The Stormlands",
         "name": "Felwood",
@@ -522,7 +522,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998d6",
+        "_id": "5cad9816b0c0ef00108e60fb",
         "founder": [],
         "location": "The North",
         "name": "Flint's Finger",
@@ -534,7 +534,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998d7",
+        "_id": "5cad9816b0c0ef00108e60fc",
         "founder": [],
         "location": "Dorne",
         "name": "Ghost Hill",
@@ -546,7 +546,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998d8",
+        "_id": "5cad9816b0c0ef00108e60fd",
         "founder": [],
         "location": "Dorne",
         "name": "Godsgrace",
@@ -560,7 +560,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998d9",
+        "_id": "5cad9816b0c0ef00108e60fe",
         "founder": [],
         "location": "The Westerlands",
         "name": "Golden Tooth",
@@ -574,7 +574,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998da",
+        "_id": "5cad9816b0c0ef00108e60ff",
         "founder": [],
         "location": "The Reach",
         "name": "Goldengrove",
@@ -588,7 +588,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998db",
+        "_id": "5cad9816b0c0ef00108e6100",
         "founder": [],
         "location": "The Reach",
         "name": "Grassy Vale",
@@ -600,7 +600,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998dc",
+        "_id": "5cad9816b0c0ef00108e6101",
         "founder": [],
         "location": "The Wall",
         "name": "Greyguard",
@@ -615,7 +615,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998dd",
+        "_id": "5cad9816b0c0ef00108e6102",
         "founder": [],
         "location": "The Neck",
         "name": "Greywater Watch",
@@ -629,7 +629,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998de",
+        "_id": "5cad9816b0c0ef00108e6103",
         "founder": [],
         "location": "The Stormlands",
         "name": "Griffin's Roost",
@@ -643,7 +643,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998df",
+        "_id": "5cad9816b0c0ef00108e6104",
         "founder": [],
         "location": "Great Wyk",
         "name": "Hammerhorn",
@@ -657,7 +657,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998e0",
+        "_id": "5cad9816b0c0ef00108e6105",
         "age": 300,
         "founder": [
             "Harren Hoare"
@@ -686,7 +686,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998e1",
+        "_id": "5cad9816b0c0ef00108e6106",
         "founder": [],
         "location": "The Stormlands",
         "name": "Haystack Hall",
@@ -700,7 +700,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998e2",
+        "_id": "5cad9816b0c0ef00108e6107",
         "founder": [],
         "location": "The Vale of Arryn",
         "name": "Heart's Home",
@@ -710,7 +710,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998e3",
+        "_id": "5cad9816b0c0ef00108e6108",
         "founder": [],
         "location": "Dorne",
         "name": "Hellholt",
@@ -724,7 +724,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998e4",
+        "_id": "5cad9816b0c0ef00108e6109",
         "founder": [
             "Garth Gardener"
         ],
@@ -741,7 +741,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998e5",
+        "_id": "5cad9816b0c0ef00108e610a",
         "age": 1000,
         "founder": [],
         "location": "The North",
@@ -756,7 +756,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998e6",
+        "_id": "5cad9816b0c0ef00108e610b",
         "founder": [],
         "location": "The Reach",
         "name": "Honeyholt",
@@ -770,7 +770,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998e7",
+        "_id": "5cad9816b0c0ef00108e610c",
         "founder": [],
         "location": "The Reach",
         "name": "Horn Hill",
@@ -784,7 +784,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998e8",
+        "_id": "5cad9816b0c0ef00108e610d",
         "founder": [],
         "location": "The Westerlands",
         "name": "Hornvale",
@@ -796,7 +796,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998e9",
+        "_id": "5cad9816b0c0ef00108e610e",
         "founder": [],
         "location": "The North",
         "name": "Hornwood",
@@ -810,7 +810,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998ea",
+        "_id": "5cad9816b0c0ef00108e610f",
         "founder": [],
         "location": "The Vale of Arryn",
         "name": "Ironoaks",
@@ -824,7 +824,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998eb",
+        "_id": "5cad9816b0c0ef00108e6110",
         "age": 1500,
         "founder": [
             "Cedric Forrester"
@@ -842,7 +842,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998ec",
+        "_id": "5cad9816b0c0ef00108e6111",
         "founder": [
             "Karlon Stark"
         ],
@@ -858,7 +858,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998ed",
+        "_id": "5cad9816b0c0ef00108e6112",
         "founder": [],
         "location": "Dorne",
         "name": "Kingsgrave",
@@ -872,7 +872,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998ee",
+        "_id": "5cad9816b0c0ef00108e6113",
         "founder": [],
         "location": "The North",
         "name": "Last Hearth",
@@ -886,7 +886,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998ef",
+        "_id": "5cad9816b0c0ef00108e6114",
         "founder": [],
         "location": "Dorne",
         "name": "Lemonwood",
@@ -900,7 +900,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998f0",
+        "_id": "5cad9816b0c0ef00108e6115",
         "founder": [],
         "location": "The Wall",
         "name": "Long Barrow",
@@ -913,7 +913,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998f1",
+        "_id": "5cad9816b0c0ef00108e6116",
         "founder": [],
         "location": "The Reach",
         "name": "Long Table",
@@ -927,7 +927,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998f2",
+        "_id": "5cad9816b0c0ef00108e6117",
         "founder": [],
         "location": "The Vale of Arryn",
         "name": "Longbow Hall",
@@ -941,7 +941,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998f3",
+        "_id": "5cad9816b0c0ef00108e6118",
         "founder": [],
         "location": "The Stormlands",
         "name": "Mistwood",
@@ -953,7 +953,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998f4",
+        "_id": "5cad9816b0c0ef00108e6119",
         "age": 10000,
         "founder": [],
         "location": "The Neck",
@@ -969,7 +969,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998f5",
+        "_id": "5cad9816b0c0ef00108e611a",
         "founder": [],
         "location": "The Wall",
         "name": "The Nightfort",
@@ -984,7 +984,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998f6",
+        "_id": "5cad9816b0c0ef00108e611b",
         "founder": [],
         "location": "The Stormlands",
         "name": "Nightsong",
@@ -998,7 +998,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998f7",
+        "_id": "5cad9816b0c0ef00108e611c",
         "founder": [],
         "location": "The Reach",
         "name": "Old Oak",
@@ -1012,7 +1012,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998f8",
+        "_id": "5cad9816b0c0ef00108e611d",
         "founder": [],
         "location": "The North",
         "name": "Oldcastle",
@@ -1024,7 +1024,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998f9",
+        "_id": "5cad9816b0c0ef00108e611e",
         "founder": [],
         "location": "Braavos",
         "name": "Palace of Justice",
@@ -1034,7 +1034,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998fa",
+        "_id": "5cad9816b0c0ef00108e611f",
         "founder": [],
         "location": "The Riverlands",
         "name": "Pinkmaiden",
@@ -1046,7 +1046,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998fb",
+        "_id": "5cad9816b0c0ef00108e6120",
         "founder": [],
         "location": "Westeros",
         "name": "Pyke (castle)",
@@ -1060,7 +1060,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998fc",
+        "_id": "5cad9816b0c0ef00108e6121",
         "founder": [],
         "location": "The Wall",
         "name": "Queensgate",
@@ -1073,7 +1073,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998fd",
+        "_id": "5cad9816b0c0ef00108e6122",
         "founder": [],
         "location": "The Stormlands",
         "name": "Rain House",
@@ -1087,7 +1087,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998fe",
+        "_id": "5cad9816b0c0ef00108e6123",
         "founder": [],
         "location": "The North",
         "name": "Ramsgate",
@@ -1099,7 +1099,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e998ff",
+        "_id": "5cad9816b0c0ef00108e6124",
         "founder": [],
         "location": "The Riverlands",
         "name": "Raventree Hall",
@@ -1113,7 +1113,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99900",
+        "_id": "5cad9816b0c0ef00108e6125",
         "age": 303,
         "founder": [
             "Aegon I Targaryen",
@@ -1132,7 +1132,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99901",
+        "_id": "5cad9816b0c0ef00108e6126",
         "founder": [],
         "location": "The Reach",
         "name": "Red Lake",
@@ -1144,7 +1144,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99902",
+        "_id": "5cad9816b0c0ef00108e6127",
         "founder": [],
         "location": "The Vale of Arryn",
         "name": "The Redfort",
@@ -1156,7 +1156,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99903",
+        "_id": "5cad9816b0c0ef00108e6128",
         "founder": [],
         "location": "The Rills",
         "name": "Rillwater Crossing",
@@ -1168,7 +1168,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99904",
+        "_id": "5cad9816b0c0ef00108e6129",
         "age": 1000,
         "founder": [],
         "location": "The Riverlands",
@@ -1184,7 +1184,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99905",
+        "_id": "5cad9816b0c0ef00108e612a",
         "founder": [],
         "location": "The Crownlands",
         "name": "Rosby",
@@ -1198,7 +1198,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99906",
+        "_id": "5cad9816b0c0ef00108e612b",
         "founder": [],
         "location": "The Vale of Arryn",
         "name": "Runestone",
@@ -1212,7 +1212,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99907",
+        "_id": "5cad9816b0c0ef00108e612c",
         "founder": [],
         "location": "Dorne",
         "name": "Saltshore",
@@ -1224,7 +1224,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99908",
+        "_id": "5cad9816b0c0ef00108e612d",
         "founder": [],
         "location": "Dorne",
         "name": "Sandstone",
@@ -1238,7 +1238,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99909",
+        "_id": "5cad9816b0c0ef00108e612e",
         "founder": [],
         "location": "The Westerlands",
         "name": "Sarsfield",
@@ -1252,7 +1252,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e9990a",
+        "_id": "5cad9816b0c0ef00108e612f",
         "founder": [],
         "location": "The Riverlands",
         "name": "Seagard",
@@ -1266,7 +1266,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e9990b",
+        "_id": "5cad9816b0c0ef00108e6130",
         "founder": [],
         "location": "Braavos",
         "name": "Sealord's Palace",
@@ -1278,7 +1278,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e9990c",
+        "_id": "5cad9816b0c0ef00108e6131",
         "founder": [],
         "location": "The Wall",
         "name": "The Shadow Tower",
@@ -1293,7 +1293,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e9990d",
+        "_id": "5cad9816b0c0ef00108e6132",
         "founder": [],
         "location": "The Crownlands",
         "name": "Sharp Point",
@@ -1305,7 +1305,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e9990e",
+        "_id": "5cad9816b0c0ef00108e6133",
         "founder": [],
         "location": "The Westerlands",
         "name": "Silverhill",
@@ -1319,7 +1319,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e9990f",
+        "_id": "5cad9816b0c0ef00108e6134",
         "founder": [],
         "location": "Dorne",
         "name": "Skyreach",
@@ -1331,7 +1331,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99910",
+        "_id": "5cad9816b0c0ef00108e6135",
         "founder": [],
         "location": "The Fingers",
         "name": "Snakewood",
@@ -1343,7 +1343,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99911",
+        "_id": "5cad9816b0c0ef00108e6136",
         "founder": [],
         "location": "Dorne",
         "name": "Starfall",
@@ -1357,7 +1357,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99912",
+        "_id": "5cad9816b0c0ef00108e6137",
         "founder": [],
         "location": "The Riverlands",
         "name": "Stone Hedge",
@@ -1371,7 +1371,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99913",
+        "_id": "5cad9816b0c0ef00108e6138",
         "founder": [],
         "location": "The Crownlands",
         "name": "Stonedance",
@@ -1383,7 +1383,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99914",
+        "_id": "5cad9816b0c0ef00108e6139",
         "founder": [],
         "location": "Westeros",
         "name": "Stonehelm",
@@ -1397,7 +1397,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99915",
+        "_id": "5cad9816b0c0ef00108e613a",
         "founder": [
             "Durran",
             "Brandon Stark (the Builder)"
@@ -1417,7 +1417,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99916",
+        "_id": "5cad9816b0c0ef00108e613b",
         "founder": [
             "King of the Andals, the Rhoynar, and the First Men",
             "Daeron II Targaryen"
@@ -1432,7 +1432,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99917",
+        "_id": "5cad9816b0c0ef00108e613c",
         "founder": [],
         "location": "The Reach",
         "name": "Sunflower Hall",
@@ -1446,7 +1446,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99918",
+        "_id": "5cad9816b0c0ef00108e613d",
         "age": 1000,
         "founder": [],
         "location": "Dorne",
@@ -1462,7 +1462,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99919",
+        "_id": "5cad9816b0c0ef00108e613e",
         "founder": [],
         "location": "The Westerlands",
         "name": "Tarbeck Hall",
@@ -1476,7 +1476,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e9991a",
+        "_id": "5cad9816b0c0ef00108e613f",
         "founder": [],
         "location": "Harlaw",
         "name": "Ten Towers",
@@ -1490,7 +1490,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e9991b",
+        "_id": "5cad9816b0c0ef00108e6140",
         "founder": [],
         "location": "The Reach",
         "name": "Three Towers",
@@ -1502,7 +1502,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e9991c",
+        "_id": "5cad9816b0c0ef00108e6141",
         "founder": [],
         "location": "Dorne",
         "name": "The Tor",
@@ -1516,7 +1516,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e9991d",
+        "_id": "5cad9816b0c0ef00108e6142",
         "founder": [],
         "location": "The North",
         "name": "Torrhen's Square",
@@ -1531,7 +1531,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e9991e",
+        "_id": "5cad9816b0c0ef00108e6143",
         "founder": [],
         "location": "The Reach",
         "name": "Tumbleton",
@@ -1543,7 +1543,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e9991f",
+        "_id": "5cad9816b0c0ef00108e6144",
         "age": 600,
         "founder": [],
         "location": "The Riverlands",
@@ -1558,7 +1558,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99920",
+        "_id": "5cad9816b0c0ef00108e6145",
         "founder": [
             "Baelish (founder)"
         ],
@@ -1572,7 +1572,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99921",
+        "_id": "5cad9816b0c0ef00108e6146",
         "founder": [],
         "location": "The Reach",
         "name": "Uplands",
@@ -1584,7 +1584,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99922",
+        "_id": "5cad9816b0c0ef00108e6147",
         "founder": [],
         "location": "Dorne",
         "name": "Vaith",
@@ -1596,7 +1596,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99923",
+        "_id": "5cad9816b0c0ef00108e6148",
         "founder": [],
         "location": "Dorne",
         "name": "Vulture's Roost",
@@ -1606,7 +1606,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99924",
+        "_id": "5cad9816b0c0ef00108e6149",
         "founder": [],
         "location": "The Crownlands",
         "name": "The Whispers",
@@ -1616,7 +1616,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99925",
+        "_id": "5cad9816b0c0ef00108e614a",
         "founder": [],
         "location": "The Riverlands",
         "name": "Whitewalls",
@@ -1628,7 +1628,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99926",
+        "_id": "5cad9816b0c0ef00108e614b",
         "founder": [],
         "location": "The North",
         "name": "Widow's Watch",
@@ -1640,7 +1640,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99927",
+        "_id": "5cad9816b0c0ef00108e614c",
         "age": 8000,
         "founder": [
             "Brandon Stark (the Builder)"
@@ -1659,7 +1659,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99928",
+        "_id": "5cad9816b0c0ef00108e614d",
         "founder": [],
         "location": "Dorne",
         "name": "Wyl (castle)",
@@ -1671,7 +1671,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca51cb877bb0010e99929",
+        "_id": "5cad9816b0c0ef00108e614e",
         "founder": [],
         "location": "Dorne",
         "name": "Yronwood",

@@ -1,7 +1,7 @@
 [
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010badde3",
+        "_id": "5cad97ffb0c0ef00108e5eb0",
         "characters": [
             "Will",
             "Waymar Royce",
@@ -54,7 +54,7 @@
             "Jorah Mormont",
             "Mago"
         ],
-        "createdAt": "2019-04-10T07:05:04.005Z",
+        "createdAt": "2019-04-10T07:15:11.668Z",
         "deaths": [
             "Waymar Royce",
             "Gared",
@@ -76,7 +76,7 @@
         "runtime": 62,
         "season": 1,
         "title": "Winter Is Coming",
-        "updatedAt": "2019-04-10T07:05:04.005Z",
+        "updatedAt": "2019-04-10T07:15:11.668Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -84,7 +84,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010badde4",
+        "_id": "5cad97ffb0c0ef00108e5eb1",
         "characters": [
             "Doreah",
             "Irri",
@@ -95,7 +95,7 @@
             "Mycah",
             "Lannister guardsman"
         ],
-        "createdAt": "2019-04-10T07:05:04.006Z",
+        "createdAt": "2019-04-10T07:15:11.669Z",
         "deaths": [
             "Catspaw assassin",
             "Mycah",
@@ -114,7 +114,7 @@
         "runtime": 56,
         "season": 1,
         "title": "The Kingsroad",
-        "updatedAt": "2019-04-10T07:05:04.006Z",
+        "updatedAt": "2019-04-10T07:15:11.669Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -122,7 +122,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010badde5",
+        "_id": "5cad97ffb0c0ef00108e5eb2",
         "characters": [
             "Royal Steward",
             "Petyr Baelish",
@@ -145,7 +145,7 @@
             "Aemon",
             "Syrio Forel"
         ],
-        "createdAt": "2019-04-10T07:05:04.007Z",
+        "createdAt": "2019-04-10T07:15:11.669Z",
         "deaths": [],
         "directed_by": "Brian Kirk",
         "episode": 3,
@@ -161,7 +161,7 @@
         "runtime": 58,
         "season": 1,
         "title": "Lord Snow",
-        "updatedAt": "2019-04-10T07:05:04.007Z",
+        "updatedAt": "2019-04-10T07:15:11.669Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -169,7 +169,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010badde6",
+        "_id": "5cad97ffb0c0ef00108e5eb3",
         "characters": [
             "Samwell Tarly",
             "Janos Slynt",
@@ -185,7 +185,7 @@
             "Kurleket",
             "Knight of House Frey"
         ],
-        "createdAt": "2019-04-10T07:05:04.008Z",
+        "createdAt": "2019-04-10T07:15:11.670Z",
         "deaths": [
             "Hugh"
         ],
@@ -204,14 +204,14 @@
         "runtime": 56,
         "season": 1,
         "title": "Cripples, Bastards, and Broken Things",
-        "updatedAt": "2019-04-10T07:05:04.008Z",
+        "updatedAt": "2019-04-10T07:15:11.670Z",
         "written_by": [
             "Bryan Cogman"
         ]
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010badde7",
+        "_id": "5cad97ffb0c0ef00108e5eb4",
         "characters": [
             "Loras Tyrell",
             "Joss Stilwood",
@@ -224,7 +224,7 @@
             "Heward",
             "Mord"
         ],
-        "createdAt": "2019-04-10T07:05:04.009Z",
+        "createdAt": "2019-04-10T07:15:11.670Z",
         "deaths": [
             "Kurleket",
             "Willis Wode",
@@ -245,7 +245,7 @@
         "runtime": 55,
         "season": 1,
         "title": "The Wolf and the Lion",
-        "updatedAt": "2019-04-10T07:05:04.009Z",
+        "updatedAt": "2019-04-10T07:15:11.670Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -253,7 +253,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010badde8",
+        "_id": "5cad97ffb0c0ef00108e5eb5",
         "characters": [
             "Osha",
             "Stiv",
@@ -265,7 +265,7 @@
             "Steffon",
             "Joss"
         ],
-        "createdAt": "2019-04-10T07:05:04.009Z",
+        "createdAt": "2019-04-10T07:15:11.670Z",
         "deaths": [
             "Wallen",
             "Stiv",
@@ -286,7 +286,7 @@
         "runtime": 53,
         "season": 1,
         "title": "A Golden Crown",
-        "updatedAt": "2019-04-10T07:05:04.009Z",
+        "updatedAt": "2019-04-10T07:15:11.670Z",
         "written_by": [
             "Jane Espenson, David Benioff",
             "D.B. Weiss"
@@ -294,7 +294,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010badde9",
+        "_id": "5cad97ffb0c0ef00108e5eb6",
         "characters": [
             "Tywin Lannister",
             "Armeca",
@@ -326,7 +326,7 @@
             "Clydas",
             "Varly"
         ],
-        "createdAt": "2019-04-10T07:05:04.010Z",
+        "createdAt": "2019-04-10T07:15:11.671Z",
         "deaths": [
             "Robert Baratheon",
             "Varly"
@@ -346,7 +346,7 @@
         "runtime": 58,
         "season": 1,
         "title": "You Win or You Die",
-        "updatedAt": "2019-04-10T07:05:04.010Z",
+        "updatedAt": "2019-04-10T07:15:11.671Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -354,7 +354,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010baddea",
+        "_id": "5cad97ffb0c0ef00108e5eb7",
         "characters": [
             "Vayon Poole",
             "Meryn Trant",
@@ -370,7 +370,7 @@
             "Maege Mormont",
             "Aron Santagar"
         ],
-        "createdAt": "2019-04-10T07:05:04.011Z",
+        "createdAt": "2019-04-10T07:15:11.671Z",
         "deaths": [
             "Vayon Poole",
             "Mordane",
@@ -397,14 +397,14 @@
         "runtime": 59,
         "season": 1,
         "title": "The Pointy End",
-        "updatedAt": "2019-04-10T07:05:04.011Z",
+        "updatedAt": "2019-04-10T07:15:11.671Z",
         "written_by": [
             "George R.R. Martin"
         ]
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010baddeb",
+        "_id": "5cad97ffb0c0ef00108e5eb8",
         "characters": [
             "Walder Frey",
             "Leo Lefford",
@@ -414,7 +414,7 @@
             "Arwaya Frey",
             "Shae"
         ],
-        "createdAt": "2019-04-10T07:05:04.012Z",
+        "createdAt": "2019-04-10T07:15:11.672Z",
         "deaths": [
             "Qotho",
             "Eddard Stark"
@@ -433,7 +433,7 @@
         "runtime": 57,
         "season": 1,
         "title": "Baelor",
-        "updatedAt": "2019-04-10T07:05:04.012Z",
+        "updatedAt": "2019-04-10T07:15:11.672Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -441,7 +441,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010baddec",
+        "_id": "5cad97ffb0c0ef00108e5eb9",
         "characters": [
             "Rickard Karstark",
             "Jonos Bracken",
@@ -456,7 +456,7 @@
             "Viserion",
             "Rhaegal"
         ],
-        "createdAt": "2019-04-10T07:05:04.012Z",
+        "createdAt": "2019-04-10T07:15:11.672Z",
         "deaths": [
             "Rhaego",
             "Drogo",
@@ -477,7 +477,7 @@
         "runtime": 53,
         "season": 1,
         "title": "Fire and Blood",
-        "updatedAt": "2019-04-10T07:05:04.013Z",
+        "updatedAt": "2019-04-10T07:15:11.672Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -485,7 +485,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010badded",
+        "_id": "5cad97ffb0c0ef00108e5eba",
         "characters": [
             "Lothor Brune",
             "Dontos Hollard",
@@ -508,7 +508,7 @@
             "Stark Officer 2",
             "Daisy"
         ],
-        "createdAt": "2019-04-10T07:05:04.013Z",
+        "createdAt": "2019-04-10T07:15:11.673Z",
         "deaths": [
             "Silver",
             "Cressen",
@@ -531,7 +531,7 @@
         "runtime": 53,
         "season": 2,
         "title": "The North Remembers",
-        "updatedAt": "2019-04-10T07:05:04.013Z",
+        "updatedAt": "2019-04-10T07:15:11.673Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -539,7 +539,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010baddee",
+        "_id": "5cad97ffb0c0ef00108e5ebb",
         "characters": [
             "Jaqen H'ghar",
             "Rorge",
@@ -550,7 +550,7 @@
             "Yara Greyjoy",
             "Salladhor Saan"
         ],
-        "createdAt": "2019-04-10T07:05:04.014Z",
+        "createdAt": "2019-04-10T07:15:11.673Z",
         "deaths": [
             "Rakharo"
         ],
@@ -570,7 +570,7 @@
         "runtime": 54,
         "season": 2,
         "title": "The Night Lands",
-        "updatedAt": "2019-04-10T07:05:04.014Z",
+        "updatedAt": "2019-04-10T07:15:11.673Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -578,7 +578,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010baddef",
+        "_id": "5cad97ffb0c0ef00108e5ebc",
         "characters": [
             "Brienne of Tarth",
             "Margaery Tyrell",
@@ -587,7 +587,7 @@
             "Amory Lorch",
             "Polliver"
         ],
-        "createdAt": "2019-04-10T07:05:04.015Z",
+        "createdAt": "2019-04-10T07:15:11.673Z",
         "deaths": [
             "Yoren",
             "Lommy Greenhands"
@@ -609,14 +609,14 @@
         "runtime": 53,
         "season": 2,
         "title": "What Is Dead May Never Die",
-        "updatedAt": "2019-04-10T07:05:04.015Z",
+        "updatedAt": "2019-04-10T07:15:11.673Z",
         "written_by": [
             "Bryan Cogman"
         ]
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010baddf0",
+        "_id": "5cad97ffb0c0ef00108e5ebd",
         "characters": [
             "Rennick",
             "Lannister guardsman",
@@ -631,7 +631,7 @@
             "Xaro Xhoan Daxos",
             "Copper King"
         ],
-        "createdAt": "2019-04-10T07:05:04.015Z",
+        "createdAt": "2019-04-10T07:15:11.674Z",
         "deaths": [
             "Rennick",
             "Lannister guardsman",
@@ -653,14 +653,14 @@
         "runtime": 51,
         "season": 2,
         "title": "Garden of Bones",
-        "updatedAt": "2019-04-10T07:05:04.015Z",
+        "updatedAt": "2019-04-10T07:15:11.674Z",
         "written_by": [
             "Vanessa Taylor"
         ]
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010baddf1",
+        "_id": "5cad97ffb0c0ef00108e5ebe",
         "characters": [
             "Emmon Cuy",
             "Robar Royce",
@@ -676,7 +676,7 @@
             "Stonesnake",
             "Borba"
         ],
-        "createdAt": "2019-04-10T07:05:04.016Z",
+        "createdAt": "2019-04-10T07:15:11.674Z",
         "deaths": [
             "Renly Baratheon",
             "Emmon Cuy",
@@ -700,7 +700,7 @@
         "runtime": 55,
         "season": 2,
         "title": "The Ghost of Harrenhal",
-        "updatedAt": "2019-04-10T07:05:04.016Z",
+        "updatedAt": "2019-04-10T07:15:11.674Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -708,7 +708,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010baddf2",
+        "_id": "5cad97ffb0c0ef00108e5ebf",
         "characters": [
             "Farlen",
             "Palla",
@@ -717,7 +717,7 @@
             "Jacks",
             "Quent"
         ],
-        "createdAt": "2019-04-10T07:05:04.017Z",
+        "createdAt": "2019-04-10T07:15:11.675Z",
         "deaths": [
             "Rodrik Cassel",
             "High Septon",
@@ -745,16 +745,16 @@
         "runtime": 54,
         "season": 2,
         "title": "The Old Gods and the New",
-        "updatedAt": "2019-04-10T07:05:04.017Z",
+        "updatedAt": "2019-04-10T07:15:11.675Z",
         "written_by": [
             "Vanessa Taylor"
         ]
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010baddf3",
+        "_id": "5cad97ffb0c0ef00108e5ec0",
         "characters": [],
-        "createdAt": "2019-04-10T07:05:04.018Z",
+        "createdAt": "2019-04-10T07:15:11.675Z",
         "deaths": [
             "Alton Lannister",
             "Torrhen Karstark",
@@ -785,7 +785,7 @@
         "runtime": 56,
         "season": 2,
         "title": "A Man Without Honor",
-        "updatedAt": "2019-04-10T07:05:04.018Z",
+        "updatedAt": "2019-04-10T07:15:11.675Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -793,11 +793,11 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010baddf4",
+        "_id": "5cad97ffb0c0ef00108e5ec1",
         "characters": [
             "Lord of Bones"
         ],
-        "createdAt": "2019-04-10T07:05:04.018Z",
+        "createdAt": "2019-04-10T07:15:11.676Z",
         "deaths": [
             "Borba",
             "Harker",
@@ -822,7 +822,7 @@
         "runtime": 54,
         "season": 2,
         "title": "The Prince of Winterfell",
-        "updatedAt": "2019-04-10T07:05:04.018Z",
+        "updatedAt": "2019-04-10T07:15:11.676Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -830,13 +830,13 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010baddf5",
+        "_id": "5cad97ffb0c0ef00108e5ec2",
         "characters": [
             "Boros Blount",
             "Imry Florent",
             "Baratheon Officer"
         ],
-        "createdAt": "2019-04-10T07:05:04.019Z",
+        "createdAt": "2019-04-10T07:15:11.676Z",
         "deaths": [
             "Matthos Seaworth",
             "Baratheon Officer",
@@ -855,21 +855,21 @@
         "runtime": 55,
         "season": 2,
         "title": "Blackwater",
-        "updatedAt": "2019-04-10T07:05:04.019Z",
+        "updatedAt": "2019-04-10T07:15:11.676Z",
         "written_by": [
             "George R.R. Martin"
         ]
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010baddf6",
+        "_id": "5cad97ffb0c0ef00108e5ec3",
         "characters": [
             "Gelmarr",
             "Stygg",
             "Rhaego",
             "Tom"
         ],
-        "createdAt": "2019-04-10T07:05:04.020Z",
+        "createdAt": "2019-04-10T07:15:11.677Z",
         "deaths": [
             "Tom",
             "Maester",
@@ -895,7 +895,7 @@
         "runtime": 64,
         "season": 2,
         "title": "Valar Morghulis",
-        "updatedAt": "2019-04-10T07:05:04.020Z",
+        "updatedAt": "2019-04-10T07:15:11.677Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -903,7 +903,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010baddf7",
+        "_id": "5cad97ffb0c0ef00108e5ec4",
         "characters": [
             "Dongo",
             "Tormund Giantsbane",
@@ -919,7 +919,7 @@
             "Unsullied",
             "Unidentified Warlock"
         ],
-        "createdAt": "2019-04-10T07:05:04.021Z",
+        "createdAt": "2019-04-10T07:15:11.677Z",
         "deaths": [
             "Jaremy Mallister"
         ],
@@ -938,7 +938,7 @@
         "runtime": 55,
         "season": 3,
         "title": "Valar Dohaeris",
-        "updatedAt": "2019-04-10T07:05:04.021Z",
+        "updatedAt": "2019-04-10T07:15:11.677Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -946,7 +946,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010baddf8",
+        "_id": "5cad97ffb0c0ef00108e5ec5",
         "characters": [
             "Jojen Reed",
             "Riverrun traveller",
@@ -962,7 +962,7 @@
             "Ramsay Snow",
             "Locke"
         ],
-        "createdAt": "2019-04-10T07:05:04.021Z",
+        "createdAt": "2019-04-10T07:15:11.677Z",
         "deaths": [
             "Hoster Tully"
         ],
@@ -981,14 +981,14 @@
         "runtime": 57,
         "season": 3,
         "title": "Dark Wings, Dark Words",
-        "updatedAt": "2019-04-10T07:05:04.021Z",
+        "updatedAt": "2019-04-10T07:15:11.677Z",
         "written_by": [
             "Vanessa Taylor"
         ]
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010baddf9",
+        "_id": "5cad97ffb0c0ef00108e5ec6",
         "characters": [
             "Hoster Tully",
             "Brynden \"The Blackfish\" Tully",
@@ -1003,7 +1003,7 @@
             "Genna",
             "Kayla"
         ],
-        "createdAt": "2019-04-10T07:05:04.022Z",
+        "createdAt": "2019-04-10T07:15:11.678Z",
         "deaths": [
             "Master Torturer"
         ],
@@ -1024,7 +1024,7 @@
         "runtime": 57,
         "season": 3,
         "title": "Walk of Punishment",
-        "updatedAt": "2019-04-10T07:05:04.022Z",
+        "updatedAt": "2019-04-10T07:15:11.678Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -1032,13 +1032,13 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010baddfa",
+        "_id": "5cad97ffb0c0ef00108e5ec7",
         "characters": [
             "Sorcerer",
             "Bolton soldier",
             "Tyrell lady"
         ],
-        "createdAt": "2019-04-10T07:05:04.023Z",
+        "createdAt": "2019-04-10T07:15:11.678Z",
         "deaths": [
             "Bannen",
             "Craster",
@@ -1061,7 +1061,7 @@
         "runtime": 57,
         "season": 3,
         "title": "And Now His Watch Is Ended",
-        "updatedAt": "2019-04-10T07:05:04.023Z",
+        "updatedAt": "2019-04-10T07:15:11.678Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -1069,7 +1069,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010baddfb",
+        "_id": "5cad97ffb0c0ef00108e5ec8",
         "characters": [
             "Karstark lookout",
             "Petyr Baratheon",
@@ -1079,7 +1079,7 @@
             "Grey Worm",
             "Olyvar"
         ],
-        "createdAt": "2019-04-10T07:05:04.024Z",
+        "createdAt": "2019-04-10T07:15:11.679Z",
         "deaths": [
             "Beric Dondarrion",
             "Willem Lannister",
@@ -1102,19 +1102,19 @@
         "runtime": 57,
         "season": 3,
         "title": "Kissed by Fire",
-        "updatedAt": "2019-04-10T07:05:04.024Z",
+        "updatedAt": "2019-04-10T07:15:11.679Z",
         "written_by": [
             "Bryan Cogman"
         ]
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010baddfc",
+        "_id": "5cad97ffb0c0ef00108e5ec9",
         "characters": [
             "Lothar Frey",
             "Black Walder Rivers"
         ],
-        "createdAt": "2019-04-10T07:05:04.024Z",
+        "createdAt": "2019-04-10T07:15:11.679Z",
         "deaths": [
             "Ros"
         ],
@@ -1132,7 +1132,7 @@
         "runtime": 57,
         "season": 3,
         "title": "The Climb",
-        "updatedAt": "2019-04-10T07:05:04.024Z",
+        "updatedAt": "2019-04-10T07:15:11.679Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -1140,7 +1140,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010baddfd",
+        "_id": "5cad97ffb0c0ef00108e5eca",
         "characters": [
             "Razdal mo Eraz",
             "Myranda",
@@ -1148,7 +1148,7 @@
             "Steelshanks",
             "Balon Swann"
         ],
-        "createdAt": "2019-04-10T07:05:04.025Z",
+        "createdAt": "2019-04-10T07:15:11.680Z",
         "deaths": [],
         "directed_by": "Michelle MacLaren",
         "episode": 7,
@@ -1165,21 +1165,21 @@
         "runtime": 57,
         "season": 3,
         "title": "The Bear and the Maiden Fair",
-        "updatedAt": "2019-04-10T07:05:04.025Z",
+        "updatedAt": "2019-04-10T07:15:11.680Z",
         "written_by": [
             "George R.R. Martin"
         ]
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010baddfe",
+        "_id": "5cad97ffb0c0ef00108e5ecb",
         "characters": [
             "Daario Naharis",
             "Mero",
             "Prendahl na Ghezn",
             "High Septon"
         ],
-        "createdAt": "2019-04-10T07:05:04.026Z",
+        "createdAt": "2019-04-10T07:15:11.680Z",
         "deaths": [
             "Mero",
             "Prendahl na Ghezn",
@@ -1200,7 +1200,7 @@
         "runtime": 57,
         "season": 3,
         "title": "Second Sons",
-        "updatedAt": "2019-04-10T07:05:04.026Z",
+        "updatedAt": "2019-04-10T07:15:11.680Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -1208,7 +1208,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010baddff",
+        "_id": "5cad97ffb0c0ef00108e5ecc",
         "characters": [
             "Walda Frey",
             "Arwaya Frey",
@@ -1229,7 +1229,7 @@
             "Roslin Frey",
             "Drummer"
         ],
-        "createdAt": "2019-04-10T07:05:04.027Z",
+        "createdAt": "2019-04-10T07:15:11.680Z",
         "deaths": [
             "Old man",
             "Orell",
@@ -1255,7 +1255,7 @@
         "runtime": 57,
         "season": 3,
         "title": "The Rains of Castamere",
-        "updatedAt": "2019-04-10T07:05:04.027Z",
+        "updatedAt": "2019-04-10T07:15:11.680Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -1263,7 +1263,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade00",
+        "_id": "5cad97ffb0c0ef00108e5ecd",
         "characters": [
             "Frey soldier #1",
             "Frey soldier #2",
@@ -1277,7 +1277,7 @@
             "Yunkai'i slave #4",
             "Yunkai'i slave #5"
         ],
-        "createdAt": "2019-04-10T07:05:04.027Z",
+        "createdAt": "2019-04-10T07:15:11.681Z",
         "deaths": [],
         "directed_by": "David Nutter",
         "episode": 10,
@@ -1297,7 +1297,7 @@
         "runtime": 63,
         "season": 3,
         "title": "Mhysa",
-        "updatedAt": "2019-04-10T07:05:04.027Z",
+        "updatedAt": "2019-04-10T07:15:11.681Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -1305,7 +1305,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade01",
+        "_id": "5cad97ffb0c0ef00108e5ece",
         "characters": [
             "Oberyn Martell",
             "Ellaria Sand",
@@ -1317,7 +1317,7 @@
             "Thenn Warg",
             "Lowell"
         ],
-        "createdAt": "2019-04-10T07:05:04.028Z",
+        "createdAt": "2019-04-10T07:15:11.681Z",
         "deaths": [
             "Lowell",
             "Polliver"
@@ -1339,7 +1339,7 @@
         "runtime": 59,
         "season": 4,
         "title": "Two Swords",
-        "updatedAt": "2019-04-10T07:05:04.028Z",
+        "updatedAt": "2019-04-10T07:15:11.681Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -1347,7 +1347,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade02",
+        "_id": "5cad97ffb0c0ef00108e5ecf",
         "characters": [
             "Tansy",
             "Axell Florent",
@@ -1359,7 +1359,7 @@
             "Dwarf 4",
             "Dwarf 5"
         ],
-        "createdAt": "2019-04-10T07:05:04.029Z",
+        "createdAt": "2019-04-10T07:15:11.682Z",
         "deaths": [
             "Tansy",
             "Axell Florent",
@@ -1381,14 +1381,14 @@
         "runtime": 53,
         "season": 4,
         "title": "The Lion and the Rose",
-        "updatedAt": "2019-04-10T07:05:04.029Z",
+        "updatedAt": "2019-04-10T07:15:11.682Z",
         "written_by": [
             "George R.R. Martin"
         ]
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade03",
+        "_id": "5cad97ffb0c0ef00108e5ed0",
         "characters": [
             "Farmer",
             "Sally",
@@ -1406,7 +1406,7 @@
             "Slave",
             "Slave master"
         ],
-        "createdAt": "2019-04-10T07:05:04.030Z",
+        "createdAt": "2019-04-10T07:15:11.682Z",
         "deaths": [
             "Dontos Hollard",
             "Guymon",
@@ -1429,7 +1429,7 @@
         "runtime": 57,
         "season": 4,
         "title": "Breaker of Chains",
-        "updatedAt": "2019-04-10T07:05:04.030Z",
+        "updatedAt": "2019-04-10T07:15:11.682Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -1437,7 +1437,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade04",
+        "_id": "5cad97ffb0c0ef00108e5ed1",
         "characters": [
             "Ser Pounce",
             "Morag",
@@ -1446,7 +1446,7 @@
             "Night King",
             "Mossador"
         ],
-        "createdAt": "2019-04-10T07:05:04.030Z",
+        "createdAt": "2019-04-10T07:15:11.683Z",
         "deaths": [],
         "directed_by": "Michelle MacLaren",
         "episode": 4,
@@ -1466,18 +1466,18 @@
         "runtime": 56,
         "season": 4,
         "title": "Oathkeeper",
-        "updatedAt": "2019-04-10T07:05:04.030Z",
+        "updatedAt": "2019-04-10T07:15:11.683Z",
         "written_by": [
             "Bryan Cogman"
         ]
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade05",
+        "_id": "5cad97ffb0c0ef00108e5ed2",
         "characters": [
             "Donnel Waynwood"
         ],
-        "createdAt": "2019-04-10T07:05:04.031Z",
+        "createdAt": "2019-04-10T07:15:11.683Z",
         "deaths": [
             "Mutineers",
             "Karl",
@@ -1501,7 +1501,7 @@
         "runtime": 54,
         "season": 4,
         "title": "First of His Name",
-        "updatedAt": "2019-04-10T07:05:04.031Z",
+        "updatedAt": "2019-04-10T07:15:11.683Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -1509,13 +1509,13 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade06",
+        "_id": "5cad97ffb0c0ef00108e5ed3",
         "characters": [
             "Tycho Nestoris",
             "Lhara",
             "Goatherd"
         ],
-        "createdAt": "2019-04-10T07:05:04.032Z",
+        "createdAt": "2019-04-10T07:15:11.683Z",
         "deaths": [],
         "directed_by": "Alik Sakharov",
         "episode": 6,
@@ -1533,18 +1533,18 @@
         "runtime": 51,
         "season": 4,
         "title": "The Laws of Gods and Men",
-        "updatedAt": "2019-04-10T07:05:04.032Z",
+        "updatedAt": "2019-04-10T07:15:11.684Z",
         "written_by": [
             "Bryan Cogman"
         ]
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade07",
+        "_id": "5cad97ffb0c0ef00108e5ed4",
         "characters": [
             "Dying man"
         ],
-        "createdAt": "2019-04-10T07:05:04.033Z",
+        "createdAt": "2019-04-10T07:15:11.684Z",
         "deaths": [
             "Dying man",
             "Biter",
@@ -1569,7 +1569,7 @@
         "runtime": 52,
         "season": 4,
         "title": "Mockingbird",
-        "updatedAt": "2019-04-10T07:05:04.033Z",
+        "updatedAt": "2019-04-10T07:15:11.684Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -1577,7 +1577,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade08",
+        "_id": "5cad97ffb0c0ef00108e5ed5",
         "characters": [
             "Kegs",
             "Black Jack Bulwer",
@@ -1589,7 +1589,7 @@
             "Vance Corbray",
             "Daemon Sand"
         ],
-        "createdAt": "2019-04-10T07:05:04.034Z",
+        "createdAt": "2019-04-10T07:15:11.684Z",
         "deaths": [
             "Kegs",
             "Black Jack Bulwer",
@@ -1614,7 +1614,7 @@
         "runtime": 53,
         "season": 4,
         "title": "The Mountain and the Viper",
-        "updatedAt": "2019-04-10T07:05:04.034Z",
+        "updatedAt": "2019-04-10T07:15:11.684Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -1622,7 +1622,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade09",
+        "_id": "5cad97ffb0c0ef00108e5ed6",
         "characters": [
             "Mag Mar Tun Doh Weg",
             "Cooper",
@@ -1630,7 +1630,7 @@
             "Hobb",
             "Smitty"
         ],
-        "createdAt": "2019-04-10T07:05:04.035Z",
+        "createdAt": "2019-04-10T07:15:11.685Z",
         "deaths": [
             "Dongo",
             "Smitty",
@@ -1656,7 +1656,7 @@
         "runtime": 51,
         "season": 4,
         "title": "The Watchers on the Wall",
-        "updatedAt": "2019-04-10T07:05:04.035Z",
+        "updatedAt": "2019-04-10T07:15:11.685Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -1664,7 +1664,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade0a",
+        "_id": "5cad97ffb0c0ef00108e5ed7",
         "characters": [
             "Kullback",
             "Fennesz",
@@ -1675,7 +1675,7 @@
             "Ternesio Terys",
             "Child of the Forest"
         ],
-        "createdAt": "2019-04-10T07:05:04.036Z",
+        "createdAt": "2019-04-10T07:15:11.685Z",
         "deaths": [
             "Zalla",
             "Jojen Reed",
@@ -1699,7 +1699,7 @@
         "runtime": 66,
         "season": 4,
         "title": "The Children",
-        "updatedAt": "2019-04-10T07:05:04.036Z",
+        "updatedAt": "2019-04-10T07:15:11.685Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -1707,7 +1707,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade0b",
+        "_id": "5cad97ffb0c0ef00108e5ed8",
         "characters": [
             "Melara Hetherspoon",
             "Maggy",
@@ -1716,7 +1716,7 @@
             "Bowen Marsh",
             "Samwell Stone"
         ],
-        "createdAt": "2019-04-10T07:05:04.039Z",
+        "createdAt": "2019-04-10T07:15:11.686Z",
         "deaths": [
             "White Rat",
             "Mance Rayder"
@@ -1737,7 +1737,7 @@
         "runtime": 53,
         "season": 5,
         "title": "The Wars To Come",
-        "updatedAt": "2019-04-10T07:05:04.039Z",
+        "updatedAt": "2019-04-10T07:15:11.686Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -1745,7 +1745,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade0c",
+        "_id": "5cad97ffb0c0ef00108e5ed9",
         "characters": [
             "Areo Hotah",
             "Denys Mallister",
@@ -1753,7 +1753,7 @@
             "Trystane Martell",
             "Lollys Stokeworth"
         ],
-        "createdAt": "2019-04-10T07:05:04.040Z",
+        "createdAt": "2019-04-10T07:15:11.686Z",
         "deaths": [
             "Dwarf",
             "Son of the Harpy",
@@ -1778,7 +1778,7 @@
         "runtime": 56,
         "season": 5,
         "title": "The House of Black and White",
-        "updatedAt": "2019-04-10T07:05:04.040Z",
+        "updatedAt": "2019-04-10T07:15:11.686Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -1786,7 +1786,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade0d",
+        "_id": "5cad97ffb0c0ef00108e5eda",
         "characters": [
             "Medger Cerwyn",
             "Waif",
@@ -1794,7 +1794,7 @@
             "Red Priestess",
             "Clea"
         ],
-        "createdAt": "2019-04-10T07:05:04.040Z",
+        "createdAt": "2019-04-10T07:15:11.687Z",
         "deaths": [
             "Despondent man",
             "Medger Cerwyn",
@@ -1818,7 +1818,7 @@
         "runtime": 60,
         "season": 5,
         "title": "High Sparrow",
-        "updatedAt": "2019-04-10T07:05:04.040Z",
+        "updatedAt": "2019-04-10T07:15:11.687Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -1826,7 +1826,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade0e",
+        "_id": "5cad97ffb0c0ef00108e5edb",
         "characters": [
             "Boake",
             "Merchant captain",
@@ -1835,7 +1835,7 @@
             "Nymeria Sand",
             "Tyene Sand"
         ],
-        "createdAt": "2019-04-10T07:05:04.041Z",
+        "createdAt": "2019-04-10T07:15:11.687Z",
         "deaths": [
             "Lead Dornish Guard",
             "Merchant captain",
@@ -1857,20 +1857,20 @@
         "runtime": 51,
         "season": 5,
         "title": "Sons of the Harpy",
-        "updatedAt": "2019-04-10T07:05:04.041Z",
+        "updatedAt": "2019-04-10T07:15:11.687Z",
         "written_by": [
             "Dave Hill"
         ]
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade0f",
+        "_id": "5cad97ffb0c0ef00108e5edc",
         "characters": [
             "Stone men",
             "Eaton",
             "Elboneno"
         ],
-        "createdAt": "2019-04-10T07:05:04.042Z",
+        "createdAt": "2019-04-10T07:15:11.687Z",
         "deaths": [
             "Eaton"
         ],
@@ -1888,20 +1888,20 @@
         "runtime": 57,
         "season": 5,
         "title": "Kill the Boy",
-        "updatedAt": "2019-04-10T07:05:04.042Z",
+        "updatedAt": "2019-04-10T07:15:11.687Z",
         "written_by": [
             "Bryan Cogman"
         ]
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade10",
+        "_id": "5cad97ffb0c0ef00108e5edd",
         "characters": [
             "Joss",
             "Ghita",
             "Malko"
         ],
-        "createdAt": "2019-04-10T07:05:04.042Z",
+        "createdAt": "2019-04-10T07:15:11.688Z",
         "deaths": [
             "Ghita"
         ],
@@ -1923,14 +1923,14 @@
         "runtime": 54,
         "season": 5,
         "title": "Unbowed, Unbent, Unbroken",
-        "updatedAt": "2019-04-10T07:05:04.042Z",
+        "updatedAt": "2019-04-10T07:15:11.688Z",
         "written_by": [
             "Bryan Cogman"
         ]
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade11",
+        "_id": "5cad97ffb0c0ef00108e5ede",
         "characters": [
             "Brant",
             "Derek",
@@ -1942,7 +1942,7 @@
             "Moelle",
             "Scolera"
         ],
-        "createdAt": "2019-04-10T07:05:04.043Z",
+        "createdAt": "2019-04-10T07:15:11.688Z",
         "deaths": [
             "Aemon",
             "Old woman"
@@ -1963,7 +1963,7 @@
         "runtime": 59,
         "season": 5,
         "title": "The Gift",
-        "updatedAt": "2019-04-10T07:05:04.043Z",
+        "updatedAt": "2019-04-10T07:15:11.688Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -1971,7 +1971,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade12",
+        "_id": "5cad97ffb0c0ef00108e5edf",
         "characters": [
             "Thin Man",
             "Karsi",
@@ -1983,7 +1983,7 @@
             "Willa",
             "Dim Dalba"
         ],
-        "createdAt": "2019-04-10T07:05:04.044Z",
+        "createdAt": "2019-04-10T07:15:11.689Z",
         "deaths": [
             "Lord of Bones",
             "Loboda",
@@ -2007,7 +2007,7 @@
         "runtime": 60,
         "season": 5,
         "title": "Hardhome",
-        "updatedAt": "2019-04-10T07:05:04.044Z",
+        "updatedAt": "2019-04-10T07:15:11.689Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -2015,7 +2015,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade13",
+        "_id": "5cad97ffb0c0ef00108e5ee0",
         "characters": [
             "Brusco",
             "Braavosi madam",
@@ -2023,7 +2023,7 @@
             "Anara",
             "Aya"
         ],
-        "createdAt": "2019-04-10T07:05:04.044Z",
+        "createdAt": "2019-04-10T07:15:11.689Z",
         "deaths": [
             "Shireen Baratheon",
             "Dothraki pit fighter",
@@ -2049,7 +2049,7 @@
         "runtime": 53,
         "season": 5,
         "title": "The Dance of Dragons",
-        "updatedAt": "2019-04-10T07:05:04.044Z",
+        "updatedAt": "2019-04-10T07:15:11.689Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -2057,12 +2057,12 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade14",
+        "_id": "5cad97ffb0c0ef00108e5ee1",
         "characters": [
             "Gordy",
             "Simpson"
         ],
-        "createdAt": "2019-04-10T07:05:04.045Z",
+        "createdAt": "2019-04-10T07:15:11.690Z",
         "deaths": [
             "Selyse Baratheon",
             "Baratheon General",
@@ -2096,7 +2096,7 @@
         "runtime": 61,
         "season": 5,
         "title": "Mother's Mercy",
-        "updatedAt": "2019-04-10T07:05:04.045Z",
+        "updatedAt": "2019-04-10T07:15:11.690Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -2104,7 +2104,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade15",
+        "_id": "5cad97ffb0c0ef00108e5ee2",
         "characters": [
             "Maester",
             "Maester",
@@ -2116,7 +2116,7 @@
             "Khal Moro's 2nd wife",
             "Zanrush"
         ],
-        "createdAt": "2019-04-10T07:05:04.046Z",
+        "createdAt": "2019-04-10T07:15:11.690Z",
         "deaths": [
             "Bolton Officer",
             "Areo Hotah",
@@ -2145,7 +2145,7 @@
         "runtime": 50,
         "season": 6,
         "title": "The Red Woman",
-        "updatedAt": "2019-04-10T07:05:04.046Z",
+        "updatedAt": "2019-04-10T07:15:11.690Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -2153,7 +2153,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade16",
+        "_id": "5cad97ffb0c0ef00108e5ee3",
         "characters": [
             "King's Landing boaster",
             "Lyanna Stark",
@@ -2162,7 +2162,7 @@
             "Euron Greyjoy",
             "Aeron Greyjoy"
         ],
-        "createdAt": "2019-04-10T07:05:04.047Z",
+        "createdAt": "2019-04-10T07:15:11.691Z",
         "deaths": [
             "Roose Bolton",
             "Walda Bolton",
@@ -2189,14 +2189,14 @@
         "runtime": 54,
         "season": 6,
         "title": "Home",
-        "updatedAt": "2019-04-10T07:05:04.047Z",
+        "updatedAt": "2019-04-10T07:15:11.691Z",
         "written_by": [
             "Dave Hill"
         ]
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade17",
+        "_id": "5cad97ffb0c0ef00108e5ee4",
         "characters": [
             "Arthur Dayne",
             "Gerold Hightower",
@@ -2205,7 +2205,7 @@
             "High Priestess of the Dosh Khaleen",
             "Ornela"
         ],
-        "createdAt": "2019-04-10T07:05:04.048Z",
+        "createdAt": "2019-04-10T07:15:11.691Z",
         "deaths": [
             "Arthur Dayne",
             "Gerold Hightower",
@@ -2238,7 +2238,7 @@
         "runtime": 53,
         "season": 6,
         "title": "Oathbreaker",
-        "updatedAt": "2019-04-10T07:05:04.048Z",
+        "updatedAt": "2019-04-10T07:15:11.691Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -2246,7 +2246,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade18",
+        "_id": "5cad97ffb0c0ef00108e5ee5",
         "characters": [
             "Belicho Paenymion",
             "Ash",
@@ -2257,7 +2257,7 @@
             "Brozho",
             "Qorro"
         ],
-        "createdAt": "2019-04-10T07:05:04.053Z",
+        "createdAt": "2019-04-10T07:15:11.691Z",
         "deaths": [
             "Iggo",
             "Akho",
@@ -2288,7 +2288,7 @@
         "runtime": 59,
         "season": 6,
         "title": "Book of the Stranger",
-        "updatedAt": "2019-04-10T07:05:04.053Z",
+        "updatedAt": "2019-04-10T07:15:11.691Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -2296,7 +2296,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade19",
+        "_id": "5cad97ffb0c0ef00108e5ee6",
         "characters": [
             "Izembaro",
             "Clarenzo",
@@ -2307,7 +2307,7 @@
             "Kinvara",
             "Rickard Stark"
         ],
-        "createdAt": "2019-04-10T07:05:04.054Z",
+        "createdAt": "2019-04-10T07:15:11.692Z",
         "deaths": [
             "White Walker",
             "Summer",
@@ -2341,7 +2341,7 @@
         "runtime": 57,
         "season": 6,
         "title": "The Door",
-        "updatedAt": "2019-04-10T07:05:04.054Z",
+        "updatedAt": "2019-04-10T07:15:11.692Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -2349,7 +2349,7 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade1a",
+        "_id": "5cad97ffb0c0ef00108e5ee7",
         "characters": [
             "Aerys II Targaryen",
             "Melessa Tarly",
@@ -2359,7 +2359,7 @@
             "Tyrell bannerman",
             "Kitty Frey"
         ],
-        "createdAt": "2019-04-10T07:05:04.054Z",
+        "createdAt": "2019-04-10T07:15:11.692Z",
         "deaths": [
             "Aerys II Targaryen"
         ],
@@ -2387,14 +2387,14 @@
         "runtime": 52,
         "season": 6,
         "title": "Blood of My Blood",
-        "updatedAt": "2019-04-10T07:05:04.054Z",
+        "updatedAt": "2019-04-10T07:15:11.692Z",
         "written_by": [
             "Bryan Cogman"
         ]
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade1b",
+        "_id": "5cad97ffb0c0ef00108e5ee8",
         "characters": [
             "Ray",
             "Lyanna Mormont",
@@ -2404,7 +2404,7 @@
             "Morgan",
             "Gatins"
         ],
-        "createdAt": "2019-04-10T07:05:04.055Z",
+        "createdAt": "2019-04-10T07:15:11.693Z",
         "deaths": [
             "Maege Mormont",
             "Ray"
@@ -2433,14 +2433,14 @@
         "runtime": 51,
         "season": 6,
         "title": "The Broken Man",
-        "updatedAt": "2019-04-10T07:05:04.055Z",
+        "updatedAt": "2019-04-10T07:15:11.693Z",
         "written_by": [
             "Bryan Cogman"
         ]
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade1c",
+        "_id": "5cad97ffb0c0ef00108e5ee9",
         "characters": [
             "Steve",
             "Riddell",
@@ -2448,7 +2448,7 @@
             "Lannister soldier",
             "Tully Bannerman"
         ],
-        "createdAt": "2019-04-10T07:05:04.055Z",
+        "createdAt": "2019-04-10T07:15:11.693Z",
         "deaths": [
             "Steve",
             "Riddell",
@@ -2484,7 +2484,7 @@
         "runtime": 59,
         "season": 6,
         "title": "No One",
-        "updatedAt": "2019-04-10T07:05:04.055Z",
+        "updatedAt": "2019-04-10T07:15:11.693Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -2492,12 +2492,12 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade1d",
+        "_id": "5cad97ffb0c0ef00108e5eea",
         "characters": [
             "Bolton general",
             "Captain of the Bolton archers"
         ],
-        "createdAt": "2019-04-10T07:05:04.058Z",
+        "createdAt": "2019-04-10T07:15:11.694Z",
         "deaths": [
             "Belicho Paenymion",
             "Razdal mo Eraz",
@@ -2523,7 +2523,7 @@
         "runtime": 60,
         "season": 6,
         "title": "Battle of the Bastards",
-        "updatedAt": "2019-04-10T07:05:04.058Z",
+        "updatedAt": "2019-04-10T07:15:11.694Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -2531,13 +2531,13 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade1e",
+        "_id": "5cad97ffb0c0ef00108e5eeb",
         "characters": [
             "Citadel maester",
             "Cley Cerwyn",
             "Wyman Manderly"
         ],
-        "createdAt": "2019-04-10T07:05:04.058Z",
+        "createdAt": "2019-04-10T07:15:11.694Z",
         "deaths": [
             "Pycelle",
             "Lancel Lannister",
@@ -2578,7 +2578,7 @@
         "runtime": 68,
         "season": 6,
         "title": "The Winds of Winter",
-        "updatedAt": "2019-04-10T07:05:04.058Z",
+        "updatedAt": "2019-04-10T07:15:11.694Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -2586,13 +2586,13 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade1f",
+        "_id": "5cad97ffb0c0ef00108e5eec",
         "characters": [
             "Ned Umber",
             "Alys Karstark",
             "Archmaester"
         ],
-        "createdAt": "2019-04-10T07:05:04.059Z",
+        "createdAt": "2019-04-10T07:15:11.695Z",
         "deaths": [
             "Harald Karstark",
             "Sally",
@@ -2624,7 +2624,7 @@
         "runtime": 59,
         "season": 7,
         "title": "Dragonstone",
-        "updatedAt": "2019-04-10T07:05:04.059Z",
+        "updatedAt": "2019-04-10T07:15:11.695Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -2632,11 +2632,11 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade20",
+        "_id": "5cad97ffb0c0ef00108e5eed",
         "characters": [
             "Harrag"
         ],
-        "createdAt": "2019-04-10T07:05:04.059Z",
+        "createdAt": "2019-04-10T07:15:11.695Z",
         "deaths": [
             "Obara Sand",
             "Nymeria Sand",
@@ -2667,18 +2667,18 @@
         "runtime": 59,
         "season": 7,
         "title": "Stormborn",
-        "updatedAt": "2019-04-10T07:05:04.059Z",
+        "updatedAt": "2019-04-10T07:15:11.695Z",
         "written_by": [
             "Bryan Cogman"
         ]
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade21",
+        "_id": "5cad97ffb0c0ef00108e5eee",
         "characters": [
             "Stark soldier"
         ],
-        "createdAt": "2019-04-10T07:05:04.060Z",
+        "createdAt": "2019-04-10T07:15:11.695Z",
         "deaths": [
             "Tyene Sand",
             "Olenna Tyrell",
@@ -2709,7 +2709,7 @@
         "runtime": 63,
         "season": 7,
         "title": "The Queen's Justice",
-        "updatedAt": "2019-04-10T07:05:04.060Z",
+        "updatedAt": "2019-04-10T07:15:11.695Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -2717,12 +2717,12 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade22",
+        "_id": "5cad97ffb0c0ef00108e5eef",
         "characters": [
             "Henk",
             "Koner"
         ],
-        "createdAt": "2019-04-10T07:05:04.061Z",
+        "createdAt": "2019-04-10T07:15:11.696Z",
         "deaths": [
             "Lannister",
             "Tarly",
@@ -2748,7 +2748,7 @@
         "runtime": 50,
         "season": 7,
         "title": "The Spoils of War",
-        "updatedAt": "2019-04-10T07:05:04.061Z",
+        "updatedAt": "2019-04-10T07:15:11.696Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -2756,14 +2756,14 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade23",
+        "_id": "5cad97ffb0c0ef00108e5ef0",
         "characters": [
             "Gold Cloak #1",
             "Gold Cloak #2",
             "Sandhu",
             "Unnamed Archmaester"
         ],
-        "createdAt": "2019-04-10T07:05:04.061Z",
+        "createdAt": "2019-04-10T07:15:11.696Z",
         "deaths": [
             "Randyll Tarly",
             "Dickon Tarly"
@@ -2792,20 +2792,20 @@
         "runtime": 59,
         "season": 7,
         "title": "Eastwatch",
-        "updatedAt": "2019-04-10T07:05:04.061Z",
+        "updatedAt": "2019-04-10T07:15:11.696Z",
         "written_by": [
             "Dave Hill"
         ]
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade24",
+        "_id": "5cad97ffb0c0ef00108e5ef1",
         "characters": [
             "White Walker 1 (Beyond the Wall)",
             "Captured wight",
             "White Walker 2 (Beyond the Wall)"
         ],
-        "createdAt": "2019-04-10T07:05:04.062Z",
+        "createdAt": "2019-04-10T07:15:11.697Z",
         "deaths": [
             "Thoros",
             "Viserion",
@@ -2833,7 +2833,7 @@
         "runtime": 70,
         "season": 7,
         "title": "Beyond the Wall",
-        "updatedAt": "2019-04-10T07:05:04.062Z",
+        "updatedAt": "2019-04-10T07:15:11.697Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"
@@ -2841,12 +2841,12 @@
     },
     {
         "__v": 0,
-        "_id": "5cad95a0e5344b0010bade25",
+        "_id": "5cad97ffb0c0ef00108e5ef2",
         "characters": [
             "Rhaegar Targaryen",
             "High Septon (Robert's Rebellion)"
         ],
-        "createdAt": "2019-04-10T07:05:04.062Z",
+        "createdAt": "2019-04-10T07:15:11.697Z",
         "deaths": [
             "Petyr Baelish",
             "Captured wight",
@@ -2875,7 +2875,7 @@
         "runtime": 80,
         "season": 7,
         "title": "The Dragon and the Wolf",
-        "updatedAt": "2019-04-10T07:05:04.062Z",
+        "updatedAt": "2019-04-10T07:15:11.697Z",
         "written_by": [
             "David Benioff",
             "D.B. Weiss"

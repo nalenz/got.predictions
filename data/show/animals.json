@@ -1,7 +1,7 @@
 [
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e9955a",
+        "_id": "5cad97e1b0c0ef00108e5db7",
         "diet": "",
         "habitat": [],
         "name": "Animals and Plants",
@@ -10,7 +10,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e9955b",
+        "_id": "5cad97e1b0c0ef00108e5db8",
         "diet": "Carnivore",
         "habitat": [
             "Jungles"
@@ -24,7 +24,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e9955c",
+        "_id": "5cad97e1b0c0ef00108e5db9",
         "diet": "",
         "habitat": [],
         "name": "Bastard's girls",
@@ -33,7 +33,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e9955d",
+        "_id": "5cad97e1b0c0ef00108e5dba",
         "diet": "Omnivores",
         "habitat": [
             "Forests",
@@ -48,7 +48,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e9955e",
+        "_id": "5cad97e1b0c0ef00108e5dbb",
         "diet": "Carnivore",
         "habitat": [
             "Cities, castles, homesteads , almost everywhere else except for arctic regions and rolling sands deserts ."
@@ -62,7 +62,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e9955f",
+        "_id": "5cad97e1b0c0ef00108e5dbc",
         "diet": "Carnivore",
         "habitat": [
             "Forests",
@@ -78,7 +78,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e99560",
+        "_id": "5cad97e1b0c0ef00108e5dbd",
         "diet": "Omnivore",
         "habitat": [
             "Cities, castles, homesteads "
@@ -92,7 +92,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e99561",
+        "_id": "5cad97e1b0c0ef00108e5dbe",
         "diet": "Herbivore",
         "habitat": [
             "Arid plains, castles, and towns of Dorne"
@@ -105,7 +105,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e99562",
+        "_id": "5cad97e1b0c0ef00108e5dbf",
         "diet": "Obligate carnivore",
         "habitat": [
             "Preferably volcanic mountains"
@@ -121,7 +121,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e99563",
+        "_id": "5cad97e1b0c0ef00108e5dc0",
         "diet": "Herbivores",
         "habitat": [
             "Deserts"
@@ -134,7 +134,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e99564",
+        "_id": "5cad97e1b0c0ef00108e5dc1",
         "diet": "Herbivores",
         "habitat": [
             "Plains",
@@ -148,7 +148,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e99565",
+        "_id": "5cad97e1b0c0ef00108e5dc2",
         "diet": "Herbivore",
         "habitat": [
             "Plains"
@@ -162,7 +162,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e99566",
+        "_id": "5cad97e1b0c0ef00108e5dc3",
         "diet": "",
         "habitat": [],
         "name": "Ice dragons",
@@ -171,7 +171,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e99567",
+        "_id": "5cad97e1b0c0ef00108e5dc4",
         "diet": "",
         "habitat": [],
         "name": "Ice spiders",
@@ -180,7 +180,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e99568",
+        "_id": "5cad97e1b0c0ef00108e5dc5",
         "diet": "",
         "habitat": [
             "Ocean depths"
@@ -193,7 +193,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e99569",
+        "_id": "5cad97e1b0c0ef00108e5dc6",
         "diet": "Carnivore",
         "habitat": [
             "Plains",
@@ -209,7 +209,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e9956a",
+        "_id": "5cad97e1b0c0ef00108e5dc7",
         "diet": "Carnivore",
         "habitat": [
             "Swamps"
@@ -223,7 +223,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e9956b",
+        "_id": "5cad97e1b0c0ef00108e5dc8",
         "diet": "Herbivore",
         "habitat": [
             "Tundra"
@@ -237,7 +237,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e9956c",
+        "_id": "5cad97e1b0c0ef00108e5dc9",
         "diet": "Carnivore",
         "habitat": [
             "Jungles"
@@ -248,7 +248,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e9956d",
+        "_id": "5cad97e1b0c0ef00108e5dca",
         "diet": "Omnivore",
         "habitat": [
             "Rivers"
@@ -262,7 +262,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e9956e",
+        "_id": "5cad97e1b0c0ef00108e5dcb",
         "diet": "Omnivore",
         "habitat": [
             "Forests",
@@ -278,7 +278,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e9956f",
+        "_id": "5cad97e1b0c0ef00108e5dcc",
         "diet": "",
         "habitat": [
             "Seas and Oceans"
@@ -291,7 +291,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e99570",
+        "_id": "5cad97e1b0c0ef00108e5dcd",
         "diet": "",
         "habitat": [],
         "name": "Ser Pounce",
@@ -300,7 +300,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e99571",
+        "_id": "5cad97e1b0c0ef00108e5dce",
         "diet": "",
         "habitat": [],
         "name": "Shadow (snow bear)",
@@ -309,7 +309,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e99572",
+        "_id": "5cad97e1b0c0ef00108e5dcf",
         "diet": "Carnivore",
         "habitat": [
             "Mountains",
@@ -326,7 +326,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e99573",
+        "_id": "5cad97e1b0c0ef00108e5dd0",
         "diet": "",
         "habitat": [],
         "name": "The silver",
@@ -335,7 +335,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e99574",
+        "_id": "5cad97e1b0c0ef00108e5dd1",
         "diet": "Omnivore",
         "habitat": [
             "Tundra",
@@ -350,7 +350,7 @@
     },
     {
         "__v": 0,
-        "_id": "5caca4f9b877bb0010e99575",
+        "_id": "5cad97e1b0c0ef00108e5dd2",
         "diet": "Herbivore",
         "habitat": [
             "Deserts"
