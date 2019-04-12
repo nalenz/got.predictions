@@ -1,0 +1,243 @@
+TOP 5 SURVIVORS
+
+"Daenerys Targaryen": {
+        "_mostSimilarAlive": [
+            "Cersei Lannister",
+            "Arya Stark",
+            "Sansa Stark",
+            "Samwell Tarly",
+            "Tyrion Lannister",
+            "Varys",
+            "Jaime Lannister",
+            "Bronn",
+            "Theon Greyjoy",
+            "Jorah Mormont"
+        ],
+	"_mostSimilarDead": [
+            "Petyr Baelish",
+            "Pycelle",
+            "Margaery Tyrell",
+            "Olenna Redwyne",
+            "Loras Tyrell",
+            "Shae",
+            "Myranda",
+            "Selyse Baratheon",
+            "Hodor",
+            "Rickon Stark"
+        ]}
+
+"Tyrion Lannister": {
+	"_mostSimilarAlive": [
+            "Cersei Lannister",
+            "Varys",
+            "Samwell Tarly",
+            "Jaime Lannister",
+            "Arya Stark",
+            "Daenerys Targaryen",
+            "Jon Snow",
+            "Sansa Stark",
+            "Bronn",
+            "Theon Greyjoy"
+        ],
+	"_mostSimilarDead": [
+            "Petyr Baelish",
+            "Pycelle",
+            "Loras Tyrell",
+            "Tywin Lannister",
+            "Hodor",
+            "Rickon Stark",
+            "Kevan Lannister",
+            "Lancel Lannister",
+            "Ramsay Snow",
+            "Three-Eyed Raven"
+        ]}
+
+"Varys": {
+	"_mostSimilarAlive": [
+            "Samwell Tarly",
+            "Bronn",
+            "Jorah Mormont",
+            "Tyrion Lannister",
+            "Theon Greyjoy",
+            "Jaime Lannister",
+            "Arya Stark",
+            "Cersei Lannister",
+            "Daenerys Targaryen",
+            "Sansa Stark"
+        ],
+	"_mostSimilarDead": [
+            "Petyr Baelish",
+            "Pycelle",
+            "Loras Tyrell",
+            "Hodor",
+            "Three-Eyed Raven",
+            "Kevan Lannister",
+            "Margaery Tyrell",
+            "Osha",
+            "Tommen Baratheon",
+            "Tywin Lannister"
+        ]}
+
+"Samwell Tarly": {
+	"_mostSimilarAlive": [
+            "Bronn",
+            "Theon Greyjoy",
+            "Jaime Lannister",
+            "Arya Stark",
+            "Jorah Mormont",
+            "Varys",
+            "Tyrion Lannister",
+            "Sansa Stark",
+            "Gilly",
+            "Cersei Lannister"
+        ],
+	"_mostSimilarDead": [
+            "Petyr Baelish",
+            "Pycelle",
+            "Loras Tyrell",
+            "Shae",
+            "Hodor",
+            "Three-Eyed Raven",
+            "Pypar",
+            "Osha",
+            "Olly",
+            "Rickon Stark"
+        ]}
+
+"Jaime Lannister": {
+	"_mostSimilarAlive": [
+            "Samwell Tarly",
+            "Cersei Lannister",
+            "Jorah Mormont",
+            "Bronn",
+            "Theon Greyjoy",
+            "Arya Stark",
+            "Tyrion Lannister",
+            "Varys",
+            "Sansa Stark",
+            "Daenerys Targaryen"
+        ],
+	"_mostSimilarDead": [
+            "Loras Tyrell",
+            "Petyr Baelish",
+            "Pycelle",
+            "Barristan Selmy",
+            "Hodor",
+            "Three-Eyed Raven",
+            "Lancel Lannister",
+            "Kevan Lannister",
+            "Margaery Tyrell",
+            "Rickon Stark"
+        ]}
+
+
+
+FLOP 5 SURVIVORS
+
+"Bronn": {
+	"_mostSimilarAlive": [
+            "Samwell Tarly",
+            "Varys",
+            "Jaime Lannister",
+            "Jorah Mormont",
+            "Theon Greyjoy",
+            "Arya Stark",
+            "Tyrion Lannister",
+            "Cersei Lannister",
+            "Sansa Stark",
+            "Podrick Payne"
+        ],
+	"_mostSimilarDead": [
+            "Petyr Baelish",
+            "Pycelle",
+            "Loras Tyrell",
+            "Hodor",
+            "Three-Eyed Raven",
+            "Lancel Lannister",
+            "Osha",
+            "Rickon Stark",
+            "Pypar",
+            "Margaery Tyrell"
+        ]}
+
+"Gregor Clegane": {
+	MISSING FOR SOME REASON
+	}
+
+"Sansa Stark": {
+	"_mostSimilarAlive": [
+            "Arya Stark",
+            "Cersei Lannister",
+            "Samwell Tarly",
+            "Daenerys Targaryen",
+            "Theon Greyjoy",
+            "Tyrion Lannister",
+            "Jaime Lannister",
+            "Bronn",
+            "Jorah Mormont",
+            "Bran Stark"
+        ],
+	"_mostSimilarDead": [
+            "Petyr Baelish",
+            "Margaery Tyrell",
+            "Pycelle",
+            "Loras Tyrell",
+            "Rickon Stark",
+            "Myranda",
+            "Shae",
+            "Hodor",
+            "Olenna Redwyne",
+            "Ramsay Snow"
+        ]}
+
+"Bran Stark": {
+	"_mostSimilarAlive": [
+            "Sandor Clegane",
+            "Hot Pie",
+            "Arya Stark",
+            "Samwell Tarly",
+            "Theon Greyjoy",
+            "Sansa Stark",
+            "Bronn",
+            "Gilly",
+            "Jorah Mormont",
+            "Jaime Lannister"
+        ],
+	"_mostSimilarDead": [
+            "Rickon Stark",
+            "Hodor",
+            "Osha",
+            "Robb Stark",
+            "Three-Eyed Raven",
+            "Petyr Baelish",
+            "Pycelle",
+            "Shae",
+            "Joyeuse Erenford",
+            "Pypar"
+        ]}
+
+"Sandor Clegane": {
+	"_mostSimilarAlive": [
+            "Bran Stark",
+            "Hot Pie",
+            "Samwell Tarly",
+            "Podrick Payne",
+            "Bronn",
+            "Salladhor Saan",
+            "Jaime Lannister",
+            "Varys",
+            "Jorah Mormont",
+            "Meera Reed"
+        ],
+"_mostSimilarDead": [
+            "Hodor",
+            "Three-Eyed Raven",
+            "Osha",
+            "Pycelle",
+            "Shae",
+            "Pypar",
+            "Thoros of Myr",
+            "Dagmer",
+            "Rickon Stark",
+            "Petyr Baelish"
+        ]}
