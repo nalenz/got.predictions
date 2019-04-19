@@ -15,7 +15,7 @@ const path = require('path');
 
 const outfile = path.resolve(__dirname, 'training_book_characters.json');
 
-// const LOCATION_VISITED_THRESHOLD = 50; // min. amount of people need to visit a location before it's used
+const LOCATION_VISITED_THRESHOLD = 50; // min. amount of people need to visit a location before it's used
 const HOUSE_THRESHOLD = 10; // min. amount of people in this house before it's used
 const CULTURES_THRESHOLD = 10; // min. amount of people with this culture before it's used
 const AGE_THRESHOLD = 100; // alive characters above this age are considered to be errors
@@ -52,7 +52,7 @@ function filterChars(unfilteredChars) {
   return characters;
 }
 
-/*function collectLocations(charLocations, filteredChars, locMap) {
+function collectLocations(charLocations, filteredChars, locMap) {
   let locations_all = []; //all locations we might have flags for
   for (let c_l of charLocations) {
     // now check if any new locations will come to the locations array
@@ -81,9 +81,9 @@ function filterChars(unfilteredChars) {
   }
 
   return locations;
-}*/
+}
 
-/*function genLocationMap(charLocations) {
+function genLocationMap(charLocations) {
   let locKeyValuePairs = []; //map character name => array of visited locations
   for (let c_l of charLocations) {
     // push the name + location array of the character into locKeyValuePairs
@@ -92,7 +92,7 @@ function filterChars(unfilteredChars) {
   //build the Map from the key-value pair array
   let locMap = new Map(locKeyValuePairs);
   return locMap;
-}*/
+}
 
 function collectHouses(unfilteredHouses, filteredChars) {
   // only consider houses with at least HOUSE_THRESHOLD suitable characters in them
@@ -289,7 +289,7 @@ function processHeir(srcChar, destChar, characters) {
 }
 
 function processRank(srcChar, destChar, maxRank) {
-  if (srcChar.pageRank !== null && srcChar.pageRank !== undefined && srcChar.pageRank.rank > 0.34 * maxRank) {
+  if (srcChar.pagerank !== null && srcChar.pagerank !== undefined && srcChar.pagerank.rank > 0.34 * maxRank) {
     //this check is similar to the 2016 project
     destChar.isMajor = 1;
   } else {
@@ -309,8 +309,8 @@ async function genTrainingData(callback) {
   ]);
 
   let characters = filterChars(characters_unfiltered); // filter out unsuitable characters
-  //let locMap = genLocationMap(character_locations); // generate a character-to-locations map
-  //let locations = collectLocations(character_locations, characters, locMap); // collect locations and filter them
+  let locMap = genLocationMap(character_locations); // generate a character-to-locations map
+  let locations = collectLocations(character_locations, characters, locMap); // collect locations and filter them
   let houses = collectHouses(houses_unfiltered, characters); // collect houses and filter them
   let cultures = collectCultures(cultures_unfiltered, characters); // collect cultures and filter them
   let maxRank = getMaxRank(characters); //max pageRank can determine who is a major character
@@ -330,12 +330,10 @@ async function genTrainingData(callback) {
     processCultures(ch, ref_ch, cultures); // process culture data
     processTitles(ch, ref_ch); // process titles data
     processSpouses(ch, ref_ch, characters_unfiltered); // process spouses data
-    //processLocations(ch, ref_ch, locations, locMap); // process location data
+    processLocations(ch, ref_ch, locations, locMap); // process location data
     processParents(ch, ref_ch, characters_unfiltered);
     processHeir(ch, ref_ch, characters_unfiltered);
-    //processRank(ch, ref_ch, maxRank);
-    //TODO books the character was in
-    //TODO consider dead parents/heirs/spouses somehow
+    processRank(ch, ref_ch, maxRank);
 
     // push the reformatted character and move on to the next one
     training_chars.push(ref_ch);
