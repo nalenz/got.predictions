@@ -72,9 +72,9 @@ To create a new branch to add your changes to, please execute the following comm
 - number of characters: 146
   - used for training (i.e. dead): 82, predicted on (i.e. alive): 64
 - number of total datapoints used during training: 7954
-  - used for training itself: 5063 (63%), used for validation (7%): 563, used for testing (30%): 2328
+  - used for training itself: 5111 (63.75%), used for validation (11.25%): 903, used for testing (25%): 1940
   - "male" property was distributed equally among training/validation and testing datasets
-  - final training accuracy: 87.79%, final validation accuracy: 71.94%, testing accuracy: 82.82% (from [Keras log](workers/predictors-neural/predictor-neural-show-v1/models/keras-log))
+  - final training accuracy: 90.37%, final validation accuracy: 72.31%, testing accuracy: 84.69% (from [Keras log](workers/predictors-neural/predictor-neural-show-v1/models/keras-log))
 - number of dimensions per datapoint: 428
   - scalar values
     - male: 1, is bastard: 1, page rank (normalized): 1, number of relatives (normalized): 1, number of commanded battles (normalized): 1

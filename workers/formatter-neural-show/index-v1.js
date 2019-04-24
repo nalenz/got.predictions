@@ -15,8 +15,8 @@ const config = require('../common/config');
   // gender distribution: 74.39% of characters are male
   let charsTrainMale = charsTrain.filter(c => c.male);
   let charsTrainFemale = charsTrain.filter(c => !c.male);
-  let numCharsTrainMale = Math.round(charsTrainMale.length * 0.7);
-  let numCharsTrainFemale = Math.round(charsTrainFemale.length * 0.7);
+  let numCharsTrainMale = Math.round(charsTrainMale.length * 0.75);
+  let numCharsTrainFemale = Math.round(charsTrainFemale.length * 0.75);
   let charsTrainActual = utils.shuffleArray(
     charsTrainMale.slice(0, numCharsTrainMale).concat(charsTrainFemale.slice(0, numCharsTrainFemale)),
   );
