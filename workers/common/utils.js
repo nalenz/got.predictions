@@ -291,6 +291,8 @@ class JoinedOneHotVector {
   constructor(baseData, scalarAttrs, vectorAttrs) {
     this.scalarAttrs = scalarAttrs;
     this.ranges = this.calculateRanges(baseData, vectorAttrs);
+    this.ranges.age.min = 0;
+    this.ranges.age.span = this.ranges.age.max + 1;
     console.log(this.ranges);
     this.vectorAttrs = vectorAttrs.filter(a => this.ranges[a].span !== -Infinity);
     this.applyConfig(this.scalarAttrs, this.vectorAttrs);
