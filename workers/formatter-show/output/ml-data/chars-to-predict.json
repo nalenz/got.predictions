@@ -5,9 +5,9 @@
         "age": 20,
         "birth": 285,
         "isBastard": false,
-        "pageRank": 0.6357882623705409,
-        "numRelatives": 0.6153846153846154,
-        "numCommandedBattles": 1,
+        "pageRank": 0.631789594053745,
+        "numRelatives": 0.75,
+        "numCommandedBattles": 0.3333333333333333,
         "allegiances": [
             65,
             33,
@@ -84,10 +84,10 @@
         ],
         "cultures": [],
         "titles": [
-            72,
-            89,
-            97,
-            109
+            75,
+            92,
+            101,
+            113
         ]
     },
     {
@@ -96,9 +96,9 @@
         "age": 18,
         "birth": 287,
         "isBastard": false,
-        "pageRank": 0.5834292289988493,
-        "numRelatives": 0.6153846153846154,
-        "numCommandedBattles": 1,
+        "pageRank": 0.5797598627787307,
+        "numRelatives": 0.5833333333333334,
+        "numCommandedBattles": 0.3333333333333333,
         "allegiances": [
             65,
             17
@@ -174,7 +174,7 @@
         ],
         "cultures": [],
         "titles": [
-            89
+            92
         ]
     },
     {
@@ -183,8 +183,8 @@
         "age": 17,
         "birth": 288,
         "isBastard": false,
-        "pageRank": 0.4672036823935558,
-        "numRelatives": 0.6153846153846154,
+        "pageRank": 0.465980560320183,
+        "numRelatives": 0.5833333333333334,
         "numCommandedBattles": 0,
         "allegiances": [
             65
@@ -250,8 +250,8 @@
         ],
         "cultures": [],
         "titles": [
-            89,
-            72
+            92,
+            75
         ]
     },
     {
@@ -261,8 +261,8 @@
         "birth": 281,
         "isBastard": false,
         "pageRank": 1,
-        "numRelatives": 0.9230769230769231,
-        "numCommandedBattles": 3,
+        "numRelatives": 0.9166666666666666,
+        "numCommandedBattles": 1,
         "allegiances": [
             65,
             67,
@@ -339,9 +339,9 @@
         ],
         "cultures": [],
         "titles": [
-            115,
-            33,
-            49
+            119,
+            35,
+            52
         ]
     },
     {
@@ -350,8 +350,8 @@
         "age": 24,
         "birth": 281,
         "isBastard": false,
-        "pageRank": 0.4223245109321059,
-        "numRelatives": 0.46153846153846156,
+        "pageRank": 0.41909662664379643,
+        "numRelatives": 0.4166666666666667,
         "numCommandedBattles": 0,
         "allegiances": [
             43,
@@ -433,8 +433,8 @@
         ],
         "cultures": [],
         "titles": [
-            89,
-            91
+            92,
+            94
         ]
     },
     {
@@ -443,8 +443,8 @@
         "age": 11,
         "birth": 294,
         "isBastard": false,
-        "pageRank": 0.0379746835443038,
-        "numRelatives": 0.15384615384615385,
+        "pageRank": 0.03773584905660377,
+        "numRelatives": 0.08333333333333333,
         "numCommandedBattles": 0,
         "allegiances": [
             76,
@@ -461,7 +461,7 @@
         ],
         "cultures": [],
         "titles": [
-            60
+            63
         ]
     },
     {
@@ -470,8 +470,8 @@
         "age": 17,
         "birth": 288,
         "isBastard": false,
-        "pageRank": 0.05293440736478711,
-        "numRelatives": 0.15384615384615385,
+        "pageRank": 0.052601486563750716,
+        "numRelatives": 0.08333333333333333,
         "numCommandedBattles": 0,
         "allegiances": [
             46,
@@ -488,7 +488,7 @@
         ],
         "cultures": [],
         "titles": [
-            59
+            62
         ]
     },
     {
@@ -497,8 +497,8 @@
         "age": 13,
         "birth": 292,
         "isBastard": false,
-        "pageRank": 0.0661680092059839,
-        "numRelatives": 0.15384615384615385,
+        "pageRank": 0.06575185820468839,
+        "numRelatives": 0.08333333333333333,
         "numCommandedBattles": 0,
         "allegiances": [
             54,
@@ -525,7 +525,7 @@
         ],
         "cultures": [],
         "titles": [
-            45
+            47
         ]
     },
     {
@@ -534,8 +534,8 @@
         "age": 63,
         "birth": 242,
         "isBastard": false,
-        "pageRank": 0.05638665132336018,
-        "numRelatives": 0.15384615384615385,
+        "pageRank": 0.05603201829616924,
+        "numRelatives": 0.16666666666666666,
         "numCommandedBattles": 0,
         "allegiances": [
             42,
@@ -563,7 +563,7 @@
         ],
         "cultures": [],
         "titles": [
-            53
+            56
         ]
     },
     {
@@ -572,8 +572,8 @@
         "age": 58,
         "birth": 247,
         "isBastard": false,
-        "pageRank": 0.035097813578826235,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.03487707261292167,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [
             51,
@@ -593,7 +593,7 @@
         ],
         "cultures": [],
         "titles": [
-            71
+            74
         ]
     },
     {
@@ -602,8 +602,8 @@
         "age": 29,
         "birth": 276,
         "isBastard": false,
-        "pageRank": 0.13463751438434982,
-        "numRelatives": 0.23076923076923078,
+        "pageRank": 0.13379073756432247,
+        "numRelatives": 0.16666666666666666,
         "numCommandedBattles": 0,
         "allegiances": [
             60,
@@ -657,8 +657,8 @@
         "age": 42,
         "birth": 263,
         "isBastard": false,
-        "pageRank": 0.02819332566168009,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.02801600914808462,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [
             33
@@ -684,8 +684,8 @@
         "age": 43,
         "birth": 262,
         "isBastard": false,
-        "pageRank": 0.7266973532796318,
-        "numRelatives": 0.5384615384615384,
+        "pageRank": 0.7244139508290451,
+        "numRelatives": 0.5833333333333334,
         "numCommandedBattles": 0,
         "allegiances": [
             48,
@@ -762,15 +762,15 @@
         ],
         "cultures": [],
         "titles": [
-            36,
-            94,
-            51,
-            77,
-            115,
-            32,
-            32,
+            38,
             97,
-            32
+            54,
+            80,
+            119,
+            34,
+            34,
+            101,
+            34
         ]
     },
     {
@@ -779,8 +779,8 @@
         "age": 43,
         "birth": 262,
         "isBastard": false,
-        "pageRank": 0.7744533947065593,
-        "numRelatives": 0.46153846153846156,
+        "pageRank": 0.7718696397941681,
+        "numRelatives": 0.4166666666666667,
         "numCommandedBattles": 0,
         "allegiances": [
             48,
@@ -861,8 +861,8 @@
         ],
         "cultures": [],
         "titles": [
-            104,
-            48
+            108,
+            51
         ]
     },
     {
@@ -871,9 +871,9 @@
         "age": 39,
         "birth": 266,
         "isBastard": false,
-        "pageRank": 0.9234752589182968,
-        "numRelatives": 0.46153846153846156,
-        "numCommandedBattles": 2,
+        "pageRank": 0.9188107489994283,
+        "numRelatives": 0.5833333333333334,
+        "numCommandedBattles": 0.6666666666666666,
         "allegiances": [
             48,
             67
@@ -949,15 +949,15 @@
         ],
         "cultures": [],
         "titles": [
-            51,
-            77,
-            115,
-            22,
+            54,
+            80,
+            119,
+            24,
             9,
-            83,
-            27,
-            22,
-            27
+            86,
+            29,
+            24,
+            29
         ]
     },
     {
@@ -966,8 +966,8 @@
         "age": 27,
         "birth": 278,
         "isBastard": false,
-        "pageRank": 0.16455696202531644,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.16352201257861634,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [
             58,
@@ -1043,8 +1043,8 @@
         "age": 50,
         "birth": 255,
         "isBastard": false,
-        "pageRank": 0.2646720368239356,
-        "numRelatives": 0.15384615384615385,
+        "pageRank": 0.26300743281875355,
+        "numRelatives": 0.08333333333333333,
         "numCommandedBattles": 0,
         "allegiances": [
             4,
@@ -1122,9 +1122,9 @@
         "age": 58,
         "birth": 247,
         "isBastard": false,
-        "pageRank": 0.29516685845799767,
-        "numRelatives": 0.07692307692307693,
-        "numCommandedBattles": 2,
+        "pageRank": 0.2950257289879931,
+        "numRelatives": 0.08333333333333333,
+        "numCommandedBattles": 0.6666666666666666,
         "allegiances": [
             62,
             65,
@@ -1191,9 +1191,9 @@
         ],
         "cultures": [],
         "titles": [
-            44,
-            22,
-            108
+            46,
+            24,
+            112
         ]
     },
     {
@@ -1202,8 +1202,8 @@
         "age": 43,
         "birth": 262,
         "isBastard": false,
-        "pageRank": 0.05178365937859609,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.051457975986277875,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [
             30
@@ -1244,27 +1244,13 @@
         "titles": []
     },
     {
-        "name": "Brienne",
-        "male": false,
-        "age": 40,
-        "birth": 265,
-        "isBastard": false,
-        "pageRank": 0.040851553509781355,
-        "numRelatives": 0.07692307692307693,
-        "numCommandedBattles": 0,
-        "allegiances": [],
-        "appearances": [],
-        "cultures": [],
-        "titles": []
-    },
-    {
         "name": "Robin Arryn",
         "male": true,
         "age": 16,
         "birth": 289,
         "isBastard": false,
-        "pageRank": 0.11104718066743383,
-        "numRelatives": 0.23076923076923078,
+        "pageRank": 0.11034877072612921,
+        "numRelatives": 0.16666666666666666,
         "numCommandedBattles": 0,
         "allegiances": [
             27,
@@ -1314,9 +1300,9 @@
         ],
         "cultures": [],
         "titles": [
-            67,
+            70,
             10,
-            115
+            119
         ]
     },
     {
@@ -1325,8 +1311,8 @@
         "age": 61,
         "birth": 244,
         "isBastard": false,
-        "pageRank": 0.07479861910241657,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.07432818753573471,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [
             61,
@@ -1374,7 +1360,7 @@
         ],
         "cultures": [],
         "titles": [
-            62
+            65
         ]
     },
     {
@@ -1383,8 +1369,8 @@
         "age": 73,
         "birth": 232,
         "isBastard": false,
-        "pageRank": 0.019562715765247412,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.019439679817038306,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [
             77,
@@ -1404,7 +1390,7 @@
         ],
         "cultures": [],
         "titles": [
-            58
+            61
         ]
     },
     {
@@ -1413,8 +1399,8 @@
         "age": 51,
         "birth": 254,
         "isBastard": false,
-        "pageRank": 0.04257767548906789,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.04230989136649514,
+        "numRelatives": 0.08333333333333333,
         "numCommandedBattles": 0,
         "allegiances": [
             68,
@@ -1441,8 +1427,8 @@
         "age": 25,
         "birth": 280,
         "isBastard": false,
-        "pageRank": 0.39298043728423476,
-        "numRelatives": 0.46153846153846156,
+        "pageRank": 0.3922241280731847,
+        "numRelatives": 0.4166666666666667,
         "numCommandedBattles": 0,
         "allegiances": [
             96,
@@ -1527,8 +1513,8 @@
         "age": 38,
         "birth": 267,
         "isBastard": false,
-        "pageRank": 0.2048331415420023,
-        "numRelatives": 0.46153846153846156,
+        "pageRank": 0.2035448827901658,
+        "numRelatives": 0.4166666666666667,
         "numCommandedBattles": 0,
         "allegiances": [
             43
@@ -1584,10 +1570,10 @@
         ],
         "cultures": [],
         "titles": [
-            38,
-            35,
-            107,
-            79
+            40,
+            37,
+            111,
+            82
         ]
     },
     {
@@ -1596,8 +1582,8 @@
         "age": 37,
         "birth": 268,
         "isBastard": false,
-        "pageRank": 0.22209436133486765,
-        "numRelatives": 0.23076923076923078,
+        "pageRank": 0.22584333905088622,
+        "numRelatives": 0.16666666666666666,
         "numCommandedBattles": 0,
         "allegiances": [
             43
@@ -1623,10 +1609,10 @@
         ],
         "cultures": [],
         "titles": [
-            38,
-            35,
-            107,
-            79
+            40,
+            37,
+            111,
+            82
         ]
     },
     {
@@ -1635,8 +1621,8 @@
         "age": 45,
         "birth": 260,
         "isBastard": false,
-        "pageRank": 0.1668584579976985,
-        "numRelatives": 0.38461538461538464,
+        "pageRank": 0.16638078902229847,
+        "numRelatives": 0.4166666666666667,
         "numCommandedBattles": 0,
         "allegiances": [
             73,
@@ -1667,9 +1653,9 @@
         ],
         "cultures": [],
         "titles": [
-            44,
-            61,
-            76
+            46,
+            64,
+            79
         ]
     },
     {
@@ -1678,8 +1664,8 @@
         "age": 49,
         "birth": 256,
         "isBastard": false,
-        "pageRank": 0.017836593785960874,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.017724413950829045,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [],
         "appearances": [],
@@ -1692,8 +1678,8 @@
         "age": 29,
         "birth": 276,
         "isBastard": false,
-        "pageRank": 0.09838895281933256,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.09777015437392796,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [],
         "appearances": [],
@@ -1706,8 +1692,8 @@
         "age": 56,
         "birth": 249,
         "isBastard": false,
-        "pageRank": 0.3020713463751438,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.30074328187535737,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [
             48,
@@ -1787,7 +1773,7 @@
         ],
         "cultures": [],
         "titles": [
-            44,
+            46,
             8
         ]
     },
@@ -1797,8 +1783,8 @@
         "age": 36,
         "birth": 269,
         "isBastard": false,
-        "pageRank": 0.02531645569620253,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.025157232704402517,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [],
         "appearances": [
@@ -1822,8 +1808,8 @@
         "age": 55,
         "birth": 250,
         "isBastard": false,
-        "pageRank": 0.01726121979286536,
-        "numRelatives": 0.15384615384615385,
+        "pageRank": 0.017152658662092625,
+        "numRelatives": 0.08333333333333333,
         "numCommandedBattles": 0,
         "allegiances": [
             114
@@ -1849,8 +1835,8 @@
         "age": 38,
         "birth": 267,
         "isBastard": false,
-        "pageRank": 0.02186421173762946,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.02172670097198399,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [
             4
@@ -1876,8 +1862,8 @@
         "age": 67,
         "birth": 238,
         "isBastard": false,
-        "pageRank": 0.2238204833141542,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.22412807318467695,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [
             48,
@@ -1936,10 +1922,10 @@
         ],
         "cultures": [],
         "titles": [
-            22,
+            24,
             7,
-            86,
-            113,
+            89,
+            117,
             7
         ]
     },
@@ -1949,8 +1935,8 @@
         "age": 55,
         "birth": 250,
         "isBastard": false,
-        "pageRank": 0.38550057537399307,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.38307604345340196,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [
             67,
@@ -2027,11 +2013,11 @@
         ],
         "cultures": [],
         "titles": [
-            86,
+            89,
             0,
-            100,
-            27,
-            113,
+            104,
+            29,
+            117,
             9
         ]
     },
@@ -2041,8 +2027,8 @@
         "age": 72,
         "birth": 233,
         "isBastard": false,
-        "pageRank": 0.0667433831990794,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.06632361349342482,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [
             58,
@@ -2073,10 +2059,10 @@
         ],
         "cultures": [],
         "titles": [
-            104,
-            39,
+            108,
+            41,
             4,
-            25
+            27
         ]
     },
     {
@@ -2085,8 +2071,8 @@
         "age": 32,
         "birth": 273,
         "isBastard": true,
-        "pageRank": 0.19850402761795166,
-        "numRelatives": 0.3076923076923077,
+        "pageRank": 0.19725557461406518,
+        "numRelatives": 0.25,
         "numCommandedBattles": 0,
         "allegiances": [
             83,
@@ -2140,8 +2126,8 @@
         "age": 29,
         "birth": 276,
         "isBastard": false,
-        "pageRank": 0.04948216340621404,
-        "numRelatives": 0.15384615384615385,
+        "pageRank": 0.04974271012006861,
+        "numRelatives": 0.08333333333333333,
         "numCommandedBattles": 0,
         "allegiances": [
             28
@@ -2187,8 +2173,8 @@
         "age": 44,
         "birth": 261,
         "isBastard": false,
-        "pageRank": 0.023014959723820484,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.022870211549456832,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [
             97
@@ -2224,8 +2210,8 @@
         "age": 31,
         "birth": 274,
         "isBastard": false,
-        "pageRank": 0.02819332566168009,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.02801600914808462,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [
             97
@@ -2291,8 +2277,8 @@
         "age": 23,
         "birth": 282,
         "isBastard": false,
-        "pageRank": 0.06271576524741082,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.062321326472269865,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [],
         "appearances": [
@@ -2349,13 +2335,13 @@
     },
     {
         "name": "Jaqen H'ghar",
-        "male": false,
+        "male": true,
         "age": 46,
         "birth": 259,
         "isBastard": false,
-        "pageRank": 0.12485615650172613,
-        "numRelatives": 0.07692307692307693,
-        "numCommandedBattles": 1,
+        "pageRank": 0.12464265294453973,
+        "numRelatives": 0,
+        "numCommandedBattles": 0.3333333333333333,
         "allegiances": [
             17
         ],
@@ -2410,8 +2396,8 @@
         "age": 96,
         "birth": 209,
         "isBastard": false,
-        "pageRank": 0.02704257767548907,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.026872498570611778,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [
             1,
@@ -2432,7 +2418,7 @@
         ],
         "cultures": [],
         "titles": [
-            117
+            121
         ]
     },
     {
@@ -2441,8 +2427,8 @@
         "age": 45,
         "birth": 260,
         "isBastard": false,
-        "pageRank": 0.03222094361334868,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.03201829616923957,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [
             19
@@ -2478,8 +2464,8 @@
         "age": 70,
         "birth": 235,
         "isBastard": false,
-        "pageRank": 0.004027617951668585,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.004002287021154946,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [
             92,
@@ -2506,9 +2492,9 @@
         "age": 45,
         "birth": 260,
         "isBastard": false,
-        "pageRank": 0.21231300345224396,
-        "numRelatives": 0.07692307692307693,
-        "numCommandedBattles": 1,
+        "pageRank": 0.2115494568324757,
+        "numRelatives": 0,
+        "numCommandedBattles": 0.3333333333333333,
         "allegiances": [
             96,
             71
@@ -2574,7 +2560,7 @@
         ],
         "cultures": [],
         "titles": [
-            49
+            52
         ]
     },
     {
@@ -2583,8 +2569,8 @@
         "age": 91,
         "birth": 214,
         "isBastard": false,
-        "pageRank": 0.07479861910241657,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.07432818753573471,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [
             96,
@@ -2604,7 +2590,7 @@
         ],
         "cultures": [],
         "titles": [
-            44
+            46
         ]
     },
     {
@@ -2613,8 +2599,8 @@
         "age": 30,
         "birth": 275,
         "isBastard": false,
-        "pageRank": 0.17376294591484465,
-        "numRelatives": 0.6153846153846154,
+        "pageRank": 0.17381360777587193,
+        "numRelatives": 0.6666666666666666,
         "numCommandedBattles": 0,
         "allegiances": [],
         "appearances": [
@@ -2685,8 +2671,8 @@
         "age": 41,
         "birth": 264,
         "isBastard": false,
-        "pageRank": 0.1237054085155351,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.12464265294453973,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [
             21,
@@ -2751,8 +2737,8 @@
         "age": 53,
         "birth": 252,
         "isBastard": false,
-        "pageRank": 0.00805523590333717,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.008004574042309892,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [
             21,
@@ -2790,8 +2776,8 @@
         "age": 37,
         "birth": 268,
         "isBastard": false,
-        "pageRank": 0.07882623705408516,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.07833047455688966,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [
             67,
@@ -2824,8 +2810,8 @@
         "age": 30,
         "birth": 275,
         "isBastard": false,
-        "pageRank": 0.010356731875719217,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.010291595197255575,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [
             67,
@@ -2845,7 +2831,7 @@
         ],
         "cultures": [],
         "titles": [
-            30
+            32
         ]
     },
     {
@@ -2854,8 +2840,8 @@
         "age": 23,
         "birth": 282,
         "isBastard": false,
-        "pageRank": 0.9062140391254315,
-        "numRelatives": 0.5384615384615384,
+        "pageRank": 0.902229845626072,
+        "numRelatives": 0.5833333333333334,
         "numCommandedBattles": 0,
         "allegiances": [
             67
@@ -2931,15 +2917,15 @@
         ],
         "cultures": [],
         "titles": [
-            36,
-            94,
-            31,
-            54,
-            46,
+            38,
+            97,
+            33,
+            57,
+            48,
             13,
-            99,
-            114,
-            96
+            103,
+            118,
+            99
         ]
     },
     {
@@ -2948,8 +2934,8 @@
         "age": 58,
         "birth": 247,
         "isBastard": false,
-        "pageRank": 0.41254315304948214,
-        "numRelatives": 0.15384615384615385,
+        "pageRank": 0.411663807890223,
+        "numRelatives": 0.16666666666666666,
         "numCommandedBattles": 0,
         "allegiances": [
             86,
@@ -3032,8 +3018,8 @@
         ],
         "cultures": [],
         "titles": [
-            104,
-            50
+            108,
+            53
         ]
     },
     {
@@ -3042,8 +3028,8 @@
         "age": 66,
         "birth": 239,
         "isBastard": false,
-        "pageRank": 0.06386651323360185,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.06518010291595197,
+        "numRelatives": 0.08333333333333333,
         "numCommandedBattles": 0,
         "allegiances": [
             67
@@ -3062,8 +3048,8 @@
         ],
         "cultures": [],
         "titles": [
-            81,
-            88
+            84,
+            91
         ]
     },
     {
@@ -3072,8 +3058,8 @@
         "age": 53,
         "birth": 252,
         "isBastard": false,
-        "pageRank": 0.05178365937859609,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.051457975986277875,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [
             79
@@ -3116,8 +3102,8 @@
         "age": 62,
         "birth": 243,
         "isBastard": false,
-        "pageRank": 0.01726121979286536,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.017152658662092625,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [],
         "appearances": [
@@ -3141,8 +3127,8 @@
         "age": 30,
         "birth": 275,
         "isBastard": false,
-        "pageRank": 0.1892980437284235,
-        "numRelatives": 0.15384615384615385,
+        "pageRank": 0.18810748999428245,
+        "numRelatives": 0.08333333333333333,
         "numCommandedBattles": 0,
         "allegiances": [
             67,
@@ -3206,9 +3192,9 @@
         "age": 29,
         "birth": 276,
         "isBastard": false,
-        "pageRank": 0.1714614499424626,
-        "numRelatives": 0.15384615384615385,
-        "numCommandedBattles": 1,
+        "pageRank": 0.1703830760434534,
+        "numRelatives": 0.08333333333333333,
+        "numCommandedBattles": 0.3333333333333333,
         "allegiances": [
             121,
             67
@@ -3271,8 +3257,8 @@
         "age": 36,
         "birth": 269,
         "isBastard": false,
-        "pageRank": 0.1806674338319908,
-        "numRelatives": 0.15384615384615385,
+        "pageRank": 0.17953116066323613,
+        "numRelatives": 0.08333333333333333,
         "numCommandedBattles": 0,
         "allegiances": [
             107,
@@ -3322,9 +3308,9 @@
         ],
         "cultures": [],
         "titles": [
-            97,
-            106,
-            102
+            101,
+            110,
+            106
         ]
     },
     {
@@ -3333,8 +3319,8 @@
         "age": 52,
         "birth": 253,
         "isBastard": false,
-        "pageRank": 0.013233601841196778,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.013150371640937679,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [],
         "appearances": [
@@ -3358,8 +3344,8 @@
         "age": 45,
         "birth": 260,
         "isBastard": false,
-        "pageRank": 0.04142692750287687,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.0411663807890223,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [
             127,
@@ -3394,12 +3380,12 @@
     },
     {
         "name": "Kinvara",
-        "male": true,
+        "male": false,
         "age": 37,
         "birth": 268,
         "isBastard": false,
-        "pageRank": 0.031070195627157654,
-        "numRelatives": 0.07692307692307693,
+        "pageRank": 0.030874785591766724,
+        "numRelatives": 0,
         "numCommandedBattles": 0,
         "allegiances": [
             102,
@@ -3419,6 +3405,11 @@
             64
         ],
         "cultures": [],
-        "titles": []
+        "titles": [
+            100,
+            19,
+            49,
+            16
+        ]
     }
 ]

@@ -22,6 +22,8 @@ charsPredict = readShowMLDataFile("chars-to-predict")
 dataPredict = readFormattedBinaryShowMLFile("v1-data-predict")
 dataTrain = readFormattedBinaryShowMLFile("v1-data-train")
 labelsTrain = readFormattedBinaryShowMLFile("v1-labels-train")
+dataTest = readFormattedBinaryShowMLFile("v1-data-test")
+labelsTest = readFormattedBinaryShowMLFile("v1-labels-test")
 
 
 
@@ -40,7 +42,8 @@ if False:
   model.compile(optimizer='rmsprop', loss='binary_crossentropy', metrics=['accuracy'])
 
   # train the model
-  model.fit(dataTrain, labelsTrain, epochs=8, batch_size=32, validation_split=0.1)
+  model.fit(dataTrain, labelsTrain, epochs=12, batch_size=32, validation_split=0.1)
+  print("evaluation on test set:", model.evaluate(dataTest, labelsTest))
   model.save(os.path.join(dirnameMain, 'models/got-predictor-model.h5'))
 
 else:
