@@ -1,0 +1,149 @@
+\documentclass{bioinfo}
+\copyrightyear{2019} \pubyear{2019}
+
+\access{Due: 04.05.2019}
+\appnotes{Manuscript Category}
+
+\begin{document}
+\firstpage{1}
+
+\subtitle{Topic Solution}
+
+\title[short Title]{JavaScript on the server. A Node.js crash course}
+\author[Sample \textit{et~al}.]{Julian Nalenz, Valentin Dimov and Robert Dillitz}
+
+%\abstract{\textbf{Motivation:}\\
+%\textbf{Results:} \\
+%\textbf{Availability:}\\
+%\textbf{Contact:} \href{name@bio.com}{name@bio.com}\\
+%\textbf{Supplementary information:} Supplementary data are available at \textit{Bioinformatics}}
+\maketitle
+
+\section{Introduction}
+
+Node.js is an asynchronous, event-driven JavaScript runtime that uses a non-blocking I/O model to support lots of concurrent connections at once. It was built to create dynamic, highly scalable network applications in JavaScript.\\ Prior to the start of the Node.js project in 2009, JavaScript was not the general-purpose language it is today, but rather a niche scripting language supported by internet browsers to execute code on the client side. Thanks to the creation of the ECMAScript 2015 standard which opposed distinct design flaws the language had accumulated over the years, JavaScript in combination with Node.js became one of the most important coding environments, not only as back-end solution for web services (which is the main focus here), but also for command-line tools and even desktop applications like Slack, Discord and Microsoft's Visual Studio Code, all using the Electron (https://electronjs.org/) framework.\\
+Node.js is built on Google's V8 JavaScript engine, written in C++ and originally developed for the company's Chrome browser, which uses just-in-time compiling to directly translate JavaScript into fast running machine code. The V8 engine rests on the sixth version of the ECMAScript standard also known as "ES6".
+
+\subsection{Installing \& Using Node.js}
+\subsubsection{Installation}
+When downloading Node.js (https://nodejs.org/) one can choose between two versions: "Long-Term Support" (LTS) and "Current". Which version to build a project on depends on the requirements of absolute stability at the cost of rare updates versus effort to handle more frequent updates that the latest performance and feature improvements entail.
+Both versions are free \& open source and maintained by the Node.js Foundation, an industry consortium, operating under an open governance model. After using the downloaded installer one can run "node -v \&\& npm -v" in the terminal to make sure the installation has succeeded.
+
+\subsubsection{REPL}
+Node.js comes with a "Read-Evaluate-Print-Loop" (REPL), which might be familiar from languages like Python or OCAML, that lets one run JavaScript code directly in the terminal and see its result. This is useful for quickly trying different statements, experimenting and debugging. The REPL is started by just typing "node" into the terminal prompt and closed by pressing "CTRL+D".
+
+\subsubsection{Running Programs}
+Running programs in Node.js is as simple as it gets. After making sure one is in the working directory of the program, it is started by executing "node <name\_of\_the\_program>" in the terminal.
+
+\subsubsection{Naming Conventions}
+Although it is not required, filenames end generally with the filename extension ".js" and the main file of the program is called either "index.js", "app.js" or "server.js".
+
+\section{Single-Threaded Event Loop Model}
+
+A main selling point of Node.js is its single-threaded event loop model. In comparison to other traditional server implementations like the standard C or Java solution, where everytime a new connection is established a new thread or even process is created to serve the incoming request, Node.js makes use of a different approach. Here only one single thread, called the event loop, handles every upcoming demand. To make this model work, the code executed by Node.js has to be written in an asynchronous, non-blocking manner, which is outlined next.
+
+\subsection{Asynchronous Programming}
+As always in computer science when analyzing efficiency and scalability, I/O-operations such as database accesses, file reads / writes and network operations, all of which one of course needs to make plenty of use of in a server application, make or break the deal. Here is the part where the asynchronous, non-blocking programming comes in play. Instead of executing the time consuming I/O-operation directly in the event loop, which of course would make every other request have to wait for the I/O-call to finish and therefor slow down the whole server unbearably, Node.js "outsources" the costly operation to a pool of POSIX worker threads provided by a libary called libuv (https://libuv.org/). The POSIX worker thread then executes the system call in the background to keep the event loop free and running.
+
+\subsubsection{Callbacks}
+First it is important to understand the concept of a callback which is the primary way asynchronicity is handled in Node.js. A callback is a function that is passed as an argument (in our case to Node's built-in module methods) and called upon completion with the result of the initial method call. All Node.js API calls support callbacks in order to produce non-blocking code. The callback method is always the last argument of the API call, most of the time created directly within the argument brackets using the ES6 arrow notation: \\(argument0, argument1) $\ =>$ \{callback\ body\}\\
+In general the first argument of the callback function is used for error handling (argument0 in the notation clarification above).
+
+\subsubsection{Modules}
+
+This is done by calling Node's built-in module functions. There are modules for countless use cases such as file systems, buffer, cryptographic functions, events etc. 
+
+\section{Our project}
+
+\subsection{The Neural Network approach}
+
+\subsubsection{Introduction}
+
+Game of Thrones is not only a popular book series, but also an internationally successful TV show, having millions of enthusiastic viewers each episode. In its fantasy-themed world, well-known and sometimes beloved characters frequently die; these highly important events almost always come as a surprise.
+
+Our goal was to predict when these deaths will happen. We found that information about a character's background, for example the house he is a part of, his allegiances and so on, were not only readily available in a community-driven wiki, but also sufficiently complete and numerous. Together with modern machine learning approaches, this allowed us to rephrase this task as a binary classification problem, which a neural network could then be trained for.
+
+In general, this process first consisted of formatting the data in two steps, in which dead characters for training and alive characters for the final predictions were separated. Afterwards, it was possible to train a neural network with the Python-based machine learning framework Keras, which is based on Google's TensorFlow, and eventually predict the percentage likelihood of survival/death for alive characters 20 years into the future.
+
+\subsubsection{Input data transformations}
+
+We had two different datasets containing information about characters of Game of Thrones: one for the book series and one for the TV show. Although the show is based on the book, the two have been starting to diverge more and more, leading to us treating them as independent and virtually unrelated datasets. The following explanations will elaborate mostly on the show data; as the process is directly applicable to the book data as well, we will only mention which kinds of information were used in this context shortly in the end.
+
+The database provided us with a large JSON array, containing an entry in the form of a JSON object for every single character who has ever appeared in the show and who has a wiki article. Relevant properties from these object for the predictions are: age, allegiances, appearances, birth, father, gender, house, lovers, mother, name, page rank, religion, siblings, spouse and titles. These properties can then be aggregated and grouped into whether they describe a scalar value (e.g. the page rank of the character's wiki page), or a one-/multiple-hot vector.
+
+The simplest scalar values were binary, i.e. the "isMale" and "isBastard" properties were set to 1.0 if the character has this property and 0.0 otherwise.
+
+For the other scalar values, the first input data transformation step found the maximum value and then divided every value by this maximum. For example, Jon Snow had the highest unnormalized page rank, 1749, which was then normalized to 1.0. Consequently, Arya Stark with a page rank of 1014 was assigned the relative scalar value 1014/1749=0.5798 for this propertly. Similarly, the number of a character's relatives (total number of known family members, i.e. father, lovers, mother, siblings and spouse) and the number of battles he commanded was calculated.
+
+Other properties were not transformable into a single value. Because all of the ones we looked at had a pre-defined set of possible values, the first input data transformation step also aggregated the set of these values and converted the arrays containing these values associated to a character to a list of indices instead. As an example, 130 episodes of the TV show were captured, which are stored in a separate, alphabetically sorted array. Among others, Daenerys Targaryen appeared in the episodes Winter is Coming, The Kingsroad, Lord Show etc., which were then converted into an array containing the indices 72, 47 and 26.
+
+The same approach was then taken for the possible allegiances, and the titles a character has, of which there were 130 and 118, respectively.
+
+Next, this data had to be transformed to input vectors for a neural network. In this context, an input vector is simply a list of multiple single-precision floating point values, all of which are between 0.0 and 1.0. Additionally, as the dead characters serve as training data, the corresponding labels, i.e. the values the neural network is supposed to output, need to be stored as well.
+
+\subsubsection{Neural network input vectors}
+
+Basically, an input vector consists of the scalar values and one-hot vectors for the properties with a pre-defined set of possible values, all just appended to each other, resulting in a vector with several hundred dimensions.
+
+Yet, the neural network is supposed to predict the likelihood of death/survival for consecutive years. That's why we introduced the concept of expanding the input data, which would normally just consists of one vector for each character, along the "age" property. This not only results in several thousand input vectors available for use during training, validation and testing, but also represents an obvious property of humans: old age means higher probability of death. To understand this more thoroughly, consider the following example.
+
+Assume there are $n+1$ possible ages (i.e. the minimum age is $0$ and the maximum age is $n$). Also assume that a character died at age $m$, where $0\leq m\leq n$. Next, one loops through each possible age for each character; say the currently looked at age is $a$, where $0\leq a\leq n$. A one-hot vector with $n+1$ dimensions representing this age will be appended to the current input vector with the character's other properties already serialized, then a separate label (i.e. likelihood of survival the network is supposed to output) needs to be generated. If $a<m$, the value 1.0 is assigned to this label, and 0.0 otherwise. Eventually this means that the neural network will only have one single output dimension.
+
+Note that this process will create $c*(n+1)$ vectors for training in total, where $c$ is the number of dead characters suitable for being used as training data. Effectively, as the maximum age for the show, ignoring outliers, was $n=85$, together with $c=82$, it was possible to generate 7052 training vectors.
+
+This process also makes it very easy for the network to predict the likelihood of survival into the future for alive characters: take the other serialized properties as they are, then add the age the character has in the year one would like to predict his likelihood of survival for as a one-hot vector.
+
+
+%\enlargethispage{12pt}
+
+
+
+%\bibliographystyle{natbib}
+%\bibliographystyle{achemnat}
+%\bibliographystyle{plainnat}
+%\bibliographystyle{abbrv}
+%\bibliographystyle{bioinformatics}
+%
+%\bibliographystyle{plain}
+%
+%\bibliography{Document}
+
+
+\begin{thebibliography}{}
+
+\bibitem[Bofelli {\it et~al}., 2000]{Boffelli03}
+Bofelli,F., Name2, Name3 (2003) Article title, {\it Journal Name}, {\bf 199}, 133-154.
+
+\bibitem[Bag {\it et~al}., 2001]{Bag01}
+Bag,M., Name2, Name3 (2001) Article title, {\it Journal Name}, {\bf 99}, 33-54.
+
+\bibitem[Yoo \textit{et~al}., 2003]{Yoo03}
+Yoo,M.S. \textit{et~al}. (2003) Oxidative stress regulated genes
+in nigral dopaminergic neurnol cell: correlation with the known
+pathology in Parkinson's disease. \textit{Brain Res. Mol. Brain
+Res.}, \textbf{110}(Suppl. 1), 76--84.
+
+\bibitem[Lehmann, 1986]{Leh86}
+Lehmann,E.L. (1986) Chapter title. \textit{Book Title}. Vol.~1, 2nd edn. Springer-Verlag, New York.
+
+\bibitem[Crenshaw and Jones, 2003]{Cre03}
+Crenshaw, B.,III, and Jones, W.B.,Jr (2003) The future of clinical
+cancer management: one tumor, one chip. \textit{Bioinformatics},
+doi:10.1093/bioinformatics/btn000.
+
+\bibitem[Auhtor \textit{et~al}. (2000)]{Aut00}
+Auhtor,A.B. \textit{et~al}. (2000) Chapter title. In Smith, A.C.
+(ed.), \textit{Book Title}, 2nd edn. Publisher, Location, Vol. 1, pp.
+???--???.
+
+\bibitem[Bardet, 1920]{Bar20}
+Bardet, G. (1920) Sur un syndrome d'obesite infantile avec
+polydactylie et retinite pigmentaire (contribution a l'etude des
+formes cliniques de l'obesite hypophysaire). PhD Thesis, name of
+institution, Paris, France.
+
+\end{thebibliography}
+
+
+
+\end{document}
