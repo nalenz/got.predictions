@@ -145,7 +145,7 @@ Sometimes, developers also need an even simpler form of serving content and do n
     app.use(express.static(dirName));
 \end{verbatim*}
 
-Routes may have more complex definitions as well, as simple patterns can be used. For example, the \texttt{/xy?z} route will match client requests to \texttt{/xz} and \texttt{/xyz}; the \texttt{y} character becomes optional. The \texttt{+} wildcard matches paths having the previous character repeated one or more times, the \texttt{*} wildcard matches any number (including no) characters. In addition to that, any JavaScript regular expressions are allowed as well. Moreover, routes like \texttt{/article/:articleId} can include parameters: when a client requests the path \texttt{/article/42}, the callback receives \texttt{42} in \texttt{req.params.articleId}.
+Routes may have more complex definitions as well, as simple patterns can be used \cite{expressrouting}. For example, the \texttt{/xy?z} route will match client requests to \texttt{/xz} and \texttt{/xyz}; the \texttt{y} character becomes optional. The \texttt{+} wildcard matches paths having the previous character repeated one or more times, the \texttt{*} wildcard matches any number (including no) characters. In addition to that, any JavaScript regular expressions are allowed as well. Moreover, routes like \texttt{/article/:articleId} can include parameters: when a client requests the path \texttt{/article/42}, the callback receives \texttt{42} in \texttt{req.params.articleId}.
 
 The Express library itself is very lightweight and only provides basic functionality to serve content via HTTP. Yet, it can be extended with plugins. Three examples for that are \texttt{body-parser}, which is able to parse URL-encoded form data, \texttt{cookie-parser}, which can extract information about all set cookies from HTTP's \texttt{Cookie} header, and \texttt{compression}, which automatically compresses data sent back to the client using gzip to improve performance.
 
@@ -304,9 +304,9 @@ We concluded that this model can provide some statistical insight into the influ
 \bibitem{keras} Keras: https://keras.io/ (retrieved April 29, 2019)
 
 \bibitem{expresshome} Express: https://expressjs.com/ (retrieved April 29, 2019)
-
 \bibitem{expressinstalling} Installing Express: https://expressjs.com/en/starter/installing.html (retrieved April 29, 2019)
 \bibitem{expresshelloworld} Express "Hello World" example: https://expressjs.com/en/starter/hello-world.html (retrieved April 29, 2019)
+\bibitem{expressrouting} Express routing: http://expressjs.com/en/guide/routing.html (retrieved April 29, 2019)
 
 \end{thebibliography}
 
