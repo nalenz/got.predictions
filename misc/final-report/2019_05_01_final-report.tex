@@ -1,0 +1,328 @@
+\PassOptionsToPackage{utf8}{inputenc}
+\documentclass{bioinfo}
+
+\usepackage{url}
+\copyrightyear{2019} \pubyear{2019}
+
+\access{Due: 04.05.2019}
+\appnotes{}
+
+\begin{document}
+\firstpage{1}
+
+\subtitle{JavaScript Technology 2019}
+
+\title[JavaScript on the server. A Node.js crash course]{JavaScript on the server. A Node.js crash course}
+\author{Julian Nalenz, Valentin Dimov and Robert Dillitz}
+
+\abstract{\textbf{Motivation:} Node.js is increasingly important in today's web and other software development and internet infrastructure in general. Allowing developers to write source code in JavaScript for client and server alike and using the language's advantages regarding performance and modularity, as well as extending it with an efficient package manager and a platform-independent API shaped Node.js to be an integral part of modern development.\\
+\textbf{Results:} This paper explains the framework's basic features, several widely used libraries, and concludes with a practical project that dealt with predicting the likelihood of death of characters from the popular book and TV series "Game of Thrones".}
+
+\maketitle
+
+\section{Introduction}
+
+Node.js is an asynchronous, event-driven JavaScript runtime that uses a non-blocking I/O model to support lots of concurrent connections at once. It was built to create dynamic, highly scalable network applications in JavaScript. \cite{nodejsabout}
+
+Prior to the start of the Node.js project in 2009, JavaScript was not the general-purpose language it is today, but rather a niche scripting language supported by internet browsers to execute code on the client side. Thanks to the creation of the ECMAScript 2015 standard which opposed distinct design flaws the language had accumulated over the years, JavaScript in combination with Node.js became one of the most important coding environments \cite{nodejswelcome}, not only as back-end solution for web services (which is the main focus here), but also for command-line tools and even desktop applications like Slack, Discord and Microsoft's Visual Studio Code, all using the Electron (https://electronjs.org/) framework. \cite{nodejsapplications}
+
+Node.js is built on Google's V8 JavaScript engine, written in C++ and originally developed for the company's Chrome browser, which uses just-in-time compiling to directly translate JavaScript into fast running machine code. The V8 engine rests on the sixth version of the ECMAScript standard also known as \textit{ES6}. \cite{nodejsv8}
+
+\subsection{Installing \& Using Node.js}
+\subsubsection{Installation}
+When downloading Node.js (\texttt{https://nodejs.org/}) one can choose between two versions: \textit{Long-Term Support (LTS)} and \textit{Current}. Which version to build a project on depends on the requirements of absolute stability at the cost of rare updates and effort to handle more frequent updates that the latest performance and feature improvements entail \cite{nodejsreleases}.
+Both versions are free and open source and maintained by the Node.js Foundation, an industry consortium, operating under an open governance model. \cite{nodejswelcome} After using the downloaded installer one can run \texttt{node -v \&\& npm -v} in the terminal to make sure the installation has succeeded.
+
+\subsubsection{REPL}
+Node.js comes with a "Read-Evaluate-Print-Loop" (REPL), which might be familiar from languages like Python or OCaml, that lets one run JavaScript code directly in the terminal and see its result. This is useful for quickly trying out different statements, experimenting and debugging. The REPL is started by just typing \texttt{node} into the terminal prompt and closed by pressing \texttt{CTRL+D}.
+
+\subsubsection{Running Programs}
+Running programs in Node.js is as simple as it gets. After making sure one is in the working directory of the program, it is started by executing \texttt{node <name\_of\_the\_program>} in the terminal.
+
+\subsubsection{Naming Conventions}
+Although it is not required, filenames generally end with the filename extension \texttt{.js} and the main file of the program is called either \texttt{index.js}, \texttt{app.js} or \texttt{server.js}.
+
+\section{Understanding the basics of Node.js}
+\subsection{Single-Threaded Event Loop Model}
+
+A main selling point of Node.js is its single-threaded event loop model. In comparison to other traditional server implementations like the standard C or Java solution, where everytime a new connection is established a new thread or even process is created to serve the incoming request, Node.js makes use of a different approach. Here only one single thread, called the event loop, handles every upcoming demand. To make this model work, the code executed by Node.js has to be written in an asynchronous, non-blocking manner, which is outlined next. \cite{nodejseventloop}
+
+\subsection{Asynchronous Programming}
+As always in computer science when analyzing efficiency and scalability, I/O-operations such as database accesses, file reads/writes and network operations, all of which are frequently used in a server application, make or break the deal. This is the part where the asynchronous, non-blocking programming comes in play. Instead of executing the time consuming I/O-operation directly in the event loop, which would make every other request have to wait for the I/O-call to finish and therefore noticably slow down the entire server, Node.js "outsources" costly operations to a pool of POSIX worker threads provided by a library called \textit{libuv}. The respective POSIX worker thread then executes all required system calls in the background to keep the event loop free and running. \cite{nodejseventloop}
+
+\subsubsection{Callbacks}
+First it is important to understand the concept of a callback which is the primary way asynchronicity is handled in Node.js. A callback is a function that is passed as an argument (in our case to Node's built-in module methods) and called upon completion with the result of the initial method call. All Node.js API calls support callbacks in order to produce non-blocking code. The callback method is always the last argument of an API call, most of the time created directly within the argument brackets using the ES6 arrow notation \cite{nodejsarrow}: 
+\begin{verbatim*}
+    (argument0, argument1) => { function body }
+\end{verbatim*}
+In general the first argument of the callback function is used for error handling (\texttt{argument0} in the example above).
+
+\subsubsection{Modules}
+
+Modules bundle functionality into easily importable packages. There is a collection of built-in modules that provide the programmer with API calls to make use of the whole Node.js ecosystem: working with files ('fs'), operating system features ('os'), cryptographic operations ('crypto'), event handling ('event') etc. One uses these modules to produce non-blocking, asynchronous code, although a lot of API calls are additionally available with the extension \texttt{Sync} which means they can also be executed synchronously. Of course modules can be imported from other sources and be created by oneself. \cite{nodejsmodules}
+\begin{verbatim*}
+    // importing the DNS module
+    var dns = require('dns');
+    // using the module
+    dns.lookup('got.show', (err, address, family)
+        => console.log(address));
+    // exporting own functions
+    exports.logFacts = function () {
+      console.log('Game of Thrones rules!');
+    };
+\end{verbatim*}
+\subsubsection{Code Examples}
+Here are two code examples \cite{nodejscodeexample} that show the different approach one has to get used to when programming in an asynchronous, non-blocking fashion. In both cases we want to open the file \texttt{file.md}, read its content, print it onto the console and delete it afterwards.
+\begin{verbatim*}
+    // synchronous & blocking example
+    const fs = require('fs');
+    const data = fs.readFileSync('./file.md');
+    console.log(data);
+    fs.unlinkSync('./file.md');
+
+    // asynchronous & non-blocking example
+    const fs = require('fs');
+    fs.readFile('./file.md',
+      (readFileErr, data) => {
+        if (readFileErr) throw readFileErr;
+        console.log(data);
+        fs.unlink('./file.md', (unlinkErr) => {
+            if (unlinkErr) throw unlinkErr;
+        });
+    });
+\end{verbatim*}
+The first example gets the task done in the classic step-by-step synchronous way that most programmers are used to from imperative languages. The code is easy to read and comprehend, but should not be used in a server context, as it gets executed within the event loop and would block until \texttt{file.md} is finally deleted.
+
+From a server's perspective the second example is the way to go. We initiate the process by calling \texttt{fs.readFile} with the filename and a callback function that takes a potential error and the data that is retrieved asynchronously. We then log the data and delete the file via \texttt{fs.unlink} where it is important to note that both of those statements are located within the first callback function in order to make sure that they are executed \textbf{after} we have read the file. We then provide a second callback function to the unlink API call for error handling and are done. 
+
+\section{npm \& Express}
+\subsection{npm}
+\subsubsection{Introduction}
+npm (\textbf{N}ode \textbf{P}ackage \textbf{M}anager) comes bundled with Node.js and allows the developer to install, update and manage a huge variety of open source packages from the public npm registry (https://npmjs.com), the largest software repository in the world. The comfortable way of publishing own modules without any vetting processes has led to about half a million available packages of extremely varying quality. \cite{npmwikipedia} npm Inc., the company managing the npm ecosystem, also offers a paid-for service that allows teams or enterprises to access more features, collaborate and share private code through the npm tool. \cite{npmabout}     
+
+\subsubsection{package.json}
+The \texttt{package.json} file, located within the root folder of the project, contains all relevant information for npm and its registry. It tracks the project's name, version, description, keywords, dependencies, main, scripts and other details. \cite{npmpackage} When creating a new project one can comfortably call \texttt{npm init} to be guided through its creation by an automated assistant. 
+
+\subsubsection{Usage}
+The npm CLI is a powerful utility \cite{npmcli} from which some of the most basic commands are provided here:
+\begin{itemize}
+    \item \textit{npm init:} Automated package.json creation assistant
+    \item \textit{npm install <module name>:} Installs a package from the online repository; packages can be searched for on \texttt{https://npmjs.com}
+    \item \textit{npm uninstall <nodule name>:} Uninstalls a package
+    \item \textit{npm ls:} Lists all installed packages
+    \item \textit{npm search <module name>:} Searches for modules within the terminal
+    \item \textit{npm adduser:} Register for or log in to the npm online registry
+    \item \textit{npm publish:} After being logged in, publishes your own module 
+    
+\end{itemize}
+
+\subsection{Express}
+
+\subsubsection{Introduction}
+
+Node.js allows programmers to develop the entire stack of a web application in JavaScript only. The backend serves frontend content (HTML, CSS, client-side JavaScript etc.), i.e. it may be a simple HTTP server that answers clients' requests to fetch various URLs.
+
+The motivation for a library like Express is that the Hypertext Transfer Protocol (HTTP) can be rather complex, resulting in developers requiring a simple way to, among many other more complex tasks, establish routes and serve static content safely. Additionally, as that framework is remarkably flexible, more sophisticated applications can build on it to better suit their needs.
+
+Having this kind of HTTP server framework means that application prototyping becomes easier, faster and less error-prone, which is a good fit for today's agile software development techniques. Moreover, developers can focus on the application logic itself, as for simple projects, no complex server setup is necessary. Express describes itself as a "fast, unopinionated minimalist web framework for Node.js" \cite{expresshome}.
+
+\subsubsection{Installation and initialization}
+
+After having initialized a Node.js project like described before in the NPM basics, the developer needs to install the \texttt{express} module by entering the following command on a shell \cite{expressinstalling}:
+
+\begin{verbatim*}
+    npm install --save express
+\end{verbatim*}
+
+Applications using Express just need a single file to operate: the project's main \texttt{index.js}. This file has to contain the following JavaScript code to first import the Express library and subsequently create a server; the latter is assigned to a variable commonly named \texttt{app}, as it will contain the entire server-side state of the eventual web application.
+
+\begin{verbatim*}
+    const express = require('express');
+    const app = express();
+\end{verbatim*}
+
+\subsubsection{Basic routes and launching}
+
+In general, HTTP is a protocol that expects clients to specify the location of the information they would like to retrieve in form of a path, also known as \textit{route}. In general, a URL like \texttt{http://example.com/} is split into which protocol to use (\texttt{http://}), the server's domain (\texttt{example.com}), and finally the path to access (\texttt{/}). In this example, a single forward slash as the path refers to the index page of the respective domain. In Express, a handler to serve content for this route can be installed like this \cite{expresshelloworld}:
+
+\begin{verbatim*}
+    app.get('/', (req, res) =>
+        res.send('Hello World!'));
+\end{verbatim*}
+
+Note the use of an asynchronous callback in ES6 syntax here: when any client tries to access the \texttt{/} path, this function is run. Differing slightly from the previously encountered pattern of callbacks, which simply compute a result asynchronously, this one gets two parameters for the \textit{request} and a \textit{response} objects. The former contains all information the user included in their request, e.g. query parameters, HTTP headers (including cookies), the client's IP address etc. The latter contains functions to send response data back to the client.
+
+This piece of code is a good example to show all the abstractions Express provides the developer: he does not need to care about HTTP status codes, parsing and sending HTTP headers, or even byte streams or system-level sockets anymore. To finally start the server, the following code might be used:
+
+\begin{verbatim*}
+    app.listen(8080);
+\end{verbatim*}
+
+When this function is called, Express expects the \texttt{app} instance to be fully configured with all desired routes, as it will block indefinitely. The port given to it is generally arbitrary, but needs to be in the valid port range and unoccupied by any other application of course. Running the server finally only consists of executing \texttt{node index.js} on the respective shell, then one can enter the URL \texttt{http://localhost:8080/} in any browser to see the result.
+
+\subsubsection{More features}
+
+In addition to GET, Express also supports all other HTTP methods commonly used to implement REST services, i.e. POST, PUT and DELETE. To use them, the only necessary change to the route specification above is to use \texttt{app.post}, \texttt{app.put} or \texttt{app.delete} instead.
+
+Sometimes, developers also need an even simpler form of serving content and do not require dynamically generated responses: static assets. This means that the server shall publish all files from a designated directory unchanged, including all files in subdirectories. That behavior can be achieved by calling \texttt{app.use(express.static(dirName));}
+
+Routes may have more complex definitions as well, as simple patterns can be used \cite{expressrouting}, for example optional (\texttt{/xy?z}), repeated (\texttt{/xy+z}) or any or no characters (\texttt{x*z}). In addition to that, any JavaScript regular expressions are allowed as well. Moreover, routes like \texttt{/article/:articleId} can include parameters: when a client requests the path \texttt{/article/42}, the callback receives \texttt{42} in \texttt{req.params.articleId}.
+
+The Express library itself is very lightweight and only provides basic functionality to serve content via HTTP. Yet, it can be extended with plugins. Three examples for that are \texttt{body-parser}, which is able to parse URL-encoded form data, \texttt{cookie-parser}, which can extract information about all set cookies from HTTP's \texttt{Cookie} header, and \texttt{compression}, which automatically compresses data sent back to the client using gzip to improve performance.
+
+\subsubsection{Limitations}
+
+More advanced functionality, especially regarding dynamic websites, cannot be achieved with Express directly. Examples include automatic HTML generators from templates or bundling client-side JavaScript code in a single file to improve maintainability and efficiency.
+
+Still, this is not what Express is supposed to be anyway: a lightweight HTTP server library. Regarding that, Express does not lack any features necessary in modern, real life development environments.
+
+\subsection{Other libraries}
+A few other noteworthy libraries a developer might find useful are:
+\begin{itemize}
+    \item \textbf{Gulp}: Similar to the Unix tool \texttt{make}, Gulp allows the creation, chaining and automation of \textbf{tasks}, which are JavaScript programs and can be used to perform build-related tasks. \cite{gulp}
+    \item \textbf{Webpack} is a highly configurable bundling tool for JavaScript applications, commonly used in all sorts of web development. \cite{webpack}
+    \item \textbf{Hapi} is another option for a tool for building web apps, and a possible alternative to Express. \cite{hapi}
+\end{itemize}
+
+\section{Our project}
+
+\subsection{The Neural Network approach}
+
+\subsubsection{Introduction}
+
+Game of Thrones is not only a popular book series, but also an internationally successful TV show, having millions of enthusiastic viewers each episode. In its fantasy-themed world, well-known and sometimes beloved characters frequently die; these highly important events almost always come as a surprise.
+
+Our goal was to predict when these deaths will happen. We found that information about a character's background, for example the house he is a part of, his allegiances and so on, were not only readily available in a community-driven wiki, but also sufficiently complete and numerous. Together with modern machine learning approaches, this allowed us to rephrase this task as a binary classification problem, which a neural network could then be trained for.
+
+In general, this process first consisted of formatting the data in two steps, in which dead characters for training and alive characters for the final predictions were separated. Afterwards, it was possible to train a neural network with the Python-based machine learning framework Keras, which is based on Google's TensorFlow \cite{keras}, and eventually predict the percentage likelihood of survival/death for alive characters 20 years into the future.
+
+\subsubsection{Input data transformations}
+
+We had two different datasets containing information about the characters: one for the book series and one for the TV show. Although the show is based on the book, the two have been starting to diverge more and more, leading to us treating them as independent and virtually unrelated datasets. The following explanations will elaborate mostly on the show data; as the process is directly applicable to the book data as well, we will only mention which kinds of information were used in this context shortly in the end.
+
+The database provided us with a large JSON array, containing an entry in the form of a JSON object for many characters. These given properties can be aggregated and grouped into whether they describe a scalar value or a one-/multiple-hot vector.
+
+The simplest scalar values are binary, i.e. the "isMale" and "isBastard" properties are set to 1.0 if the character has this property and 0.0 otherwise. The unbounded scalar values are all divided by their global maximum to create a range between 0.0 and 1.0: page rank, total number of known relatives, i.e. parents, lovers, siblings and spouse, and the number of commanded battles.
+
+Other properties are not transformable into a single value. Because the ones we looked at have a pre-defined set of possible values, the first input data transformation step also aggregates the set of these values and converts the arrays containing these values associated to a character to a list of indices instead. As an example, 130 episodes of the TV show are captured, which are stored in a separate, alphabetically sorted array. Among others, Daenerys Targaryen appeared in the episodes Winter is Coming, The Kingsroad, Lord Show etc., which are then converted into an array containing the indices 72, 47 and 26.
+
+The same approach is then taken for the possible allegiances, and the titles a character has, of which there are 130 and 118, respectively.
+
+\subsubsection{Neural network input vectors}
+
+This data has to be transformed to input vectors consisting of single-precision floating point values between 0.0 and 1.0 for a neural network, i.e. all scalar values and one-hot vectors concatenated to each other. Additionally, as the dead characters serve as training data, the corresponding labels are stored, i.e. the values the neural network is supposed to output.
+
+The neural network predicts the likelihood of death/survival for consecutive years. That's why we introduce the concept of expanding the input data, which would normally just consists of one vector for each character, along the "age" property. This not only results in several thousand input vectors available for use during training, validation and testing, but also represents an obvious property of humans: old age means higher probability of death. To understand this more thoroughly, consider the following example.
+
+Assume there are $n+1$ possible ages (i.e. the minimum age is $0$ and the maximum age is $n$) and that a character died at age $m$, where $0\leq m\leq n$. Next, one loops through each possible age for each character; say the currently looked at age is $a$, where $0\leq a\leq n$. A one-hot vector with $n+1$ dimensions representing this age will be appended to the current input vector with the character's other properties already serialized, then a separate label (i.e. likelihood of survival the network is supposed to output) needs to be generated. If $a<m$, the value 1.0 is assigned to this label, and 0.0 otherwise.
+
+Note that this process will create $c*(n+1)$ vectors for training in total, where $c$ is the number of dead characters suitable for being used as training data. The maximum age for the show, ignoring outliers, was $n=85$, together with $c=82$.
+
+This process also makes it very easy for the network to predict the likelihood of survival into the future for alive characters: take the other serialized properties, then add the age the character has in the year one would like to predict his likelihood of survival for as a one-hot vector.
+
+\subsubsection{Training results}
+
+In contrast to the previous steps, Python with the Keras library was used for the neural network itself, which just expects training data and labels as NumPy vectors and outputs statistics about the neural network during training in real time.
+
+The show's neural network had a sequential architecture, with four ReLU-activated hidden layers with a 0.7 dropout having 1000, 500, 250 and 100 dimensions, respectively. The output layer with just a single dimension was sigmoid-activated; the input layer had 413 dimensions. Keras was instructed to train using the RMSprop optimizer for eight epochs and with a batch size of 32. 10\% of the training data was used for validation. After training, a 81.00\% accuracy on the training data and 84.56\% accuracy on the validation data was reached.
+
+Note that these initial and later published predictions did not have backing of a testing set. This issue was approached later by using 63.75\% of datapoints generated from dead characters for training, 11.25\% for validation and 25\% for testing. The gender distribution between training+validation and testing datasets was the same. Upon retraining in twelve epochs, this resulted in 90.37\% training accuracy, 72.31\% validation accuracy and 84.69\% testing accuracy. The predictions created by this new neural network, which also contained some changes regarding its number of dimensions, which rose to 428, were never made publicly available.
+
+For the book's neural network, a similar approach was used: three ReLU-activated hidden layers with a 0.8 dropout having 500, 250 and 100 dimensions, respectively. This network had 1561 input dimensions, as the following character properties were used: male, page rank, number of relatives, age, culture, house, house region, allegiances, books, locations and titles. The maximum age was 99, so 188 dead characters usable for training were turned into 18800 input datapoints, 20\% of which were used for validation; no attempts to use an explicit testing set was made. Training eventually resulted in 88.75\% training accuracy and 89.92\% validation accuracy.
+
+\subsubsection{Summary}
+
+The approach of expanding the data along the "age" property turned out to be a good choice for this kind of project. Game of Thrones has invented characters, so each one, especially if they have their own wiki article, is special in its own way and is not necessarily generalizable to other characters. When combining this with the immense diversity of properties of properties a character has and the wide lack of complete information, recollecting basic human features is necessary: old age means that a character has experienced more in general and in a fantasy world like the one we were dealing with, this means an increased likelihood of death. This trait was modeled rather well by the used approach.
+
+As specified before, it was very easy to predict like likehihoods of survival for all alive characters 20 years into the future with this model. Most of these predictions showed that the likelihood of survival decreased over time like expected, although significant outliers often appeared.
+
+We concluded that finally, because most PLODs were rarely particularly close to 0\% or 100\%, they were rather suitable for being released to the public. All implementation details are available in the project's repository \cite{github-working}.
+
+
+\subsection{The Bayesian Survival Analysis Approach}
+\subsubsection{The Model}
+We also considered a model based on Bayesian survival analysis, which aims to apply Bayesian inference to predicting longevity. When applied to Game of Thrones, this approach allows us to calculate the \textbf{hazard rate} (the instantaneous probability of death, or discretely, the probability of death in a given year) for each character depending on their attributes. We can construct a \textbf{survival function} for each character, which describes their chances of surviving until a certain point in their life. For the hazard rate, we used Cox's proportional hazards model, which assumes that there is a common \textbf{base hazard} for all characters, and the presence of any attribute influences that hazard proportionally (e.g. being a male increases it by $6o\%$). Our model is based on an article on PyMC3's website \cite{bayesian-surv}, adapted to accept multiple attributes. The model was trained using Python's \textbf{pymc3} library. \cite{pymc3} 
+
+For the book, our model considers each character's lifetime starting at their birth. Base hazard is independent of all years of a character's life. In the show, due to lacking birth dates, all characters' lifetimes start at the beginning of the show in the in-universe year 298. Since we don't have any data for future years, the base hazard is assumed to be constant.
+
+\subsubsection{Usage}
+Retraining this model involves several steps. The workers that perform them are Node scripts (including a Node script which executes the Python predictor). To refetch the data, use \textit{/data/book/refetch.sh}. The other workers are in the \textit{workers/} folder.
+
+\begin{enumerate}
+    \item \textit{formatter-bayesean-book:} Extract the attributes for training and output them in a JSON file (training{\textunderscore}book{\textunderscore}characters.json).
+    \item \textit{predictors-bayesian/predictor-bayesean-book:} Train the model, use it to predict the longevity of all characters, output the results in book{\textunderscore}predictor{\textunderscore}output.json
+    \item \textit{postprocessor-bayesean-book:} Process predictions for alive characters into a format suitable for upload in book{\textunderscore}predictions.json
+    \item \textit{uploader-predictions-bayesean:} Update the predictions using the website's API.
+\end{enumerate}
+
+Keep in mind that the correct security token needs to be configured for the API calls in the code. To run the predictor on the show data, one only needs to replace \textit{book} with \textit{show} in the workers' names. The uploaders update predictions and attributes for both models.
+
+\subsubsection{Results}
+The attributes we considered for the characters in the last iteration of this model are:
+\begin{enumerate}
+    \item \textbf{For the book:} House allegiance (Frey, Greyjoy, Lannister, Martell, Stark, Targaryen); Being a Dornishman; Being a Northman; Having children; Having titles; Being a heir; Being married; Being male
+    \item \textbf{For the show:} House allegiance (Arryn, Baratheon of Dragonstone, Baratheon of King{'}s Landing, Bolton, Frey, Greyjoy, Lannister, Martell, Stark, Targaryen, Tarly, Tully, Tyrell); Having lovers; Having titles; Being a major character; Being married; Being male
+\end{enumerate}
+
+Some of the most influential attributes found were, for the books: House Targaryen (risk of death $+135\%$), House Stark ($+121\%$) and House Greyjoy ($-43.1\%$). For the show, those were being male ($+102\%$), being married ($-55.7\%$) and, interestingly, House Tarly ($-62.8\%$).
+
+One thing we observed was that the model often overestimates the survival chances of dead characters and assumes most living characters have little chance of immediately dying. A possible source of bias is that not all characters are usable for training - for example, if critical data is missing. Also, the large amount of censored inputs may cause the model to underestimate the base hazard. Here are some statistics about the model's last iteration:
+\begin{enumerate}
+    \item Average probability of death at the moment of death for dead characters: $36.3\%$ for the book, $37.8\%$ for the show.
+    \item Average probability of death right after the current year for alive characters: $22.2\%$ for the book, $47.6\%$ for the show.
+\end{enumerate}
+
+We concluded that this model can provide some statistical insight into the influence of various properties on death hazard, but it is not particularly useful for predicting the often plot-driven deaths that the show is known for. That is why, for our predictions, we settled on the neural network.
+
+%\enlargethispage{12pt}
+
+
+
+%\bibliographystyle{natbib}
+%\bibliographystyle{achemnat}
+%\bibliographystyle{plainnat}
+%\bibliographystyle{abbrv}
+%\bibliographystyle{bioinformatics}
+%
+%\bibliographystyle{plain}
+%
+%\bibliography{Document}
+
+
+\begin{thebibliography}{}
+
+\bibitem{nodejsabout} About Node.js: https://nodejs.org/en/about/  (retrieved April 29, 2019) 
+\bibitem{nodejswelcome}  Node.js in Action, Second Edition, Manning Publications (2017) p. 3
+\bibitem{nodejsapplications}  Node.js in Action, Second Edition, Manning Publications (2017) p. 15-17
+\bibitem{nodejsv8} V8 Basics: https://de.wikipedia.org/wiki/V8\_(JavaScript-Implementierung) (retrieved April 29, 2019)
+\bibitem{nodejsreleases}  Node.js in Action, Second Edition, Manning Publications (2017) p. 10
+\bibitem{nodejseventloop} Event Loop: https://nodejs.org/de/docs/guides/dont-block-the-event-loop/ (retrieved May 1, 2019)
+\bibitem{nodejsarrow}  Node.js in Action, Second Edition, Manning Publications (2017) p. 8
+\bibitem{nodejsmodules} Modules: https://www.w3schools.com/nodejs/nodejs\_modules.asp (retrieved May 1, 2019)
+\bibitem{nodejscodeexample} Blocking vs. Non-Blocking code example (slightly modified): https://nodejs.org/de/docs/guides/blocking-vs-non-blocking/ (retrieved April 29, 2019)
+\bibitem{npmwikipedia} Wikipedia npm: https://en.wikipedia.org/wiki/Npm\_(software) (retrieved May 1, 2019)
+\bibitem{npmabout} About npm: https://docs.npmjs.com/about-npm/ (retrieved May 1, 2019)
+\bibitem{npmpackage} package.json: https://docs.npmjs.com/files/package.json (retrieved May 1, 2019)
+\bibitem{npmcli} npm CLI documentation: https://docs.npmjs.com/cli-documentation/ (retrieved May 1, 2019)
+
+\bibitem{bayesian-surv}  Survival analysis article: https://docs.pymc.io/notebooks/survival{\textunderscore}analysis.html (retrieved April 27, 2019)
+
+\bibitem{pymc3} PyMC3 API: https://docs.pymc.io/api.html (retrieved April 27, 2019)
+
+\bibitem{keras} Keras: https://keras.io/ (retrieved April 29, 2019)
+
+\bibitem{expresshome} Express: https://expressjs.com/ (retrieved April 29, 2019)
+\bibitem{expressinstalling} Installing Express: https://expressjs.com/en/starter/installing.html (retrieved April 29, 2019)
+\bibitem{expresshelloworld} Express "Hello World" example: https://expressjs.com/en/starter/hello-world.html (retrieved April 29, 2019)
+\bibitem{expressrouting} Express routing: http://expressjs.com/en/guide/routing.html (retrieved April 29, 2019)
+\bibitem{gulp} Gulp Quick Start: https://gulpjs.com/docs/en/getting-started/quick-start (retrieved May 1, 2019)
+\bibitem{webpack} Webpack Getting Started: https://webpack.js.org/guides/getting-started/ (retrieved May 1, 2019)
+\bibitem{hapi} Hapi Tutorial: https://hapijs.com/tutorials (retrieved May 1, 2019)
+\bibitem{github-official} Official GitHub page: https://github.com/got-show/got.predictions (retrieved May 1, 2019)
+\bibitem{github-working} Our GitHub repository: https://github.com/nalenz/got.predictions (retrieved May 1, 2019)
+
+\end{thebibliography}
+
+
+
+\end{document}
